@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T15:35:09.868Z",
+  "generated": "2026-08-18T23:01:46.908Z",
   "packages": [
     {
       "title": "Director's Cut",
@@ -76,6 +76,45 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-18T15:35:09.635Z"
+        }
+      ]
+    },
+    {
+      "title": "Testing Slider",
+      "description": "Testing the Slider Config option with DCUT Starting Points",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "7768a7bb5f2b56968ad59abaafc20e1d767d5521350d8bf80e0f6ce214415c75",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.17",
+        "summary": "1 high, 25 medium"
+      },
+      "settings": 1,
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T23:01:46.695Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539408914578145302"
+      },
+      "id": "testing_slider",
+      "version": "1.0.0",
+      "file": "mod_packages/testing_slider/testing_slider-1.0.0.cwm",
+      "size": 441285,
+      "sha256": "05f816d6398eac9c0e69f8624d6829ece83a1ade896a4562924dffe025bce35e",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T23:01:46.695Z"
         }
       ]
     },
