@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T10:10:34.226Z",
+  "generated": "2026-08-18T13:32:31.392Z",
   "packages": [
+    {
+      "title": "JINGLE HELLS ENABLER",
+      "description": "Enables the Jingle Hells Christmas event that was removed from the game.",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "c1aa8ede758f174dccba145ba1f550c1803b33110aff391dc7216ba564e738aa",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.17",
+        "summary": "1 high"
+      },
+      "settings": 0,
+      "changelog": "",
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T13:32:31.112Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539265573257613446"
+      },
+      "id": "jingle_hells_enabler",
+      "version": "1.0.0",
+      "file": "mod_packages/jingle_hells_enabler/jingle_hells_enabler-1.0.0.cwm",
+      "size": 147476,
+      "sha256": "03eea8b42e61a9a2798f5fc877ed7ef4ec1731d4bf6b870a33620f2de753ebb7",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T13:32:31.112Z"
+        }
+      ]
+    },
     {
       "title": "Simple Print",
       "description": "jagfiasgfiusagfuiasfgiasfgasf",
