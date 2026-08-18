@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "generated": "2026-08-18T09:16:46.036Z",
+  "packages": [
+    {
+      "title": "simple_print",
+      "description": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "6afda346c4b90d8544289df6be761979d2a10ed2e73e8012e39843e7cf59d6e6",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.17",
+        "summary": "clean - nothing flagged"
+      },
+      "settings": 0,
+      "changelog": "",
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T09:16:45.798Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539201275512492074"
+      },
+      "id": "simple_print",
+      "version": "1.0.0",
+      "file": "mod_packages/simple_print/simple_print-1.0.0.cwm",
+      "size": 29929,
+      "sha256": "c21835ceb9d0ce41e02bf5d0fb1b60895ddb816307157710e2f992da4346d901",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T09:16:45.798Z"
+        }
+      ]
+    }
+  ]
+}
