@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T13:32:43.487Z",
+  "generated": "2026-08-18T14:15:00.563Z",
   "packages": [
+    {
+      "title": "Director's Cut",
+      "description": "Adds the notorious Super Easter Egg reward from Infinite Warfare Zombies.\n\nStart with 25,000 Points, Gold Rarity Weapon, and All Perks that will permanently stay with you when you get revived.\nAll weapons in the Mystery Box are Upgraded to PAP Tier 3 and Gold Rarity.",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "42952b53e3fd47692fb5966266ad47929948f4fcd92de44975d9974c387bae31",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.17",
+        "summary": "25 medium"
+      },
+      "settings": 0,
+      "changelog": "",
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T14:15:00.332Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539276389079847034"
+      },
+      "id": "director_s_cut",
+      "version": "1.0.0",
+      "file": "mod_packages/director_s_cut/director_s_cut-1.0.0.cwm",
+      "size": 398442,
+      "sha256": "6a6bf37a15c8921000f2dd6b01a93a65f301745924e6e92c4ba8e7cebf224395",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T14:15:00.332Z"
+        }
+      ]
+    },
     {
       "title": "JINGLE HELLS ENABLER",
       "description": "Enables the Jingle Hells Christmas event that was removed from the game.",
