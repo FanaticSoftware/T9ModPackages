@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T10:05:35.939Z",
+  "generated": "2026-08-18T10:08:41.668Z",
   "packages": [
     {
       "title": "Simple Print",
@@ -20,19 +20,24 @@
         "summary": "clean - nothing flagged"
       },
       "settings": 0,
-      "changelog": "sfasfasfsafsafasf",
+      "changelog": "testing long list of changelog",
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-18T10:05:35.729Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539213599044542548"
+        "at": "2026-08-18T10:08:41.386Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539214417877803054"
       },
       "id": "simple_print",
-      "version": "1.0.4",
-      "file": "mod_packages/simple_print/simple_print-1.0.4.cwm",
-      "size": 390427,
-      "sha256": "a46df26add59d192aa124dc1e1490e403251459a51035ce764234ea4916c6818",
+      "version": "1.0.5",
+      "file": "mod_packages/simple_print/simple_print-1.0.5.cwm",
+      "size": 390440,
+      "sha256": "c73fe455338f74a07e47ea611f4e1543ea2ac0cf3f7f7d9cdb5447435996ef76",
       "history": [
+        {
+          "version": "1.0.5",
+          "changelog": "testing long list of changelog",
+          "published": "2026-08-18T10:08:41.386Z"
+        },
         {
           "version": "1.0.4",
           "changelog": "sfasfasfsafsafasf",
