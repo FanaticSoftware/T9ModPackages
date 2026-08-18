@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T14:15:00.563Z",
+  "generated": "2026-08-18T14:47:25.495Z",
   "packages": [
+    {
+      "title": "dcut test",
+      "description": "gggggggggggggggggggggggggggg",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "954201fc51ca4689e2518f9f29403c06fd73101d6e209f36db59180a97d05a5f",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.17",
+        "summary": "1 high, 25 medium"
+      },
+      "settings": 0,
+      "changelog": "",
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T14:47:25.280Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539284548737695748"
+      },
+      "id": "dcut_test",
+      "version": "1.0.0",
+      "file": "mod_packages/dcut_test/dcut_test-1.0.0.cwm",
+      "size": 441022,
+      "sha256": "ccaebb8c07edc99340edfeeac090695071f30780de293ec441689873aa72594e",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T14:47:25.280Z"
+        }
+      ]
+    },
     {
       "title": "Director's Cut",
       "description": "Adds the notorious Super Easter Egg reward from Infinite Warfare Zombies.\n\nStart with 25,000 Points, Gold Rarity Weapon, and All Perks that will permanently stay with you when you get revived.\nAll weapons in the Mystery Box are Upgraded to PAP Tier 3 and Gold Rarity.",
