@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T09:16:46.036Z",
+  "generated": "2026-08-18T09:19:28.854Z",
   "packages": [
     {
       "title": "simple_print",
@@ -10,7 +10,7 @@
         "name": "fanaticsoftware"
       },
       "thumbnail": null,
-      "sourceSha256": "6afda346c4b90d8544289df6be761979d2a10ed2e73e8012e39843e7cf59d6e6",
+      "sourceSha256": "5abdf8ca0ea0691d3e99762db2c439965df34e3f388c404cb3cd89a8608f392a",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -20,19 +20,24 @@
         "summary": "clean - nothing flagged"
       },
       "settings": 0,
-      "changelog": "",
+      "changelog": "Added 1 more print.\nChanged the Thumbnail.",
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-18T09:16:45.798Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539201275512492074"
+        "at": "2026-08-18T09:19:28.574Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539201833355190336"
       },
       "id": "simple_print",
-      "version": "1.0.0",
-      "file": "mod_packages/simple_print/simple_print-1.0.0.cwm",
-      "size": 29929,
-      "sha256": "c21835ceb9d0ce41e02bf5d0fb1b60895ddb816307157710e2f992da4346d901",
+      "version": "1.0.1",
+      "file": "mod_packages/simple_print/simple_print-1.0.1.cwm",
+      "size": 147664,
+      "sha256": "5666999ae0fa0a84e45eb529e3499f849b402cc3fe92959add4e2bf6b73b51c0",
       "history": [
+        {
+          "version": "1.0.1",
+          "changelog": "Added 1 more print.\nChanged the Thumbnail.",
+          "published": "2026-08-18T09:19:28.574Z"
+        },
         {
           "version": "1.0.0",
           "changelog": "",
