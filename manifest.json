@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T10:08:41.668Z",
+  "generated": "2026-08-18T10:10:34.226Z",
   "packages": [
     {
       "title": "Simple Print",
@@ -20,19 +20,24 @@
         "summary": "clean - nothing flagged"
       },
       "settings": 0,
-      "changelog": "testing long list of changelog",
+      "changelog": "seeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow",
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-18T10:08:41.386Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539214417877803054"
+        "at": "2026-08-18T10:10:33.942Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539214883084705864"
       },
       "id": "simple_print",
-      "version": "1.0.5",
-      "file": "mod_packages/simple_print/simple_print-1.0.5.cwm",
-      "size": 390440,
-      "sha256": "c73fe455338f74a07e47ea611f4e1543ea2ac0cf3f7f7d9cdb5447435996ef76",
+      "version": "1.0.6",
+      "file": "mod_packages/simple_print/simple_print-1.0.6.cwm",
+      "size": 391056,
+      "sha256": "cc3d67c9a85eb669f86427fc03a50b378da5d8643b06f4b9e201f4fb444d6ac9",
       "history": [
+        {
+          "version": "1.0.6",
+          "changelog": "seeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow\nseeing\nif\na\nlong\nchangelog\nwill\nadd\na\nscroll\nbar\nto\nthe\nmod\nwindow",
+          "published": "2026-08-18T10:10:33.942Z"
+        },
         {
           "version": "1.0.5",
           "changelog": "testing long list of changelog",
