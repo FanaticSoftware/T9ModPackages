@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T09:19:28.854Z",
+  "generated": "2026-08-18T09:46:49.214Z",
   "packages": [
     {
-      "title": "simple_print",
-      "description": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+      "title": "Simple Print",
+      "description": "Where did my description go bruh?",
       "author": {
         "id": "243151432230895619",
         "name": "fanaticsoftware"
       },
       "thumbnail": null,
-      "sourceSha256": "5abdf8ca0ea0691d3e99762db2c439965df34e3f388c404cb3cd89a8608f392a",
+      "sourceSha256": "9ab364e5c2483160019191ee286df9f7be9bb6062029105e3d77d6539dc06ea3",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -20,19 +20,24 @@
         "summary": "clean - nothing flagged"
       },
       "settings": 0,
-      "changelog": "Added 1 more print.\nChanged the Thumbnail.",
+      "changelog": "changed title and thumbnail\nmoved prints to as new function",
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-18T09:19:28.574Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539201833355190336"
+        "at": "2026-08-18T09:46:48.926Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539206292986404899"
       },
       "id": "simple_print",
-      "version": "1.0.1",
-      "file": "mod_packages/simple_print/simple_print-1.0.1.cwm",
-      "size": 147664,
-      "sha256": "5666999ae0fa0a84e45eb529e3499f849b402cc3fe92959add4e2bf6b73b51c0",
+      "version": "1.0.2",
+      "file": "mod_packages/simple_print/simple_print-1.0.2.cwm",
+      "size": 390474,
+      "sha256": "28ecb3353a3219be1a4dca62fda297b198c69bd0ff823dfac3dcb9eb83462061",
       "history": [
+        {
+          "version": "1.0.2",
+          "changelog": "changed title and thumbnail\nmoved prints to as new function",
+          "published": "2026-08-18T09:46:48.926Z"
+        },
         {
           "version": "1.0.1",
           "changelog": "Added 1 more print.\nChanged the Thumbnail.",
