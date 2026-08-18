@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T15:02:29.908Z",
+  "generated": "2026-08-18T15:16:13.331Z",
   "packages": [
     {
       "title": "Director's Cut",
@@ -37,6 +37,58 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-18T15:02:29.631Z"
+        }
+      ]
+    },
+    {
+      "title": "The Haunting",
+      "description": "Enables The Haunting event that was removed from the game.",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "074f688be68fff45037d0d33640dd90d7ac2f013580d325f1483b9a031292edf",
+      "scan": {
+        "critical": 1,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.17",
+        "summary": "1 critical, 1 high"
+      },
+      "settings": 0,
+      "changelog": "",
+      "highAlerts": [
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source_code.gsc",
+          "line": 6
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/halloween_event_enabler.gsc",
+          "line": 5
+        }
+      ],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T15:16:13.129Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539291615997464676"
+      },
+      "id": "the_haunting",
+      "version": "1.0.0",
+      "file": "mod_packages/the_haunting/the_haunting-1.0.0.cwm",
+      "size": 283185,
+      "sha256": "f837e9c7c5c31c1b4c864e99eda961c5ecffca1d61e6a30627ec1a61980064b0",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T15:16:13.129Z"
         }
       ]
     }
