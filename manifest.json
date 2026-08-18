@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-18T13:32:31.392Z",
+  "generated": "2026-08-18T13:32:43.487Z",
   "packages": [
     {
       "title": "JINGLE HELLS ENABLER",
@@ -105,6 +105,44 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-18T09:16:45.798Z"
+        }
+      ]
+    },
+    {
+      "title": "THE HAUNTING",
+      "description": "Enables the Haunting halloween event that was removed from the game.",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "thumbnail": null,
+      "sourceSha256": "8beeb66b3ac32b78fade83b935f0780102571bc7e0d1f3f2524eae4f63402507",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.17",
+        "summary": "1 high"
+      },
+      "settings": 0,
+      "changelog": "",
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-18T13:32:43.230Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539265697690165292"
+      },
+      "id": "the_haunting",
+      "version": "1.0.0",
+      "file": "mod_packages/the_haunting/the_haunting-1.0.0.cwm",
+      "size": 282963,
+      "sha256": "9afb9fa6de5c95e3c512e505649efc04b477f6edd936983555bb05a75c75ca8a",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-18T13:32:43.230Z"
         }
       ]
     }
