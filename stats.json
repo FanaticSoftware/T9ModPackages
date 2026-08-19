@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "generated": "2026-08-19T17:58:46.642Z",
+  "mods": {
+    "directors_cut": {
+      "favorites": 1,
+      "rating": {
+        "count": 1,
+        "average": 5
+      },
+      "versions": {
+        "1.0.0": {
+          "rating": {
+            "count": 1,
+            "average": 5
+          }
+        }
+      }
+    }
+  }
+}
