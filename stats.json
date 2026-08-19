@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-19T17:58:46.642Z",
+  "generated": "2026-08-19T18:08:46.668Z",
   "mods": {
     "directors_cut": {
       "favorites": 1,
@@ -16,6 +16,14 @@
           }
         }
       }
+    },
+    "the_haunting": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      },
+      "versions": {}
     }
   }
 }
