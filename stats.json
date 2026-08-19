@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "generated": "2026-08-19T05:51:43.137Z",
+  "mods": {
+    "director_s_cut": {
+      "favorites": 0,
+      "rating": {
+        "count": 1,
+        "average": 5
+      },
+      "versions": {
+        "1.0.0": {
+          "rating": {
+            "count": 1,
+            "average": 5
+          }
+        }
+      }
+    },
+    "the_haunting": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      },
+      "versions": {}
+    }
+  }
+}
