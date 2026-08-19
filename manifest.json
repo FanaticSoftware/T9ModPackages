@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-19T18:02:43.099Z",
+  "generated": "2026-08-19T18:28:31.026Z",
   "packages": [
     {
       "title": "Director's Cut",
@@ -39,6 +39,46 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-19T17:51:11.928Z"
+        }
+      ]
+    },
+    {
+      "title": "Jingle Hells",
+      "description": "Enables the Jingle Hells event that was removed from the game.",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "developer": true,
+      "thumbnail": null,
+      "sourceSha256": "40f4d092e2ea3513527451f37fd694a4c6d8e03a683ae88be0545942017459ea",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "1 high"
+      },
+      "settings": 0,
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-19T18:28:30.710Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539702572695163009"
+      },
+      "id": "jingle_hells",
+      "version": "1.0.0",
+      "file": "mod_packages/jingle_hells/jingle_hells-1.0.0.cwm",
+      "size": 13288,
+      "sha256": "14f73c2b91f16b1267c70229c07cccd7627a5dffe2a9831acc1c88b7e478b752",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-19T18:28:30.710Z"
         }
       ]
     },
