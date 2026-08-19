@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-08-19T18:28:46.745Z",
+  "generated": "2026-08-19T18:48:46.671Z",
   "mods": {
     "directors_cut": {
-      "favorites": 2,
+      "favorites": 1,
       "rating": {
         "count": 2,
         "average": 5
@@ -18,7 +18,22 @@
       }
     },
     "the_haunting": {
-      "favorites": 3,
+      "favorites": 2,
+      "rating": {
+        "count": 1,
+        "average": 5
+      },
+      "versions": {
+        "1.0.0": {
+          "rating": {
+            "count": 1,
+            "average": 5
+          }
+        }
+      }
+    },
+    "aetheria_unfinished_test_ver": {
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 5
