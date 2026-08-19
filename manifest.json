@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-19T17:51:12.125Z",
+  "generated": "2026-08-19T18:02:43.099Z",
   "packages": [
     {
       "title": "Director's Cut",
@@ -39,6 +39,53 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-19T17:51:11.928Z"
+        }
+      ]
+    },
+    {
+      "title": "The Haunting",
+      "description": "Enables The Haunting event that was removed from the game.",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "developer": true,
+      "thumbnail": null,
+      "sourceSha256": "81da22d5decdc04934b99b0701fe3fda4d73901fb4aa5da2bcd4a9a7afa3f0d8",
+      "scan": {
+        "critical": 1,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "1 critical, 1 high"
+      },
+      "settings": 0,
+      "changelog": "",
+      "highAlerts": [
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 5
+        }
+      ],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-19T18:02:42.878Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539695982583750751"
+      },
+      "id": "the_haunting",
+      "version": "1.0.0",
+      "file": "mod_packages/the_haunting/the_haunting-1.0.0.cwm",
+      "size": 283250,
+      "sha256": "04ea4828762568bfe8ccbc57f5325a5c065a895e3197bb9243f6995f3e952229",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-19T18:02:42.878Z"
         }
       ]
     }
