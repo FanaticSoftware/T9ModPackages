@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-20T19:12:19.414Z",
+  "generated": "2026-08-20T20:47:48.207Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -131,30 +131,35 @@
       },
       "developer": false,
       "thumbnail": null,
-      "sourceSha256": "0956fa3e021676c066916f4025f52951b2e3c691adbcfe1c304a981ce35c34a5",
+      "sourceSha256": "acfaeaee8199cf3d9f24b199b97048b91d9bf169fb6b78fac66099a26e3af8af",
       "scan": {
         "critical": 0,
-        "high": 45,
+        "high": 47,
         "low": 0,
         "medium": 25,
         "rules": "2026.08.19",
-        "summary": "45 high, 25 medium"
+        "summary": "47 high, 25 medium"
       },
       "settings": 0,
-      "changelog": "Bug fixes",
+      "changelog": "More bug fixes",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-20T18:05:36.061Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1540058846754644072"
+        "at": "2026-08-20T20:47:47.841Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1540100007397695573"
       },
       "id": "doom_mode",
-      "version": "1.0.1",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.1.cwm",
-      "size": 322072,
-      "sha256": "79d3b03b7c8870cb9d1aa2c0cf4af6edd17c3f6e0c1dbdf15b62a85e469e8b2a",
+      "version": "1.0.2",
+      "file": "mod_packages/doom_mode/doom_mode-1.0.2.cwm",
+      "size": 360175,
+      "sha256": "5e8d2b84dba61bdc7204451fb58086360e20395bd7a1aca736bfc8eb3d912950",
       "history": [
+        {
+          "version": "1.0.2",
+          "changelog": "More bug fixes",
+          "published": "2026-08-20T20:47:47.841Z"
+        },
         {
           "version": "1.0.1",
           "changelog": "Bug fixes",
