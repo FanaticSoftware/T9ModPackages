@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-20T20:47:48.207Z",
+  "generated": "2026-08-20T21:07:34.319Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -129,7 +129,7 @@
         "id": "684408486456852481",
         "name": "saintvertigo"
       },
-      "developer": false,
+      "developer": true,
       "thumbnail": null,
       "sourceSha256": "acfaeaee8199cf3d9f24b199b97048b91d9bf169fb6b78fac66099a26e3af8af",
       "scan": {
@@ -224,7 +224,7 @@
         "id": "684408486456852481",
         "name": "saintvertigo"
       },
-      "developer": false,
+      "developer": true,
       "thumbnail": null,
       "sourceSha256": "09f082e6380a38eb594f8ad068cd26024970af9a73a937437c2947efb1f32a08",
       "scan": {
