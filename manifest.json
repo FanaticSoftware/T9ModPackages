@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-20T00:25:41.910Z",
+  "generated": "2026-08-20T08:09:13.716Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -181,20 +181,25 @@
         "summary": "1 high"
       },
       "settings": 0,
-      "changelog": "",
+      "changelog": "Testing an update on a mod for my Discord Bot Host",
       "highAlerts": [],
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-19T18:28:30.710Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539702572695163009"
+        "at": "2026-08-20T08:09:13.454Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539909056582516780"
       },
       "id": "jingle_hells",
-      "version": "1.0.0",
-      "file": "mod_packages/jingle_hells/jingle_hells-1.0.0.cwm",
-      "size": 13288,
-      "sha256": "14f73c2b91f16b1267c70229c07cccd7627a5dffe2a9831acc1c88b7e478b752",
+      "version": "1.0.1",
+      "file": "mod_packages/jingle_hells/jingle_hells-1.0.1.cwm",
+      "size": 13384,
+      "sha256": "5a2b9631954e10626eba52aa11ebb7050b4a7ccf38b56b1d536b81271100ebed",
       "history": [
+        {
+          "version": "1.0.1",
+          "changelog": "Testing an update on a mod for my Discord Bot Host",
+          "published": "2026-08-20T08:09:13.454Z"
+        },
         {
           "version": "1.0.0",
           "changelog": "",
