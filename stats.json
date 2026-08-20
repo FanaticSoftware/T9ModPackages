@@ -1,9 +1,24 @@
 {
   "schema": 1,
-  "generated": "2026-08-19T18:48:46.671Z",
+  "generated": "2026-08-20T03:28:46.715Z",
   "mods": {
     "directors_cut": {
-      "favorites": 1,
+      "favorites": 2,
+      "rating": {
+        "count": 3,
+        "average": 5
+      },
+      "versions": {
+        "1.0.0": {
+          "rating": {
+            "count": 3,
+            "average": 5
+          }
+        }
+      }
+    },
+    "the_haunting": {
+      "favorites": 3,
       "rating": {
         "count": 2,
         "average": 5
@@ -17,8 +32,8 @@
         }
       }
     },
-    "the_haunting": {
-      "favorites": 2,
+    "aetheria_unfinished_test_ver": {
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 5
@@ -32,8 +47,23 @@
         }
       }
     },
-    "aetheria_unfinished_test_ver": {
+    "jingle_hells": {
       "favorites": 1,
+      "rating": {
+        "count": 1,
+        "average": 5
+      },
+      "versions": {
+        "1.0.0": {
+          "rating": {
+            "count": 1,
+            "average": 5
+          }
+        }
+      }
+    },
+    "boss_rush": {
+      "favorites": 0,
       "rating": {
         "count": 1,
         "average": 5
