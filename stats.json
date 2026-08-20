@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-20T05:28:46.836Z",
+  "generated": "2026-08-20T18:17:35.665Z",
   "mods": {
     "directors_cut": {
       "favorites": 2,
@@ -70,6 +70,21 @@
       },
       "versions": {
         "1.0.0": {
+          "rating": {
+            "count": 1,
+            "average": 5
+          }
+        }
+      }
+    },
+    "doom_mode": {
+      "favorites": 0,
+      "rating": {
+        "count": 1,
+        "average": 5
+      },
+      "versions": {
+        "1.0.1": {
           "rating": {
             "count": 1,
             "average": 5
