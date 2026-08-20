@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-20T08:09:13.716Z",
+  "generated": "2026-08-20T11:53:10.720Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -251,6 +251,46 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-19T18:02:42.878Z"
+        }
+      ]
+    },
+    {
+      "title": "ZM Classic [BETA]",
+      "description": "Classic Zombies for Cold War: Classic points system, fixed perk prices, no rarities, start with 1911, no minimap, classic Pack-a-Punch mechanics, and more!",
+      "author": {
+        "id": "244657466783170560",
+        "name": "illuminatidonut"
+      },
+      "developer": true,
+      "thumbnail": null,
+      "sourceSha256": "f21cab73ace9e178c2ed68218d8495c3db90ed1e70258e98231c29c9d92be0d2",
+      "scan": {
+        "critical": 0,
+        "high": 12,
+        "low": 16,
+        "medium": 108,
+        "rules": "2026.08.19",
+        "summary": "12 high, 108 medium, 16 low"
+      },
+      "settings": 0,
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-08-20T11:53:10.475Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1539965446634078222"
+      },
+      "id": "zm_classic_beta",
+      "version": "1.0.0",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-1.0.0.cwm",
+      "size": 515046,
+      "sha256": "8e7970469d056ac4457a4426b216a7d5eaaf44ced25e48d2b485f1de4dd836a0",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-20T11:53:10.475Z"
         }
       ]
     }
