@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-20T18:05:36.365Z",
+  "generated": "2026-08-20T19:12:19.414Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -209,6 +209,46 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-19T18:28:30.710Z"
+        }
+      ]
+    },
+    {
+      "title": "Onslaught Survival",
+      "description": "Makes onslaught into a survival game mode",
+      "author": {
+        "id": "684408486456852481",
+        "name": "saintvertigo"
+      },
+      "developer": false,
+      "thumbnail": null,
+      "sourceSha256": "09f082e6380a38eb594f8ad068cd26024970af9a73a937437c2947efb1f32a08",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.19",
+        "summary": "25 medium"
+      },
+      "settings": 0,
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-08-20T19:12:19.047Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1540075972324360246"
+      },
+      "id": "onslaught_survival",
+      "version": "1.0.0",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.0.cwm",
+      "size": 647650,
+      "sha256": "a722d55fd7f148baefd01876b185db7630432a4e398b7f6bfd91b7144c6567b1",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-20T19:12:19.047Z"
         }
       ]
     },
