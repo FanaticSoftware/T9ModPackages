@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-21T01:54:39.145Z",
+  "generated": "2026-08-21T11:04:57.013Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -44,37 +44,42 @@
     },
     {
       "title": "Boss Rush",
-      "description": "Drops you straight into the Boss Fight on whichever Cold War zombies map is loaded. Auto-detects Firebase Z, Die Maschine, Mauer der Toten and Forsaken. Outbreak is broken atm, trying to add supprt.\n\nRecommended to run Director's Cut with the mod so you can have something useful in your loadout bc I didnt add the pre-game lobby yet.",
+      "description": "Drops you straight into the Boss Fight on whichever Cold War zombies map is loaded. Auto-detects Firebase Z, Die Maschine, Mauer der Toten and Forsaken. Outbreak is broken atm, trying to add supprt.",
       "author": {
         "id": "243151432230895619",
         "name": "fanaticsoftware"
       },
       "developer": true,
       "thumbnail": null,
-      "sourceSha256": "99d68faeeda002c6c0a6027a0e19fd9d933f794946db58628847afea897889a6",
+      "sourceSha256": "22be5bf0cca511b8fc10755015aded36539112c4dc8b964000c39bca27228b40",
       "scan": {
         "critical": 0,
-        "high": 8,
-        "low": 0,
-        "medium": 14,
+        "high": 9,
+        "low": 1,
+        "medium": 39,
         "rules": "2026.08.19",
-        "summary": "8 high, 14 medium"
+        "summary": "9 high, 39 medium, 1 low"
       },
-      "settings": 8,
-      "changelog": "",
+      "settings": 1,
+      "changelog": "Added pre-game lobby to buy your loadout.",
       "highAlerts": [],
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-20T00:00:06.989Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539786022936907810"
+        "at": "2026-08-21T11:04:56.674Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1540315727662420003"
       },
       "id": "boss_rush",
-      "version": "1.0.0",
-      "file": "mod_packages/boss_rush/boss_rush-1.0.0.cwm",
-      "size": 835338,
-      "sha256": "282658dc2bdbed0143332db030b13df4d91bd8770dc340928417353ddc6f65bc",
+      "version": "1.0.1",
+      "file": "mod_packages/boss_rush/boss_rush-1.0.1.cwm",
+      "size": 1087102,
+      "sha256": "4aace97bcf2003bc373fa757f08ec4dcf200a22f2063cd211a6fc4927797ebf6",
       "history": [
+        {
+          "version": "1.0.1",
+          "changelog": "Added pre-game lobby to buy your loadout.",
+          "published": "2026-08-21T11:04:56.674Z"
+        },
         {
           "version": "1.0.0",
           "changelog": "",
