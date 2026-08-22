@@ -3,13 +3,13 @@
   "projects": {
     "the_haunting": {
       "file": "shared_projects/the_haunting/source.cwm",
-      "size": 282979,
-      "sha256": "a87eae0880c4c850df933b8467139f6112e47c9f2827cb744440860359804e05",
+      "size": 283057,
+      "sha256": "07a53ba61440665860118019e66e4a9729d46a50bf4ec8743e5cd78bf0da4a76",
       "version": "1.0.0",
       "files": 4,
-      "by": "684408486456852481",
-      "updated": "2026-08-22T21:30:27.352Z"
+      "by": "219645757005758475",
+      "updated": "2026-08-22T21:31:54.396Z"
     }
   },
-  "generated": "2026-08-22T21:30:27.352Z"
+  "generated": "2026-08-22T21:31:54.396Z"
 }
