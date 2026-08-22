@@ -1,7 +1,27 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T19:57:59.374Z",
+  "generated": "2026-08-22T22:12:31.901Z",
   "members": [
+    {
+      "id": "277559635349864448",
+      "name": "~Lucas~ [Nova V2]",
+      "username": "nova.yt"
+    },
+    {
+      "id": "333073797500633091",
+      "name": "Bray Chief",
+      "username": "braychief"
+    },
+    {
+      "id": "481234043749531668",
+      "name": "Del",
+      "username": "foxxymama420"
+    },
+    {
+      "id": "280294388490567700",
+      "name": "Discount",
+      "username": "discount_tv_"
+    },
     {
       "id": "243151432230895619",
       "name": "Fanatic",
@@ -13,9 +33,114 @@
       "username": "illuminatidonut"
     },
     {
+      "id": "219185887722864640",
+      "name": "Gachra",
+      "username": "gachra"
+    },
+    {
+      "id": "732799900030599279",
+      "name": "gato banano facha",
+      "username": "gatobananofacha"
+    },
+    {
+      "id": "143146500828954624",
+      "name": "Gman1255",
+      "username": "gman1255"
+    },
+    {
+      "id": "302605279923535873",
+      "name": "Hawk",
+      "username": "ayohwk"
+    },
+    {
+      "id": "98621717122940928",
+      "name": "hazel",
+      "username": "hazeluwuz"
+    },
+    {
+      "id": "1428227513011802205",
+      "name": "Immy",
+      "username": "immy_49059"
+    },
+    {
+      "id": "460189660115763202",
+      "name": "ItzPerka",
+      "username": "itzperka"
+    },
+    {
+      "id": "190614536464629761",
+      "name": "itzyaboiham",
+      "username": "itzyaboiham"
+    },
+    {
+      "id": "1389697524687704104",
+      "name": "Jack",
+      "username": "jackplays124"
+    },
+    {
+      "id": "253771862620897282",
+      "name": "just one yesterday",
+      "username": "zachhorizons"
+    },
+    {
+      "id": "753649318820446298",
+      "name": "Kricy",
+      "username": "kricy"
+    },
+    {
+      "id": "244827466726637568",
+      "name": "Kyle",
+      "username": "kylev24"
+    },
+    {
+      "id": "289158570069458944",
+      "name": "LEAFSPWN88",
+      "username": "leafspwn88"
+    },
+    {
+      "id": "386567832210636800",
+      "name": "LucasGalvaoo",
+      "username": "lucasgalvaoo"
+    },
+    {
+      "id": "339837412492705796",
+      "name": "matsko",
+      "username": "matsko."
+    },
+    {
+      "id": "552312653830422529",
+      "name": "Melon",
+      "username": "yourtastymelon"
+    },
+    {
       "id": "202069070864973824",
       "name": "MJPW",
       "username": "mjpwgaming"
+    },
+    {
+      "id": "422897189581488139",
+      "name": "nickao",
+      "username": "1nickao"
+    },
+    {
+      "id": "381513959083081730",
+      "name": "pride to ghosts",
+      "username": "pride_to_ghosts"
+    },
+    {
+      "id": "647266823066091569",
+      "name": "RetiringCobra",
+      "username": "retiringcobra"
+    },
+    {
+      "id": "1385435810186268692",
+      "name": "Richtoffee",
+      "username": "richtoffee."
+    },
+    {
+      "id": "488851163618344960",
+      "name": "Safiya Llewellyn-Fayyad",
+      "username": "nevaleah"
     },
     {
       "id": "684408486456852481",
@@ -23,9 +148,34 @@
       "username": "saintvertigo"
     },
     {
+      "id": "761356888096374805",
+      "name": "Sam",
+      "username": "simonghost.66"
+    },
+    {
+      "id": "580030890323869696",
+      "name": "SarahHooves",
+      "username": "fn5.7"
+    },
+    {
+      "id": "1088555039896916080",
+      "name": "Seth Rogen",
+      "username": "von_list427"
+    },
+    {
+      "id": "229108286044110848",
+      "name": "Skyler",
+      "username": "itzskyler"
+    },
+    {
       "id": "219645757005758475",
       "name": "slimey",
       "username": "slimey_5335"
+    },
+    {
+      "id": "1319625332701265920",
+      "name": "spider 🐻",
+      "username": "wasafatspider"
     },
     {
       "id": "1214090251178352677",
@@ -33,14 +183,59 @@
       "username": "teaa_the_silliest"
     },
     {
+      "id": "473890726590283776",
+      "name": "ThatOneSaraxisUser",
+      "username": "thatonesaraxisuser"
+    },
+    {
       "id": "334467449195986944",
       "name": "ThrowingMold",
       "username": "throwingmold"
     },
     {
+      "id": "202147295532154880",
+      "name": "Tinhorn",
+      "username": "the_tinhorn"
+    },
+    {
+      "id": "1082065749289472161",
+      "name": "unstable internet connection",
+      "username": "meichiyt"
+    },
+    {
+      "id": "508712005109022730",
+      "name": "vap",
+      "username": "vap212"
+    },
+    {
+      "id": "487954992808984597",
+      "name": "Vele",
+      "username": "velemeister"
+    },
+    {
+      "id": "298011607534010368",
+      "name": "Vivec",
+      "username": "vivec13"
+    },
+    {
+      "id": "807376022240100362",
+      "name": "Vondy",
+      "username": "vondyispog"
+    },
+    {
+      "id": "150777173605744641",
+      "name": "VTuberEmma",
+      "username": "crazzy"
+    },
+    {
       "id": "1507916650018771016",
       "name": "WECoyote99",
       "username": "heybeavis45"
+    },
+    {
+      "id": "1370814395189428344",
+      "name": "Σ𝚛𝚠𝚒𝚗",
+      "username": "erwinwermach"
     }
   ]
 }
