@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T15:42:20.767Z",
+  "generated": "2026-08-22T20:58:16.644Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -313,7 +313,13 @@
           "changelog": "",
           "published": "2026-08-19T18:02:42.878Z"
         }
-      ]
+      ],
+      "collaborators": [
+        "684408486456852481"
+      ],
+      "collaboratorNames": {
+        "684408486456852481": "SaintVertigo"
+      }
     },
     {
       "title": "ZM Classic [BETA]",
