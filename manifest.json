@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T20:58:16.644Z",
+  "generated": "2026-08-22T21:04:12.213Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -315,10 +315,12 @@
         }
       ],
       "collaborators": [
-        "684408486456852481"
+        "684408486456852481",
+        "219645757005758475"
       ],
       "collaboratorNames": {
-        "684408486456852481": "SaintVertigo"
+        "684408486456852481": "SaintVertigo",
+        "219645757005758475": "slimey"
       }
     },
     {
