@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-21T11:04:57.013Z",
+  "generated": "2026-08-22T15:42:20.767Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -131,35 +131,41 @@
       "title": "DOOM Mode",
       "description": "Fast walk speed, ammo pickups, insane zombie speed, and more!",
       "author": {
+        "discordName": "saintvertigo",
         "id": "684408486456852481",
         "name": "saintvertigo"
       },
       "developer": true,
       "thumbnail": null,
-      "sourceSha256": "acfaeaee8199cf3d9f24b199b97048b91d9bf169fb6b78fac66099a26e3af8af",
+      "sourceSha256": "dbc05f59989631a25b9b5a0de3a4bc85433762758985d786a79de6a0ffe32d5a",
       "scan": {
         "critical": 0,
-        "high": 47,
-        "low": 0,
-        "medium": 25,
+        "high": 48,
+        "low": 8,
+        "medium": 82,
         "rules": "2026.08.19",
-        "summary": "47 high, 25 medium"
+        "summary": "48 high, 82 medium, 8 low"
       },
-      "settings": 0,
-      "changelog": "More bug fixes",
+      "settings": 2,
+      "changelog": "Randomized weapon blueprints, weapon balancing, restructured movement, bug fixes, rewards, and more.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-20T20:47:47.841Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1540100007397695573"
+        "at": "2026-08-22T15:42:20.376Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1540629500629483585"
       },
       "id": "doom_mode",
-      "version": "1.0.2",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.2.cwm",
-      "size": 360175,
-      "sha256": "5e8d2b84dba61bdc7204451fb58086360e20395bd7a1aca736bfc8eb3d912950",
+      "version": "1.0.3",
+      "file": "mod_packages/doom_mode/doom_mode-1.0.3.cwm",
+      "size": 700001,
+      "sha256": "fadee79ea19f7d1548e5dcef0083a61131b218696085001b14a48b1eaabbfe3f",
       "history": [
+        {
+          "version": "1.0.3",
+          "changelog": "Randomized weapon blueprints, weapon balancing, restructured movement, bug fixes, rewards, and more.",
+          "published": "2026-08-22T15:42:20.376Z"
+        },
         {
           "version": "1.0.2",
           "changelog": "More bug fixes",
