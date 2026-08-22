@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T20:22:17.606Z",
+  "generated": "2026-08-22T20:22:31.451Z",
   "invites": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "mod": "the_haunting",
+      "title": "The Haunting",
+      "ownerId": "243151432230895619",
+      "ownerName": "fanaticsoftware",
+      "at": "2026-08-22T20:22:31.451Z"
+    },
     {
       "key": "716729dc0d54276778fd510864da5c1bd0be37ecc9609bb4301e95ea5bdeb27d",
       "mod": "the_haunting",
