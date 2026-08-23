@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T00:06:28.806Z",
+  "generated": "2026-08-23T03:37:40.514Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -186,6 +186,49 @@
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-20T00:25:41.678Z"
+        }
+      ],
+      "collaborators": []
+    },
+    {
+      "title": "Holiday Events",
+      "description": "Enables The Haunting & Jingle Hells holidaye events that were removed from the game.\n\nNote: Jingle Hells is now available on all maps instead of just Die Maschine.",
+      "author": {
+        "discordName": "fanaticsoftware",
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "thumbnail": null,
+      "sourceSha256": "8ff70e8867efc425b8351a3b8fa93be38eae3f698b9d544a7df26fe9db327acb",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 33,
+        "rules": "2026.08.19",
+        "summary": "33 medium"
+      },
+      "settings": 2,
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-23T03:37:40.290Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1540927931394695202"
+      },
+      "id": "holiday_events",
+      "version": "1.0.0",
+      "file": "mod_packages/holiday_events/holiday_events-1.0.0.cwm",
+      "size": 348379,
+      "sha256": "e508dac9cb2406c822ca27be5586428c820e860d35b24a0c28ffcdfd72f16b81",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-23T03:37:40.290Z"
         }
       ],
       "collaborators": []
