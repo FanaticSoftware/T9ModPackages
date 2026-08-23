@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T06:01:34.649Z",
+  "generated": "2026-08-23T06:11:34.544Z",
   "mods": {
     "directors_cut": {
       "favorites": 2,
@@ -48,7 +48,7 @@
       }
     },
     "jingle_hells": {
-      "favorites": 0,
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 5
@@ -137,13 +137,13 @@
     "holiday_events": {
       "favorites": 1,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       },
       "versions": {
         "1.0.0": {
           "rating": {
-            "count": 1,
+            "count": 2,
             "average": 5
           }
         }
