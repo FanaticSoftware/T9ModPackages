@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T03:37:40.514Z",
+  "generated": "2026-08-23T18:58:52.598Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -188,7 +188,12 @@
           "published": "2026-08-20T00:25:41.678Z"
         }
       ],
-      "collaborators": []
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      }
     },
     {
       "title": "Holiday Events",
