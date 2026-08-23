@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T11:41:31.416Z",
+  "generated": "2026-08-23T12:41:31.326Z",
   "members": [
     {
       "id": "1166648032473923614",
@@ -246,6 +246,11 @@
       "id": "730903367592837201",
       "name": "Bootiful",
       "username": "bootiful5890"
+    },
+    {
+      "id": "482942971428470785",
+      "name": "bot",
+      "username": "nottermexart"
     },
     {
       "id": "313206111073206272",
@@ -1273,6 +1278,11 @@
       "username": "1nickao"
     },
     {
+      "id": "824010256479682642",
+      "name": "Nicole",
+      "username": "nicolecringe"
+    },
+    {
       "id": "241969263114584065",
       "name": "Nifer",
       "username": "nifer"
@@ -1331,6 +1341,11 @@
       "id": "115173340334915587",
       "name": "Oryxs Middle Orb",
       "username": "tech_wave"
+    },
+    {
+      "id": "288727747751182356",
+      "name": "OurNikoGod",
+      "username": "ournikogod"
     },
     {
       "id": "235101610676715520",
