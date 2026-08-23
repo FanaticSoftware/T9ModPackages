@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T21:44:19.917Z",
+  "generated": "2026-08-23T00:06:28.806Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -135,32 +135,38 @@
         "id": "684408486456852481",
         "name": "saintvertigo"
       },
+      "publishedBy": null,
       "developer": true,
       "thumbnail": null,
-      "sourceSha256": "dbc05f59989631a25b9b5a0de3a4bc85433762758985d786a79de6a0ffe32d5a",
+      "sourceSha256": "49d4790664900efa31fb2bc373d280070c3a06d9a5edb37383c2c739148ababa",
       "scan": {
         "critical": 0,
         "high": 48,
-        "low": 8,
-        "medium": 82,
+        "low": 9,
+        "medium": 88,
         "rules": "2026.08.19",
-        "summary": "48 high, 82 medium, 8 low"
+        "summary": "48 high, 88 medium, 9 low"
       },
       "settings": 2,
-      "changelog": "Randomized weapon blueprints, weapon balancing, restructured movement, bug fixes, rewards, and more.",
+      "changelog": "bug fixes",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-22T15:42:20.376Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1540629500629483585"
+        "at": "2026-08-23T00:06:28.480Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1540874763340349574"
       },
       "id": "doom_mode",
-      "version": "1.0.3",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.3.cwm",
-      "size": 700001,
-      "sha256": "fadee79ea19f7d1548e5dcef0083a61131b218696085001b14a48b1eaabbfe3f",
+      "version": "1.0.4",
+      "file": "mod_packages/doom_mode/doom_mode-1.0.4.cwm",
+      "size": 692560,
+      "sha256": "681bdc1fc9617e3033abd3c4c6e8d71bd092e7a1de23c6dae914e454a67ab1e6",
       "history": [
+        {
+          "version": "1.0.4",
+          "changelog": "bug fixes",
+          "published": "2026-08-23T00:06:28.480Z"
+        },
         {
           "version": "1.0.3",
           "changelog": "Randomized weapon blueprints, weapon balancing, restructured movement, bug fixes, rewards, and more.",
@@ -181,7 +187,8 @@
           "changelog": "",
           "published": "2026-08-20T00:25:41.678Z"
         }
-      ]
+      ],
+      "collaborators": []
     },
     {
       "title": "Jingle Hells",
