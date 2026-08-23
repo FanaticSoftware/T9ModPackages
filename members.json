@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T09:41:31.328Z",
+  "generated": "2026-08-23T10:41:31.249Z",
   "members": [
     {
       "id": "1166648032473923614",
@@ -331,6 +331,11 @@
       "id": "492783123851903006",
       "name": "Cool Gamer Z",
       "username": "thecoolgamerz"
+    },
+    {
+      "id": "273880678318473216",
+      "name": "CoreyA2004",
+      "username": "coreya2004"
     },
     {
       "id": "875943839377014795",
@@ -888,6 +893,11 @@
       "username": "itsjimmygood"
     },
     {
+      "id": "629411215726346262",
+      "name": "Jinx",
+      "username": "sophiedareaper"
+    },
+    {
       "id": "264868359974289408",
       "name": "Joemet123",
       "username": "joemet123"
@@ -991,6 +1001,11 @@
       "id": "511675854259224578",
       "name": "L1vingLit",
       "username": "livinglit"
+    },
+    {
+      "id": "1008294838275424256",
+      "name": "Lachlan",
+      "username": "rumadumnotglossy"
     },
     {
       "id": "349736768557285387",
@@ -1596,6 +1611,11 @@
       "id": "692544535624155298",
       "name": "SoulEatBricTTV",
       "username": "thesoulsuckingbrick"
+    },
+    {
+      "id": "335023134769938432",
+      "name": "SovietVenom",
+      "username": "sovietvenom"
     },
     {
       "id": "1476563214618591367",
