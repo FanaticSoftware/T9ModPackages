@@ -1,7 +1,12 @@
 {
   "schema": 1,
-  "generated": "2026-08-22T23:41:31.865Z",
+  "generated": "2026-08-23T00:41:34.176Z",
   "members": [
+    {
+      "id": "227212891504377867",
+      "name": "[Classified]",
+      "username": "classified051"
+    },
     {
       "id": "824353997225328731",
       "name": "【Soup】",
@@ -23,9 +28,24 @@
       "username": "chihab09"
     },
     {
+      "id": "772638891865407539",
+      "name": "¢oolit.",
+      "username": "cool_it."
+    },
+    {
       "id": "392297949498966027",
       "name": "16alejandro29",
       "username": "16alejandro29"
+    },
+    {
+      "id": "306535338531094549",
+      "name": "404syntax",
+      "username": "404_syntax"
+    },
+    {
+      "id": "549685691685273630",
+      "name": "ad_jaeger",
+      "username": "omgalphadog"
     },
     {
       "id": "546482662827622400",
@@ -53,6 +73,11 @@
       "username": "arc113"
     },
     {
+      "id": "1308538626254045246",
+      "name": "Arky",
+      "username": "fizzysoulz"
+    },
+    {
       "id": "454361516624576524",
       "name": "atu",
       "username": "atubp6"
@@ -61,6 +86,21 @@
       "id": "877845071347736596",
       "name": "auro",
       "username": "aura_sv"
+    },
+    {
+      "id": "423678662685229068",
+      "name": "aydo",
+      "username": "zayden_1"
+    },
+    {
+      "id": "645019050346545181",
+      "name": "B3AN1X",
+      "username": "b3an1x"
+    },
+    {
+      "id": "447257678352351232",
+      "name": "bababingus",
+      "username": "bababingus"
     },
     {
       "id": "437660197872467979",
@@ -98,6 +138,11 @@
       "username": "boechat"
     },
     {
+      "id": "730903367592837201",
+      "name": "Bootiful",
+      "username": "bootiful5890"
+    },
+    {
       "id": "188047951896117248",
       "name": "brad 🌞",
       "username": "brad_."
@@ -106,6 +151,16 @@
       "id": "333073797500633091",
       "name": "Bray Chief",
       "username": "braychief"
+    },
+    {
+      "id": "1156547162088423464",
+      "name": "bronftw6",
+      "username": "bronftw6"
+    },
+    {
+      "id": "259850338629058560",
+      "name": "buh",
+      "username": "buhhh."
     },
     {
       "id": "1540866272768561233",
@@ -123,6 +178,11 @@
       "username": "kooperativ"
     },
     {
+      "id": "414551669934653451",
+      "name": "Cherry <3",
+      "username": "cherrylf"
+    },
+    {
       "id": "182981216612384768",
       "name": "Commissar Dahlia",
       "username": "dahliahyena"
@@ -133,9 +193,19 @@
       "username": "thecoolgamerz"
     },
     {
+      "id": "875943839377014795",
+      "name": "Cow",
+      "username": "cow."
+    },
+    {
       "id": "527576300194627625",
       "name": "cr1s",
       "username": "cr1s_m777"
+    },
+    {
+      "id": "218051348086784000",
+      "name": "Crashalot",
+      "username": "crashalot"
     },
     {
       "id": "1276529598179442857",
@@ -183,6 +253,11 @@
       "username": "discount_tv_"
     },
     {
+      "id": "230270675896500224",
+      "name": "Domvinic",
+      "username": "domvinic"
+    },
+    {
       "id": "251723327662587904",
       "name": "Don Wyatt",
       "username": "wyattlewistv"
@@ -208,6 +283,11 @@
       "username": "pringledingle_"
     },
     {
+      "id": "755211622275874887",
+      "name": "E-Xpo",
+      "username": "freezeicle"
+    },
+    {
       "id": "499989502287413263",
       "name": "Eclipse",
       "username": "dr.dragoon23"
@@ -218,9 +298,24 @@
       "username": "eelacy"
     },
     {
+      "id": "71690959666032640",
+      "name": "EHGROLE",
+      "username": "ehgrole"
+    },
+    {
       "id": "549517987808411658",
       "name": "Elitefiree",
       "username": "elitefiree"
+    },
+    {
+      "id": "1226716301901172828",
+      "name": "Erin",
+      "username": "itsageremiwahoo"
+    },
+    {
+      "id": "701288645868388444",
+      "name": "Etts",
+      "username": "ettssir"
     },
     {
       "id": "398755874908405761",
@@ -283,14 +378,29 @@
       "username": "fremmy."
     },
     {
+      "id": "950861570529976340",
+      "name": "Fresh",
+      "username": "kingfreshf"
+    },
+    {
       "id": "612868643365060631",
       "name": "Froggy",
       "username": "majorgunnerducky"
     },
     {
+      "id": "928698732738924564",
+      "name": "Fungo",
+      "username": "elfungoxd"
+    },
+    {
       "id": "219185887722864640",
       "name": "Gachra",
       "username": "gachra"
+    },
+    {
+      "id": "1201311170355798181",
+      "name": "Galactic S.O.U.L",
+      "username": "galacticsoul42"
     },
     {
       "id": "647704571329773568",
@@ -303,9 +413,19 @@
       "username": "garfield1479"
     },
     {
+      "id": "300305629350985728",
+      "name": "Gastric42",
+      "username": "gastric42"
+    },
+    {
       "id": "732799900030599279",
       "name": "gato banano facha",
       "username": "gatobananofacha"
+    },
+    {
+      "id": "1231174116158079091",
+      "name": "Gealuvuh",
+      "username": "gealuvuh."
     },
     {
       "id": "1124897575997276250",
@@ -316,6 +436,11 @@
       "id": "332367498265755649",
       "name": "GhostVip",
       "username": "ghostvipedher"
+    },
+    {
+      "id": "324228118556573698",
+      "name": "Ghtorres",
+      "username": "ghtorres"
     },
     {
       "id": "143146500828954624",
@@ -348,9 +473,19 @@
       "username": "hazeluwuz"
     },
     {
+      "id": "235870015121784833",
+      "name": "HDMineFace",
+      "username": "hdmineface"
+    },
+    {
       "id": "281872336494264331",
       "name": "Hexevillius",
       "username": "hexevillius"
+    },
+    {
+      "id": "1204730045344645181",
+      "name": "Homubun",
+      "username": "misscaulfield"
     },
     {
       "id": "213869718287679501",
@@ -361,6 +496,16 @@
       "id": "192771059953434627",
       "name": "Hybs",
       "username": "hybs"
+    },
+    {
+      "id": "1336775981515407393",
+      "name": "Hypemilk",
+      "username": "hypemilk_720"
+    },
+    {
+      "id": "291639261524918272",
+      "name": "ImmortalAvatar",
+      "username": "immortalavatar"
     },
     {
       "id": "1428227513011802205",
@@ -418,6 +563,11 @@
       "username": "joemet123"
     },
     {
+      "id": "1299834942796337194",
+      "name": "Johnny Mustard",
+      "username": "kaypeae"
+    },
+    {
       "id": "505995516337979393",
       "name": "julianxPvZ",
       "username": "jewlescanart"
@@ -443,6 +593,11 @@
       "username": "khaloofssj4"
     },
     {
+      "id": "627845434869547013",
+      "name": "KILLER",
+      "username": "rsdgamer17"
+    },
+    {
       "id": "1531765602362851569",
       "name": "Killer",
       "username": "killer_r20"
@@ -463,9 +618,24 @@
       "username": "kylev24"
     },
     {
+      "id": "348400590952464385",
+      "name": "Kyro.ss",
+      "username": "kyro.ss"
+    },
+    {
+      "id": "349736768557285387",
+      "name": "lasanre",
+      "username": "lasanre"
+    },
+    {
       "id": "1005827722389487716",
       "name": "lauffy",
       "username": "grendelmain"
+    },
+    {
+      "id": "326820922990526474",
+      "name": "LazyBones",
+      "username": "lazybones._"
     },
     {
       "id": "289158570069458944",
@@ -496,6 +666,11 @@
       "id": "644864434657034243",
       "name": "Lt. Cheeseburger",
       "username": "ltcheeseburger"
+    },
+    {
+      "id": "709655555186098198",
+      "name": "Lubey",
+      "username": "lubeg"
     },
     {
       "id": "386567832210636800",
@@ -568,6 +743,11 @@
       "username": "midna._"
     },
     {
+      "id": "379665800849784842",
+      "name": "Mist",
+      "username": "cod4x"
+    },
+    {
       "id": "202069070864973824",
       "name": "MJPW",
       "username": "mjpwgaming"
@@ -576,6 +756,11 @@
       "id": "854184153359712257",
       "name": "mlokc300",
       "username": "mlokc300x"
+    },
+    {
+      "id": "142841910053175297",
+      "name": "Monejha",
+      "username": "monejha"
     },
     {
       "id": "219493802166059009",
@@ -588,9 +773,19 @@
       "username": "moothebar"
     },
     {
+      "id": "179000491315822592",
+      "name": "MrSlayerGod",
+      "username": "mrslayergod"
+    },
+    {
       "id": "255769540825186305",
       "name": "necrydark",
       "username": "necrydark"
+    },
+    {
+      "id": "200492657271767040",
+      "name": "NeighborDucky",
+      "username": "neighborduck"
     },
     {
       "id": "806226036181172285",
@@ -601,6 +796,11 @@
       "id": "422897189581488139",
       "name": "nickao",
       "username": "1nickao"
+    },
+    {
+      "id": "303998936622956557",
+      "name": "NIX",
+      "username": "iamnixmusic"
     },
     {
       "id": "417852699330084864",
@@ -638,9 +838,24 @@
       "username": "reto"
     },
     {
+      "id": "872983325017514004",
+      "name": "Pingu",
+      "username": "123monkey"
+    },
+    {
+      "id": "715319606427779232",
+      "name": "Pinhead",
+      "username": "pinhead2188"
+    },
+    {
       "id": "381513959083081730",
       "name": "pride to ghosts",
       "username": "pride_to_ghosts"
+    },
+    {
+      "id": "517437336779489281",
+      "name": "Puffer Cat",
+      "username": "leukemiaman"
     },
     {
       "id": "995674767866740887",
@@ -656,6 +871,11 @@
       "id": "542445101688029185",
       "name": "R34LD3v",
       "username": "r34ld3v"
+    },
+    {
+      "id": "386303826728189952",
+      "name": "RamonKB",
+      "username": "ramonkb"
     },
     {
       "id": "647266823066091569",
@@ -676,6 +896,11 @@
       "id": "450366018913566721",
       "name": "Rust",
       "username": "rust5335"
+    },
+    {
+      "id": "534434524713451541",
+      "name": "Ryn",
+      "username": "ryntldr"
     },
     {
       "id": "488851163618344960",
@@ -713,6 +938,11 @@
       "username": "savoyhp"
     },
     {
+      "id": "172761563252391936",
+      "name": "SealTeamSix21",
+      "username": "sealteamsix21"
+    },
+    {
       "id": "446524651326275584",
       "name": "sedroc",
       "username": "sedroc95"
@@ -721,6 +951,11 @@
       "id": "1088555039896916080",
       "name": "Seth Rogen",
       "username": "von_list427"
+    },
+    {
+      "id": "556297170781995009",
+      "name": "Shawinater",
+      "username": "shawinater"
     },
     {
       "id": "707132462496612412",
@@ -733,9 +968,24 @@
       "username": "azaliak"
     },
     {
+      "id": "114040764912107522",
+      "name": "SictionArc",
+      "username": "sictionarc"
+    },
+    {
       "id": "625008920544542750",
       "name": "SinStrikyr",
       "username": "sinstrikyr"
+    },
+    {
+      "id": "503429777630429184",
+      "name": "Sisyphus",
+      "username": "frogger_8365"
+    },
+    {
+      "id": "239850032612900875",
+      "name": "Skippy",
+      "username": "skibbedoo"
     },
     {
       "id": "229108286044110848",
@@ -768,9 +1018,24 @@
       "username": "wasafatspider"
     },
     {
+      "id": "1308213532558622795",
+      "name": "Squid6",
+      "username": "squidward67"
+    },
+    {
+      "id": "323118338526150656",
+      "name": "Srdema ⭐⭐",
+      "username": "srdema"
+    },
+    {
       "id": "569814668789547020",
       "name": "SSGSSRayRana",
       "username": "ssgssrayrana"
+    },
+    {
+      "id": "531703395690610689",
+      "name": "staticz",
+      "username": "lolstaticz"
     },
     {
       "id": "1124425390262341744",
@@ -843,6 +1108,11 @@
       "username": "ibuytoast"
     },
     {
+      "id": "414069857483620362",
+      "name": "TS",
+      "username": "faisal5459."
+    },
+    {
       "id": "1068305381165629440",
       "name": "Tuli 🧸",
       "username": "nottt.vic"
@@ -866,6 +1136,11 @@
       "id": "487954992808984597",
       "name": "Vele",
       "username": "velemeister"
+    },
+    {
+      "id": "336895088451911680",
+      "name": "Víctor",
+      "username": "victor_72"
     },
     {
       "id": "893890402267058186",
@@ -906,6 +1181,16 @@
       "id": "288450487051878402",
       "name": "𝗪𝗜𝗦𝗣",
       "username": "w.1sp_"
+    },
+    {
+      "id": "847142497268137994",
+      "name": "Wizops",
+      "username": "wizops247"
+    },
+    {
+      "id": "374018959877603338",
+      "name": "ᶻᵃᵉᵈᶤᶰ⁷¹⁰",
+      "username": "zaedin710"
     },
     {
       "id": "299752015616278529",
