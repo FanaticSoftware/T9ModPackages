@@ -9,7 +9,16 @@
       "files": 4,
       "by": "219645757005758475",
       "updated": "2026-08-22T21:42:36.421Z"
+    },
+    "doom_mode": {
+      "file": "shared_projects/doom_mode/source.cwm",
+      "size": 1804396,
+      "sha256": "290577b7f2edee0902874d548c9f28d9a4d4cfeffe61a97367cf3cad9bbd175a",
+      "version": "1.0.4",
+      "files": 10,
+      "by": "684408486456852481",
+      "updated": "2026-08-24T17:08:12.441Z"
     }
   },
-  "generated": "2026-08-22T21:42:36.421Z"
+  "generated": "2026-08-24T17:08:12.441Z"
 }
