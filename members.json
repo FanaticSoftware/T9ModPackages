@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-25T20:02:41.083Z",
+  "generated": "2026-08-25T21:02:41.330Z",
   "members": [
     {
       "id": "454978577591566336",
@@ -888,6 +888,11 @@
       "username": "dspo_e"
     },
     {
+      "id": "764581332650688533",
+      "name": "Duckstee",
+      "username": "duckstee"
+    },
+    {
       "id": "457128867858087946",
       "name": "Dutch",
       "username": "dutch____"
@@ -1266,6 +1271,11 @@
       "id": "949552876924047380",
       "name": "GoldTU8E",
       "username": "goldtu8e"
+    },
+    {
+      "id": "215700273140727809",
+      "name": "Greg",
+      "username": "gregforeman"
     },
     {
       "id": "285410143427100672",
