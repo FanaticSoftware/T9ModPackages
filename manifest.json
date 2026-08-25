@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-25T21:45:44.142Z",
+  "generated": "2026-08-25T21:45:51.007Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -54,12 +54,14 @@
       "title": "Boss Rush",
       "description": "Drops you straight into the Boss Fight on whichever Cold War zombies map is loaded. Auto-detects Firebase Z, Die Maschine, Mauer der Toten and Forsaken. Outbreak is broken atm, trying to add supprt.",
       "author": {
+        "discordName": "fanaticsoftware",
         "id": "243151432230895619",
         "name": "fanaticsoftware"
       },
+      "publishedBy": null,
       "developer": true,
       "thumbnail": null,
-      "sourceSha256": "22be5bf0cca511b8fc10755015aded36539112c4dc8b964000c39bca27228b40",
+      "sourceSha256": "d9c3456cd53377554ac937676277926a744b90a7700760fa3d55c4badb61aeb2",
       "scan": {
         "critical": 0,
         "high": 9,
@@ -69,20 +71,25 @@
         "summary": "9 high, 39 medium, 1 low"
       },
       "settings": 1,
-      "changelog": "Added pre-game lobby to buy your loadout.",
+      "changelog": "kjasbgfiugfiuafusfiusb",
       "highAlerts": [],
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-21T11:04:56.674Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1540315727662420003"
+        "at": "2026-08-25T21:45:50.820Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1541926449982738436"
       },
       "id": "boss_rush",
-      "version": "1.0.1",
-      "file": "mod_packages/boss_rush/boss_rush-1.0.1.cwm",
-      "size": 1087102,
-      "sha256": "4aace97bcf2003bc373fa757f08ec4dcf200a22f2063cd211a6fc4927797ebf6",
+      "version": "1.0.2",
+      "file": "mod_packages/boss_rush/boss_rush-1.0.2.cwm",
+      "size": 1114107,
+      "sha256": "916930f9610e022b85384d03668a4993bfef7822dea41e50648ea0ebb627656e",
       "history": [
+        {
+          "version": "1.0.2",
+          "changelog": "kjasbgfiugfiuafusfiusb",
+          "published": "2026-08-25T21:45:50.820Z"
+        },
         {
           "version": "1.0.1",
           "changelog": "Added pre-game lobby to buy your loadout.",
@@ -93,7 +100,8 @@
           "changelog": "",
           "published": "2026-08-20T00:00:06.989Z"
         }
-      ]
+      ],
+      "collaborators": []
     },
     {
       "title": "Director's Cut",
