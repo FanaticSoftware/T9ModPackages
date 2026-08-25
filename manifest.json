@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-23T23:18:25.530Z",
+  "generated": "2026-08-25T18:03:12.242Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -335,6 +335,49 @@
           "published": "2026-08-20T19:12:19.047Z"
         }
       ]
+    },
+    {
+      "title": "Realism Mode",
+      "description": "Slower movement, no hud, scary moments!",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "saintvertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "thumbnail": null,
+      "sourceSha256": "ba961355b6f3226130dc375b250d766b494d171883ca93cac2afe95a43d2b64a",
+      "scan": {
+        "critical": 0,
+        "high": 88,
+        "low": 11,
+        "medium": 76,
+        "rules": "2026.08.19",
+        "summary": "88 high, 76 medium, 11 low"
+      },
+      "settings": 0,
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-08-25T18:03:11.902Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1541866762096873486"
+      },
+      "id": "realism_mode",
+      "version": "1.0.0",
+      "file": "mod_packages/realism_mode/realism_mode-1.0.0.cwm",
+      "size": 668840,
+      "sha256": "6e015e1c4aa035ce33ee81d2acf27261177fde082af913c67137d5d989328997",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-08-25T18:03:11.902Z"
+        }
+      ],
+      "collaborators": []
     },
     {
       "title": "The Haunting",
