@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-25T18:03:12.242Z",
+  "generated": "2026-08-25T21:45:34.843Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -99,41 +99,49 @@
       "title": "Director's Cut",
       "description": "Adds the SUper Easter Egg Reward form Infinite Warfare Zombies.",
       "author": {
+        "discordName": "fanaticsoftware",
         "id": "243151432230895619",
         "name": "fanaticsoftware"
       },
+      "publishedBy": null,
       "developer": true,
       "thumbnail": null,
-      "sourceSha256": "61439d5d37593d8aa1f9a08d29dd73f8181b9b0516e4cdc190f1330a506a851f",
+      "sourceSha256": "1c9d9a7a3769d458feccda8d376aeef99b450f046ff1ba0fa442c5fce5f81f56",
       "scan": {
         "critical": 0,
-        "high": 1,
+        "high": 0,
         "low": 0,
         "medium": 25,
         "rules": "2026.08.19",
-        "summary": "1 high, 25 medium"
+        "summary": "25 medium"
       },
-      "settings": 2,
-      "changelog": "",
+      "settings": 0,
+      "changelog": "hjsbhaiufbasifbaijhfhbs",
       "highAlerts": [],
       "approved": {
         "by": "fanaticsoftware",
         "byId": "243151432230895619",
-        "at": "2026-08-19T17:51:11.928Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539692904811991085"
+        "at": "2026-08-25T21:45:34.670Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1541926321343696996"
       },
       "id": "directors_cut",
-      "version": "1.0.0",
-      "file": "mod_packages/directors_cut/directors_cut-1.0.0.cwm",
-      "size": 441494,
-      "sha256": "df4f081f3629993d119cdffc4694b2fad1b6171082439d7493994d8b320b59c3",
+      "version": "1.0.1",
+      "file": "mod_packages/directors_cut/directors_cut-1.0.1.cwm",
+      "size": 506703,
+      "sha256": "db721d6938894a1a6b97dd38c0f2d9a973460a044f677370d8f050a0531622aa",
       "history": [
+        {
+          "version": "1.0.1",
+          "changelog": "hjsbhaiufbasifbaijhfhbs",
+          "published": "2026-08-25T21:45:34.670Z"
+        },
         {
           "version": "1.0.0",
           "changelog": "",
           "published": "2026-08-19T17:51:11.928Z"
         }
-      ]
+      ],
+      "collaborators": []
     },
     {
       "title": "DOOM Mode",
