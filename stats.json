@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-26T16:42:06.408Z",
+  "generated": "2026-08-26T17:02:06.398Z",
   "mods": {
     "directors_cut": {
       "favorites": 3,
@@ -33,7 +33,7 @@
       }
     },
     "aetheria_unfinished_test_ver": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
@@ -135,7 +135,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 0,
+      "favorites": 1,
       "rating": {
         "count": 2,
         "average": 5
