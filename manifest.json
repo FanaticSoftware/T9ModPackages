@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-26T02:01:14.621Z",
+  "generated": "2026-08-26T20:39:16.569Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -161,31 +161,36 @@
       },
       "publishedBy": null,
       "developer": true,
-      "thumbnail": null,
-      "sourceSha256": "49d4790664900efa31fb2bc373d280070c3a06d9a5edb37383c2c739148ababa",
+      "sourceSha256": "a7462b49de3abb602bbebaef74d47268cc4d75d3836f35db8155f300e15a2728",
       "scan": {
         "critical": 0,
         "high": 48,
         "low": 9,
-        "medium": 88,
+        "medium": 96,
         "rules": "2026.08.19",
-        "summary": "48 high, 88 medium, 9 low"
+        "summary": "48 high, 96 medium, 9 low"
       },
       "settings": 2,
-      "changelog": "bug fixes",
+      "tags": [],
+      "changelog": "Bug fixes, movement changes",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-23T00:06:28.480Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1540874763340349574"
+        "at": "2026-08-26T20:39:16.255Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1542272183970299908"
       },
       "id": "doom_mode",
-      "version": "1.0.4",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.4.cwm",
-      "size": 692560,
-      "sha256": "681bdc1fc9617e3033abd3c4c6e8d71bd092e7a1de23c6dae914e454a67ab1e6",
+      "version": "1.0.5",
+      "file": "mod_packages/doom_mode/doom_mode-1.0.5.cwm",
+      "size": 1376041,
+      "sha256": "96b1f2aae0b6c5993cae4128d9aa96a7f63734f81f27e4e559b7775ab5bbd069",
       "history": [
+        {
+          "version": "1.0.5",
+          "changelog": "Bug fixes, movement changes",
+          "published": "2026-08-26T20:39:16.255Z"
+        },
         {
           "version": "1.0.4",
           "changelog": "bug fixes",
@@ -212,6 +217,8 @@
           "published": "2026-08-20T00:25:41.678Z"
         }
       ],
+      "thumbnail": "mod_packages/doom_mode/thumbnail.png",
+      "thumbnailSha256": "6e916e5b170c3ac70aee92d555fb0df71940a144811cbc0b6c78eb312821843e",
       "collaborators": [
         "244657466783170560"
       ],
