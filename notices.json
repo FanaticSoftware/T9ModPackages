@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "generated": "2026-08-26T02:01:19.142Z",
+  "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "Realism Mode",
+      "id": "realism_mode",
+      "version": "1.0.1",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-08-26T02:01:18.972Z"
+    }
+  ]
+}
