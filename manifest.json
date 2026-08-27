@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-26T20:39:16.569Z",
+  "generated": "2026-08-27T10:40:23.303Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -8,11 +8,10 @@
       "author": {
         "discordName": "teaa_the_silliest",
         "id": "1214090251178352677",
-        "name": "TheTeaa"
+        "name": "TheTeaa and FanaticSoftware"
       },
       "publishedBy": null,
       "developer": true,
-      "thumbnail": null,
       "sourceSha256": "dac009034305820320e1a427adba89f9676a5f01dfaf2dfff185b53c03469fd8",
       "scan": {
         "critical": 0,
@@ -23,20 +22,26 @@
         "summary": "8 medium"
       },
       "settings": 0,
-      "changelog": "Improved drop functionality of items from enemies\nSpecial, Elite and HVT enemies can now drop various different salvage item/values on death",
+      "tags": [],
+      "changelog": "Reduced overall high grade salvage rate from special, elite and HVTs\n\nTesting \"Aether Gem\" currency for purchasing roguelike effects",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-08-23T19:07:20.502Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1541161877193621545"
+        "at": "2026-08-27T10:40:23.130Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1542483715312193604"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.1",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.1.cwm",
-      "size": 1076128,
-      "sha256": "c802dce0b672d89257e736135b03ae56ce9c878c4309ed5b70a519ead3faedad",
+      "version": "1.0.2",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.2.cwm",
+      "size": 1076143,
+      "sha256": "f4291958f76bbb629051411849fc562edfabaa3a8cad3e1ffe50d2df1f5877e9",
       "history": [
+        {
+          "version": "1.0.2",
+          "changelog": "Reduced overall high grade salvage rate from special, elite and HVTs\n\nTesting \"Aether Gem\" currency for purchasing roguelike effects",
+          "published": "2026-08-27T10:40:23.130Z"
+        },
         {
           "version": "1.0.1",
           "changelog": "Improved drop functionality of items from enemies\nSpecial, Elite and HVT enemies can now drop various different salvage item/values on death",
@@ -48,6 +53,8 @@
           "published": "2026-08-19T18:44:27.473Z"
         }
       ],
+      "thumbnail": "mod_packages/aetheria_unfinished_test_ver/thumbnail.png",
+      "thumbnailSha256": "1f5146915ac0c9ee47cc88b53ec994bde6300aa90a54308279e98b9514173948",
       "collaborators": []
     },
     {
