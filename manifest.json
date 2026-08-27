@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-27T10:40:23.303Z",
+  "generated": "2026-08-27T22:37:06.977Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -473,35 +473,49 @@
       "title": "ZM Classic [BETA]",
       "description": "Classic Zombies for Cold War: Classic points system, fixed perk prices, no rarities, start with 1911, no minimap, classic Pack-a-Punch mechanics, and more!",
       "author": {
+        "discordName": "illuminatidonut",
         "id": "244657466783170560",
-        "name": "illuminatidonut"
+        "name": "Figglebottom"
       },
+      "publishedBy": null,
       "developer": true,
-      "thumbnail": null,
-      "sourceSha256": "17881c6a76cec07a8b64cfe895b1bbe5dfcdf2165d5f71fbc9dcf7e3cff4597e",
+      "sourceSha256": "59b3194d11ec38ca1dc74324d3a3cd37b12b7ff417f0effd4e1aab789dcdfaa8",
       "scan": {
         "critical": 0,
-        "high": 12,
-        "low": 16,
-        "medium": 113,
+        "high": 19,
+        "low": 27,
+        "medium": 266,
         "rules": "2026.08.19",
-        "summary": "12 high, 113 medium, 16 low"
+        "summary": "19 high, 266 medium, 27 low"
       },
-      "settings": 31,
-      "changelog": "Added settings and new thumbnail by wasafatspider",
+      "settings": 58,
+      "tags": [
+        "Gameplay Overhaul",
+        "Weapons",
+        "Perks",
+        "Points / Economy",
+        "Zombies / AI",
+        "Round-Based Maps"
+      ],
+      "changelog": "A lot lol",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-08-21T01:54:38.962Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1540177243425345600"
+        "at": "2026-08-27T22:37:06.644Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1542664211912462391"
       },
       "id": "zm_classic_beta",
-      "version": "1.0.1",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-1.0.1.cwm",
-      "size": 1080066,
-      "sha256": "d1d7819b34ca373ccdabb20114fb1e961ea099cb609e93e4bfed896d630ad6ab",
+      "version": "0.9.0",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-0.9.0.cwm",
+      "size": 1591928,
+      "sha256": "30ebceb16ec62b465f7409e6f2a8348dd9dbf1d0dbdf42de39b1bc6b5afb9271",
       "history": [
+        {
+          "version": "0.9.0",
+          "changelog": "A lot lol",
+          "published": "2026-08-27T22:37:06.644Z"
+        },
         {
           "version": "1.0.1",
           "changelog": "Added settings and new thumbnail by wasafatspider",
@@ -512,7 +526,10 @@
           "changelog": "",
           "published": "2026-08-20T11:53:10.475Z"
         }
-      ]
+      ],
+      "thumbnail": "mod_packages/zm_classic_beta/thumbnail.png",
+      "thumbnailSha256": "a41455aff4b3f9c1602a40d6911816bad5c5699dfcd12660668a412a7c99b374",
+      "collaborators": []
     }
   ]
 }
