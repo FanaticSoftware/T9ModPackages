@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T02:18:02.102Z",
+  "generated": "2026-08-29T03:18:58.504Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -381,7 +381,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "46a87f237726484ba614f5cde71a572e5baf02902649330c66c2a64e5ab92ac9",
+      "sourceSha256": "412edf2795d47cfcdc3da23f9db5309cc46ea364a990aea44ef728530bc2572a",
       "scan": {
         "critical": 0,
         "high": 99,
@@ -392,20 +392,25 @@
       },
       "settings": 0,
       "tags": [],
-      "changelog": "coop fix",
+      "changelog": "fix coop again",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-29T02:18:01.809Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1543082222935089186"
+        "at": "2026-08-29T03:18:58.289Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1543097551979413508"
       },
       "id": "realism_mode",
-      "version": "1.0.5",
-      "file": "mod_packages/realism_mode/realism_mode-1.0.5.cwm",
-      "size": 775864,
-      "sha256": "9b09fbaf602db01d4f5be8ecb59231e0f5c0efd501bb2d55c46faca4dc0b26b7",
+      "version": "1.0.6",
+      "file": "mod_packages/realism_mode/realism_mode-1.0.6.cwm",
+      "size": 772874,
+      "sha256": "b825b216d5c521767c31811643665cd36bf60b7dc93635b6b07a5603cf952f0c",
       "history": [
+        {
+          "version": "1.0.6",
+          "changelog": "fix coop again",
+          "published": "2026-08-29T03:18:58.289Z"
+        },
         {
           "version": "1.0.5",
           "changelog": "coop fix",
