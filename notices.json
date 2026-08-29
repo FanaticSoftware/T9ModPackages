@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T22:33:57.393Z",
+  "generated": "2026-08-29T23:07:39.543Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "Realism Mode",
+      "id": "realism_mode",
+      "version": "1.1.6",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-08-29T23:07:39.360Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
