@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T18:49:32.339Z",
+  "generated": "2026-08-29T19:25:41.618Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -381,31 +381,36 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "b2e92d60397aa8896c9001c1a57829afc04887b642a00dc2b8afa2ce9ba107b7",
+      "sourceSha256": "eb7d56f7ca9ef0ea1ca41d35345de36c628ee25b4f65f08b9923872664fa4190",
       "scan": {
         "critical": 0,
-        "high": 112,
+        "high": 113,
         "low": 12,
         "medium": 98,
         "rules": "2026.08.19",
-        "summary": "112 high, 98 medium, 12 low"
+        "summary": "113 high, 98 medium, 12 low"
       },
       "settings": 0,
       "tags": [],
-      "changelog": "fixes n stuff",
+      "changelog": "testies",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-29T18:49:32.170Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1543331759930736654"
+        "at": "2026-08-29T19:25:41.441Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1543340856583659534"
       },
       "id": "realism_mode",
-      "version": "1.0.9",
-      "file": "mod_packages/realism_mode/realism_mode-1.0.9.cwm",
-      "size": 844599,
-      "sha256": "9560886052e6df1021f775ed0f676f73d5aec9ac92af7f3b3395e8b8f9e4d4eb",
+      "version": "1.1.0",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.0.cwm",
+      "size": 867575,
+      "sha256": "6afa8dcf1c3df37d0049a8a012d4d4ec500b7ed65972acf24d23d1dd47d85bbd",
       "history": [
+        {
+          "version": "1.1.0",
+          "changelog": "testies",
+          "published": "2026-08-29T19:25:41.441Z"
+        },
         {
           "version": "1.0.9",
           "changelog": "fixes n stuff",
