@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T03:18:58.504Z",
+  "generated": "2026-08-29T03:22:25.063Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -439,7 +439,12 @@
       ],
       "thumbnail": "mod_packages/realism_mode/thumbnail.png",
       "thumbnailSha256": "1156597a3e1ed201d957982c5455fa9d3347eae5feb4b4ce5ce6587408d0730c",
-      "collaborators": []
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      }
     },
     {
       "title": "The Haunting",
