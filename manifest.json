@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T01:17:55.854Z",
+  "generated": "2026-08-29T02:04:37.632Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -381,31 +381,36 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "3f5d64c303444473656954a7bfc72dacda68b7f29572f5f3f493d0091263aca1",
+      "sourceSha256": "5af967d2d31cd793ef48bee17adf56e66949d17e08a9c60a30bf1f202426e262",
       "scan": {
         "critical": 0,
-        "high": 106,
+        "high": 102,
         "low": 13,
         "medium": 85,
         "rules": "2026.08.19",
-        "summary": "106 high, 85 medium, 13 low"
+        "summary": "102 high, 85 medium, 13 low"
       },
       "settings": 0,
       "tags": [],
-      "changelog": "fixed armor and ammo",
+      "changelog": "tested",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-29T01:17:55.614Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1543067099981807730"
+        "at": "2026-08-29T02:04:37.321Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1543078739716472928"
       },
       "id": "realism_mode",
-      "version": "1.0.2",
-      "file": "mod_packages/realism_mode/realism_mode-1.0.2.cwm",
-      "size": 785818,
-      "sha256": "935e291e28f83512395678b0f4f0322e94d9059abe1b572e557766868fd0e88a",
+      "version": "1.0.4",
+      "file": "mod_packages/realism_mode/realism_mode-1.0.4.cwm",
+      "size": 777558,
+      "sha256": "f5d090f960f1f911f31f2eca80c994230ef39cbc7976892071920106da8bb628",
       "history": [
+        {
+          "version": "1.0.4",
+          "changelog": "tested",
+          "published": "2026-08-29T02:04:37.321Z"
+        },
         {
           "version": "1.0.2",
           "changelog": "fixed armor and ammo",
