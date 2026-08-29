@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-29T02:04:37.632Z",
+  "generated": "2026-08-29T02:09:07.940Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -489,16 +489,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "59b3194d11ec38ca1dc74324d3a3cd37b12b7ff417f0effd4e1aab789dcdfaa8",
+      "sourceSha256": "9ad20d08c6e3f614652a1917b74d78e1c2488a48c9d5afd6d7ae41a20d7b01c2",
       "scan": {
         "critical": 0,
-        "high": 19,
-        "low": 27,
-        "medium": 266,
+        "high": 21,
+        "low": 28,
+        "medium": 299,
         "rules": "2026.08.19",
-        "summary": "19 high, 266 medium, 27 low"
+        "summary": "21 high, 299 medium, 28 low"
       },
-      "settings": 58,
+      "settings": 61,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
@@ -507,20 +507,25 @@
         "Zombies / AI",
         "Round-Based Maps"
       ],
-      "changelog": "A lot lol",
+      "changelog": "i dont fuckin know",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-08-27T22:37:06.644Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1542664211912462391"
+        "at": "2026-08-29T02:09:07.770Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1543079927400632374"
       },
       "id": "zm_classic_beta",
-      "version": "0.9.0",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-0.9.0.cwm",
-      "size": 1591928,
-      "sha256": "30ebceb16ec62b465f7409e6f2a8348dd9dbf1d0dbdf42de39b1bc6b5afb9271",
+      "version": "2.0.0",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.0.cwm",
+      "size": 1857601,
+      "sha256": "13ace45e2ef6f49fab388f5900a01192ace950d55ea2b76c61f172040fb3f8c7",
       "history": [
+        {
+          "version": "2.0.0",
+          "changelog": "i dont fuckin know",
+          "published": "2026-08-29T02:09:07.770Z"
+        },
         {
           "version": "0.9.0",
           "changelog": "A lot lol",
