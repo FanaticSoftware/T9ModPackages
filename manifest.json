@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-30T00:16:50.961Z",
+  "generated": "2026-08-30T02:50:36.701Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -381,7 +381,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "e3c6f8c6f3aa28974cc7adddc0591b7c4137df22442bc4784299737cde69ad5f",
+      "sourceSha256": "0bb30b93731957cffa6e1d5192bd3fe65de60bb77079e9dc0ff32c37e95edf31",
       "scan": {
         "critical": 0,
         "high": 118,
@@ -392,20 +392,25 @@
       },
       "settings": 0,
       "tags": [],
-      "changelog": "@@@@@@@@@@@@",
+      "changelog": "..............",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-30T00:16:50.789Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1543414106823073848"
+        "at": "2026-08-30T02:50:36.488Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1543452769892040900"
       },
       "id": "realism_mode",
-      "version": "1.1.8",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.8.cwm",
-      "size": 964120,
-      "sha256": "81e2f4f3fbb0ac380ae20b958ddbdbaeb87f63f059ed24e49678b5f82db382c8",
+      "version": "1.1.9",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.9.cwm",
+      "size": 1139728,
+      "sha256": "f01810a6497dd2f5b0bcf8d274f048651f13feb744f793fb1deb211f84fcaf50",
       "history": [
+        {
+          "version": "1.1.9",
+          "changelog": "..............",
+          "published": "2026-08-30T02:50:36.488Z"
+        },
         {
           "version": "1.1.8",
           "changelog": "@@@@@@@@@@@@",
@@ -488,7 +493,7 @@
         }
       ],
       "thumbnail": "mod_packages/realism_mode/thumbnail.png",
-      "thumbnailSha256": "1156597a3e1ed201d957982c5455fa9d3347eae5feb4b4ce5ce6587408d0730c",
+      "thumbnailSha256": "a58d4ce5263beb0ae228b0221c5e6500a29a41781e459e06bd9b3df248577d62",
       "collaborators": [
         "244657466783170560"
       ],
