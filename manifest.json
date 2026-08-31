@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-08-30T02:50:36.701Z",
+  "generated": "2026-08-31T21:06:37.176Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -559,14 +559,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9ad20d08c6e3f614652a1917b74d78e1c2488a48c9d5afd6d7ae41a20d7b01c2",
+      "sourceSha256": "14a6c68f48633878250de26bb6b5645d43e61f9b5e0c33f5a12d49fcf44b155f",
       "scan": {
         "critical": 0,
         "high": 21,
         "low": 28,
-        "medium": 299,
+        "medium": 304,
         "rules": "2026.08.19",
-        "summary": "21 high, 299 medium, 28 low"
+        "summary": "21 high, 304 medium, 28 low"
       },
       "settings": 61,
       "tags": [
@@ -577,20 +577,25 @@
         "Zombies / AI",
         "Round-Based Maps"
       ],
-      "changelog": "i dont fuckin know",
+      "changelog": "testies",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-08-29T02:09:07.770Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1543079927400632374"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-08-31T21:06:37.003Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1544090898915393674"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.0",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.0.cwm",
-      "size": 1857601,
-      "sha256": "13ace45e2ef6f49fab388f5900a01192ace950d55ea2b76c61f172040fb3f8c7",
+      "version": "2.0.2",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.2.cwm",
+      "size": 1938204,
+      "sha256": "d10c96493d1141061ff3b14a53eeb82b70164ddde16b403f0d749060271d0c03",
       "history": [
+        {
+          "version": "2.0.2",
+          "changelog": "testies",
+          "published": "2026-08-31T21:06:37.003Z"
+        },
         {
           "version": "2.0.0",
           "changelog": "i dont fuckin know",
