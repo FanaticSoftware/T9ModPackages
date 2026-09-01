@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-01T02:38:18.996Z",
+  "generated": "2026-09-01T02:47:41.989Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -235,6 +235,9 @@
       "testerAccounts": {
         "684408486456852481": [
           "790835014941a647"
+        ],
+        "244657466783170560": [
+          "62f5c0602dd5b7f5"
         ]
       }
     },
@@ -504,6 +507,11 @@
       ],
       "collaboratorNames": {
         "244657466783170560": "Figglebottom"
+      },
+      "testerAccounts": {
+        "244657466783170560": [
+          "62f5c0602dd5b7f5"
+        ]
       }
     },
     {
@@ -624,7 +632,12 @@
       ],
       "thumbnail": "mod_packages/zm_classic_beta/thumbnail.png",
       "thumbnailSha256": "a41455aff4b3f9c1602a40d6911816bad5c5699dfcd12660668a412a7c99b374",
-      "collaborators": []
+      "collaborators": [],
+      "testerAccounts": {
+        "244657466783170560": [
+          "62f5c0602dd5b7f5"
+        ]
+      }
     }
   ]
 }
