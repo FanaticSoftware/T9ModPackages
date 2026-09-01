@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-01T01:57:32.897Z",
+  "generated": "2026-09-01T01:58:24.543Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -235,6 +235,9 @@
       "testerAccounts": {
         "244657466783170560": [
           "62f5c0602dd5b7f5"
+        ],
+        "684408486456852481": [
+          "790835014941a647"
         ]
       }
     },
