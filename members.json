@@ -1,17 +1,11 @@
 {
   "schema": 1,
-  "generated": "2026-08-25T21:52:04.979Z",
+  "generated": "2026-09-01T01:46:23.433Z",
   "members": [
     {
       "id": "243151432230895619",
       "name": "Fanatic",
       "username": "fanaticsoftware",
-      "modder": true
-    },
-    {
-      "id": "244657466783170560",
-      "name": "Figglebottom",
-      "username": "illuminatidonut",
       "modder": true
     },
     {
