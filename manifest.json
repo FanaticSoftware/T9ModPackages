@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-02T02:30:12.379Z",
+  "generated": "2026-09-02T03:22:27.873Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -586,16 +586,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "14a6c68f48633878250de26bb6b5645d43e61f9b5e0c33f5a12d49fcf44b155f",
+      "sourceSha256": "92a9c1837dcb27aee68c0c39a43dc81fc69d189dfaeba1db5010dd718a906e4f",
       "scan": {
         "critical": 0,
         "high": 21,
         "low": 28,
-        "medium": 304,
+        "medium": 329,
         "rules": "2026.08.19",
-        "summary": "21 high, 304 medium, 28 low"
+        "summary": "21 high, 329 medium, 28 low"
       },
-      "settings": 61,
+      "settings": 60,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
@@ -604,20 +604,25 @@
         "Zombies / AI",
         "Round-Based Maps"
       ],
-      "changelog": "testies",
+      "changelog": "iddddek",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-08-31T21:06:37.003Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1544090898915393674"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-02T03:22:27.521Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1544546644349952082"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.2",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.2.cwm",
-      "size": 1938204,
-      "sha256": "d10c96493d1141061ff3b14a53eeb82b70164ddde16b403f0d749060271d0c03",
+      "version": "2.0.4",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.4.cwm",
+      "size": 2077760,
+      "sha256": "711ae3b7303fa28871d14c18e3932f223e8b065bc253f256a30a3f13ea58c81c",
       "history": [
+        {
+          "version": "2.0.4",
+          "changelog": "iddddek",
+          "published": "2026-09-02T03:22:27.521Z"
+        },
         {
           "version": "2.0.2",
           "changelog": "testies",
