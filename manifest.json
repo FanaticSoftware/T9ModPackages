@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T18:41:08.201Z",
+  "generated": "2026-09-03T18:45:39.591Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -643,16 +643,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "92a9c1837dcb27aee68c0c39a43dc81fc69d189dfaeba1db5010dd718a906e4f",
+      "sourceSha256": "46dc6ddd0eab2c55dc559000d7a1390cfa6cda54cbc7a9ecec90c64c4856c052",
       "scan": {
         "critical": 0,
         "high": 21,
         "low": 28,
-        "medium": 329,
+        "medium": 341,
         "rules": "2026.08.19",
-        "summary": "21 high, 329 medium, 28 low"
+        "summary": "21 high, 341 medium, 28 low"
       },
-      "settings": 60,
+      "settings": 72,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
@@ -661,20 +661,25 @@
         "Zombies / AI",
         "Round-Based Maps"
       ],
-      "changelog": "iddddek",
+      "changelog": "iiiiiiiiiiiiii dont know",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-02T03:22:27.521Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1544546644349952082"
+        "at": "2026-09-03T18:45:39.220Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545142647499395157"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.4",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.4.cwm",
-      "size": 2077760,
-      "sha256": "711ae3b7303fa28871d14c18e3932f223e8b065bc253f256a30a3f13ea58c81c",
+      "version": "2.0.5",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.5.cwm",
+      "size": 2371133,
+      "sha256": "01a77ecbad21ef133b51e1fec60e7157a8c1a32b3b1c7bc6c862d12901d3d045",
       "history": [
+        {
+          "version": "2.0.5",
+          "changelog": "iiiiiiiiiiiiii dont know",
+          "published": "2026-09-03T18:45:39.220Z"
+        },
         {
           "version": "2.0.4",
           "changelog": "iddddek",
