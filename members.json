@@ -1,13 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T19:46:27.593Z",
+  "generated": "2026-09-03T20:46:27.705Z",
   "members": [
-    {
-      "id": "684408486456852481",
-      "name": "#1 GLONGO HATER",
-      "username": "saintvertigo",
-      "modder": true
-    },
     {
       "id": "243151432230895619",
       "name": "Fanatic",
@@ -18,6 +12,12 @@
       "id": "244657466783170560",
       "name": "Figglebottom",
       "username": "illuminatidonut",
+      "modder": true
+    },
+    {
+      "id": "684408486456852481",
+      "name": "SaintVertigo",
+      "username": "saintvertigo",
       "modder": true
     },
     {
