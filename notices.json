@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T16:27:36.911Z",
+  "generated": "2026-09-03T16:31:03.709Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "collab",
+      "mod": "Onslaught Survival",
+      "id": "onslaught_survival",
+      "version": null,
+      "reason": "**Teaa** (@teaa_the_silliest) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-03T16:31:03.506Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
