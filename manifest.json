@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-02T19:58:27.079Z",
+  "generated": "2026-09-03T05:32:24.548Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "58ea8264aa5a2c3320df2592c39ef114bf508ac3018df119e28d4e79998b24a8",
+      "sourceSha256": "7fa7ad8d91df2df3ed46a0a0e69c6e4d704682695bd6f899adefbb57d2cfa811",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -23,20 +23,25 @@
       },
       "settings": 0,
       "tags": [],
-      "changelog": "Completely overhauled all the spawn rules and rates for every enemy that spawns through the mod, made a start on custom damage weapons, adjusted loot table of categories",
+      "changelog": "point change",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-02T19:58:26.695Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1544798562326683805"
+        "at": "2026-09-03T05:32:24.254Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1544942971437318188"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.3",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.3.cwm",
-      "size": 1069240,
-      "sha256": "336c8f651ab9f535a589162956c2a4a50a39cccfc9b2880e323061a10161fe63",
+      "version": "1.0.4",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.4.cwm",
+      "size": 1069077,
+      "sha256": "38b1643afed538da74caa00a5d6ea688b295c1aeb3748e0766e34944bc6ee0d4",
       "history": [
+        {
+          "version": "1.0.4",
+          "changelog": "point change",
+          "published": "2026-09-03T05:32:24.254Z"
+        },
         {
           "version": "1.0.3",
           "changelog": "Completely overhauled all the spawn rules and rates for every enemy that spawns through the mod, made a start on custom damage weapons, adjusted loot table of categories",
