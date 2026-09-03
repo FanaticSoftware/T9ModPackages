@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T16:27:32.701Z",
+  "generated": "2026-09-03T16:31:00.845Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -424,7 +424,12 @@
       ],
       "thumbnail": "mod_packages/onslaught_survival/thumbnail.png",
       "thumbnailSha256": "636200605540cf544b8821737a93de8f7bd04e5f78a84b0f82a35d21c890f0ca",
-      "collaborators": []
+      "collaborators": [
+        "1214090251178352677"
+      ],
+      "collaboratorNames": {
+        "1214090251178352677": "Teaa"
+      }
     },
     {
       "title": "Realism Mode",
