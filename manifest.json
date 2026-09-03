@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T05:32:24.548Z",
+  "generated": "2026-09-03T06:22:15.504Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "7fa7ad8d91df2df3ed46a0a0e69c6e4d704682695bd6f899adefbb57d2cfa811",
+      "sourceSha256": "949ebc9f12c1e78ee42b710d1e556b02caa801a146c3e47fad432d2efeffac75",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -23,20 +23,25 @@
       },
       "settings": 0,
       "tags": [],
-      "changelog": "point change",
+      "changelog": "adjusted spawn rate",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-03T05:32:24.254Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1544942971437318188"
+        "at": "2026-09-03T06:22:15.105Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1544955575694008355"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.4",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.4.cwm",
-      "size": 1069077,
-      "sha256": "38b1643afed538da74caa00a5d6ea688b295c1aeb3748e0766e34944bc6ee0d4",
+      "version": "1.0.5",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.5.cwm",
+      "size": 1069082,
+      "sha256": "b796ad38db6e04e983031e2169084232a0fab4eef46c77ced499b5ffe4d4c2c4",
       "history": [
+        {
+          "version": "1.0.5",
+          "changelog": "adjusted spawn rate",
+          "published": "2026-09-03T06:22:15.105Z"
+        },
         {
           "version": "1.0.4",
           "changelog": "point change",
