@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-04T09:54:43.168Z",
+  "generated": "2026-09-04T13:20:03.504Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "1c6745d6153f6dff98109c15c98cf2dd8d85d9d5cdbc0854abb689a229e0afe9",
+      "sourceSha256": "f9f176fd90799649968cddf0f09f32210a77619ffbbd8f5dce76fddaabbdde31",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 7,
+        "medium": 6,
         "rules": "2026.08.19",
-        "summary": "7 medium"
+        "summary": "6 medium"
       },
       "settings": 0,
       "tags": [
@@ -32,20 +32,25 @@
         "Firebase Z",
         "Mauer der Toten"
       ],
-      "changelog": "still testing onslaught compatibility",
+      "changelog": "Onslaught Progress, this mod works on onslaught modes AND onslaught survival mod. I need help with Mangler unable to attack player in onslaught maps exclusively",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-04T09:54:42.599Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545371470127960109"
+        "at": "2026-09-04T13:20:03.130Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545422969109614649"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.9",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.9.cwm",
-      "size": 1076215,
-      "sha256": "704960706d03d05c195fe8df8c0da8c012eaf8d01ff4c6dfe425b4ec2f0d069a",
+      "version": "1.0.10",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.10.cwm",
+      "size": 1074486,
+      "sha256": "c25d49f5adf9a94d3bbae4185a33e1c4ebcdfc2be8a66eba8ad02db465285c21",
       "history": [
+        {
+          "version": "1.0.10",
+          "changelog": "Onslaught Progress, this mod works on onslaught modes AND onslaught survival mod. I need help with Mangler unable to attack player in onslaught maps exclusively",
+          "published": "2026-09-04T13:20:03.130Z"
+        },
         {
           "version": "1.0.9",
           "changelog": "still testing onslaught compatibility",
