@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-04T14:33:26.867Z",
+  "generated": "2026-09-04T18:25:37.190Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "ffee48fea91bd118cdcfce46a003f7bcbfabed4fb12d2dcaa5cc845ef8b692ec",
+      "sourceSha256": "40612f514c669a10649cff9121d366eeba4621c8c2e8edb1ec17a538287ac478",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -32,20 +32,25 @@
         "Firebase Z",
         "Mauer der Toten"
       ],
-      "changelog": "spawn rate",
+      "changelog": "aaaaaaaaaaaaaaaa",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-04T14:33:26.541Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545441605404590135"
+        "at": "2026-09-04T18:25:36.883Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545500055803404320"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.11",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.11.cwm",
-      "size": 1073157,
-      "sha256": "850bd09ab48f6dcf7ae035ccddd941a7d81650f71fcf22819420781a4cce3f9c",
+      "version": "1.0.12",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.12.cwm",
+      "size": 1073171,
+      "sha256": "ccf943b54af9576cbb66d2bae6557434cdaa2ca28c680a4a34b91a61744053cc",
       "history": [
+        {
+          "version": "1.0.12",
+          "changelog": "aaaaaaaaaaaaaaaa",
+          "published": "2026-09-04T18:25:36.883Z"
+        },
         {
           "version": "1.0.11",
           "changelog": "spawn rate",
