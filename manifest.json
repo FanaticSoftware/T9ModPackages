@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-05T00:03:01.202Z",
+  "generated": "2026-09-05T03:44:35.002Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -475,14 +475,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "3e4dc883b371eebc6c57d29fd68408584015a05ab457a4bf5491ab1b341e88e6",
+      "sourceSha256": "b4db020b31c629c949f63910eec8f5cbcbfbd95561733926d888c8880d4b3f13",
       "scan": {
         "critical": 0,
-        "high": 103,
-        "low": 14,
-        "medium": 163,
+        "high": 105,
+        "low": 16,
+        "medium": 183,
         "rules": "2026.08.19",
-        "summary": "103 high, 163 medium, 14 low"
+        "summary": "105 high, 183 medium, 16 low"
       },
       "settings": 0,
       "tags": [
@@ -495,20 +495,25 @@
         "Zombies / AI",
         "Armor / Rarity"
       ],
-      "changelog": "stamina",
+      "changelog": "did stuff",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-04T04:28:39.439Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545289380480946287"
+        "at": "2026-09-05T03:44:34.623Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545640711255490673"
       },
       "id": "realism_mode",
-      "version": "1.1.14",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.14.cwm",
-      "size": 1555448,
-      "sha256": "3f1b92534f0c4eb49c612a81e33010abe54cd1dab7eed495409706a03daed984",
+      "version": "1.1.15",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.15.cwm",
+      "size": 1693034,
+      "sha256": "ee0c5082632c4c1bc07cba0c250581214e2cb371c3e73b11ca2df07776517909",
       "history": [
+        {
+          "version": "1.1.15",
+          "changelog": "did stuff",
+          "published": "2026-09-05T03:44:34.623Z"
+        },
         {
           "version": "1.1.14",
           "changelog": "stamina",
