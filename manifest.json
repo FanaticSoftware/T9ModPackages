@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-05T08:07:01.204Z",
+  "generated": "2026-09-05T22:47:55.442Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -486,7 +486,7 @@
     },
     {
       "title": "Realism Mode",
-      "description": "Slower movement, no hud, scary moments!",
+      "description": "Realism Mode is a complete gameplay overhaul for Zombies, designed to make Zombies feel more grounded, dangerous, and survival-focused.\n\nThe goal is to strip away many of the arcade-style systems and replace them with mechanics that feel closer to a military survival experience.\n\nPlayers have to rely more on positioning, scavenging, weapon choice, movement, teamwork, and the environment.\n\nMajor Features:\nHeavily reduced HUD\nNo traditional Pack-a-Punch progression\nPerks removed from normal gameplay\nReworked Mystery Box\nReworked weapon rarity and attachments\nRandomized physical floor weapons\nWall-buy replacements\nPhysical ammunition and armor supplies\nScrap drops for crafting\nReworked Outbreak rewards\nPermanent character upgrades earned through gameplay\nReworked armor\nMore realistic weapon handling and recoil (PC Only)\nWeapon-specific stamina behavior\nReduced bunny hopping and movement exploits\nInjury and low-health mechanics\nAdrenaline response at critical health\nFriendly fire / team damage\nRebalanced normal, armored, special, and elite enemies\nArmored zombies are slower but significantly tougher\nRebalanced boss health for co-op\nReworked melee weapons and gun-butt attacks\nRebalanced explosives and launchers\nVehicle durability\nOutbreak progression and loadout persistence\nReworked side-objective rewards\nTrials reintroduced with Realism-specific rewards",
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
@@ -494,14 +494,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "b4db020b31c629c949f63910eec8f5cbcbfbd95561733926d888c8880d4b3f13",
+      "sourceSha256": "4c592c56b7640b9a008e5683d2fd9df90087e7236804555d64cda0400f70e084",
       "scan": {
         "critical": 0,
         "high": 105,
-        "low": 16,
-        "medium": 183,
+        "low": 18,
+        "medium": 224,
         "rules": "2026.08.19",
-        "summary": "105 high, 183 medium, 16 low"
+        "summary": "105 high, 224 medium, 18 low"
       },
       "settings": 0,
       "tags": [
@@ -510,24 +510,29 @@
         "Cosmetic / HUD",
         "Utility / Tools",
         "Challenge / Custom Rules",
+        "Weapons",
         "Points / Economy",
-        "Zombies / AI",
-        "Armor / Rarity"
+        "Zombies / AI"
       ],
-      "changelog": "did stuff",
+      "changelog": "trials reworked",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-05T03:44:34.623Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545640711255490673"
+        "at": "2026-09-05T22:47:55.111Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545928406011609132"
       },
       "id": "realism_mode",
-      "version": "1.1.15",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.15.cwm",
-      "size": 1693034,
-      "sha256": "ee0c5082632c4c1bc07cba0c250581214e2cb371c3e73b11ca2df07776517909",
+      "version": "1.1.16",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.16.cwm",
+      "size": 1738690,
+      "sha256": "cf3758bb49fa8ae829c4628a7a174e94fd4098aece14bfcbb2a398a267d8ed5a",
       "history": [
+        {
+          "version": "1.1.16",
+          "changelog": "trials reworked",
+          "published": "2026-09-05T22:47:55.111Z"
+        },
         {
           "version": "1.1.15",
           "changelog": "did stuff",
