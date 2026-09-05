@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-04T18:25:42.550Z",
+  "generated": "2026-09-05T00:03:06.340Z",
   "notices": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "status": "approved",
+      "mod": "ZM Classic [BETA]",
+      "id": "zm_classic_beta",
+      "version": "2.0.7",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-09-05T00:03:06.179Z"
+    },
     {
       "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
       "status": "approved",
