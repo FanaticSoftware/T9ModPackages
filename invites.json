@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-09-05T20:48:59.191Z",
+  "generated": "2026-09-05T20:49:05.174Z",
   "invites": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "mod": "onslaught_survival",
+      "title": "Onslaught Survival",
+      "ownerId": "684408486456852481",
+      "ownerName": "saintvertigo",
+      "at": "2026-09-05T20:49:05.174Z"
+    },
     {
       "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
       "mod": "onslaught_survival",
