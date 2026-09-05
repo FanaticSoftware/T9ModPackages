@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-05T07:13:02.907Z",
+  "generated": "2026-09-05T08:07:01.204Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9083835e9240085f4c56bbb82f52e0674b46c5b8ee67dcc161677025a2c29f07",
+      "sourceSha256": "5720e34408e673c0f0c5840599f9bf0f94fc7e311702d9a31bf00cc677c935ac",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "ok FOR REAL this time, HVT Invasion support added",
+      "changelog": "AFSKLFSLJK:AA:FLJKSAK:FLJSAAK:SAFLJ",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-05T07:13:02.520Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545693136792326232"
+        "at": "2026-09-05T08:07:00.867Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545706767202390040"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.15",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.15.cwm",
-      "size": 1073070,
-      "sha256": "ae454bff6864531a78f49c527b0dee7f4df301171b4a9209a94e629d5ce66842",
+      "version": "1.0.16",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.16.cwm",
+      "size": 1072828,
+      "sha256": "36e58a520220cf952d1186973d7c47b5fd1928ce996bc42c6b9bc7b1c4632de5",
       "history": [
+        {
+          "version": "1.0.16",
+          "changelog": "AFSKLFSLJK:AA:FLJKSAK:FLJSAAK:SAFLJ",
+          "published": "2026-09-05T08:07:00.867Z"
+        },
         {
           "version": "1.0.15",
           "changelog": "ok FOR REAL this time, HVT Invasion support added",
