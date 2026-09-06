@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-06T17:32:43.591Z",
+  "generated": "2026-09-06T17:33:33.342Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -488,10 +488,12 @@
       "thumbnail": "mod_packages/onslaught_survival/thumbnail.png",
       "thumbnailSha256": "636200605540cf544b8821737a93de8f7bd04e5f78a84b0f82a35d21c890f0ca",
       "collaborators": [
-        "1214090251178352677"
+        "1214090251178352677",
+        "244657466783170560"
       ],
       "collaboratorNames": {
-        "1214090251178352677": "Teaa"
+        "1214090251178352677": "Teaa",
+        "244657466783170560": "Figglebottom"
       },
       "testerAccounts": {
         "684408486456852481": [
