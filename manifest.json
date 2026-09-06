@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-06T06:56:35.476Z",
+  "generated": "2026-09-06T14:34:16.736Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "5720e34408e673c0f0c5840599f9bf0f94fc7e311702d9a31bf00cc677c935ac",
+      "sourceSha256": "6f394aa69d96ee186880ab73ac566e4c1c0bd4f070ac79d52993a16bbefe61b4",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "how does the name thing lowk work?",
+      "changelog": "Chrysalax damage test",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-06T06:56:35.060Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546051417431867457"
+        "at": "2026-09-06T14:34:16.299Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546166550418030726"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.17",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.17.cwm",
-      "size": 1072807,
-      "sha256": "f81e1aed4c84690b41abe61c4ca81c3ce393ec801c6c1214cf2c6f7a04520319",
+      "version": "1.0.18",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.18.cwm",
+      "size": 1073926,
+      "sha256": "accd27d8825ed270dc136b5fe752354f5e4b797bbd7a0dacfcaa81a494c52efc",
       "history": [
+        {
+          "version": "1.0.18",
+          "changelog": "Chrysalax damage test",
+          "published": "2026-09-06T14:34:16.299Z"
+        },
         {
           "version": "1.0.17",
           "changelog": "how does the name thing lowk work?",
