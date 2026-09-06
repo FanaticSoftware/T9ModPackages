@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-06T01:32:18.625Z",
+  "generated": "2026-09-06T02:28:33.996Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -494,14 +494,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "3cffffa564b0f5597ad5a000fa3368e41998029a8b7cb8c02abac8c28cca40a8",
+      "sourceSha256": "a2f563e4a2fa169919942751dea0022c0c2d617c881b3d7848444a2824d42e0e",
       "scan": {
         "critical": 0,
-        "high": 105,
+        "high": 110,
         "low": 18,
         "medium": 226,
         "rules": "2026.08.19",
-        "summary": "105 high, 226 medium, 18 low"
+        "summary": "110 high, 226 medium, 18 low"
       },
       "settings": 0,
       "tags": [
@@ -514,20 +514,25 @@
         "Points / Economy",
         "Zombies / AI"
       ],
-      "changelog": "nooooooooooooooo",
+      "changelog": "dsadadsadsda",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-06T01:32:18.301Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545969824193060899"
+        "at": "2026-09-06T02:28:33.660Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1545983983161053280"
       },
       "id": "realism_mode",
-      "version": "1.1.17",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.17.cwm",
-      "size": 1781694,
-      "sha256": "33ef72cdb3b4647ecb81647bf6185ca5273f90ae3333324a22ed74fc2a8e3a51",
+      "version": "1.1.18",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.18.cwm",
+      "size": 1806354,
+      "sha256": "ca3c25d971e1816c77f42f66a5f1c5d09827189aece59c0b787b20961f33ac7e",
       "history": [
+        {
+          "version": "1.1.18",
+          "changelog": "dsadadsadsda",
+          "published": "2026-09-06T02:28:33.660Z"
+        },
         {
           "version": "1.1.17",
           "changelog": "nooooooooooooooo",
