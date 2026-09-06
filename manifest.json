@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-06T14:34:16.736Z",
+  "generated": "2026-09-06T17:32:43.591Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -437,16 +437,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "a43200910f415189a6922fc993e2cf88c9d39eb5e989d99386c014395e9f1030",
+      "sourceSha256": "6a7b28734791e2a6339ba132a76387448ba19d8047258fb8c21f9069bd9e5c1e",
       "scan": {
         "critical": 0,
-        "high": 0,
+        "high": 9,
         "low": 3,
-        "medium": 34,
+        "medium": 40,
         "rules": "2026.08.19",
-        "summary": "34 medium, 3 low"
+        "summary": "9 high, 40 medium, 3 low"
       },
-      "settings": 0,
+      "settings": 1,
       "tags": [
         "Gameplay Overhaul",
         "Round-Based Maps",
@@ -455,20 +455,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Updated hud to be removed",
+      "changelog": "dadadadadadadada",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-03T16:27:32.328Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545107844423094457"
+        "at": "2026-09-06T17:32:43.057Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546211500950028403"
       },
       "id": "onslaught_survival",
-      "version": "1.0.1",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.1.cwm",
-      "size": 632760,
-      "sha256": "f93a9fdf27bf8ae48e03d808c89b9f31ac2cb8cb5f22dee2821e1a03f5ee407e",
+      "version": "1.0.2",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.2.cwm",
+      "size": 681767,
+      "sha256": "412bfc51772156e22eec6b826d7802143b080a01f0a057c7fd48f5a687736bb1",
       "history": [
+        {
+          "version": "1.0.2",
+          "changelog": "dadadadadadadada",
+          "published": "2026-09-06T17:32:43.057Z"
+        },
         {
           "version": "1.0.1",
           "changelog": "Updated hud to be removed",
