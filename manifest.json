@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-06T03:03:27.132Z",
+  "generated": "2026-09-06T03:43:18.489Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -494,14 +494,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "0594917073f2f0aa76f848379347cfb2d73bb5baa93378917774cc83cb10b49f",
+      "sourceSha256": "64ff513908c4525359649df74bf3057744510344123bffe1b87e171a74104b36",
       "scan": {
         "critical": 0,
-        "high": 105,
+        "high": 120,
         "low": 18,
         "medium": 226,
         "rules": "2026.08.19",
-        "summary": "105 high, 226 medium, 18 low"
+        "summary": "120 high, 226 medium, 18 low"
       },
       "settings": 0,
       "tags": [
@@ -514,20 +514,25 @@
         "Points / Economy",
         "Zombies / AI"
       ],
-      "changelog": "I HATE UPLOADING",
+      "changelog": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-06T03:03:26.827Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545992759737851939"
+        "at": "2026-09-06T03:43:18.208Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546002744391897123"
       },
       "id": "realism_mode",
-      "version": "1.1.19",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.19.cwm",
-      "size": 1812848,
-      "sha256": "6b056bb6c688a2a2721a28ed6b315986bbe27f42f31f403f60d25db2dc47253e",
+      "version": "1.1.20",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.20.cwm",
+      "size": 1831166,
+      "sha256": "728baf95c2d26523ea5511510342f6727fe1d9458ab55633926f824190123678",
       "history": [
+        {
+          "version": "1.1.20",
+          "changelog": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "published": "2026-09-06T03:43:18.208Z"
+        },
         {
           "version": "1.1.19",
           "changelog": "I HATE UPLOADING",
