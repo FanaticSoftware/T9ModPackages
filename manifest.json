@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-07T05:06:57.232Z",
+  "generated": "2026-09-07T05:17:53.735Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "3e2638bbb362dedee0c6f7b56ec3f02749a97519382ef6c7b6309372966ec9a5",
+      "sourceSha256": "c3562bba992e00b1a0026ffe589124d83938a1b1bd29c4e78133905f82b494e0",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "Mustang and Sally (W Figgle)",
+      "changelog": "bruhhhhhhhhhh",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-07T05:06:56.863Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546385636678836228"
+        "at": "2026-09-07T05:17:53.155Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546388951705587856"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.20",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.20.cwm",
-      "size": 1185475,
-      "sha256": "445f8b84aec345175cbc87ba731d19ce29efff7e15d7c1df4a1fbfd8b4b4dd19",
+      "version": "1.0.21",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.21.cwm",
+      "size": 1186282,
+      "sha256": "bd5099eec897fbccad37d3d60cd3c3987c4061991c7f416e701d8d45394a4fe1",
       "history": [
+        {
+          "version": "1.0.21",
+          "changelog": "bruhhhhhhhhhh",
+          "published": "2026-09-07T05:17:53.155Z"
+        },
         {
           "version": "1.0.20",
           "changelog": "Mustang and Sally (W Figgle)",
