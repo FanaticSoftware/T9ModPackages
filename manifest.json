@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-07T05:59:28.454Z",
+  "generated": "2026-09-07T20:56:10.128Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "2f8cd60c5a0fe9fce2e09f2256775c8902991373f2daaf20ae004f00a45544d3",
+      "sourceSha256": "f5d63f6881f4b34c0e17e5ce1ecd901fcbaff2d2dfff3236a3974a89b0cdd69c",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 18,
+        "medium": 28,
         "rules": "2026.08.19",
-        "summary": "18 medium"
+        "summary": "28 medium"
       },
       "settings": 0,
       "tags": [
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "double bruh! (ignore my ahh)",
+      "changelog": "weapon tests",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-07T05:20:31.349Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546389617153024005"
+        "at": "2026-09-07T20:56:09.774Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546625087812407362"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.22",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.22.cwm",
-      "size": 1185887,
-      "sha256": "ad611099c80700c0de67f6e3355823c599fd97a67ee09425fa95a1798562c2e6",
+      "version": "1.0.23",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.23.cwm",
+      "size": 1448239,
+      "sha256": "5529d850943cce8dd2fb862416238da3fea8169ff41626ef0e010647c235dc86",
       "history": [
+        {
+          "version": "1.0.23",
+          "changelog": "weapon tests",
+          "published": "2026-09-07T20:56:09.774Z"
+        },
         {
           "version": "1.0.22",
           "changelog": "double bruh! (ignore my ahh)",
