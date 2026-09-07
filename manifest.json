@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-07T03:51:47.835Z",
+  "generated": "2026-09-07T03:58:40.474Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -771,16 +771,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "bc755a30b0ace559d41d645cf1097b2be5ddce8b8f93d5ecb7e4f2c91716bbbc",
+      "sourceSha256": "a6e0575132014e1be817c42f6ee6491026a54bd415e9a1de81f264b7ed7c1cac",
       "scan": {
         "critical": 0,
         "high": 21,
-        "low": 28,
-        "medium": 349,
+        "low": 29,
+        "medium": 368,
         "rules": "2026.08.19",
-        "summary": "21 high, 349 medium, 28 low"
+        "summary": "21 high, 368 medium, 29 low"
       },
-      "settings": 70,
+      "settings": 68,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
@@ -791,20 +791,25 @@
         "Zombies / AI",
         "Bosses / Specials"
       ],
-      "changelog": "idontr fucsaklsjf;lkjnas",
+      "changelog": "fuckin idk",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-05T00:03:00.802Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1545584902345588851"
+        "at": "2026-09-07T03:58:40.125Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546368918321369122"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.7",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.7.cwm",
-      "size": 2540827,
-      "sha256": "ba6f5851ebdc3b2936f6c0975a7414ea334937d48ee2d1c91076816a5e156e27",
+      "version": "2.0.8",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.8.cwm",
+      "size": 2671695,
+      "sha256": "657abf72e13af36a91961c082e1d49583a170b8bc472f993156a4148a21c3738",
       "history": [
+        {
+          "version": "2.0.8",
+          "changelog": "fuckin idk",
+          "published": "2026-09-07T03:58:40.125Z"
+        },
         {
           "version": "2.0.7",
           "changelog": "idontr fucsaklsjf;lkjnas",
