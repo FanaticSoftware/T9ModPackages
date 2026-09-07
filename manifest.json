@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-07T20:56:10.128Z",
+  "generated": "2026-09-07T21:21:29.161Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "f5d63f6881f4b34c0e17e5ce1ecd901fcbaff2d2dfff3236a3974a89b0cdd69c",
+      "sourceSha256": "8c49232aef8603a6b717656d816388ba98af61c8f5cc2265c39dfcb50837da9c",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "weapon tests",
+      "changelog": "we lowk just spam updating twin",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-07T20:56:09.774Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546625087812407362"
+        "at": "2026-09-07T21:21:28.838Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546631482590761020"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.23",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.23.cwm",
-      "size": 1448239,
-      "sha256": "5529d850943cce8dd2fb862416238da3fea8169ff41626ef0e010647c235dc86",
+      "version": "1.0.24",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.24.cwm",
+      "size": 1448252,
+      "sha256": "5a2bdcace3ebabc30a966f75615818a46052f26ce121c11d905006b03bae74f3",
       "history": [
+        {
+          "version": "1.0.24",
+          "changelog": "we lowk just spam updating twin",
+          "published": "2026-09-07T21:21:28.838Z"
+        },
         {
           "version": "1.0.23",
           "changelog": "weapon tests",
