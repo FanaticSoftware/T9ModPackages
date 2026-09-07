@@ -1,7 +1,13 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T20:46:27.705Z",
+  "generated": "2026-09-07T13:46:17.289Z",
   "members": [
+    {
+      "id": "1214090251178352677",
+      "name": "Black Ops Furry War",
+      "username": "teaa_the_silliest",
+      "modder": true
+    },
     {
       "id": "243151432230895619",
       "name": "Fanatic",
@@ -18,12 +24,6 @@
       "id": "684408486456852481",
       "name": "SaintVertigo",
       "username": "saintvertigo",
-      "modder": true
-    },
-    {
-      "id": "1214090251178352677",
-      "name": "Teaa",
-      "username": "teaa_the_silliest",
       "modder": true
     }
   ]
