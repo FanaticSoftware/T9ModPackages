@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-06T21:06:25.674Z",
+  "generated": "2026-09-07T03:51:47.835Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -516,14 +516,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "64ff513908c4525359649df74bf3057744510344123bffe1b87e171a74104b36",
+      "sourceSha256": "1d71bb562fe89e98bdb837ae34081f0d9a66263df2405d5df70acc61ad26e37f",
       "scan": {
         "critical": 0,
-        "high": 120,
-        "low": 18,
-        "medium": 226,
+        "high": 124,
+        "low": 19,
+        "medium": 239,
         "rules": "2026.08.19",
-        "summary": "120 high, 226 medium, 18 low"
+        "summary": "124 high, 239 medium, 19 low"
       },
       "settings": 0,
       "tags": [
@@ -536,20 +536,25 @@
         "Points / Economy",
         "Zombies / AI"
       ],
-      "changelog": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "changelog": "apapapapapapapapapapapapapap",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-06T03:43:18.208Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546002744391897123"
+        "at": "2026-09-07T03:51:47.416Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546366827024748658"
       },
       "id": "realism_mode",
-      "version": "1.1.20",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.20.cwm",
-      "size": 1831166,
-      "sha256": "728baf95c2d26523ea5511510342f6727fe1d9458ab55633926f824190123678",
+      "version": "1.1.21",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.21.cwm",
+      "size": 1892166,
+      "sha256": "ea59f42c1b7e18feede969213064d6a0f225a2e8a517a1723234e2afc985263b",
       "history": [
+        {
+          "version": "1.1.21",
+          "changelog": "apapapapapapapapapapapapapap",
+          "published": "2026-09-07T03:51:47.416Z"
+        },
         {
           "version": "1.1.20",
           "changelog": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
