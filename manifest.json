@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-08T09:12:24.223Z",
+  "generated": "2026-09-08T16:39:55.607Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "8092764c0bd1c517e3ca9e26366f63d502a0b425d56b8acd00d46bd76a6e1e1e",
+      "sourceSha256": "a2c835510e81363d70ce7b608416e4f0f0032bb7ba39d0dc3e5f7317af11c1b1",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 30,
+        "medium": 25,
         "rules": "2026.08.19",
-        "summary": "30 medium"
+        "summary": "25 medium"
       },
       "settings": 0,
       "tags": [
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "rampage inducer modified",
+      "changelog": "Global enemy spawn changes, new weapon effects",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-08T09:12:23.780Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546810273061539865"
+        "at": "2026-09-08T16:39:55.289Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546923009036521516"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.25",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.25.cwm",
-      "size": 1466967,
-      "sha256": "b5a1162cff54c9c050336ffff1409d08cd95529c2128ab761595767e9793a2ea",
+      "version": "1.0.26",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.26.cwm",
+      "size": 1485815,
+      "sha256": "e1d6788dda8b3cf673a399f3b7a4874ac1689fe8eb55dfda88e75872696d6560",
       "history": [
+        {
+          "version": "1.0.26",
+          "changelog": "Global enemy spawn changes, new weapon effects",
+          "published": "2026-09-08T16:39:55.289Z"
+        },
         {
           "version": "1.0.25",
           "changelog": "rampage inducer modified",
