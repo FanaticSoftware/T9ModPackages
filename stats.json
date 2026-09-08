@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-07T06:16:20.873Z",
+  "generated": "2026-09-08T05:26:18.249Z",
   "mods": {
     "directors_cut": {
       "favorites": 3,
@@ -33,7 +33,7 @@
       }
     },
     "aetheria_unfinished_test_ver": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
@@ -120,7 +120,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 0,
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 5
