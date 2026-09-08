@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-07T21:21:29.161Z",
+  "generated": "2026-09-08T09:12:24.223Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "8c49232aef8603a6b717656d816388ba98af61c8f5cc2265c39dfcb50837da9c",
+      "sourceSha256": "8092764c0bd1c517e3ca9e26366f63d502a0b425d56b8acd00d46bd76a6e1e1e",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 28,
+        "medium": 30,
         "rules": "2026.08.19",
-        "summary": "28 medium"
+        "summary": "30 medium"
       },
       "settings": 0,
       "tags": [
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "we lowk just spam updating twin",
+      "changelog": "rampage inducer modified",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-07T21:21:28.838Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546631482590761020"
+        "at": "2026-09-08T09:12:23.780Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1546810273061539865"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.24",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.24.cwm",
-      "size": 1448252,
-      "sha256": "5a2bdcace3ebabc30a966f75615818a46052f26ce121c11d905006b03bae74f3",
+      "version": "1.0.25",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.25.cwm",
+      "size": 1466967,
+      "sha256": "b5a1162cff54c9c050336ffff1409d08cd95529c2128ab761595767e9793a2ea",
       "history": [
+        {
+          "version": "1.0.25",
+          "changelog": "rampage inducer modified",
+          "published": "2026-09-08T09:12:23.780Z"
+        },
         {
           "version": "1.0.24",
           "changelog": "we lowk just spam updating twin",
