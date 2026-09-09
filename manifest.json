@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T02:13:25.228Z",
+  "generated": "2026-09-09T18:45:57.432Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -534,11 +534,13 @@
       "thumbnailSha256": "636200605540cf544b8821737a93de8f7bd04e5f78a84b0f82a35d21c890f0ca",
       "collaborators": [
         "1214090251178352677",
-        "244657466783170560"
+        "244657466783170560",
+        "243151432230895619"
       ],
       "collaboratorNames": {
         "1214090251178352677": "Teaa",
-        "244657466783170560": "Figglebottom"
+        "244657466783170560": "Figglebottom",
+        "243151432230895619": "Fanatic"
       },
       "testerAccounts": {
         "684408486456852481": [
