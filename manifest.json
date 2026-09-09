@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T18:49:50.297Z",
+  "generated": "2026-09-09T21:52:41.163Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -725,16 +725,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "0efbf1013acf1f315d0c356973e7f0f7ba58209d74e6ba5e96092457db808ebe",
+      "sourceSha256": "199d1110a458699d62e66c323c0482c679475ad0bd016a67fe54341d26c7ebe2",
       "scan": {
         "critical": 0,
         "high": 21,
-        "low": 30,
-        "medium": 370,
+        "low": 31,
+        "medium": 369,
         "rules": "2026.08.19",
-        "summary": "21 high, 370 medium, 30 low"
+        "summary": "21 high, 369 medium, 31 low"
       },
-      "settings": 71,
+      "settings": 63,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
@@ -745,20 +745,25 @@
         "Zombies / AI",
         "Bosses / Specials"
       ],
-      "changelog": "Tyler Robert Bartyl will fall from this boss fight",
+      "changelog": "added sex",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-09T02:13:24.795Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1547067252615020545"
+        "at": "2026-09-09T21:52:40.781Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1547364050428629006"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.10",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.10.cwm",
-      "size": 2783110,
-      "sha256": "667829d6a0d9c1441fdc64332fbc2e704b9d05777328799cb874c9e0a3bb8f35",
+      "version": "2.0.11",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.11.cwm",
+      "size": 3092138,
+      "sha256": "ad035169db4680603f9042061221504eadc02c70bf2c20b3ef07373bed6fe3cf",
       "history": [
+        {
+          "version": "2.0.11",
+          "changelog": "added sex",
+          "published": "2026-09-09T21:52:40.781Z"
+        },
         {
           "version": "2.0.10",
           "changelog": "Tyler Robert Bartyl will fall from this boss fight",
