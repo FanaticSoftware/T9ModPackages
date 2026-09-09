@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T18:45:57.432Z",
+  "generated": "2026-09-09T18:49:40.473Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -421,51 +421,6 @@
         }
       ],
       "collaborators": []
-    },
-    {
-      "title": "Jingle Hells",
-      "description": "Enables the Jingle Hells event that was removed from the game.",
-      "author": {
-        "id": "243151432230895619",
-        "name": "fanaticsoftware"
-      },
-      "developer": true,
-      "thumbnail": null,
-      "sourceSha256": "40f4d092e2ea3513527451f37fd694a4c6d8e03a683ae88be0545942017459ea",
-      "scan": {
-        "critical": 0,
-        "high": 1,
-        "low": 0,
-        "medium": 0,
-        "rules": "2026.08.19",
-        "summary": "1 high"
-      },
-      "settings": 0,
-      "changelog": "Testing an update on a mod for my Discord Bot Host",
-      "highAlerts": [],
-      "approved": {
-        "by": "fanaticsoftware",
-        "byId": "243151432230895619",
-        "at": "2026-08-20T08:09:13.454Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1539909056582516780"
-      },
-      "id": "jingle_hells",
-      "version": "1.0.1",
-      "file": "mod_packages/jingle_hells/jingle_hells-1.0.1.cwm",
-      "size": 13384,
-      "sha256": "5a2b9631954e10626eba52aa11ebb7050b4a7ccf38b56b1d536b81271100ebed",
-      "history": [
-        {
-          "version": "1.0.1",
-          "changelog": "Testing an update on a mod for my Discord Bot Host",
-          "published": "2026-08-20T08:09:13.454Z"
-        },
-        {
-          "version": "1.0.0",
-          "changelog": "",
-          "published": "2026-08-19T18:28:30.710Z"
-        }
-      ]
     },
     {
       "title": "Onslaught Survival",

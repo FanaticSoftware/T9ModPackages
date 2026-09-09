@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "generated": "2026-09-09T18:49:40.473Z",
+  "drafts": [
+    {
+      "id": "jingle_hells",
+      "title": "Jingle Hells",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "collaborators": [],
+      "claimed": "2026-08-20T08:09:13.454Z",
+      "updated": "2026-09-09T18:49:40.473Z",
+      "unpublished": "2026-09-09T18:49:40.473Z",
+      "lastVersion": "1.0.1",
+      "unpublishedBy": "243151432230895619"
+    }
+  ]
+}
