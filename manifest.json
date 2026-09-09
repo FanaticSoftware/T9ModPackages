@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T00:29:32.926Z",
+  "generated": "2026-09-09T02:13:25.228Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -816,7 +816,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "94342acfc5964b33918294b0f64ed580136001d16eb5ff435a89d17e2517c0bb",
+      "sourceSha256": "0efbf1013acf1f315d0c356973e7f0f7ba58209d74e6ba5e96092457db808ebe",
       "scan": {
         "critical": 0,
         "high": 21,
@@ -836,20 +836,25 @@
         "Zombies / AI",
         "Bosses / Specials"
       ],
-      "changelog": "983098043280",
+      "changelog": "Tyler Robert Bartyl will fall from this boss fight",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-09T00:29:32.512Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1547041077662322782"
+        "at": "2026-09-09T02:13:24.795Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1547067252615020545"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.9",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.9.cwm",
-      "size": 2773515,
-      "sha256": "28183f13976e301d879ab243183df808299c1081e323b37440427c927f1b95bd",
+      "version": "2.0.10",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.10.cwm",
+      "size": 2783110,
+      "sha256": "667829d6a0d9c1441fdc64332fbc2e704b9d05777328799cb874c9e0a3bb8f35",
       "history": [
+        {
+          "version": "2.0.10",
+          "changelog": "Tyler Robert Bartyl will fall from this boss fight",
+          "published": "2026-09-09T02:13:24.795Z"
+        },
         {
           "version": "2.0.9",
           "changelog": "983098043280",
