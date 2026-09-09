@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T21:52:41.163Z",
+  "generated": "2026-09-09T22:17:36.039Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "a2c835510e81363d70ce7b608416e4f0f0032bb7ba39d0dc3e5f7317af11c1b1",
+      "sourceSha256": "048fb0b46e7049783a99e518873cfaf371b9d7601dfa2b4a9df523b7690a46ee",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 25,
+        "medium": 41,
         "rules": "2026.08.19",
-        "summary": "25 medium"
+        "summary": "41 medium"
       },
       "settings": 0,
       "tags": [
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "Global enemy spawn changes, new weapon effects",
+      "changelog": "weapon stuff and enemy balancing",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-08T16:39:55.289Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546923009036521516"
+        "at": "2026-09-09T22:17:35.471Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1547370196094943287"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.26",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.26.cwm",
-      "size": 1485815,
-      "sha256": "e1d6788dda8b3cf673a399f3b7a4874ac1689fe8eb55dfda88e75872696d6560",
+      "version": "1.0.27",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.27.cwm",
+      "size": 1604837,
+      "sha256": "56da3764e51ad7d9cac4f27cb73248face00e026889dcbc925e7e075acef6401",
       "history": [
+        {
+          "version": "1.0.27",
+          "changelog": "weapon stuff and enemy balancing",
+          "published": "2026-09-09T22:17:35.471Z"
+        },
         {
           "version": "1.0.26",
           "changelog": "Global enemy spawn changes, new weapon effects",
