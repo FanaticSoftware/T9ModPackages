@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T18:49:40.473Z",
+  "generated": "2026-09-09T18:49:50.297Z",
   "drafts": [
     {
       "id": "jingle_hells",
@@ -14,6 +14,20 @@
       "updated": "2026-09-09T18:49:40.473Z",
       "unpublished": "2026-09-09T18:49:40.473Z",
       "lastVersion": "1.0.1",
+      "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "the_haunting",
+      "title": "The Haunting",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "collaborators": [],
+      "claimed": "2026-08-19T18:02:42.878Z",
+      "updated": "2026-09-09T18:49:50.297Z",
+      "unpublished": "2026-09-09T18:49:50.297Z",
+      "lastVersion": "1.0.0",
       "unpublishedBy": "243151432230895619"
     }
   ]
