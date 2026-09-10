@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-10T20:38:33.737Z",
+  "generated": "2026-09-10T20:46:11.921Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "further adjustments to some enemies, mustang and sally update",
+      "changelog": "tf happened to the thumbnail",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-10T20:38:33.423Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1547707749775708265"
+        "at": "2026-09-10T20:46:11.595Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1547709758071382127"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.33",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.33.cwm",
-      "size": 1196031,
-      "sha256": "06bb261d6c466b0b96dfcb7b9af5cdb470d3f2971fb7ca26a2dc345b1e77720f",
+      "version": "1.0.34",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.34.cwm",
+      "size": 1615385,
+      "sha256": "c3daff247382dde4e7b79fe34387b4624ba109a9c0f37ddd7ef904172d32d18f",
       "history": [
+        {
+          "version": "1.0.34",
+          "changelog": "tf happened to the thumbnail",
+          "published": "2026-09-10T20:46:11.595Z"
+        },
         {
           "version": "1.0.33",
           "changelog": "further adjustments to some enemies, mustang and sally update",
@@ -217,7 +222,7 @@
         }
       ],
       "thumbnail": "mod_packages/aetheria_unfinished_test_ver/thumbnail.png",
-      "thumbnailSha256": "636200605540cf544b8821737a93de8f7bd04e5f78a84b0f82a35d21c890f0ca",
+      "thumbnailSha256": "1f5146915ac0c9ee47cc88b53ec994bde6300aa90a54308279e98b9514173948",
       "collaborators": []
     },
     {
