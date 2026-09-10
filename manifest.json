@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-10T06:31:38.191Z",
+  "generated": "2026-09-10T09:46:04.611Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9b2b3733d0a5bbaf85e551de369cd170d58769c6628f54219bc026d00f385a7e",
+      "sourceSha256": "213c2c7f1b1337f883609317faa38fd79b2ba8ac9234ea2d5b5e7826c74ffe54",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "I KEEP FORGETTING TO TURN OFF DEBUGS OMG",
+      "changelog": "fixed mangler health adjustments and some other things",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-10T06:31:37.781Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1547494692747214912"
+        "at": "2026-09-10T09:46:04.229Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1547543561459863557"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.30",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.30.cwm",
-      "size": 1615673,
-      "sha256": "72cd823fdf7ebde7e800652e150fdc5ea4b9992d211c1e09ecb886ddb2a74788",
+      "version": "1.0.31",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.31.cwm",
+      "size": 1615413,
+      "sha256": "8d5905b747ac5e1fa8d1f45c3e16e4f55dc622f17a862312bdeed408f938c6f6",
       "history": [
+        {
+          "version": "1.0.31",
+          "changelog": "fixed mangler health adjustments and some other things",
+          "published": "2026-09-10T09:46:04.229Z"
+        },
         {
           "version": "1.0.30",
           "changelog": "I KEEP FORGETTING TO TURN OFF DEBUGS OMG",
