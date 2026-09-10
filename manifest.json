@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-10T04:02:11.819Z",
+  "generated": "2026-09-10T06:29:27.408Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "8a6726218432b6c1e22224a56177783b4f44caee63b90483042b4f0544f93eab",
+      "sourceSha256": "746e7ae33188c8686d3a9e52cefac8ae9213b36069d2de0107914c8079064412",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 41,
+        "medium": 43,
         "rules": "2026.08.19",
-        "summary": "41 medium"
+        "summary": "43 medium"
       },
       "settings": 0,
       "tags": [
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "bruuuuuuuuuuuuh",
+      "changelog": "kkkkkkkkkkkkkkkkkkkk",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-09T22:20:20.974Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1547371045244379243"
+        "at": "2026-09-10T06:29:26.795Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1547493910945861656"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.28",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.28.cwm",
-      "size": 1604818,
-      "sha256": "1930968aac70ae2c2c6fa9b5ada83b9836cd7d11426d777b406b4da3053800fd",
+      "version": "1.0.29",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.29.cwm",
+      "size": 1615651,
+      "sha256": "39b43359a8a46c1f668bbcd8cbae0e07b350e4ca88ade63fc4d108880246feb3",
       "history": [
+        {
+          "version": "1.0.29",
+          "changelog": "kkkkkkkkkkkkkkkkkkkk",
+          "published": "2026-09-10T06:29:26.795Z"
+        },
         {
           "version": "1.0.28",
           "changelog": "bruuuuuuuuuuuuh",
