@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-11T07:05:23.394Z",
+  "generated": "2026-09-13T09:45:33.048Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "eafaac62708145ce235ea7b68650c2727dfe2c3891cfff8b0ebb36f8f5b21f32",
+      "sourceSha256": "a613e6b1bb0c1f81f4d1185543a379dfd85251983f72d8988a61d50223fc7b58",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 43,
+        "medium": 45,
         "rules": "2026.08.19",
-        "summary": "43 medium"
+        "summary": "45 medium"
       },
       "settings": 0,
       "tags": [
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "mangler and mimic adjustments, rampage inducer adjustments, weapon adjustments",
+      "changelog": "gjslgljhsdgljhsdkljkhgdsljkhgdsjlkhgdagljkhda",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-11T07:05:23.081Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1547865515022884909"
+        "at": "2026-09-13T09:45:32.760Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1548630644655919199"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.35",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.35.cwm",
-      "size": 1615537,
-      "sha256": "0dbb8d110da67221d160d59131f167cc88ee50812d96680d7b3e9769a3357f19",
+      "version": "1.0.36",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.36.cwm",
+      "size": 1620520,
+      "sha256": "78396ebfb06a8c75241de45da2d6caa4c2ecad22fd28649f2f5b4da719bce289",
       "history": [
+        {
+          "version": "1.0.36",
+          "changelog": "gjslgljhsdgljhsdkljkhgdsljkhgdsjlkhgdagljkhda",
+          "published": "2026-09-13T09:45:32.760Z"
+        },
         {
           "version": "1.0.35",
           "changelog": "mangler and mimic adjustments, rampage inducer adjustments, weapon adjustments",
