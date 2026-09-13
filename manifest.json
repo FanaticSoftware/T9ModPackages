@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-13T13:05:14.718Z",
+  "generated": "2026-09-13T13:06:25.584Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -233,8 +233,13 @@
       ],
       "thumbnail": "mod_packages/aetheria_unfinished_test_ver/thumbnail.png",
       "thumbnailSha256": "1f5146915ac0c9ee47cc88b53ec994bde6300aa90a54308279e98b9514173948",
-      "collaborators": [],
-      "collaboratorsCanSubmit": true
+      "collaborators": [
+        "243151432230895619"
+      ],
+      "collaboratorsCanSubmit": true,
+      "collaboratorNames": {
+        "243151432230895619": "Fanatic"
+      }
     },
     {
       "title": "Boss Rush",
