@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-14T22:26:38.903Z",
+  "generated": "2026-09-14T23:01:53.056Z",
   "drafts": [
     {
       "id": "jingle_hells",
@@ -23,9 +23,14 @@
         "id": "243151432230895619",
         "name": "fanaticsoftware"
       },
-      "collaborators": [],
+      "collaborators": [
+        "244657466783170560"
+      ],
       "claimed": "2026-09-14T22:24:57.525Z",
-      "updated": "2026-09-14T22:24:57.525Z"
+      "updated": "2026-09-14T22:24:57.525Z",
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      }
     },
     {
       "id": "the_haunting",
