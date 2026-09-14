@@ -1,35 +1,12 @@
 {
   "schema": 1,
-  "generated": "2026-09-09T02:16:15.749Z",
+  "generated": "2026-09-14T20:52:49.335Z",
   "mods": {
     "directors_cut": {
       "favorites": 3,
       "rating": {
         "count": 3,
         "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 3,
-            "average": 5
-          }
-        }
-      }
-    },
-    "the_haunting": {
-      "favorites": 3,
-      "rating": {
-        "count": 2,
-        "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 2,
-            "average": 5
-          }
-        }
       }
     },
     "aetheria_unfinished_test_ver": {
@@ -37,29 +14,6 @@
       "rating": {
         "count": 1,
         "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
-      }
-    },
-    "jingle_hells": {
-      "favorites": 1,
-      "rating": {
-        "count": 1,
-        "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     },
     "boss_rush": {
@@ -67,14 +21,6 @@
       "rating": {
         "count": 1,
         "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     },
     "doom_mode": {
@@ -82,41 +28,13 @@
       "rating": {
         "count": 2,
         "average": 5
-      },
-      "versions": {
-        "1.0.1": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        },
-        "1.0.2": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     },
     "zm_classic_beta": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 2,
         "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        },
-        "2.0.8": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     },
     "onslaught_survival": {
@@ -124,14 +42,6 @@
       "rating": {
         "count": 1,
         "average": 5
-      },
-      "versions": {
-        "1.0.0": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     },
     "holiday_events": {
@@ -139,20 +49,6 @@
       "rating": {
         "count": 2,
         "average": 5
-      },
-      "versions": {
-        "1.0.1": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        },
-        "1.0.0": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     },
     "realism_mode": {
@@ -160,14 +56,6 @@
       "rating": {
         "count": 1,
         "average": 5
-      },
-      "versions": {
-        "1.1.9": {
-          "rating": {
-            "count": 1,
-            "average": 5
-          }
-        }
       }
     }
   }
