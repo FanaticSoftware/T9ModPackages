@@ -1,14 +1,5 @@
 {
   "schema": 1,
-  "generated": "2026-09-14T22:26:52.073Z",
-  "invites": [
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "mod": "test_project_a44489",
-      "title": "Test Project",
-      "ownerId": "243151432230895619",
-      "ownerName": "fanaticsoftware",
-      "at": "2026-09-14T22:26:52.073Z"
-    }
-  ]
+  "generated": "2026-09-14T23:01:49.431Z",
+  "invites": []
 }
