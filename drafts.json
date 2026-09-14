@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-14T22:26:34.256Z",
+  "generated": "2026-09-14T22:26:38.903Z",
   "drafts": [
     {
       "id": "jingle_hells",
@@ -25,8 +25,7 @@
       },
       "collaborators": [],
       "claimed": "2026-09-14T22:24:57.525Z",
-      "updated": "2026-09-14T22:24:57.525Z",
-      "collaboratorsCanSubmit": true
+      "updated": "2026-09-14T22:24:57.525Z"
     },
     {
       "id": "the_haunting",
