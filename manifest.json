@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-15T17:07:53.699Z",
+  "generated": "2026-09-15T20:03:18.297Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -557,7 +557,8 @@
         "684408486456852481": [
           "790835014941a647"
         ]
-      }
+      },
+      "collaboratorsCanSubmit": true
     },
     {
       "title": "Realism Mode",
