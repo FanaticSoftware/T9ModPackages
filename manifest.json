@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-15T20:03:18.297Z",
+  "generated": "2026-09-15T20:06:26.562Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -488,14 +488,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "5e0b2600dcf0d3a48baa63616176f524b42211b1ab84321ab31e3958b0cb10cb",
+      "sourceSha256": "68098c61dafd92b30f18b6487124601d9be0694cd548f918a7d43fd761518af7",
       "scan": {
         "critical": 0,
         "high": 9,
         "low": 3,
-        "medium": 40,
+        "medium": 66,
         "rules": "2026.08.19",
-        "summary": "9 high, 40 medium, 3 low"
+        "summary": "9 high, 66 medium, 3 low"
       },
       "settings": 1,
       "tags": [
@@ -506,20 +506,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "i hate tea",
+      "changelog": "eqweqweqweqwe",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-07T05:59:28.128Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1546399298172751886"
+        "at": "2026-09-15T20:06:26.190Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1549511610509434930"
       },
       "id": "onslaught_survival",
-      "version": "1.0.3",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.3.cwm",
-      "size": 683141,
-      "sha256": "a9147ffa0311725672c1b48983333d96f4080472958dd2b8eb0ace292d6208c8",
+      "version": "1.0.4",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.4.cwm",
+      "size": 733204,
+      "sha256": "f278329a318f75c58b7ed7c2eb48973f5e9029e7c1983c36c0b06db4cb77b852",
       "history": [
+        {
+          "version": "1.0.4",
+          "changelog": "eqweqweqweqwe",
+          "published": "2026-09-15T20:06:26.190Z"
+        },
         {
           "version": "1.0.3",
           "changelog": "i hate tea",
