@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-15T20:06:26.562Z",
+  "generated": "2026-09-15T20:06:32.013Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "a613e6b1bb0c1f81f4d1185543a379dfd85251983f72d8988a61d50223fc7b58",
+      "sourceSha256": "e5bf0f2075ad02e7e6054b79d42a54b9af2bc774538ea229766aadb3b0e56d00",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -31,20 +31,25 @@
         "Round-Based Maps",
         "Onslaught"
       ],
-      "changelog": "gjslgljhsdgljhsdkljkhgdsljkhgdsjlkhgdagljkhda",
+      "changelog": "my balls itch",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-13T09:45:32.760Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1548630644655919199"
+        "at": "2026-09-15T20:06:31.630Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1549511571259134064"
       },
       "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.36",
-      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.36.cwm",
-      "size": 1620520,
-      "sha256": "78396ebfb06a8c75241de45da2d6caa4c2ecad22fd28649f2f5b4da719bce289",
+      "version": "1.0.37",
+      "file": "mod_packages/aetheria_unfinished_test_ver/aetheria_unfinished_test_ver-1.0.37.cwm",
+      "size": 1663024,
+      "sha256": "94fb919305d77bebd5b030d89d0cde45ea1fcedb3191279e9e03b3163b1e49fc",
       "history": [
+        {
+          "version": "1.0.37",
+          "changelog": "my balls itch",
+          "published": "2026-09-15T20:06:31.630Z"
+        },
         {
           "version": "1.0.36",
           "changelog": "gjslgljhsdgljhsdkljkhgdsljkhgdsjlkhgdagljkhda",
@@ -236,10 +241,10 @@
       "collaborators": [
         "243151432230895619"
       ],
-      "collaboratorsCanSubmit": true,
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
-      }
+      },
+      "collaboratorsCanSubmit": true
     },
     {
       "title": "Boss Rush",
