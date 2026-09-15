@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-15T20:03:25.180Z",
+  "generated": "2026-09-15T20:03:26.787Z",
   "notices": [
+    {
+      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
+      "status": "collab",
+      "mod": "Onslaught Survival",
+      "id": "onslaught_survival",
+      "version": null,
+      "reason": "The owner of **Onslaught Survival** now allows co-authors to submit new versions. SUBMIT MOD in your launcher can send one; it is reviewed as usual and published under the owner's name.",
+      "by": "",
+      "at": "2026-09-15T20:03:26.620Z"
+    },
     {
       "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
       "status": "collab",
