@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-16T07:30:22.408Z",
+  "generated": "2026-09-16T20:21:16.138Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -805,14 +805,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "158520d98a059ec3dd18b3cd865e620f01ae5cb20084b31f85e853a983b7148f",
+      "sourceSha256": "4cb85173b4c638600298c603579e056b823285fa2a6b2db6b96433f56ecb8e9c",
       "scan": {
         "critical": 0,
-        "high": 21,
-        "low": 32,
-        "medium": 399,
+        "high": 23,
+        "low": 34,
+        "medium": 456,
         "rules": "2026.08.19",
-        "summary": "21 high, 399 medium, 32 low"
+        "summary": "23 high, 456 medium, 34 low"
       },
       "settings": 63,
       "tags": [
@@ -825,20 +825,25 @@
         "Zombies / AI",
         "Bosses / Specials"
       ],
-      "changelog": "ignore these change notes lol",
+      "changelog": "Final before release hopefully, still need to test Forsaken",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-15T17:07:53.289Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1549326889800175630"
+        "at": "2026-09-16T20:21:15.355Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1549877756014104720"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.14",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.14.cwm",
-      "size": 3330944,
-      "sha256": "5303d565b1839f7d55daf3ebb474649ba2a4be7d880df50bd74eaa098023a03b",
+      "version": "2.0.15",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.15.cwm",
+      "size": 3653698,
+      "sha256": "9018ea7d1710ab2e80e446887437ebb5b5ecf25fb49ea2aad96b79c5fc1bd3ac",
       "history": [
+        {
+          "version": "2.0.15",
+          "changelog": "Final before release hopefully, still need to test Forsaken",
+          "published": "2026-09-16T20:21:15.355Z"
+        },
         {
           "version": "2.0.14",
           "changelog": "ignore these change notes lol",
