@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-15T20:06:32.013Z",
+  "generated": "2026-09-16T07:20:20.233Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -491,9 +491,12 @@
         "id": "684408486456852481",
         "name": "saintvertigo"
       },
-      "publishedBy": null,
+      "publishedBy": {
+        "id": "1214090251178352677",
+        "name": "TheTeaa"
+      },
       "developer": true,
-      "sourceSha256": "68098c61dafd92b30f18b6487124601d9be0694cd548f918a7d43fd761518af7",
+      "sourceSha256": "1aba0524ef5c1da610149fdcb94519ddf5b96c95de9fc924f1f060d6796798d2",
       "scan": {
         "critical": 0,
         "high": 9,
@@ -511,20 +514,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "eqweqweqweqwe",
+      "changelog": "fixed some things",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-09-15T20:06:26.190Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1549511610509434930"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-09-16T07:20:19.895Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1549681144377778258"
       },
       "id": "onslaught_survival",
-      "version": "1.0.4",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.4.cwm",
-      "size": 733204,
-      "sha256": "f278329a318f75c58b7ed7c2eb48973f5e9029e7c1983c36c0b06db4cb77b852",
+      "version": "1.0.5",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.5.cwm",
+      "size": 730207,
+      "sha256": "56ef9d37809458551e5434d53d815f8257c5a48eb323a7ed0ec38ec2d8fe5d03",
       "history": [
+        {
+          "version": "1.0.5",
+          "changelog": "fixed some things",
+          "published": "2026-09-16T07:20:19.895Z"
+        },
         {
           "version": "1.0.4",
           "changelog": "eqweqweqweqwe",
