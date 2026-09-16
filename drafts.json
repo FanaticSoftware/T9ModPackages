@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-16T20:29:36.094Z",
+  "generated": "2026-09-16T20:31:25.318Z",
   "drafts": [
     {
       "id": "jingle_hells",
@@ -15,6 +15,17 @@
       "unpublished": "2026-09-09T18:49:40.473Z",
       "lastVersion": "1.0.1",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "test_mod_57ab83",
+      "title": "Test Mod",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-16T20:31:25.318Z",
+      "updated": "2026-09-16T20:31:25.318Z"
     },
     {
       "id": "test_project_a44489",
