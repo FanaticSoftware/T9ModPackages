@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-16T20:33:03.891Z",
+  "generated": "2026-09-16T20:41:44.262Z",
   "drafts": [
     {
       "id": "jingle_hells",
@@ -23,9 +23,14 @@
         "id": "244657466783170560",
         "name": "illuminatidonut"
       },
-      "collaborators": [],
+      "collaborators": [
+        "243151432230895619"
+      ],
       "claimed": "2026-09-16T20:33:03.891Z",
-      "updated": "2026-09-16T20:33:03.891Z"
+      "updated": "2026-09-16T20:33:03.891Z",
+      "collaboratorNames": {
+        "243151432230895619": "Fanatic"
+      }
     },
     {
       "id": "test_mod_57ab83",
