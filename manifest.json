@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-16T20:21:16.138Z",
+  "generated": "2026-09-17T03:05:03.676Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -805,16 +805,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "4cb85173b4c638600298c603579e056b823285fa2a6b2db6b96433f56ecb8e9c",
+      "sourceSha256": "609658af00b2d4a570acdae549e79f1a614ecf53cd134ff364eb7a052751d000",
       "scan": {
         "critical": 0,
         "high": 23,
-        "low": 34,
-        "medium": 456,
+        "low": 35,
+        "medium": 467,
         "rules": "2026.08.19",
-        "summary": "23 high, 456 medium, 34 low"
+        "summary": "23 high, 467 medium, 35 low"
       },
-      "settings": 63,
+      "settings": 64,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
@@ -825,20 +825,25 @@
         "Zombies / AI",
         "Bosses / Specials"
       ],
-      "changelog": "Final before release hopefully, still need to test Forsaken",
+      "changelog": "idkasdasfd",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-16T20:21:15.355Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1549877756014104720"
+        "at": "2026-09-17T03:05:02.872Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1549979336260587574"
       },
       "id": "zm_classic_beta",
-      "version": "2.0.15",
-      "file": "mod_packages/zm_classic_beta/zm_classic_beta-2.0.15.cwm",
-      "size": 3653698,
-      "sha256": "9018ea7d1710ab2e80e446887437ebb5b5ecf25fb49ea2aad96b79c5fc1bd3ac",
+      "version": "20260917-030316",
+      "file": "mod_packages/zm_classic_beta/zm_classic_beta-20260917-030316.cwm",
+      "size": 3695572,
+      "sha256": "99d4f9323af35c291c36ea1b4bfa58458d821860b08d2a121a7c145fb6830e42",
       "history": [
+        {
+          "version": "20260917-030316",
+          "changelog": "idkasdasfd",
+          "published": "2026-09-17T03:05:02.872Z"
+        },
         {
           "version": "2.0.15",
           "changelog": "Final before release hopefully, still need to test Forsaken",
