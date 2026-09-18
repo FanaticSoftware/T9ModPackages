@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T23:23:04.014Z",
+  "generated": "2026-09-18T23:45:22.806Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -612,7 +612,7 @@
     },
     {
       "title": "T9 Bots",
-      "description": "AI teammates for Zombies!",
+      "description": "AI teammates for Zombies! You must load into a private match (not solo) in order for the mod to work.",
       "author": {
         "discordName": "illuminatidonut",
         "id": "244657466783170560",
@@ -634,20 +634,25 @@
         "Zombies / AI",
         "All Maps"
       ],
-      "changelog": "",
+      "changelog": "Changed description",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-18T23:23:03.784Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550648289387483190"
+        "at": "2026-09-18T23:45:22.473Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550653932542361726"
       },
       "id": "t9_bots",
-      "version": "20260918-232230",
-      "file": "mod_packages/t9_bots/t9_bots-20260918-232230.cwm",
-      "size": 2445085,
-      "sha256": "5baa7a2361c5c82a211e19e23d2e29433396d972bd4e30f2d9100acbd27695dd",
+      "version": "20260918-234501",
+      "file": "mod_packages/t9_bots/t9_bots-20260918-234501.cwm",
+      "size": 2445236,
+      "sha256": "41999cff00a0d7fb058b066749b2f2c18c8bf94aa0fde1509495a0151ca217b6",
       "history": [
+        {
+          "version": "20260918-234501",
+          "changelog": "Changed description",
+          "published": "2026-09-18T23:45:22.473Z"
+        },
         {
           "version": "20260918-232230",
           "changelog": "",
