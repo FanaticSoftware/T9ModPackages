@@ -1,18 +1,11 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T22:16:27.195Z",
+  "generated": "2026-09-18T22:26:27.258Z",
   "mods": {
     "directors_cut": {
       "favorites": 3,
       "rating": {
         "count": 3,
-        "average": 5
-      }
-    },
-    "aetheria_unfinished_test_ver": {
-      "favorites": 2,
-      "rating": {
-        "count": 1,
         "average": 5
       }
     },
@@ -56,13 +49,6 @@
       "rating": {
         "count": 1,
         "average": 5
-      }
-    },
-    "aetheria": {
-      "favorites": 1,
-      "rating": {
-        "count": 0,
-        "average": 0
       }
     }
   }
