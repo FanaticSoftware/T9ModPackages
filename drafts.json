@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T22:35:07.936Z",
+  "generated": "2026-09-18T23:23:04.014Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -35,22 +35,6 @@
       "unpublished": "2026-09-09T18:49:40.473Z",
       "lastVersion": "1.0.1",
       "unpublishedBy": "243151432230895619"
-    },
-    {
-      "id": "t9_bots",
-      "title": "T9 Bots",
-      "author": {
-        "id": "244657466783170560",
-        "name": "illuminatidonut"
-      },
-      "collaborators": [
-        "243151432230895619"
-      ],
-      "claimed": "2026-09-16T20:33:03.891Z",
-      "updated": "2026-09-16T20:33:03.891Z",
-      "collaboratorNames": {
-        "243151432230895619": "Fanatic"
-      }
     },
     {
       "id": "test_mod_57ab83",

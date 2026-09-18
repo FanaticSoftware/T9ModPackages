@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T22:35:07.936Z",
+  "generated": "2026-09-18T23:23:04.014Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -608,6 +608,59 @@
         "684408486456852481": [
           "790835014941a647"
         ]
+      }
+    },
+    {
+      "title": "T9 Bots",
+      "description": "AI teammates for Zombies!",
+      "author": {
+        "discordName": "illuminatidonut",
+        "id": "244657466783170560",
+        "name": "Figglebottom"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "6dd57bc413bfae7ca1528c2293737013a139ef78c03eed8113e97d87ef4e1973",
+      "scan": {
+        "critical": 0,
+        "high": 7,
+        "low": 12,
+        "medium": 88,
+        "rules": "2026.08.19",
+        "summary": "7 high, 88 medium, 12 low"
+      },
+      "settings": 14,
+      "tags": [
+        "Zombies / AI",
+        "All Maps"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-18T23:23:03.784Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550648289387483190"
+      },
+      "id": "t9_bots",
+      "version": "20260918-232230",
+      "file": "mod_packages/t9_bots/t9_bots-20260918-232230.cwm",
+      "size": 2445085,
+      "sha256": "5baa7a2361c5c82a211e19e23d2e29433396d972bd4e30f2d9100acbd27695dd",
+      "history": [
+        {
+          "version": "20260918-232230",
+          "changelog": "",
+          "published": "2026-09-18T23:23:03.784Z"
+        }
+      ],
+      "thumbnail": "mod_packages/t9_bots/thumbnail.png",
+      "thumbnailSha256": "1879793ed681e5b4d56b416e35b01494600687026a67afa497cd46190f0ddc3a",
+      "collaborators": [
+        "243151432230895619"
+      ],
+      "collaboratorNames": {
+        "243151432230895619": "Fanatic"
       }
     },
     {
