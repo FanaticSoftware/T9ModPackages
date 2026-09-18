@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T08:15:47.632Z",
+  "generated": "2026-09-18T16:50:03.903Z",
   "packages": [
     {
       "title": "Aetheria (Unfinished Test Ver)",
@@ -485,7 +485,7 @@
     },
     {
       "title": "Onslaught Survival",
-      "description": "Makes onslaught into a survival game mode",
+      "description": "Transforms Onslaught maps into a round based survival, fit with a mystery box, armor station, wunderfizz and a pack a punch machine on all maps. Each map has its own set of enemy types too! (Collateral map not supported)",
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
@@ -496,7 +496,7 @@
         "name": "TheTeaa"
       },
       "developer": true,
-      "sourceSha256": "1e3bc34e11e7d296486880ddf7b025c0e5e918b511ee34f160e5a3d5e63225dd",
+      "sourceSha256": "4fbd0903ba998e85adc24ca6627b3f5539e774a74ae50f2d4a8c22103d5b8cc5",
       "scan": {
         "critical": 0,
         "high": 9,
@@ -514,20 +514,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "whoops-",
+      "changelog": "Final version, I aint working on it no more unless bug fix",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-16T07:30:22.096Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1549683745362026540"
+        "at": "2026-09-18T16:50:03.605Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550549400156246106"
       },
       "id": "onslaught_survival",
-      "version": "1.0.6",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.6.cwm",
-      "size": 730105,
-      "sha256": "6b5766df6f43f6b706460552febb607953ed880beb2ee81f68ce57db1f46ea44",
+      "version": "1.0.7",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.7.cwm",
+      "size": 1756778,
+      "sha256": "e5bea6397ef700e79e24626e81fb38394e0b6b55c8defc36f4837177f0ba3bea",
       "history": [
+        {
+          "version": "1.0.7",
+          "changelog": "Final version, I aint working on it no more unless bug fix",
+          "published": "2026-09-18T16:50:03.605Z"
+        },
         {
           "version": "1.0.6",
           "changelog": "whoops-",
@@ -565,7 +570,7 @@
         }
       ],
       "thumbnail": "mod_packages/onslaught_survival/thumbnail.png",
-      "thumbnailSha256": "636200605540cf544b8821737a93de8f7bd04e5f78a84b0f82a35d21c890f0ca",
+      "thumbnailSha256": "78243fb06e4f21097bb70315e4ab674543898a08d7998bc8bd4a4f1f04a746ba",
       "collaborators": [
         "1214090251178352677",
         "244657466783170560",
