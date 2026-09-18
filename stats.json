@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-17T02:49:31.766Z",
+  "generated": "2026-09-18T08:26:28.852Z",
   "mods": {
     "directors_cut": {
       "favorites": 3,
@@ -30,13 +30,6 @@
         "average": 5
       }
     },
-    "zm_classic_beta": {
-      "favorites": 3,
-      "rating": {
-        "count": 2,
-        "average": 5
-      }
-    },
     "onslaught_survival": {
       "favorites": 1,
       "rating": {
@@ -53,6 +46,13 @@
     },
     "realism_mode": {
       "favorites": 1,
+      "rating": {
+        "count": 1,
+        "average": 5
+      }
+    },
+    "zm_classic": {
+      "favorites": 0,
       "rating": {
         "count": 1,
         "average": 5
