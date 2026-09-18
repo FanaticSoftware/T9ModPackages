@@ -1,7 +1,61 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T22:19:02.323Z",
+  "generated": "2026-09-18T22:35:07.936Z",
   "packages": [
+    {
+      "title": "Aetheria",
+      "description": "Aetheria is essentially a more difficult yet more refreshing mod of Cold War Zombies. This mod adds all applicable enemy types to every map including Onslaught maps, with increasing swarms of their numbers thwarting you. it also adds unique pack a punch effects to weapons and the Vanguard covenant system, along with much more QoL changes and additions. Will add more covenant effects to it soon!",
+      "author": {
+        "discordName": "teaa_the_silliest",
+        "id": "1214090251178352677",
+        "name": "TheTeaa"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "3a6eaf48efde00c8cd78306c580a8192233e8cc837a677fb4bf5e14b6596a74f",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 52,
+        "rules": "2026.08.19",
+        "summary": "52 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Wonder Weapons",
+        "Pack-a-Punch",
+        "Zombies / AI",
+        "Round-Based Maps",
+        "Onslaught",
+        "Hard"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-09-18T22:35:07.648Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550632922489552960"
+      },
+      "id": "aetheria",
+      "version": "1.0.0",
+      "file": "mod_packages/aetheria/aetheria-1.0.0.cwm",
+      "size": 2557475,
+      "sha256": "aa76acaaa1b5eaa274c8a5a761d90f352aa7e78657eecce43e22d2802531c139",
+      "history": [
+        {
+          "version": "1.0.0",
+          "changelog": "",
+          "published": "2026-09-18T22:35:07.648Z"
+        }
+      ],
+      "thumbnail": "mod_packages/aetheria/thumbnail.png",
+      "thumbnailSha256": "ccbb3e6d720320aaf7ebcb9bf1184866218586eb982161a99e1c1b9769a0bfbf",
+      "collaborators": []
+    },
     {
       "title": "Boss Rush",
       "description": "Drops you straight into the Boss Fight on whichever Cold War zombies map is loaded. Auto-detects Firebase Z, Die Maschine, Mauer der Toten and Forsaken. Outbreak is broken atm, trying to add supprt.",

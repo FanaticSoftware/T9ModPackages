@@ -1,21 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T22:19:02.323Z",
+  "generated": "2026-09-18T22:35:07.936Z",
   "drafts": [
-    {
-      "id": "aetheria",
-      "title": "Aetheria",
-      "author": {
-        "id": "1214090251178352677",
-        "name": "TheTeaa"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-18T22:11:43.005Z",
-      "updated": "2026-09-18T22:17:01.337Z",
-      "unpublished": "2026-09-18T22:17:01.337Z",
-      "lastVersion": "1.2",
-      "unpublishedBy": "1214090251178352677"
-    },
     {
       "id": "aetheria_unfinished_test_ver",
       "title": "Aetheria (Unfinished Test Ver)",
