@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T22:56:28.492Z",
+  "generated": "2026-09-19T23:06:28.583Z",
   "mods": {
     "directors_cut": {
       "favorites": 18,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
@@ -31,21 +31,21 @@
       }
     },
     "realism_mode": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 47,
+      "favorites": 51,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
