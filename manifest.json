@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:50:30.185Z",
+  "generated": "2026-09-19T09:53:58.117Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -125,6 +125,70 @@
         "244657466783170560": "Figglebottom"
       },
       "collaboratorsCanSubmit": true
+    },
+    {
+      "title": "Director's Cut",
+      "description": "Adds the Super Easter Egg Reward from Infinite Warfare Zombies!\n\nStart with All Perks, keep Perks when revived (except Quick Revive in solo), 25,000 points, and all guns Pack-a-Punched to Tier 3 with Gold Rarity from the Mystery Box and Wall Buys!",
+      "author": {
+        "discordName": "fanaticsoftware",
+        "id": "243151432230895619",
+        "name": "Fanatic"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "e5de82f4ba8df961efe7d4d48f6e86f84080648fa8d79fc16fd93b0eea8a09dc",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.19",
+        "summary": "25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Weapons",
+        "Wonder Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Mystery Box",
+        "Wall Buys",
+        "Points / Economy",
+        "Armor / Rarity",
+        "All Maps",
+        "Easy",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-09-19T09:53:57.886Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550807087636807727"
+      },
+      "id": "directors_cut",
+      "version": "20260919-095341",
+      "file": "mod_packages/directors_cut/directors_cut-20260919-095341.cwm",
+      "size": 1815339,
+      "sha256": "77c406ae2b158b4d21d5a72d47755c9f9f29182f50c2472dfc2546ee5a061615",
+      "history": [
+        {
+          "version": "20260919-095341",
+          "changelog": "",
+          "published": "2026-09-19T09:53:57.886Z"
+        }
+      ],
+      "thumbnail": "mod_packages/directors_cut/thumbnail.png",
+      "thumbnailSha256": "692afd42d1b4bb972c8f7867f95eba9bb82a9edec1e225f896015dadfcba99e8",
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      }
     },
     {
       "title": "DOOM Mode",

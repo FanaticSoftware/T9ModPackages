@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:50:30.185Z",
+  "generated": "2026-09-19T09:53:58.117Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -37,25 +37,6 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
       }
-    },
-    {
-      "id": "directors_cut",
-      "title": "Director's Cut",
-      "author": {
-        "id": "243151432230895619",
-        "name": "fanaticsoftware"
-      },
-      "collaborators": [
-        "244657466783170560"
-      ],
-      "collaboratorNames": {
-        "244657466783170560": "Figglebottom"
-      },
-      "claimed": "2026-08-25T21:45:34.670Z",
-      "updated": "2026-09-19T09:07:31.934Z",
-      "unpublished": "2026-09-19T09:07:31.934Z",
-      "lastVersion": "1.0.1",
-      "unpublishedBy": "243151432230895619"
     },
     {
       "id": "jingle_hells",
