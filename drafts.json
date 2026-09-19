@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T00:02:35.389Z",
+  "generated": "2026-09-19T00:13:39.523Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -46,6 +46,17 @@
       "collaborators": [],
       "claimed": "2026-09-16T20:31:25.318Z",
       "updated": "2026-09-16T20:31:25.318Z"
+    },
+    {
+      "id": "test_mod_6e01be",
+      "title": "Test Mod",
+      "author": {
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-19T00:13:39.523Z",
+      "updated": "2026-09-19T00:13:39.523Z"
     },
     {
       "id": "test_mod_d69e57",
