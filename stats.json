@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T19:21:01.139Z",
+  "generated": "2026-09-19T19:26:39.338Z",
   "mods": {
     "directors_cut": {
-      "favorites": 5,
+      "favorites": 7,
       "rating": {
         "count": 3,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 3,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 3,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 0,
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 5
