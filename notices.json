@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T07:10:18.883Z",
+  "generated": "2026-09-19T07:10:20.210Z",
   "notices": [
+    {
+      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
+      "status": "approved",
+      "mod": "Boss Rush",
+      "id": "boss_rush",
+      "version": "20260919-070903",
+      "reason": "Published by co-author Fanatic.",
+      "by": "illuminatidonut",
+      "at": "2026-09-19T07:10:19.986Z"
+    },
     {
       "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
       "status": "approved",
