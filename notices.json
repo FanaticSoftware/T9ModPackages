@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T06:50:57.935Z",
+  "generated": "2026-09-19T06:57:18.032Z",
   "notices": [
+    {
+      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
+      "status": "approved",
+      "mod": "Aetheria",
+      "id": "aetheria",
+      "version": "1.0.2",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-09-19T06:57:17.881Z"
+    },
     {
       "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
       "status": "approved",
