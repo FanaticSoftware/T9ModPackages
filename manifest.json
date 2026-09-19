@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-18T23:45:22.806Z",
+  "generated": "2026-09-19T00:36:35.045Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -678,14 +678,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "292a9d2c44af9ac1ddca8f37006387ddab609b31d1551abf42494c492f0ec2f2",
+      "sourceSha256": "07bad8b4537d9b46caec4599cb5239fbdc740a8010461f82fdf0f648e296b894",
       "scan": {
         "critical": 0,
-        "high": 23,
+        "high": 24,
         "low": 32,
-        "medium": 395,
+        "medium": 396,
         "rules": "2026.08.19",
-        "summary": "23 high, 395 medium, 32 low"
+        "summary": "24 high, 396 medium, 32 low"
       },
       "settings": 59,
       "tags": [
@@ -699,20 +699,25 @@
         "Bosses / Specials",
         "Round-Based Maps"
       ],
-      "changelog": "",
+      "changelog": "Fixed minimap bug",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-18T08:15:47.401Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550419939465105468"
+        "at": "2026-09-19T00:36:34.724Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550666823739904014"
       },
       "id": "zm_classic",
-      "version": "20260918-081511",
-      "file": "mod_packages/zm_classic/zm_classic-20260918-081511.cwm",
-      "size": 2368815,
-      "sha256": "2b53042200400d47ef1c21b4697fc56fb40f3ba690909f9494e8b712f41a4e26",
+      "version": "20260919-003605",
+      "file": "mod_packages/zm_classic/zm_classic-20260919-003605.cwm",
+      "size": 2372646,
+      "sha256": "f6c5ceec936705fb86080d75eb1103814b183a79ba378d94476fbfa735c4e39e",
       "history": [
+        {
+          "version": "20260919-003605",
+          "changelog": "Fixed minimap bug",
+          "published": "2026-09-19T00:36:34.724Z"
+        },
         {
           "version": "20260918-081511",
           "changelog": "",
