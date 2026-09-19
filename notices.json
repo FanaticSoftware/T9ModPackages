@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T00:02:37.971Z",
+  "generated": "2026-09-19T00:21:11.860Z",
   "notices": [
+    {
+      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
+      "status": "collab",
+      "mod": "Test Mod",
+      "id": "test_mod_6e01be",
+      "version": null,
+      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-19T00:21:11.678Z"
+    },
     {
       "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
       "status": "collab",
