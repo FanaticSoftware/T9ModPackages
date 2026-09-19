@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T18:23:13.979Z",
+  "generated": "2026-09-19T18:30:46.430Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -226,20 +226,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "dieeeeee",
+      "changelog": "rqdeasdfwaefqfgwef",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-09-19T04:26:17.926Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550724115109908517"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-19T18:30:46.166Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550937181986496517"
       },
       "id": "doom_mode",
-      "version": "1.0.6",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.6.cwm",
-      "size": 2501422,
-      "sha256": "d79d5a39f5c604bdbf871d1da5cb4413dfc35a80566759098b625f2d2521e070",
+      "version": "1.0.7",
+      "file": "mod_packages/doom_mode/doom_mode-1.0.7.cwm",
+      "size": 2501432,
+      "sha256": "d004cf33547d9d877a3d620408bd714a31ff138bedb1d534fc2bfd4993dc82e0",
       "history": [
+        {
+          "version": "1.0.7",
+          "changelog": "rqdeasdfwaefqfgwef",
+          "published": "2026-09-19T18:30:46.166Z"
+        },
         {
           "version": "1.0.6",
           "changelog": "dieeeeee",
