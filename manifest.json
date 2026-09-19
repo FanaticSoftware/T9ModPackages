@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T04:26:20.695Z",
+  "generated": "2026-09-19T06:28:47.074Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "3a6eaf48efde00c8cd78306c580a8192233e8cc837a677fb4bf5e14b6596a74f",
+      "sourceSha256": "d2cd8b2367af1525ec55889ebfec541a66f310cee0dc8cc5a22f525f4c5317a8",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -32,20 +32,25 @@
         "Onslaught",
         "Hard"
       ],
-      "changelog": "",
+      "changelog": "Preparing for final testing",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-18T22:35:07.648Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550632922489552960"
+        "at": "2026-09-19T06:28:46.762Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550755386959597642"
       },
       "id": "aetheria",
-      "version": "1.0.0",
-      "file": "mod_packages/aetheria/aetheria-1.0.0.cwm",
-      "size": 2557475,
-      "sha256": "aa76acaaa1b5eaa274c8a5a761d90f352aa7e78657eecce43e22d2802531c139",
+      "version": "1.0.1",
+      "file": "mod_packages/aetheria/aetheria-1.0.1.cwm",
+      "size": 2557544,
+      "sha256": "e9c1aa639591bb6ea8d768d8abd862ccf553b9a6e85c51c7087738f7e801a0a5",
       "history": [
+        {
+          "version": "1.0.1",
+          "changelog": "Preparing for final testing",
+          "published": "2026-09-19T06:28:46.762Z"
+        },
         {
           "version": "1.0.0",
           "changelog": "",
