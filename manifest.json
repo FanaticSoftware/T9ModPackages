@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T18:36:01.905Z",
+  "generated": "2026-09-19T20:01:54.003Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -12,14 +12,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "eb7836574593956d0594a121b726d8d7c3ecc89b51d0e80ce11b1ab710425be3",
+      "sourceSha256": "9d0586603f9715c6565048d43030c12f8081082d67d388157f1c4809b1f55719",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 52,
+        "medium": 51,
         "rules": "2026.08.19",
-        "summary": "52 medium"
+        "summary": "51 medium"
       },
       "settings": 0,
       "tags": [
@@ -32,20 +32,25 @@
         "Onslaught",
         "Hard"
       ],
-      "changelog": "fixes",
+      "changelog": "M60 fix",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-19T17:04:47.483Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550915533094781132"
+        "at": "2026-09-19T20:01:53.666Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550960097214341144"
       },
       "id": "aetheria",
-      "version": "1.0.3",
-      "file": "mod_packages/aetheria/aetheria-1.0.3.cwm",
-      "size": 2561276,
-      "sha256": "d2ac7e1691ee8395908ea5dfd5bb4e13bd7b2a65464f9e4bc34a13f5c2c04640",
+      "version": "20260919-200135",
+      "file": "mod_packages/aetheria/aetheria-20260919-200135.cwm",
+      "size": 2552294,
+      "sha256": "4419e637f8fdd52f323e7ec9783a805af0d3063858385e1a08d2c7ee0a113fe8",
       "history": [
+        {
+          "version": "20260919-200135",
+          "changelog": "M60 fix",
+          "published": "2026-09-19T20:01:53.666Z"
+        },
         {
           "version": "1.0.3",
           "changelog": "fixes",
