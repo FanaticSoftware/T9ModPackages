@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T00:36:35.045Z",
+  "generated": "2026-09-19T00:43:13.438Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -666,6 +666,73 @@
       ],
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
+      }
+    },
+    {
+      "title": "Test Mod",
+      "description": "This is my description for my Test Mod. This is a really cool mod!",
+      "author": {
+        "discordName": "fanaticsoftware",
+        "id": "243151432230895619",
+        "name": "fanaticsoftware"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "bc0ba938cccf4a89655d5d1e333834879b561e5294f7aca1936b5b06da8cb4a8",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 1,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "1 low"
+      },
+      "settings": 2,
+      "tags": [
+        "Gameplay Overhaul",
+        "Cosmetic / HUD",
+        "Pack-a-Punch",
+        "Mystery Box",
+        "Bosses / Specials",
+        "Easter Egg / Quest",
+        "All Maps",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-09-19T00:43:13.203Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550668232237649936"
+      },
+      "id": "test_mod_6e01be",
+      "version": "20260919-004157",
+      "file": "mod_packages/test_mod_6e01be/test_mod_6e01be-20260919-004157.cwm",
+      "size": 15745,
+      "sha256": "d221b166ed514346a22db1ac38bebca83be3be86e5c15d11838a2a0f976bc8e7",
+      "history": [
+        {
+          "version": "20260919-004157",
+          "changelog": "",
+          "published": "2026-09-19T00:43:13.203Z"
+        }
+      ],
+      "thumbnail": "mod_packages/test_mod_6e01be/thumbnail.png",
+      "thumbnailSha256": "12654c24cde8362d25e46c5c86a9784a41ecdb287fa4d4d303ae2806294ba80d",
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      },
+      "testerAccounts": {
+        "243151432230895619": [
+          "0056406862f3902d",
+          "56406862f3902d"
+        ]
       }
     },
     {
