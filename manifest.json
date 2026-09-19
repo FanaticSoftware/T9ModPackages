@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T07:30:54.523Z",
+  "generated": "2026-09-19T08:34:51.665Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -191,7 +191,12 @@
           "published": "2026-08-19T17:51:11.928Z"
         }
       ],
-      "collaborators": []
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      }
     },
     {
       "title": "DOOM Mode",
