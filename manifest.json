@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:47:15.415Z",
+  "generated": "2026-09-19T09:50:30.185Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -65,6 +65,66 @@
       "thumbnail": "mod_packages/aetheria/thumbnail.png",
       "thumbnailSha256": "ccbb3e6d720320aaf7ebcb9bf1184866218586eb982161a99e1c1b9769a0bfbf",
       "collaborators": []
+    },
+    {
+      "title": "Boss Rush",
+      "description": "Skip straight to the Boss Fight at the end of any Easter Egg!\n\nWhen you spawn in, it will put you in a pre-game lobby with unlimited points & salvage with all of the machines on the map. You can pick any weapon & wonder wapon from any map, upgrade them as much as you want, get all of your perks/armor, and then jump into the fight!",
+      "author": {
+        "discordName": "fanaticsoftware",
+        "id": "243151432230895619",
+        "name": "Fanatic"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "a9f5a5db0cb91a813985b04f43d84b6159541747796edb64087eaa0ee6ad8f9e",
+      "scan": {
+        "critical": 0,
+        "high": 14,
+        "low": 1,
+        "medium": 50,
+        "rules": "2026.08.19",
+        "summary": "14 high, 50 medium, 1 low"
+      },
+      "settings": 1,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Challenge / Custom Rules",
+        "Easter Egg / Quest",
+        "All Maps",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "fanaticsoftware",
+        "byId": "243151432230895619",
+        "at": "2026-09-19T09:50:29.937Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550806252408283143"
+      },
+      "id": "boss_rush",
+      "version": "20260919-095021",
+      "file": "mod_packages/boss_rush/boss_rush-20260919-095021.cwm",
+      "size": 1956794,
+      "sha256": "dcbb65db0de4344b8cf3918c24e74bb9fc05c88722fb122397a45c9f25567057",
+      "history": [
+        {
+          "version": "20260919-095021",
+          "changelog": "",
+          "published": "2026-09-19T09:50:29.937Z"
+        }
+      ],
+      "thumbnail": "mod_packages/boss_rush/thumbnail.png",
+      "thumbnailSha256": "d188dd293d41b7e1eeeb1d4ac8dc95d8630cc9022b89d01df7501a7f6869d6b4",
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      },
+      "collaboratorsCanSubmit": true
     },
     {
       "title": "DOOM Mode",
