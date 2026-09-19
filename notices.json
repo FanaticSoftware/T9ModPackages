@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T07:31:01.019Z",
+  "generated": "2026-09-19T08:34:54.686Z",
   "notices": [
+    {
+      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
+      "status": "collab",
+      "mod": "Director's Cut",
+      "id": "directors_cut",
+      "version": null,
+      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-19T08:34:54.521Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
