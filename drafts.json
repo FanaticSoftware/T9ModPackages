@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:42:04.631Z",
+  "generated": "2026-09-19T09:47:15.415Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -75,20 +75,6 @@
       "updated": "2026-09-19T09:07:31.934Z",
       "unpublished": "2026-09-19T09:07:31.934Z",
       "lastVersion": "1.0.1",
-      "unpublishedBy": "243151432230895619"
-    },
-    {
-      "id": "holiday_events",
-      "title": "Holiday Events",
-      "author": {
-        "id": "243151432230895619",
-        "name": "fanaticsoftware"
-      },
-      "collaborators": [],
-      "claimed": "2026-08-25T21:45:43.971Z",
-      "updated": "2026-09-19T09:04:05.803Z",
-      "unpublished": "2026-09-19T09:04:05.803Z",
-      "lastVersion": "1.0.2",
       "unpublishedBy": "243151432230895619"
     },
     {
