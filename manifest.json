@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T00:52:48.402Z",
+  "generated": "2026-09-19T00:57:59.403Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -678,14 +678,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "07bad8b4537d9b46caec4599cb5239fbdc740a8010461f82fdf0f648e296b894",
+      "sourceSha256": "53588af2ef9e81684429e8f8be1ecbef4faa2289de270afd127ca12cb87ed112",
       "scan": {
         "critical": 0,
-        "high": 24,
+        "high": 23,
         "low": 32,
         "medium": 396,
         "rules": "2026.08.19",
-        "summary": "24 high, 396 medium, 32 low"
+        "summary": "23 high, 396 medium, 32 low"
       },
       "settings": 59,
       "tags": [
@@ -699,20 +699,25 @@
         "Bosses / Specials",
         "Round-Based Maps"
       ],
-      "changelog": "Fixed minimap bug",
+      "changelog": "Minimap fix, for real this time!",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-19T00:36:34.724Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550666823739904014"
+        "at": "2026-09-19T00:57:59.088Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550672117362856031"
       },
       "id": "zm_classic",
-      "version": "20260919-003605",
-      "file": "mod_packages/zm_classic/zm_classic-20260919-003605.cwm",
-      "size": 2372646,
-      "sha256": "f6c5ceec936705fb86080d75eb1103814b183a79ba378d94476fbfa735c4e39e",
+      "version": "20260919-005714",
+      "file": "mod_packages/zm_classic/zm_classic-20260919-005714.cwm",
+      "size": 2373133,
+      "sha256": "f2f42e6abc4b382212a6b8d01aab693755e29240bd67321ee0b62279c9e0f182",
       "history": [
+        {
+          "version": "20260919-005714",
+          "changelog": "Minimap fix, for real this time!",
+          "published": "2026-09-19T00:57:59.088Z"
+        },
         {
           "version": "20260919-003605",
           "changelog": "Fixed minimap bug",
