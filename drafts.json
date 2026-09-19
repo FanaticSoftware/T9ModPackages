@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:53:58.117Z",
+  "generated": "2026-09-19T18:34:36.218Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -37,6 +37,33 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
       }
+    },
+    {
+      "id": "doom_mode",
+      "title": "DOOM Mode",
+      "author": {
+        "id": "684408486456852481",
+        "name": "saintvertigo"
+      },
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      },
+      "testerAccounts": {
+        "684408486456852481": [
+          "790835014941a647"
+        ],
+        "244657466783170560": [
+          "62f5c0602dd5b7f5"
+        ]
+      },
+      "claimed": "2026-09-19T18:30:46.166Z",
+      "updated": "2026-09-19T18:34:36.218Z",
+      "unpublished": "2026-09-19T18:34:36.218Z",
+      "lastVersion": "1.0.7",
+      "unpublishedBy": "684408486456852481"
     },
     {
       "id": "jingle_hells",

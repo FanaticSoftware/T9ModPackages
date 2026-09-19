@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T18:30:46.430Z",
+  "generated": "2026-09-19T18:34:36.218Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -193,109 +193,6 @@
       ],
       "collaboratorNames": {
         "244657466783170560": "Figglebottom"
-      }
-    },
-    {
-      "title": "DOOM Mode",
-      "description": "Fast walk speed, ammo pickups, insane zombie speed, and more!",
-      "author": {
-        "discordName": "saintvertigo",
-        "id": "684408486456852481",
-        "name": "saintvertigo"
-      },
-      "publishedBy": null,
-      "developer": true,
-      "sourceSha256": "a7462b49de3abb602bbebaef74d47268cc4d75d3836f35db8155f300e15a2728",
-      "scan": {
-        "critical": 0,
-        "high": 48,
-        "low": 9,
-        "medium": 96,
-        "rules": "2026.08.19",
-        "summary": "48 high, 96 medium, 9 low"
-      },
-      "settings": 2,
-      "tags": [
-        "Gameplay Overhaul",
-        "Difficulty",
-        "Utility / Tools",
-        "Challenge / Custom Rules",
-        "Weapons",
-        "Round-Based Maps",
-        "Balanced",
-        "Solo",
-        "Co-op"
-      ],
-      "changelog": "rqdeasdfwaefqfgwef",
-      "highAlerts": [],
-      "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-09-19T18:30:46.166Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550937181986496517"
-      },
-      "id": "doom_mode",
-      "version": "1.0.7",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.7.cwm",
-      "size": 2501432,
-      "sha256": "d004cf33547d9d877a3d620408bd714a31ff138bedb1d534fc2bfd4993dc82e0",
-      "history": [
-        {
-          "version": "1.0.7",
-          "changelog": "rqdeasdfwaefqfgwef",
-          "published": "2026-09-19T18:30:46.166Z"
-        },
-        {
-          "version": "1.0.6",
-          "changelog": "dieeeeee",
-          "published": "2026-09-19T04:26:17.926Z"
-        },
-        {
-          "version": "1.0.5",
-          "changelog": "Bug fixes, movement changes",
-          "published": "2026-08-26T20:39:16.255Z"
-        },
-        {
-          "version": "1.0.4",
-          "changelog": "bug fixes",
-          "published": "2026-08-23T00:06:28.480Z"
-        },
-        {
-          "version": "1.0.3",
-          "changelog": "Randomized weapon blueprints, weapon balancing, restructured movement, bug fixes, rewards, and more.",
-          "published": "2026-08-22T15:42:20.376Z"
-        },
-        {
-          "version": "1.0.2",
-          "changelog": "More bug fixes",
-          "published": "2026-08-20T20:47:47.841Z"
-        },
-        {
-          "version": "1.0.1",
-          "changelog": "Bug fixes",
-          "published": "2026-08-20T18:05:36.061Z"
-        },
-        {
-          "version": "1.0.0",
-          "changelog": "",
-          "published": "2026-08-20T00:25:41.678Z"
-        }
-      ],
-      "thumbnail": "mod_packages/doom_mode/thumbnail.png",
-      "thumbnailSha256": "1c7f4361e081dc3cf79d7c2ea6c4812727d3e870d3aefef06838af37bd3e8edf",
-      "collaborators": [
-        "244657466783170560"
-      ],
-      "collaboratorNames": {
-        "244657466783170560": "Figglebottom"
-      },
-      "testerAccounts": {
-        "684408486456852481": [
-          "790835014941a647"
-        ],
-        "244657466783170560": [
-          "62f5c0602dd5b7f5"
-        ]
       }
     },
     {
