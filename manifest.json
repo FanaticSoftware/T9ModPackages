@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T22:31:07.802Z",
+  "generated": "2026-09-19T23:58:24.419Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -135,6 +135,57 @@
         "244657466783170560": "Figglebottom"
       },
       "collaboratorsCanSubmit": true
+    },
+    {
+      "title": "Day & Night",
+      "description": "Choose Day, Night, or Random authored lighting per supported Zombies map. Supports Die Maschine and selected Outbreak regions.",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "1134c26060df3fe4e7a79a21791b1ec8311d8909e3e329597cb3adf8aac6da77",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 7,
+      "tags": [
+        "Gameplay Overhaul",
+        "Die Maschine",
+        "Outbreak",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-19T23:58:24.182Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551019593244348532"
+      },
+      "id": "day_night",
+      "version": "20260919-235804",
+      "file": "mod_packages/day_night/day_night-20260919-235804.cwm",
+      "size": 1273997,
+      "sha256": "b3256ba4a3c6745a6726356872d228f862b81e70b86ccc4ff522cb3559f4c563",
+      "history": [
+        {
+          "version": "20260919-235804",
+          "changelog": "",
+          "published": "2026-09-19T23:58:24.182Z"
+        }
+      ],
+      "thumbnail": "mod_packages/day_night/thumbnail.png",
+      "thumbnailSha256": "8d89336073aab486a119b7fd11554f13165912c66085d36b1a26cb9769d1836e",
+      "collaborators": []
     },
     {
       "title": "Director's Cut",
