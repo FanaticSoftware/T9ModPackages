@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T17:04:47.825Z",
+  "generated": "2026-09-19T17:56:23.792Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -460,11 +460,11 @@
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
-        "name": "saintvertigo"
+        "name": "SaintVertigo"
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "1d3d8d0cb503b4e7da2f9d6d53897479003bcba78ba73736c07a589d4db56d83",
+      "sourceSha256": "7ffacca6d72da5b6629f855619a9ab95585dfd07fe0abe14d240077af4c916c1",
       "scan": {
         "critical": 0,
         "high": 127,
@@ -481,23 +481,40 @@
         "Utility / Tools",
         "Challenge / Custom Rules",
         "Weapons",
+        "Pack-a-Punch",
+        "Mystery Box",
         "Points / Economy",
-        "Zombies / AI"
+        "Zombies / AI",
+        "Scorestreaks",
+        "Armor / Rarity",
+        "Salvage / Crafting",
+        "Easter Egg / Quest",
+        "Movement",
+        "Round-Based Maps",
+        "Outbreak",
+        "Hard",
+        "Solo",
+        "Co-op"
       ],
       "changelog": "all fixed",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-19T10:58:19.955Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550823257295556652"
+        "at": "2026-09-19T17:56:23.418Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550928413668417547"
       },
       "id": "realism_mode",
-      "version": "1.1.24",
-      "file": "mod_packages/realism_mode/realism_mode-1.1.24.cwm",
-      "size": 2747058,
-      "sha256": "d96940949170113180f045b119762fb26529b3781039d349b603c5e7d74f129b",
+      "version": "1.1.25",
+      "file": "mod_packages/realism_mode/realism_mode-1.1.25.cwm",
+      "size": 2761488,
+      "sha256": "a90d864a218f38cf2fcb5750ad494dac7b650b51fcad1dca34385a43c31aaced",
       "history": [
+        {
+          "version": "1.1.25",
+          "changelog": "all fixed",
+          "published": "2026-09-19T17:56:23.418Z"
+        },
         {
           "version": "1.1.24",
           "changelog": "all fixed",
