@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T04:26:15.194Z",
+  "generated": "2026-09-19T04:26:20.695Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -183,21 +183,36 @@
         "summary": "48 high, 96 medium, 9 low"
       },
       "settings": 2,
-      "tags": [],
-      "changelog": "Bug fixes, movement changes",
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Round-Based Maps",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "dieeeeee",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-08-26T20:39:16.255Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1542272183970299908"
+        "at": "2026-09-19T04:26:17.926Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550724115109908517"
       },
       "id": "doom_mode",
-      "version": "1.0.5",
-      "file": "mod_packages/doom_mode/doom_mode-1.0.5.cwm",
-      "size": 1376041,
-      "sha256": "96b1f2aae0b6c5993cae4128d9aa96a7f63734f81f27e4e559b7775ab5bbd069",
+      "version": "1.0.6",
+      "file": "mod_packages/doom_mode/doom_mode-1.0.6.cwm",
+      "size": 2501422,
+      "sha256": "d79d5a39f5c604bdbf871d1da5cb4413dfc35a80566759098b625f2d2521e070",
       "history": [
+        {
+          "version": "1.0.6",
+          "changelog": "dieeeeee",
+          "published": "2026-09-19T04:26:17.926Z"
+        },
         {
           "version": "1.0.5",
           "changelog": "Bug fixes, movement changes",
@@ -230,7 +245,7 @@
         }
       ],
       "thumbnail": "mod_packages/doom_mode/thumbnail.png",
-      "thumbnailSha256": "6e916e5b170c3ac70aee92d555fb0df71940a144811cbc0b6c78eb312821843e",
+      "thumbnailSha256": "1c7f4361e081dc3cf79d7c2ea6c4812727d3e870d3aefef06838af37bd3e8edf",
       "collaborators": [
         "244657466783170560"
       ],
