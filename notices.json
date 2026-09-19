@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T18:23:18.832Z",
+  "generated": "2026-09-19T18:30:51.508Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "DOOM Mode",
+      "id": "doom_mode",
+      "version": "1.0.7",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-09-19T18:30:51.303Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
