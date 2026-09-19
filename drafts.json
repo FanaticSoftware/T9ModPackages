@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:07:31.934Z",
+  "generated": "2026-09-19T09:41:31.287Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -41,6 +41,17 @@
       "unpublished": "2026-09-19T09:04:17.208Z",
       "lastVersion": "20260919-070903",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "director",
+      "title": "Trailer Tool",
+      "author": {
+        "id": "244657466783170560",
+        "name": "illuminatidonut"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-19T09:41:31.287Z",
+      "updated": "2026-09-19T09:41:31.287Z"
     },
     {
       "id": "directors_cut",
