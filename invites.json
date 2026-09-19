@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T00:21:05.796Z",
-  "invites": []
+  "generated": "2026-09-19T03:26:15.217Z",
+  "invites": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "mod": "boss_rush",
+      "title": "Boss Rush",
+      "ownerId": "243151432230895619",
+      "ownerName": "fanaticsoftware",
+      "at": "2026-09-19T03:26:15.217Z"
+    }
+  ]
 }
