@@ -88,7 +88,17 @@
       "files": 22,
       "by": "684408486456852481",
       "updated": "2026-09-19T08:38:27.520Z"
+    },
+    "directors_cut": {
+      "file": "shared_projects/directors_cut/30e9a2fe2761b021.cwm",
+      "size": 976176,
+      "sha256": "30e9a2fe2761b021bbdf891e19669ad401095ed78e8b63e4525cb690effc3379",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 1,
+      "by": "244657466783170560",
+      "updated": "2026-09-19T09:05:57.714Z"
     }
   },
-  "generated": "2026-09-19T08:38:27.520Z"
+  "generated": "2026-09-19T09:05:57.714Z"
 }
