@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T22:13:26.837Z",
+  "generated": "2026-09-19T22:27:15.397Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -89,6 +89,17 @@
       "unpublished": "2026-09-09T18:49:40.473Z",
       "lastVersion": "1.0.1",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "rogue_run_9b67e3",
+      "title": "Rogue Run",
+      "author": {
+        "id": "301792717136986114",
+        "name": "roberttgreat"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-19T22:27:15.397Z",
+      "updated": "2026-09-19T22:27:15.397Z"
     },
     {
       "id": "test_mod_57ab83",
