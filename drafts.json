@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T02:58:32.027Z",
+  "generated": "2026-09-19T02:59:22.756Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -117,20 +117,6 @@
       "unpublished": "2026-09-09T18:49:50.297Z",
       "lastVersion": "1.0.0",
       "unpublishedBy": "243151432230895619"
-    },
-    {
-      "id": "zm_classic",
-      "title": "ZM Classic",
-      "author": {
-        "id": "244657466783170560",
-        "name": "Figglebottom"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-19T01:10:24.121Z",
-      "updated": "2026-09-19T02:58:32.027Z",
-      "unpublished": "2026-09-19T02:58:32.027Z",
-      "lastVersion": "20260919-010944",
-      "unpublishedBy": "244657466783170560"
     },
     {
       "id": "zm_classic_beta",
