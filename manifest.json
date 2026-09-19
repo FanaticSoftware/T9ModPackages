@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T03:27:29.228Z",
+  "generated": "2026-09-19T03:41:08.437Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -112,7 +112,8 @@
       ],
       "collaboratorNames": {
         "244657466783170560": "Figglebottom"
-      }
+      },
+      "collaboratorsCanSubmit": true
     },
     {
       "title": "Director's Cut",
