@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T20:01:54.003Z",
+  "generated": "2026-09-19T20:29:54.424Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -667,6 +667,62 @@
           "790835014941a647"
         ]
       }
+    },
+    {
+      "title": "Replace Zombies (EARLY WIP)",
+      "description": "May or may not crash. If you can, report to me any issues.",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "5137bb1cbef8dc08f686167587fbed2557cc913b0bec44288f465b6cacb6568d",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 1,
+        "rules": "2026.08.19",
+        "summary": "1 medium"
+      },
+      "settings": 1,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Challenge / Custom Rules",
+        "Rounds / Spawning",
+        "Zombies / AI",
+        "Bosses / Specials",
+        "All Maps",
+        "Hard",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-19T20:29:54.184Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550966838454788250"
+      },
+      "id": "replace_zombies_early_wip",
+      "version": "20260919-202826",
+      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260919-202826.cwm",
+      "size": 884747,
+      "sha256": "25273c501755c09ff1591be232e33bd1db2790842fa1a0f48097e26f29279d93",
+      "history": [
+        {
+          "version": "20260919-202826",
+          "changelog": "",
+          "published": "2026-09-19T20:29:54.184Z"
+        }
+      ],
+      "thumbnail": "mod_packages/replace_zombies_early_wip/thumbnail.png",
+      "thumbnailSha256": "1654221646738b2f4245a0397826dc9c5edbd6c13add27d62ab1c6a1f34dbad2",
+      "collaborators": []
     },
     {
       "title": "T9 Bots",
