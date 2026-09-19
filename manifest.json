@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T18:07:13.322Z",
+  "generated": "2026-09-19T18:23:13.979Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -292,6 +292,64 @@
           "62f5c0602dd5b7f5"
         ]
       }
+    },
+    {
+      "title": "DOOM Mode (BETA)",
+      "description": "Fast walk speed, ammo pickups, insane zombie speed, and more!",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "a7462b49de3abb602bbebaef74d47268cc4d75d3836f35db8155f300e15a2728",
+      "scan": {
+        "critical": 0,
+        "high": 48,
+        "low": 9,
+        "medium": 96,
+        "rules": "2026.08.19",
+        "summary": "48 high, 96 medium, 9 low"
+      },
+      "settings": 2,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Bosses / Specials",
+        "Easter Egg / Quest",
+        "Movement",
+        "Round-Based Maps",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-19T18:23:13.732Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550935076781691026"
+      },
+      "id": "doom_mode_beta",
+      "version": "1.0.6",
+      "file": "mod_packages/doom_mode_beta/doom_mode_beta-1.0.6.cwm",
+      "size": 2501459,
+      "sha256": "09539e61c29d2c8fa7c49e155b0114a9e8d7ca521c5e53eb64275c26dc75db15",
+      "history": [
+        {
+          "version": "1.0.6",
+          "changelog": "",
+          "published": "2026-09-19T18:23:13.732Z"
+        }
+      ],
+      "thumbnail": "mod_packages/doom_mode_beta/thumbnail.png",
+      "thumbnailSha256": "1c7f4361e081dc3cf79d7c2ea6c4812727d3e870d3aefef06838af37bd3e8edf",
+      "collaborators": []
     },
     {
       "title": "Holiday Events",
