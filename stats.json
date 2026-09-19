@@ -1,18 +1,11 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T01:26:27.200Z",
+  "generated": "2026-09-19T09:06:24.973Z",
   "mods": {
     "directors_cut": {
-      "favorites": 4,
+      "favorites": 3,
       "rating": {
         "count": 3,
-        "average": 5
-      }
-    },
-    "boss_rush": {
-      "favorites": 0,
-      "rating": {
-        "count": 1,
         "average": 5
       }
     },
@@ -27,13 +20,6 @@
       "favorites": 1,
       "rating": {
         "count": 1,
-        "average": 5
-      }
-    },
-    "holiday_events": {
-      "favorites": 1,
-      "rating": {
-        "count": 2,
         "average": 5
       }
     },
