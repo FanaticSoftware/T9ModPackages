@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:04:21.217Z",
+  "generated": "2026-09-19T09:07:35.879Z",
   "notices": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "status": "collab",
+      "mod": "Director's Cut",
+      "id": "directors_cut",
+      "version": null,
+      "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
+      "by": "",
+      "at": "2026-09-19T09:07:35.722Z"
+    },
     {
       "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
       "status": "collab",
