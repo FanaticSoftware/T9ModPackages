@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T03:27:26.932Z",
-  "invites": []
+  "generated": "2026-09-19T08:31:19.671Z",
+  "invites": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "mod": "directors_cut",
+      "title": "Director's Cut",
+      "ownerId": "243151432230895619",
+      "ownerName": "fanaticsoftware",
+      "at": "2026-09-19T08:31:19.671Z"
+    }
+  ]
 }
