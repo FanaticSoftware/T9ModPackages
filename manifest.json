@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T06:57:12.624Z",
+  "generated": "2026-09-19T06:58:04.999Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -718,61 +718,6 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
       }
-    },
-    {
-      "title": "ZM Classic",
-      "description": "Cold War's maps with classic Zombies rules, where you start with a pistol and nothing depends on rarities or loadouts.",
-      "author": {
-        "discordName": "illuminatidonut",
-        "id": "244657466783170560",
-        "name": "Figglebottom"
-      },
-      "publishedBy": null,
-      "developer": true,
-      "sourceSha256": "28419110efbce2e831528ec15a8ee981deccefc20f1d65f15acf26e7560eccef",
-      "scan": {
-        "critical": 0,
-        "high": 23,
-        "low": 32,
-        "medium": 396,
-        "rules": "2026.08.19",
-        "summary": "23 high, 396 medium, 32 low"
-      },
-      "settings": 59,
-      "tags": [
-        "Gameplay Overhaul",
-        "Weapons",
-        "Perks",
-        "Pack-a-Punch",
-        "Wall Buys",
-        "Points / Economy",
-        "Zombies / AI",
-        "Bosses / Specials",
-        "Round-Based Maps"
-      ],
-      "changelog": "",
-      "highAlerts": [],
-      "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-09-19T02:59:22.487Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550702743235076121"
-      },
-      "id": "zm_classic",
-      "version": "20260919-025851",
-      "file": "mod_packages/zm_classic/zm_classic-20260919-025851.cwm",
-      "size": 2373503,
-      "sha256": "64abc4c9ebd924c2e6234d2122873c68d890049e705e9a9a261ab89e62a3770e",
-      "history": [
-        {
-          "version": "20260919-025851",
-          "changelog": "",
-          "published": "2026-09-19T02:59:22.487Z"
-        }
-      ],
-      "thumbnail": "mod_packages/zm_classic/thumbnail.png",
-      "thumbnailSha256": "e0452b875300b92209c58b3693c12d89cdd14d3d59712eb8e1453ed3c2aefa94",
-      "collaborators": []
     }
   ]
 }
