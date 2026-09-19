@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:41:31.287Z",
+  "generated": "2026-09-19T09:42:04.631Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -49,9 +49,14 @@
         "id": "244657466783170560",
         "name": "illuminatidonut"
       },
-      "collaborators": [],
+      "collaborators": [
+        "243151432230895619"
+      ],
       "claimed": "2026-09-19T09:41:31.287Z",
-      "updated": "2026-09-19T09:41:31.287Z"
+      "updated": "2026-09-19T09:41:31.287Z",
+      "collaboratorNames": {
+        "243151432230895619": "Fanatic"
+      }
     },
     {
       "id": "directors_cut",
