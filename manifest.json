@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T06:28:47.074Z",
+  "generated": "2026-09-19T06:50:50.751Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -63,39 +63,52 @@
     },
     {
       "title": "Boss Rush",
-      "description": "Drops you straight into the Boss Fight on whichever Cold War zombies map is loaded. Auto-detects Firebase Z, Die Maschine, Mauer der Toten and Forsaken. Outbreak is broken atm, trying to add supprt.",
+      "description": "Drops you straight into the Boss Fight on whichever Cold War zombies map is loaded. Auto-detects Firebase Z, Die Maschine, Mauer der Toten, Forsaken and both Outbreak bosses.",
       "author": {
         "discordName": "fanaticsoftware",
         "id": "243151432230895619",
         "name": "fanaticsoftware"
       },
-      "publishedBy": null,
+      "publishedBy": {
+        "id": "244657466783170560",
+        "name": "Fanatic"
+      },
       "developer": true,
-      "thumbnail": null,
-      "sourceSha256": "d9c3456cd53377554ac937676277926a744b90a7700760fa3d55c4badb61aeb2",
+      "sourceSha256": "0cd88747abbb11368faff610844145b5ebef8690879fa92dde31109aad103640",
       "scan": {
         "critical": 0,
-        "high": 9,
+        "high": 14,
         "low": 1,
-        "medium": 39,
+        "medium": 50,
         "rules": "2026.08.19",
-        "summary": "9 high, 39 medium, 1 low"
+        "summary": "14 high, 50 medium, 1 low"
       },
       "settings": 1,
-      "changelog": "kjasbgfiugfiuafusfiusb",
+      "tags": [
+        "Challenge / Custom Rules",
+        "Bosses / Specials",
+        "Round-Based Maps",
+        "Outbreak"
+      ],
+      "changelog": "Fixed Outbreak Bosses",
       "highAlerts": [],
       "approved": {
-        "by": "fanaticsoftware",
-        "byId": "243151432230895619",
-        "at": "2026-08-25T21:45:50.820Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1541926449982738436"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-19T06:50:50.338Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550761001144557592"
       },
       "id": "boss_rush",
-      "version": "1.0.2",
-      "file": "mod_packages/boss_rush/boss_rush-1.0.2.cwm",
-      "size": 1114107,
-      "sha256": "916930f9610e022b85384d03668a4993bfef7822dea41e50648ea0ebb627656e",
+      "version": "20260919-065026",
+      "file": "mod_packages/boss_rush/boss_rush-20260919-065026.cwm",
+      "size": 2217569,
+      "sha256": "2a788dc8727267426c6e1ea17dcac769bdd3a364be2f37375e81c877b903d845",
       "history": [
+        {
+          "version": "20260919-065026",
+          "changelog": "Fixed Outbreak Bosses",
+          "published": "2026-09-19T06:50:50.338Z"
+        },
         {
           "version": "1.0.2",
           "changelog": "kjasbgfiugfiuafusfiusb",
@@ -112,6 +125,8 @@
           "published": "2026-08-20T00:00:06.989Z"
         }
       ],
+      "thumbnail": "mod_packages/boss_rush/thumbnail.png",
+      "thumbnailSha256": "d188dd293d41b7e1eeeb1d4ac8dc95d8630cc9022b89d01df7501a7f6869d6b4",
       "collaborators": [
         "244657466783170560"
       ],
