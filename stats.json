@@ -1,47 +1,68 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:06:24.973Z",
+  "generated": "2026-09-19T09:56:25.065Z",
   "mods": {
     "directors_cut": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 3,
+        "average": 5
+      }
+    },
+    "boss_rush": {
+      "favorites": 1,
+      "rating": {
+        "count": 2,
         "average": 5
       }
     },
     "doom_mode": {
       "favorites": 0,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
     "onslaught_survival": {
       "favorites": 1,
       "rating": {
-        "count": 1,
+        "count": 2,
+        "average": 5
+      }
+    },
+    "holiday_events": {
+      "favorites": 1,
+      "rating": {
+        "count": 3,
         "average": 5
       }
     },
     "realism_mode": {
       "favorites": 1,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 0,
+      "favorites": 1,
+      "rating": {
+        "count": 2,
+        "average": 5
+      }
+    },
+    "aetheria": {
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
-    "aetheria": {
-      "favorites": 1,
+    "t9_bots": {
+      "favorites": 0,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     }
   }
