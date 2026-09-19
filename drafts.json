@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T19:51:31.191Z",
+  "generated": "2026-09-19T22:13:26.837Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -67,14 +67,14 @@
     },
     {
       "id": "first_abb125",
-      "title": "First",
+      "title": "Aether Draft",
       "author": {
         "id": "301792717136986114",
         "name": "roberttgreat"
       },
       "collaborators": [],
       "claimed": "2026-09-19T19:51:31.191Z",
-      "updated": "2026-09-19T19:51:31.191Z"
+      "updated": "2026-09-19T22:13:26.837Z"
     },
     {
       "id": "jingle_hells",
