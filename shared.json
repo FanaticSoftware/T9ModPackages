@@ -80,14 +80,14 @@
       "updated": "2026-09-19T03:27:12.916Z"
     },
     "realism_mode": {
-      "file": "shared_projects/realism_mode/a0b3bdde28f821c3.cwm",
-      "size": 1454167,
-      "sha256": "a0b3bdde28f821c3b5f7d6e50c5cf72b2445d5be5b71d028102c56d353c1a960",
-      "basedOn": "753067e6579756840a39ef0dd33b6ea68a57998de604003ea7ca0ecea7bfbccb",
-      "version": "1.1.23",
+      "file": "shared_projects/realism_mode/62203af682c2fe84.cwm",
+      "size": 1944614,
+      "sha256": "62203af682c2fe848ac8618ab53e025dd44e62f1189acd1c0ec3f452c0f359e0",
+      "basedOn": "a0b3bdde28f821c3b5f7d6e50c5cf72b2445d5be5b71d028102c56d353c1a960",
+      "version": "1.0.0",
       "files": 22,
-      "by": "684408486456852481",
-      "updated": "2026-09-19T08:38:27.520Z"
+      "by": "244657466783170560",
+      "updated": "2026-09-19T09:36:08.207Z"
     },
     "directors_cut": {
       "file": "shared_projects/directors_cut/30e9a2fe2761b021.cwm",
@@ -100,5 +100,5 @@
       "updated": "2026-09-19T09:05:57.714Z"
     }
   },
-  "generated": "2026-09-19T09:05:57.714Z"
+  "generated": "2026-09-19T09:36:08.207Z"
 }
