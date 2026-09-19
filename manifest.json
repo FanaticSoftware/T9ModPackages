@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T18:34:36.218Z",
+  "generated": "2026-09-19T18:36:01.905Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -251,7 +251,12 @@
       ],
       "thumbnail": "mod_packages/doom_mode_beta/thumbnail.png",
       "thumbnailSha256": "1c7f4361e081dc3cf79d7c2ea6c4812727d3e870d3aefef06838af37bd3e8edf",
-      "collaborators": []
+      "collaborators": [],
+      "testerAccounts": {
+        "684408486456852481": [
+          "790835014941a647"
+        ]
+      }
     },
     {
       "title": "Holiday Events",
