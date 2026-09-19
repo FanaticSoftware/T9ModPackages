@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T20:29:54.424Z",
+  "generated": "2026-09-19T22:31:07.802Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -670,7 +670,7 @@
     },
     {
       "title": "Replace Zombies (EARLY WIP)",
-      "description": "May or may not crash. If you can, report to me any issues.",
+      "description": "Replace Zombies lets you completely change what shows up in place of normal zombie spawns. You can swap them for specials, elites, HVTs, dogs, or build your own custom mix with individual enemy toggles.\n\nYou can also choose whether replacements keep their normal health scaling or use standard zombie health scaling, and dog rounds can be replaced separately with their own enemy selection.\n\nIt’s basically a simple way to turn normal rounds into whatever kind of AI playthrough you want without changing the rest of the map.",
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
@@ -678,16 +678,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "5137bb1cbef8dc08f686167587fbed2557cc913b0bec44288f465b6cacb6568d",
+      "sourceSha256": "f291abbacb62b307e550a7259ed8530ef493e944753cc1f9634fcb7f26605860",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 1,
+        "medium": 9,
         "rules": "2026.08.19",
-        "summary": "1 medium"
+        "summary": "9 medium"
       },
-      "settings": 1,
+      "settings": 16,
       "tags": [
         "Gameplay Overhaul",
         "Difficulty",
@@ -700,20 +700,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "added more settings and caps",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-19T20:29:54.184Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550966838454788250"
+        "at": "2026-09-19T22:31:07.470Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550997469809217640"
       },
       "id": "replace_zombies_early_wip",
-      "version": "20260919-202826",
-      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260919-202826.cwm",
-      "size": 884747,
-      "sha256": "25273c501755c09ff1591be232e33bd1db2790842fa1a0f48097e26f29279d93",
+      "version": "20260919-223010",
+      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260919-223010.cwm",
+      "size": 914783,
+      "sha256": "7c9de374d881b610acc878a84375f3aa9f98cf876e34b946d0898ab315cb0785",
       "history": [
+        {
+          "version": "20260919-223010",
+          "changelog": "added more settings and caps",
+          "published": "2026-09-19T22:31:07.470Z"
+        },
         {
           "version": "20260919-202826",
           "changelog": "",
