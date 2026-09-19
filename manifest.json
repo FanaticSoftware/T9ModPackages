@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T07:10:13.616Z",
+  "generated": "2026-09-19T07:30:54.523Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -357,7 +357,7 @@
         "name": "TheTeaa"
       },
       "developer": true,
-      "sourceSha256": "4fbd0903ba998e85adc24ca6627b3f5539e774a74ae50f2d4a8c22103d5b8cc5",
+      "sourceSha256": "c4ff227207aff2edab78f27d28455aababc903f3e951eeb4403f13ead181bdca",
       "scan": {
         "critical": 0,
         "high": 9,
@@ -375,20 +375,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Final version, I aint working on it no more unless bug fix",
+      "changelog": "Aetheria compatibility",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-18T16:50:03.605Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550549400156246106"
+        "at": "2026-09-19T07:30:54.133Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1550771094645117030"
       },
       "id": "onslaught_survival",
-      "version": "1.0.7",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.7.cwm",
-      "size": 1756778,
-      "sha256": "e5bea6397ef700e79e24626e81fb38394e0b6b55c8defc36f4837177f0ba3bea",
+      "version": "1.0.8",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.8.cwm",
+      "size": 1756630,
+      "sha256": "19b4340dbef5849cad6a43f0c71406d72c9fd6781ad719945a8f3300ba614dde",
       "history": [
+        {
+          "version": "1.0.8",
+          "changelog": "Aetheria compatibility",
+          "published": "2026-09-19T07:30:54.133Z"
+        },
         {
           "version": "1.0.7",
           "changelog": "Final version, I aint working on it no more unless bug fix",
