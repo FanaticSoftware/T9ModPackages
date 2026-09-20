@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T00:04:02.459Z",
+  "generated": "2026-09-20T08:17:41.395Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -482,7 +482,7 @@
     },
     {
       "title": "Realism Mode",
-      "description": "Realism Mode is a complete gameplay overhaul for Zombies, designed to make Zombies feel more grounded, dangerous, and survival-focused.\n\nThe goal is to strip away many of the arcade-style systems and replace them with mechanics that feel closer to a military survival experience.\n\nPlayers have to rely more on positioning, scavenging, weapon choice, movement, teamwork, and the environment.\n\nMajor Features:\nHeavily reduced HUD\nNo traditional Pack-a-Punch progression\nPerks removed from normal gameplay\nReworked Mystery Box\nReworked weapon rarity and attachments\nRandomized physical floor weapons\nWall-buy replacements\nPhysical ammunition and armor supplies\nScrap drops for crafting\nReworked Outbreak rewards\nPermanent character upgrades earned through gameplay\nReworked armor\nMore realistic weapon handling and recoil (PC Only)\nWeapon-specific stamina behavior\nReduced bunny hopping and movement exploits\nInjury and low-health mechanics\nAdrenaline response at critical health\nFriendly fire / team damage\nRebalanced normal, armored, special, and elite enemies\nArmored zombies are slower but significantly tougher\nRebalanced boss health for co-op\nReworked melee weapons and gun-butt attacks\nRebalanced explosives and launchers\nVehicle durability\nOutbreak progression and loadout persistence\nReworked side-objective rewards\nTrials reintroduced with Realism-specific rewards",
+      "description": "Realism Mode is a complete gameplay overhaul for Zombies, designed to make Zombies feel more grounded, dangerous, and survival-focused.\n\nThe goal is to strip away many of the arcade-style systems and replace them with mechanics that feel closer to a military survival experience.\n\nPlayers have to rely more on positioning, scavenging, weapon choice, movement, teamwork, and the environment.\n\nMajor Features:\n\nHeavily reduced HUD\n\ncustom Pack-a-Punch progression\n\ncustom perks from the campaign\n\nReworked Mystery Box\n\nReworked weapon rarity and attachments\n\nRandomized physical floor weapons\n\nWall-buy replacements\n\nPhysical ammunition and armor supplies\n\nScrap drops for crafting\n\nReworked Outbreak rewards\n\nPermanent character upgrades earned through gameplay\n\nReworked armor\n\nMore realistic weapon handling and recoil (PC Only)\n\nWeapon-specific stamina behavior\n\nReduced bunny hopping and movement exploits\n\nInjury and low-health mechanics\n\nAdrenaline response at critical health\n\nFriendly fire / team damage\n\nRebalanced normal, armored, special, and elite enemies\n\nArmored zombies are slower but significantly tougher\n\nRebalanced boss health for co-op\n\nReworked melee weapons and gun-butt attacks\n\nRebalanced explosives and launchers\n\nVehicle durability\n\nOutbreak progression and loadout persistence\n\nReworked side-objective rewards\n\nTrials reintroduced with Realism-specific rewards",
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
@@ -490,7 +490,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "da487364c03ccb2be9847dc297f6f4faf8d30fca360fe966baf473c18d68fe3f",
+      "sourceSha256": "bd7281583a6f8d0cab75618b03d1531753e154909dcbdd0148fad4da24366542",
       "scan": {
         "critical": 0,
         "high": 127,
@@ -522,20 +522,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Fixed firebase z defense objective",
+      "changelog": "May or may not have fixed the infinite loading screen",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-20T00:04:02.120Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551021042250817554"
+        "at": "2026-09-20T08:17:41.057Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551145248129028182"
       },
       "id": "realism_mode",
-      "version": "20260920-000343",
-      "file": "mod_packages/realism_mode/realism_mode-20260920-000343.cwm",
-      "size": 2764940,
-      "sha256": "117f5cc2d3dc0ede82333a96fcb31403f4ab800bf54e133bef8df110f778af08",
+      "version": "20260920-081716",
+      "file": "mod_packages/realism_mode/realism_mode-20260920-081716.cwm",
+      "size": 2770194,
+      "sha256": "8ff7efb2b002df321e454598f65a4d06ed788a4a8f690685dd34d4af9cbb5499",
       "history": [
+        {
+          "version": "20260920-081716",
+          "changelog": "May or may not have fixed the infinite loading screen",
+          "published": "2026-09-20T08:17:41.057Z"
+        },
         {
           "version": "20260920-000343",
           "changelog": "Fixed firebase z defense objective",
