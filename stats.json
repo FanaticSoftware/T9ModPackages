@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T01:06:28.711Z",
+  "generated": "2026-09-20T01:16:28.736Z",
   "mods": {
     "directors_cut": {
       "favorites": 19,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 61,
+      "favorites": 62,
       "rating": {
         "count": 6,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 1,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
