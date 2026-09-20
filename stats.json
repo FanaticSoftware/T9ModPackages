@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T19:56:29.730Z",
+  "generated": "2026-09-20T20:06:29.797Z",
   "mods": {
     "directors_cut": {
       "favorites": 40,
@@ -10,28 +10,28 @@
       }
     },
     "boss_rush": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "onslaught_survival": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 5,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 3,
         "average": 5
@@ -45,14 +45,14 @@
       }
     },
     "aetheria": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "t9_bots": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 1,
         "average": 5
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 2,
         "average": 4.5
