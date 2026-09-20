@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T15:26:29.578Z",
+  "generated": "2026-09-20T15:36:29.589Z",
   "mods": {
     "directors_cut": {
       "favorites": 34,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 116,
+      "favorites": 115,
       "rating": {
         "count": 10,
         "average": 5
