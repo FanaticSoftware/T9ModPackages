@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T08:56:29.108Z",
+  "generated": "2026-09-20T09:06:29.212Z",
   "mods": {
     "directors_cut": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 2,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 4,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 97,
+      "favorites": 98,
       "rating": {
         "count": 7,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
