@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T04:51:20.219Z",
+  "generated": "2026-09-20T04:52:59.198Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -110,7 +110,12 @@
       },
       "collaborators": [],
       "claimed": "2026-09-20T04:51:20.219Z",
-      "updated": "2026-09-20T04:51:20.219Z"
+      "updated": "2026-09-20T04:51:20.219Z",
+      "testerAccounts": {
+        "1149028242766954537": [
+          "7360d7eedd3063a2"
+        ]
+      }
     },
     {
       "id": "test_mod_57ab83",
