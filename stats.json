@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T20:36:29.883Z",
+  "generated": "2026-09-20T21:06:29.894Z",
   "mods": {
     "directors_cut": {
-      "favorites": 41,
+      "favorites": 42,
       "rating": {
         "count": 3,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 5,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 125,
+      "favorites": 126,
       "rating": {
         "count": 10,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
@@ -66,14 +66,14 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 2,
         "average": 4.5
       }
     },
     "day_night": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
