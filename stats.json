@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T14:16:29.480Z",
+  "generated": "2026-09-20T14:26:29.491Z",
   "mods": {
     "directors_cut": {
       "favorites": 32,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 2,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
