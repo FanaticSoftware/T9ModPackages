@@ -1,23 +1,23 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T02:56:28.692Z",
+  "generated": "2026-09-20T03:16:28.814Z",
   "mods": {
     "directors_cut": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 8,
+      "favorites": 10,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "onslaught_survival": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 2,
         "average": 5
@@ -31,7 +31,7 @@
       }
     },
     "realism_mode": {
-      "favorites": 4,
+      "favorites": 3,
       "rating": {
         "count": 3,
         "average": 5
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
