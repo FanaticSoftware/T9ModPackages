@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T22:23:38.996Z",
+  "generated": "2026-09-20T23:24:38.090Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -96,6 +96,12 @@
       "id": "252354101386412034",
       "name": "778",
       "username": "elster_lstr",
+      "modder": true
+    },
+    {
+      "id": "221995730464800768",
+      "name": "7Lee",
+      "username": "7lee",
       "modder": true
     },
     {
@@ -627,6 +633,12 @@
       "modder": true
     },
     {
+      "id": "123224151841308674",
+      "name": "Ect",
+      "username": "ectvx",
+      "modder": true
+    },
+    {
       "id": "549517987808411658",
       "name": "Elitefiree",
       "username": "elitefiree",
@@ -684,6 +696,12 @@
       "id": "752711656299167744",
       "name": "ethi",
       "username": "ethi_vr",
+      "modder": true
+    },
+    {
+      "id": "419605255848984577",
+      "name": "eve",
+      "username": "idrathersleeppp",
       "modder": true
     },
     {
@@ -1218,6 +1236,12 @@
       "id": "193968391294287872",
       "name": "Limen",
       "username": "limen2598",
+      "modder": true
+    },
+    {
+      "id": "963846404810375189",
+      "name": "Live Fast Die Young🍂",
+      "username": "ngaymaiminhdichoinhe",
       "modder": true
     },
     {
@@ -1872,12 +1896,6 @@
       "id": "1255160786330845260",
       "name": "Smokey",
       "username": "the_smokester",
-      "modder": true
-    },
-    {
-      "id": "669316826399899649",
-      "name": "SoS_Project",
-      "username": "nopulse8114",
       "modder": true
     },
     {
