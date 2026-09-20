@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T10:06:29.276Z",
+  "generated": "2026-09-20T10:16:29.265Z",
   "mods": {
     "directors_cut": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 2,
         "average": 5
@@ -31,7 +31,7 @@
       }
     },
     "realism_mode": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 3,
         "average": 5
