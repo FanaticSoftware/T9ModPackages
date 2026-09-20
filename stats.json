@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T04:26:29.059Z",
+  "generated": "2026-09-20T04:36:28.896Z",
   "mods": {
     "directors_cut": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 3,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 2,
         "average": 5
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 79,
+      "favorites": 80,
       "rating": {
         "count": 7,
         "average": 5
