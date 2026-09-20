@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T00:56:28.606Z",
+  "generated": "2026-09-20T01:06:28.711Z",
   "mods": {
     "directors_cut": {
       "favorites": 19,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 2,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 59,
+      "favorites": 61,
       "rating": {
         "count": 6,
         "average": 5
@@ -59,17 +59,17 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "doom_mode_beta": {
       "favorites": 2,
       "rating": {
-        "count": 1,
-        "average": 4
+        "count": 2,
+        "average": 4.5
       }
     },
     "day_night": {
