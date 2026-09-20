@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T06:46:29.026Z",
+  "generated": "2026-09-20T07:26:29.058Z",
   "mods": {
     "directors_cut": {
       "favorites": 28,
@@ -10,63 +10,63 @@
       }
     },
     "boss_rush": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "onslaught_survival": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 90,
+      "favorites": 91,
       "rating": {
         "count": 7,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "t9_bots": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "doom_mode_beta": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 2,
         "average": 4.5
