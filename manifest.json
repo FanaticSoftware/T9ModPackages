@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T08:17:41.395Z",
+  "generated": "2026-09-20T18:29:12.972Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -185,6 +185,59 @@
       ],
       "thumbnail": "mod_packages/day_night/thumbnail.png",
       "thumbnailSha256": "8d89336073aab486a119b7fd11554f13165912c66085d36b1a26cb9769d1836e",
+      "collaborators": []
+    },
+    {
+      "title": "Deadlight Greenlight",
+      "description": "Play a classic game of Red Light Green Light, but with a twist! Inspired by the Black Ops 6 LTM mode, Deadlight Greenlight. Players are able to move until Red Light is called, if you move while on Red Light, you will be punished! Green light grants double points while Red light grants zero points.",
+      "author": {
+        "discordName": "tech_wave",
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "5fee7872086fe5757e0f7186a51597c5578c0f47af8b795302dbb3a2f97f5e11",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 1,
+        "rules": "2026.08.19",
+        "summary": "1 medium"
+      },
+      "settings": 5,
+      "tags": [
+        "Challenge / Custom Rules",
+        "Points / Economy",
+        "Zombies / AI",
+        "All Maps",
+        "Hard",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-20T18:29:12.652Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551223094901743630"
+      },
+      "id": "deadlight_greenlight_fc56b7",
+      "version": "20260920-132644",
+      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20260920-132644.cwm",
+      "size": 110940,
+      "sha256": "de7f6b25138ddb00a272892d9a485440bd071bde01f2a99d6540a3ad821e0ec2",
+      "history": [
+        {
+          "version": "20260920-132644",
+          "changelog": "",
+          "published": "2026-09-20T18:29:12.652Z"
+        }
+      ],
+      "thumbnail": "mod_packages/deadlight_greenlight_fc56b7/thumbnail.png",
+      "thumbnailSha256": "7facd03672a1c40c792df01659233ebeb66fd8b43a8fb18597cbc392d1c3328b",
       "collaborators": []
     },
     {
