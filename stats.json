@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T23:34:37.751Z",
+  "generated": "2026-09-20T23:54:37.788Z",
   "mods": {
     "directors_cut": {
       "favorites": 45,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 133,
+      "favorites": 134,
       "rating": {
         "count": 10,
         "average": 5
@@ -68,8 +68,8 @@
     "doom_mode_beta": {
       "favorites": 8,
       "rating": {
-        "count": 2,
-        "average": 4.5
+        "count": 3,
+        "average": 4.7
       }
     },
     "day_night": {
