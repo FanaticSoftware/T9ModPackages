@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T16:24:38.591Z",
+  "generated": "2026-09-21T18:24:38.760Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1185,6 +1185,12 @@
       "modder": true
     },
     {
+      "id": "565710987148394496",
+      "name": "JuJu",
+      "username": "www.juju.org",
+      "modder": true
+    },
+    {
       "id": "382347222299443204",
       "name": "Julian T",
       "username": "juliant10",
@@ -1452,12 +1458,6 @@
       "id": "379665800849784842",
       "name": "Mist",
       "username": "cod4x",
-      "modder": true
-    },
-    {
-      "id": "640173696211877899",
-      "name": "MisterCatler",
-      "username": "mistercat1945",
       "modder": true
     },
     {
@@ -1998,6 +1998,12 @@
       "id": "418458785841938432",
       "name": "Shoto",
       "username": "mr.shotoyoki",
+      "modder": true
+    },
+    {
+      "id": "704346043625766952",
+      "name": "Shura",
+      "username": "uchiha.reflection",
       "modder": true
     },
     {
