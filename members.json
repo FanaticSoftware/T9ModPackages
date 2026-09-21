@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T09:24:38.410Z",
+  "generated": "2026-09-21T10:24:38.227Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -411,6 +411,12 @@
       "modder": true
     },
     {
+      "id": "1104320725000654888",
+      "name": "Cheesecake",
+      "username": "breadbox22",
+      "modder": true
+    },
+    {
       "id": "726509826557083680",
       "name": "chorb",
       "username": "chorb.txt",
@@ -729,6 +735,12 @@
       "modder": true
     },
     {
+      "id": "817056114067767296",
+      "name": "EX",
+      "username": "exkhongphainyc",
+      "modder": true
+    },
+    {
       "id": "479120371803619330",
       "name": "EXTIINCT",
       "username": "extiinct.",
@@ -972,6 +984,12 @@
       "id": "970915968488443914",
       "name": "habibi",
       "username": "playboi.matt",
+      "modder": true
+    },
+    {
+      "id": "193946483433799680",
+      "name": "Habibi",
+      "username": "999habibi",
       "modder": true
     },
     {
