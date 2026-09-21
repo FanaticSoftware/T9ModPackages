@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T06:05:04.763Z",
+  "generated": "2026-09-21T09:33:53.183Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -630,6 +630,9 @@
       "testerAccounts": {
         "684408486456852481": [
           "790835014941a647"
+        ],
+        "244657466783170560": [
+          "62f5c0602dd5b7f5"
         ]
       },
       "collaboratorsCanSubmit": true
