@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T19:02:30.588Z",
+  "generated": "2026-09-21T22:00:29.775Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -184,6 +184,59 @@
       ],
       "thumbnail": "mod_packages/coop_spawnrate_fix_d47076/thumbnail.png",
       "thumbnailSha256": "2f55ee0ba37ce1181bac0bc12799a889bfd99d0053f1ebdc21600a8c41f06f67",
+      "collaborators": []
+    },
+    {
+      "title": "Custom Mutations",
+      "description": "Custom Mutations lets you customize how Cold War Zombies plays before starting a match, including zombie behavior, round rules, weapons, powerups, player health, Essence, armor, perks, and more.",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "4d652ce71a78759d33c37440e60e0729f3f8ca029f5c41d1b6d8b0f6530ec418",
+      "scan": {
+        "critical": 0,
+        "high": 26,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.19",
+        "summary": "26 high, 25 medium"
+      },
+      "settings": 101,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Round-Based Maps",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-21T22:00:29.511Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551714662385586297"
+      },
+      "id": "custom_mutations_dc3d6f",
+      "version": "20260921-215957",
+      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260921-215957.cwm",
+      "size": 987819,
+      "sha256": "680c9281e1b9f6616dc3345f46b965ba8367c1b22ca731650b3d534fe419b9e8",
+      "history": [
+        {
+          "version": "20260921-215957",
+          "changelog": "",
+          "published": "2026-09-21T22:00:29.511Z"
+        }
+      ],
+      "thumbnail": "mod_packages/custom_mutations_dc3d6f/thumbnail.png",
+      "thumbnailSha256": "5b627fb3752a8511f2eec84cb123e202733bd1322923650f0a9a3bcc3b9a4acc",
       "collaborators": []
     },
     {
