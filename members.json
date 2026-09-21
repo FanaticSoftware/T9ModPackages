@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T10:24:38.227Z",
+  "generated": "2026-09-21T11:24:38.183Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1596,6 +1596,12 @@
       "id": "378112294821036032",
       "name": "NotGodlike",
       "username": ".notttgoddd",
+      "modder": true
+    },
+    {
+      "id": "1000034755900866670",
+      "name": "nubby enjoyer",
+      "username": "jonasvonhoy",
       "modder": true
     },
     {
