@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T09:33:53.183Z",
+  "generated": "2026-09-21T19:02:30.588Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -135,6 +135,56 @@
         "244657466783170560": "Figglebottom"
       },
       "collaboratorsCanSubmit": true
+    },
+    {
+      "title": "Co-op Spawnrate Fix",
+      "description": "Replaces the calls to wait_network_frame in the zombie spawnrate logic, fixing the issue of players with higher ping getting slower spawns on co-op.",
+      "author": {
+        "discordName": "theymusthaveamnesia",
+        "id": "1149028242766954537",
+        "name": "gravexd"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "27731cf9a1728d19a13677b46fee1fad50f54d83c9281c6659435df365e6647b",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.19",
+        "summary": "25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Quality of Life",
+        "Rounds / Spawning",
+        "Round-Based Maps",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-09-21T19:02:30.266Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551669790148399240"
+      },
+      "id": "coop_spawnrate_fix_d47076",
+      "version": "20260921-190143",
+      "file": "mod_packages/coop_spawnrate_fix_d47076/coop_spawnrate_fix_d47076-20260921-190143.cwm",
+      "size": 136336,
+      "sha256": "5ac081931b595c2d4693a1ce308afe523676e0a670d9d134d1f06e1593ab8a55",
+      "history": [
+        {
+          "version": "20260921-190143",
+          "changelog": "",
+          "published": "2026-09-21T19:02:30.266Z"
+        }
+      ],
+      "thumbnail": "mod_packages/coop_spawnrate_fix_d47076/thumbnail.png",
+      "thumbnailSha256": "2f55ee0ba37ce1181bac0bc12799a889bfd99d0053f1ebdc21600a8c41f06f67",
+      "collaborators": []
     },
     {
       "title": "Day & Night",
