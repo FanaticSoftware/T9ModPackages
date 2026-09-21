@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T00:24:38.090Z",
+  "generated": "2026-09-21T01:24:38.136Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -426,6 +426,12 @@
       "id": "774188418329477150",
       "name": "Clara 💕",
       "username": "clara.maldonado",
+      "modder": true
+    },
+    {
+      "id": "1540829887567372319",
+      "name": "clyssus",
+      "username": "clyssus.",
       "modder": true
     },
     {
@@ -1491,6 +1497,12 @@
       "modder": true
     },
     {
+      "id": "627310420478132225",
+      "name": "NikoStreamsVT[VTuber][20]",
+      "username": "nikostreamsvt",
+      "modder": true
+    },
+    {
       "id": "453639920544907266",
       "name": "Nite",
       "username": "nite129",
@@ -1548,6 +1560,12 @@
       "id": "1084927655733907486",
       "name": "panchis",
       "username": "panchis_chris_115",
+      "modder": true
+    },
+    {
+      "id": "179020715872223233",
+      "name": "Panzersoldat",
+      "username": "colinking",
       "modder": true
     },
     {
@@ -1656,6 +1674,12 @@
       "id": "1299784740584558655",
       "name": "ratslayerxd",
       "username": "ratslayerxd_88708",
+      "modder": true
+    },
+    {
+      "id": "1176677329930551360",
+      "name": "Ray_Rhino",
+      "username": "ray_rhino",
       "modder": true
     },
     {
@@ -2220,6 +2244,12 @@
       "id": "374018959877603338",
       "name": "ᶻᵃᵉᵈᶤᶰ⁷¹⁰",
       "username": "zaedin710",
+      "modder": true
+    },
+    {
+      "id": "267098839717117962",
+      "name": "zagrosiaslan",
+      "username": "zagrosiaslan",
       "modder": true
     },
     {
