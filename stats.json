@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:54:39.460Z",
+  "generated": "2026-09-21T23:14:39.533Z",
   "mods": {
     "directors_cut": {
       "favorites": 60,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 43,
+      "favorites": 42,
       "rating": {
         "count": 5,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 164,
+      "favorites": 165,
       "rating": {
         "count": 12,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 1,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 1,
         "average": 5
