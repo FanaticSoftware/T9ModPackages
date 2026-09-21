@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T05:36:48.607Z",
+  "generated": "2026-09-21T06:05:04.763Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -468,6 +468,55 @@
       ],
       "thumbnail": "mod_packages/holiday_events/thumbnail.png",
       "thumbnailSha256": "0e8bb4a0e25744e37689967f44d6a0d928b8a30754e2bed9de3b168969e2c351",
+      "collaborators": []
+    },
+    {
+      "title": "ZCT MOD (SUPER EARLY)",
+      "description": "ZCT STLYE MOD jugg works to refill armor and not provide extra hp, player starts with empty level 3 armor, random perk drops (stack with zm classic to close to to OG mod)",
+      "author": {
+        "discordName": "lincoln900k",
+        "id": "676211383095787540",
+        "name": "lincoln900k"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "84bd98251765acdd1289e5deec1954908004c72c673ba94c5f1c1c315582dc95",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 21,
+        "rules": "2026.08.19",
+        "summary": "21 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-21T06:05:04.495Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551471650774589514"
+      },
+      "id": "mulekick_0c3f8d",
+      "version": "20260921-055425",
+      "file": "mod_packages/mulekick_0c3f8d/mulekick_0c3f8d-20260921-055425.cwm",
+      "size": 136298,
+      "sha256": "c3ec119004717e9a8a3d2dadcc7a1814f649f9f627818c11258e1eed2546585c",
+      "history": [
+        {
+          "version": "20260921-055425",
+          "changelog": "",
+          "published": "2026-09-21T06:05:04.495Z"
+        }
+      ],
+      "thumbnail": "mod_packages/mulekick_0c3f8d/thumbnail.png",
+      "thumbnailSha256": "de42d817193f6cf7fa0a5d0077045f5d593e047e24e8deb965f907467eba6132",
       "collaborators": []
     },
     {
