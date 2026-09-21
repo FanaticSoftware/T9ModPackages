@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:00:29.775Z",
+  "generated": "2026-09-21T22:07:27.932Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -237,7 +237,12 @@
       ],
       "thumbnail": "mod_packages/custom_mutations_dc3d6f/thumbnail.png",
       "thumbnailSha256": "5b627fb3752a8511f2eec84cb123e202733bd1322923650f0a9a3bcc3b9a4acc",
-      "collaborators": []
+      "collaborators": [
+        "244657466783170560"
+      ],
+      "collaboratorNames": {
+        "244657466783170560": "Figglebottom"
+      }
     },
     {
       "title": "Day & Night",
