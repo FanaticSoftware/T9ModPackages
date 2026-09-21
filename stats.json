@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T19:14:39.137Z",
+  "generated": "2026-09-21T19:24:38.993Z",
   "mods": {
     "directors_cut": {
       "favorites": 57,
@@ -88,6 +88,13 @@
     },
     "gun_game_wip": {
       "favorites": 3,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "coop_spawnrate_fix_d47076": {
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
