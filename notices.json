@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T18:29:16.353Z",
+  "generated": "2026-09-21T03:17:17.427Z",
   "notices": [
+    {
+      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
+      "status": "collab",
+      "mod": "spawn fix",
+      "id": "spawn_fix_6449f1",
+      "version": null,
+      "reason": "**✧** (@starophren1c) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-21T03:17:17.255Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
