@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "generated": "2026-09-19T09:42:01.825Z",
-  "invites": []
+  "generated": "2026-09-21T02:49:13.638Z",
+  "invites": [
+    {
+      "key": "5cca4d6bf473ac72e844a513c0b20608652300ac0b9f89b37a80c74dabc01c55",
+      "mod": "spawn_fix_6449f1",
+      "title": "spawn fix",
+      "ownerId": "1149028242766954537",
+      "ownerName": "theymusthaveamnesia",
+      "at": "2026-09-21T02:49:13.638Z"
+    }
+  ]
 }
