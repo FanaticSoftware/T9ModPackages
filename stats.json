@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T13:24:38.593Z",
+  "generated": "2026-09-21T13:34:38.710Z",
   "mods": {
     "directors_cut": {
-      "favorites": 52,
+      "favorites": 53,
       "rating": {
         "count": 3,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 5,
         "average": 5
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 2,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 1,
         "average": 5
