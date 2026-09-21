@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T08:24:38.386Z",
+  "generated": "2026-09-21T09:24:38.410Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -951,6 +951,12 @@
       "modder": true
     },
     {
+      "id": "503531162132545536",
+      "name": "Greedo",
+      "username": "whoshotfirst",
+      "modder": true
+    },
+    {
       "id": "118449828056268809",
       "name": "Guilh",
       "username": "guilh_infr",
@@ -1062,6 +1068,12 @@
       "id": "200112412920119296",
       "name": "ilrathCXV",
       "username": "ilrathcxv",
+      "modder": true
+    },
+    {
+      "id": "864263080678391820",
+      "name": "imightjustrebel",
+      "username": "mightinvisible",
       "modder": true
     },
     {
