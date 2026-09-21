@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T23:54:37.788Z",
+  "generated": "2026-09-21T00:14:37.838Z",
   "mods": {
     "directors_cut": {
       "favorites": 45,
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 134,
+      "favorites": 135,
       "rating": {
         "count": 10,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 25,
+      "favorites": 26,
       "rating": {
         "count": 2,
         "average": 5
@@ -77,6 +77,13 @@
       "rating": {
         "count": 1,
         "average": 5
+      }
+    },
+    "deadlight_greenlight_fc56b7": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
       }
     }
   }
