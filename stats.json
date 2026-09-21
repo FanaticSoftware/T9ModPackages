@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:04:39.333Z",
+  "generated": "2026-09-21T22:44:39.385Z",
   "mods": {
     "directors_cut": {
       "favorites": 59,
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 2,
         "average": 5
@@ -82,8 +82,8 @@
     "deadlight_greenlight_fc56b7": {
       "favorites": 1,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "gun_game_wip": {
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
