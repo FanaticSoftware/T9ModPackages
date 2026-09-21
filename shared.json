@@ -20,14 +20,14 @@
       "updated": "2026-08-24T17:08:12.441Z"
     },
     "onslaught_survival": {
-      "file": "shared_projects/onslaught_survival/94b36eb3a0c3ed58.cwm",
-      "size": 89904,
-      "sha256": "94b36eb3a0c3ed5816dc286c34355babbaef56ea4e5117315976ae8ee93dd773",
-      "basedOn": "",
-      "version": "1.0.1",
+      "file": "shared_projects/onslaught_survival/d81fafa179ca78d8.cwm",
+      "size": 1703198,
+      "sha256": "d81fafa179ca78d8bfe6d53fca9bdf04a3289d3403b0194ea43d7a71a0194e5e",
+      "basedOn": "94b36eb3a0c3ed5816dc286c34355babbaef56ea4e5117315976ae8ee93dd773",
+      "version": "1.0.0",
       "files": 4,
-      "by": "684408486456852481",
-      "updated": "2026-09-05T21:34:09.574Z"
+      "by": "244657466783170560",
+      "updated": "2026-09-21T09:54:43.219Z"
     },
     "aetheria_unfinished_test_ver": {
       "file": "shared_projects/aetheria_unfinished_test_ver/f4dd4bc158b6b222.cwm",
@@ -130,5 +130,5 @@
       "updated": "2026-09-21T03:22:44.080Z"
     }
   },
-  "generated": "2026-09-21T03:22:44.080Z"
+  "generated": "2026-09-21T09:54:43.219Z"
 }
