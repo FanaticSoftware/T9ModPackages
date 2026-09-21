@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T06:05:08.218Z",
+  "generated": "2026-09-21T19:02:34.400Z",
   "notices": [
+    {
+      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
+      "status": "approved",
+      "mod": "Co-op Spawnrate Fix",
+      "id": "coop_spawnrate_fix_d47076",
+      "version": "20260921-190143",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-09-21T19:02:34.240Z"
+    },
     {
       "key": "2d27332e62cb1bf0f908b3c6f05b4709e2458719dfb8363df8d9053222b8de4b",
       "status": "approved",
