@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:44:39.385Z",
+  "generated": "2026-09-21T22:54:39.460Z",
   "mods": {
     "directors_cut": {
-      "favorites": 59,
+      "favorites": 60,
       "rating": {
         "count": 3,
         "average": 5
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 2,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
