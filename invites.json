@@ -1,14 +1,5 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:05:10.030Z",
-  "invites": [
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "mod": "custom_mutations_dc3d6f",
-      "title": "Custom Mutations",
-      "ownerId": "684408486456852481",
-      "ownerName": "saintvertigo",
-      "at": "2026-09-21T22:05:10.030Z"
-    }
-  ]
+  "generated": "2026-09-21T22:07:25.355Z",
+  "invites": []
 }
