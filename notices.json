@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T19:02:34.400Z",
+  "generated": "2026-09-21T20:12:55.915Z",
   "notices": [
+    {
+      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
+      "status": "collab",
+      "mod": "spawn fix",
+      "id": "spawn_fix_6449f1",
+      "version": null,
+      "reason": "**drain** (@drainbb) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-21T20:12:55.750Z"
+    },
     {
       "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
       "status": "approved",
