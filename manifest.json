@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-20T18:29:12.972Z",
+  "generated": "2026-09-21T05:36:48.607Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -366,6 +366,58 @@
           "790835014941a647"
         ]
       }
+    },
+    {
+      "title": "Gun Game (WIP)",
+      "description": "CWZ Gun Game with 88 weapons. Unfinished but definitely functional. Includes wonder weapons. Has balancing changes but those are slightly unfinished. Let me know of any recommendations or changes.",
+      "author": {
+        "discordName": "clyssus.",
+        "id": "1540829887567372319",
+        "name": "clyssus"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "6a43acc20bf53321e4cdf4891b4c8f909c8315cff93d7708c64af0b9c8b873bb",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Wonder Weapons",
+        "Round-Based Maps",
+        "Balanced"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-21T05:36:48.339Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551460923083071512"
+      },
+      "id": "gun_game_wip",
+      "version": "20260921-051147",
+      "file": "mod_packages/gun_game_wip/gun_game_wip-20260921-051147.cwm",
+      "size": 918597,
+      "sha256": "1a45d8fc292990322b6c43e14b2e8b4785ef1fc8733b50b86282b9cc9199a274",
+      "history": [
+        {
+          "version": "20260921-051147",
+          "changelog": "",
+          "published": "2026-09-21T05:36:48.339Z"
+        }
+      ],
+      "thumbnail": "mod_packages/gun_game_wip/thumbnail.png",
+      "thumbnailSha256": "7af5becd17eae0529b8690fa5b3e238535c208144935e9c544047cefe3e2d964",
+      "collaborators": []
     },
     {
       "title": "Holiday Events",
