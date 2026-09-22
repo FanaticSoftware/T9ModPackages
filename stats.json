@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T11:04:40.248Z",
+  "generated": "2026-09-22T11:14:40.275Z",
   "mods": {
     "directors_cut": {
       "favorites": 67,
@@ -61,7 +61,7 @@
     "replace_zombies_early_wip": {
       "favorites": 12,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
