@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T03:15:29.386Z",
+  "generated": "2026-09-22T05:01:51.007Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -427,14 +427,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "a7462b49de3abb602bbebaef74d47268cc4d75d3836f35db8155f300e15a2728",
+      "sourceSha256": "b5af4eb9da659400d9d5136d652b9931d9d466ed818cfada6b54a832b74f354e",
       "scan": {
         "critical": 0,
-        "high": 48,
+        "high": 53,
         "low": 9,
-        "medium": 96,
+        "medium": 103,
         "rules": "2026.08.19",
-        "summary": "48 high, 96 medium, 9 low"
+        "summary": "53 high, 103 medium, 9 low"
       },
       "settings": 2,
       "tags": [
@@ -451,20 +451,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "Suprise round, bug fixes, additional perks added by default, ai changed.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-19T18:23:13.732Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550935076781691026"
+        "at": "2026-09-22T05:01:50.612Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551820482548998218"
       },
       "id": "doom_mode_beta",
-      "version": "1.0.6",
-      "file": "mod_packages/doom_mode_beta/doom_mode_beta-1.0.6.cwm",
-      "size": 2501459,
-      "sha256": "09539e61c29d2c8fa7c49e155b0114a9e8d7ca521c5e53eb64275c26dc75db15",
+      "version": "20260922-050028",
+      "file": "mod_packages/doom_mode_beta/doom_mode_beta-20260922-050028.cwm",
+      "size": 2595301,
+      "sha256": "87c728f3137c98878c719165de911d4d5ccb82c30c46e81ea537855e9570da9c",
       "history": [
+        {
+          "version": "20260922-050028",
+          "changelog": "Suprise round, bug fixes, additional perks added by default, ai changed.",
+          "published": "2026-09-22T05:01:50.612Z"
+        },
         {
           "version": "1.0.6",
           "changelog": "",
