@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T01:04:39.526Z",
+  "generated": "2026-09-22T01:24:39.426Z",
   "mods": {
     "directors_cut": {
-      "favorites": 60,
+      "favorites": 61,
       "rating": {
         "count": 3,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 5,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 1,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
