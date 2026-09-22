@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:07:27.932Z",
+  "generated": "2026-09-22T02:10:29.159Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -196,16 +196,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "4d652ce71a78759d33c37440e60e0729f3f8ca029f5c41d1b6d8b0f6530ec418",
+      "sourceSha256": "5c6e12cf7230654097b4c01336c94c16ab42004da0ce4957fd0e3555b695a6d0",
       "scan": {
         "critical": 0,
-        "high": 26,
+        "high": 28,
         "low": 0,
         "medium": 25,
         "rules": "2026.08.19",
-        "summary": "26 high, 25 medium"
+        "summary": "28 high, 25 medium"
       },
-      "settings": 101,
+      "settings": 100,
       "tags": [
         "Gameplay Overhaul",
         "Quality of Life",
@@ -215,20 +215,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "Added start with weapon option, added print that shows the mod is active.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-21T22:00:29.511Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551714662385586297"
+        "at": "2026-09-22T02:10:28.806Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551777261517279320"
       },
       "id": "custom_mutations_dc3d6f",
-      "version": "20260921-215957",
-      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260921-215957.cwm",
-      "size": 987819,
-      "sha256": "680c9281e1b9f6616dc3345f46b965ba8367c1b22ca731650b3d534fe419b9e8",
+      "version": "20260922-020843",
+      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260922-020843.cwm",
+      "size": 1018374,
+      "sha256": "a19d7b68dce266e1a29b82728493dc98f778d88ad0e60d3c0b9a37200fe4573d",
       "history": [
+        {
+          "version": "20260922-020843",
+          "changelog": "Added start with weapon option, added print that shows the mod is active.",
+          "published": "2026-09-22T02:10:28.806Z"
+        },
         {
           "version": "20260921-215957",
           "changelog": "",
