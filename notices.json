@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T18:50:26.830Z",
+  "generated": "2026-09-22T19:19:46.808Z",
   "notices": [
+    {
+      "key": "ec7965a86515516294f64287087dc8d0c5c29c795a144096b488790bb2d8e768",
+      "status": "collab",
+      "mod": "test mod",
+      "id": "test_mod_1f7452",
+      "version": null,
+      "reason": "**Figglebottom** (@illuminatidonut) declined your invitation to co-author this mod.",
+      "by": "",
+      "at": "2026-09-22T19:19:46.631Z"
+    },
     {
       "key": "2d27332e62cb1bf0f908b3c6f05b4709e2458719dfb8363df8d9053222b8de4b",
       "status": "approved",
