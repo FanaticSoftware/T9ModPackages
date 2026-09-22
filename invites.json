@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T22:07:25.355Z",
-  "invites": []
+  "generated": "2026-09-22T16:02:08.584Z",
+  "invites": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "mod": "test_mod_1f7452",
+      "title": "test mod",
+      "ownerId": "1551981271943614497",
+      "ownerName": "mmmic2343",
+      "at": "2026-09-22T16:02:08.584Z"
+    }
+  ]
 }
