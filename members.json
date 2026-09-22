@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T13:24:38.842Z",
+  "generated": "2026-09-22T14:24:45.972Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -54,6 +54,12 @@
       "id": "305551634639880194",
       "name": "[vw] ashyn",
       "username": "vwcy",
+      "modder": true
+    },
+    {
+      "id": "707641399356686416",
+      "name": "＠Soldiア",
+      "username": "soldi08",
       "modder": true
     },
     {
