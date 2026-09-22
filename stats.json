@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T12:04:40.667Z",
+  "generated": "2026-09-22T12:14:40.295Z",
   "mods": {
     "directors_cut": {
       "favorites": 68,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 2,
         "average": 5
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 40,
+      "favorites": 39,
       "rating": {
         "count": 2,
         "average": 5
@@ -94,14 +94,14 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
