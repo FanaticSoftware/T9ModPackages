@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T21:24:38.920Z",
+  "generated": "2026-09-22T22:24:38.813Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -84,6 +84,12 @@
       "id": "528946578971688960",
       "name": "👻~gastly!~ 👻",
       "username": "lofetghastlykomi",
+      "modder": true
+    },
+    {
+      "id": "1418076606529933392",
+      "name": "🦴 ⋆˚࿔ Ashtray ₊˚⊹ 🦴",
+      "username": "matchst1ck__",
       "modder": true
     },
     {
@@ -630,6 +636,12 @@
       "id": "485097805598162944",
       "name": "Diamonds",
       "username": "shiningdiamonds",
+      "modder": true
+    },
+    {
+      "id": "496714086441156618",
+      "name": "DickDudeXd",
+      "username": ".dickdude",
       "modder": true
     },
     {
@@ -1974,6 +1986,12 @@
       "id": "274844248183144448",
       "name": "raprody",
       "username": "raprody",
+      "modder": true
+    },
+    {
+      "id": "322475367497596928",
+      "name": "RasterCrooger",
+      "username": "rastercrooger",
       "modder": true
     },
     {
