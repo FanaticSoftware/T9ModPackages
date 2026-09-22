@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T11:24:38.689Z",
+  "generated": "2026-09-22T12:24:38.830Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -369,6 +369,12 @@
       "modder": true
     },
     {
+      "id": "653341705973661716",
+      "name": "btec",
+      "username": "btecmath",
+      "modder": true
+    },
+    {
       "id": "989779413895905290",
       "name": "Burandonzehn",
       "username": "weebz10",
@@ -522,6 +528,12 @@
       "id": "643509694048108556",
       "name": "CuBnIcK",
       "username": "cubnick",
+      "modder": true
+    },
+    {
+      "id": "981894382171082782",
+      "name": "d4rkcw",
+      "username": "d4rkcw",
       "modder": true
     },
     {
@@ -1185,6 +1197,12 @@
       "modder": true
     },
     {
+      "id": "435574063117762560",
+      "name": "Jake",
+      "username": "realbooski",
+      "modder": true
+    },
+    {
       "id": "527228217803800587",
       "name": "JBANDZ(150/AD)",
       "username": "jbandz_150",
@@ -1680,6 +1698,12 @@
       "id": "378112294821036032",
       "name": "NotGodlike",
       "username": ".notttgoddd",
+      "modder": true
+    },
+    {
+      "id": "726391957705719811",
+      "name": "notice",
+      "username": "notzce",
       "modder": true
     },
     {
