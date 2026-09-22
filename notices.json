@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T02:10:33.520Z",
+  "generated": "2026-09-22T05:01:56.627Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "DOOM Mode (BETA)",
+      "id": "doom_mode_beta",
+      "version": "20260922-050028",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-09-22T05:01:56.457Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
