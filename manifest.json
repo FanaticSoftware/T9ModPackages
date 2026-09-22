@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T08:11:27.509Z",
+  "generated": "2026-09-22T08:11:32.661Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1094,14 +1094,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "82c087d73e66495d4ee56b96554dda497b5da5703a5ace628eb00443e2c0422b",
+      "sourceSha256": "3e51d42ce71482b3625a727b9773e24478538b55a7107950af179760b7b55452",
       "scan": {
         "critical": 0,
-        "high": 23,
-        "low": 32,
-        "medium": 396,
+        "high": 25,
+        "low": 34,
+        "medium": 406,
         "rules": "2026.08.19",
-        "summary": "23 high, 396 medium, 32 low"
+        "summary": "25 high, 406 medium, 34 low"
       },
       "settings": 59,
       "tags": [
@@ -1113,22 +1113,27 @@
         "Points / Economy",
         "Zombies / AI",
         "Bosses / Specials",
-        "Round-Based Maps"
+        "All Maps"
       ],
-      "changelog": "",
+      "changelog": "Bug fixes, added support to Onslaught and Outbreak.",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-19T07:00:20.153Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550763311946268679"
+        "at": "2026-09-22T08:11:30.538Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551868420138598475"
       },
       "id": "zm_classic",
-      "version": "20260919-065937",
-      "file": "mod_packages/zm_classic/zm_classic-20260919-065937.cwm",
-      "size": 2375189,
-      "sha256": "fa40e311c6925a7831c565da689af263b80636dbfa6b3e50de2082d529224800",
+      "version": "20260922-081051",
+      "file": "mod_packages/zm_classic/zm_classic-20260922-081051.cwm",
+      "size": 2476158,
+      "sha256": "dc63e1995d9aaae8f65da07b407087c609e048b4594bb77b7ae85e6719b34d81",
       "history": [
+        {
+          "version": "20260922-081051",
+          "changelog": "Bug fixes, added support to Onslaught and Outbreak.",
+          "published": "2026-09-22T08:11:30.538Z"
+        },
         {
           "version": "20260919-065937",
           "changelog": "",
