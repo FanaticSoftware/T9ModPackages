@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T20:34:40.867Z",
+  "generated": "2026-09-22T21:04:40.887Z",
   "mods": {
     "directors_cut": {
-      "favorites": 72,
+      "favorites": 73,
       "rating": {
         "count": 5,
         "average": 5
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 14,
+      "favorites": 13,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 193,
+      "favorites": 194,
       "rating": {
         "count": 13,
         "average": 5
@@ -52,14 +52,14 @@
       }
     },
     "t9_bots": {
-      "favorites": 19,
+      "favorites": 18,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 13,
+      "favorites": 12,
       "rating": {
         "count": 2,
         "average": 5
