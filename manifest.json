@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T08:11:32.661Z",
+  "generated": "2026-09-22T18:50:22.543Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -591,6 +591,56 @@
       ],
       "thumbnail": "mod_packages/holiday_events/thumbnail.png",
       "thumbnailSha256": "0e8bb4a0e25744e37689967f44d6a0d928b8a30754e2bed9de3b168969e2c351",
+      "collaborators": []
+    },
+    {
+      "title": "ZCT MOD v0.1",
+      "description": "Juggernog no longer increases health it functions as ARMOR REGENERATION\nArmor pickups/drops are disabled\nArsenal armor repair and upgrades are disabled\nInvisible zombies\nTeleporting zombies\nArmor pickups/drops are disabled.\nArsenal armor repair and upgrades are disabled.",
+      "author": {
+        "discordName": "lincoln900k",
+        "id": "676211383095787540",
+        "name": "lincoln900k"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "a14f6954816105b4d35d3332d03628fa1a5a52e957f58982160282dfea0ccdb9",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.19",
+        "summary": "25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Hard",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-22T18:50:22.180Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551795047177916561"
+      },
+      "id": "mulekick_0c3f8d",
+      "version": "20260922-031929",
+      "file": "mod_packages/mulekick_0c3f8d/mulekick_0c3f8d-20260922-031929.cwm",
+      "size": 179038,
+      "sha256": "da98a3c78fa6200e34ad8019a30c8cd3bd92d2f55fea9963e0f80d959a206934",
+      "history": [
+        {
+          "version": "20260922-031929",
+          "changelog": "",
+          "published": "2026-09-22T18:50:22.180Z"
+        }
+      ],
+      "thumbnail": "mod_packages/mulekick_0c3f8d/thumbnail.png",
+      "thumbnailSha256": "de42d817193f6cf7fa0a5d0077045f5d593e047e24e8deb965f907467eba6132",
       "collaborators": []
     },
     {
