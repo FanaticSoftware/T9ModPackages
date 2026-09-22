@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T06:24:38.529Z",
+  "generated": "2026-09-22T08:24:38.682Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -561,6 +561,12 @@
       "modder": true
     },
     {
+      "id": "970439670553018439",
+      "name": "dcedi",
+      "username": "dcedi",
+      "modder": true
+    },
+    {
       "id": "1065057246389739541",
       "name": "Denchik Games",
       "username": "denchikgamesofficial",
@@ -588,6 +594,12 @@
       "id": "294263350072705026",
       "name": "Dobby",
       "username": "destinydobby",
+      "modder": true
+    },
+    {
+      "id": "218825776018096138",
+      "name": "DoctorOps",
+      "username": "doctorops",
       "modder": true
     },
     {
@@ -702,6 +714,12 @@
       "id": "328074324227391488",
       "name": "EnchiladaBoi",
       "username": "enchiladaboi",
+      "modder": true
+    },
+    {
+      "id": "1079411678980091955",
+      "name": "Endioshia",
+      "username": "endioshia",
       "modder": true
     },
     {
@@ -1426,7 +1444,7 @@
     },
     {
       "id": "708336253967532097",
-      "name": "marmar",
+      "name": "MarsTheGoat",
       "username": "nrfv",
       "modder": true
     },
@@ -2145,6 +2163,12 @@
       "modder": true
     },
     {
+      "id": "559994067308642305",
+      "name": "Steven207",
+      "username": "steveerage",
+      "modder": true
+    },
+    {
       "id": "1121607624287326250",
       "name": "sucky",
       "username": "number0nepatriot",
@@ -2268,6 +2292,12 @@
       "id": "316886580000194561",
       "name": "Ultra",
       "username": "prodbyultra",
+      "modder": true
+    },
+    {
+      "id": "341605376938213386",
+      "name": "unknown love",
+      "username": "unknownlove",
       "modder": true
     },
     {
