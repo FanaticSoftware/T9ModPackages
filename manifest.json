@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T06:11:42.220Z",
+  "generated": "2026-09-22T08:11:27.509Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -602,20 +602,20 @@
         "name": "saintvertigo"
       },
       "publishedBy": {
-        "id": "1214090251178352677",
-        "name": "SaintVertigo and TheTeaa"
+        "id": "244657466783170560",
+        "name": "SaintVertigo, TheTeaa, and Figglebottom"
       },
       "developer": true,
-      "sourceSha256": "c4ff227207aff2edab78f27d28455aababc903f3e951eeb4403f13ead181bdca",
+      "sourceSha256": "3f88515bd15e3e1f2385e59d887067a11fe4809a877567f6c47e190ed33c80d9",
       "scan": {
         "critical": 0,
-        "high": 9,
-        "low": 3,
-        "medium": 66,
+        "high": 4,
+        "low": 10,
+        "medium": 177,
         "rules": "2026.08.19",
-        "summary": "9 high, 66 medium, 3 low"
+        "summary": "4 high, 177 medium, 10 low"
       },
-      "settings": 1,
+      "settings": 2,
       "tags": [
         "Gameplay Overhaul",
         "Round-Based Maps",
@@ -624,20 +624,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "add vertigo back",
+      "changelog": "Complete overhaul, more accurate to standard round based maps.",
       "highAlerts": [],
       "approved": {
-        "by": "teaa_the_silliest",
-        "byId": "1214090251178352677",
-        "at": "2026-09-19T18:07:13.009Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550931234631327872"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-22T08:11:27.133Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1551868174717423710"
       },
       "id": "onslaught_survival",
-      "version": "1.0.9",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-1.0.9.cwm",
-      "size": 1756641,
-      "sha256": "676f603e9991bbd2acd82d2ec548133402f4fc7682b952163ebbe906870f9c6e",
+      "version": "20260922-080952",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-20260922-080952.cwm",
+      "size": 2274083,
+      "sha256": "575701a57e7fae8c6c12442234dc14eafd41bf0cb2d2b240f8e7ee293a470c1d",
       "history": [
+        {
+          "version": "20260922-080952",
+          "changelog": "Complete overhaul, more accurate to standard round based maps.",
+          "published": "2026-09-22T08:11:27.133Z"
+        },
         {
           "version": "1.0.9",
           "changelog": "add vertigo back",
