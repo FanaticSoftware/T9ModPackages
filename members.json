@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T22:24:38.813Z",
+  "generated": "2026-09-22T23:24:38.796Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -408,6 +408,12 @@
       "id": "653341705973661716",
       "name": "btec",
       "username": "btecmath",
+      "modder": true
+    },
+    {
+      "id": "473231171820716063",
+      "name": "BTGames",
+      "username": ".btgamesyt",
       "modder": true
     },
     {
@@ -852,6 +858,12 @@
       "id": "1347038896667754608",
       "name": "FAlty75",
       "username": "falty75",
+      "modder": true
+    },
+    {
+      "id": "1185436781760495639",
+      "name": "fatherlesspigeon",
+      "username": "fatherlesspigeon",
       "modder": true
     },
     {
@@ -1704,6 +1716,12 @@
       "id": "1213418724003160116",
       "name": "mrnumnur",
       "username": "mrnumnur_05941",
+      "modder": true
+    },
+    {
+      "id": "179000491315822592",
+      "name": "MrSlayerGod",
+      "username": "mrslayergod",
       "modder": true
     },
     {
