@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T15:24:38.806Z",
+  "generated": "2026-09-22T16:24:38.791Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -294,6 +294,12 @@
       "id": "1094586193070542898",
       "name": "bartwesthoff",
       "username": "bartwesthoff",
+      "modder": true
+    },
+    {
+      "id": "1143908856276189236",
+      "name": "BBQ",
+      "username": "69barbeque",
       "modder": true
     },
     {
@@ -927,6 +933,12 @@
       "modder": true
     },
     {
+      "id": "695844475876147250",
+      "name": "G",
+      "username": "od4d",
+      "modder": true
+    },
+    {
       "id": "120739501684293632",
       "name": "Gamerlini",
       "username": "reloremichaelh.",
@@ -1203,6 +1215,12 @@
       "modder": true
     },
     {
+      "id": "1395845477777539234",
+      "name": "Jackjd",
+      "username": "jackjd0",
+      "modder": true
+    },
+    {
       "id": "140041774369472513",
       "name": "Jacksimo",
       "username": "jacksimo",
@@ -1470,6 +1488,12 @@
       "id": "687510504876539924",
       "name": "luisjostar",
       "username": ".luisjostar",
+      "modder": true
+    },
+    {
+      "id": "356183590024773633",
+      "name": "Luxxx",
+      "username": "basedluxxidityy",
       "modder": true
     },
     {
@@ -2322,6 +2346,12 @@
       "id": "189097429042200577",
       "name": "TheGamerX20",
       "username": "thegamerx20",
+      "modder": true
+    },
+    {
+      "id": "1551981271943614497",
+      "name": "THEgoar",
+      "username": "mmmic2343",
       "modder": true
     },
     {
