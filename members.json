@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T03:24:38.749Z",
+  "generated": "2026-09-22T06:24:38.529Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -858,6 +858,12 @@
       "id": "411015181783793674",
       "name": "Fry",
       "username": "frenchfrycod",
+      "modder": true
+    },
+    {
+      "id": "803064934459899916",
+      "name": "FuryCanCrit",
+      "username": "wafer.exe",
       "modder": true
     },
     {
