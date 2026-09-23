@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T00:54:02.604Z",
+  "generated": "2026-09-23T00:57:23.597Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -97,9 +97,14 @@
         "id": "279815318434480139",
         "name": "carddivision"
       },
-      "collaborators": [],
+      "collaborators": [
+        "285203050220486656"
+      ],
       "claimed": "2026-09-23T00:54:02.604Z",
-      "updated": "2026-09-23T00:54:02.604Z"
+      "updated": "2026-09-23T00:54:02.604Z",
+      "collaboratorNames": {
+        "285203050220486656": "DAKILLR"
+      }
     },
     {
       "id": "rogue_run_9b67e3",
