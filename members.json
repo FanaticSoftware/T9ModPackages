@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T05:24:38.842Z",
+  "generated": "2026-09-23T06:24:39.079Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -138,6 +138,12 @@
       "id": "536267303122108416",
       "name": "Aether",
       "username": "nova_aether",
+      "modder": true
+    },
+    {
+      "id": "442486528103415808",
+      "name": "Agu",
+      "username": "olibuu",
       "modder": true
     },
     {
