@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T18:50:22.543Z",
+  "generated": "2026-09-23T00:54:02.604Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -89,6 +89,17 @@
       "unpublished": "2026-09-09T18:49:40.473Z",
       "lastVersion": "1.0.1",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "perk_qol_tweaks",
+      "title": "Perk & QoL Tweaks",
+      "author": {
+        "id": "279815318434480139",
+        "name": "carddivision"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-23T00:54:02.604Z",
+      "updated": "2026-09-23T00:54:02.604Z"
     },
     {
       "id": "rogue_run_9b67e3",
