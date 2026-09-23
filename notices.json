@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T19:19:46.808Z",
+  "generated": "2026-09-23T00:57:26.214Z",
   "notices": [
+    {
+      "key": "24e2368ab15aec981c416ea5d64ea3c0ba8fe7bbaa6c2211ca74f0e3af0de49f",
+      "status": "collab",
+      "mod": "Perk & QoL Tweaks",
+      "id": "perk_qol_tweaks",
+      "version": null,
+      "reason": "**DAKILLR** (@longcrustacean) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-23T00:57:26.046Z"
+    },
     {
       "key": "ec7965a86515516294f64287087dc8d0c5c29c795a144096b488790bb2d8e768",
       "status": "collab",
