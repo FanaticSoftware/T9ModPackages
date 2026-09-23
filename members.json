@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T02:24:38.722Z",
+  "generated": "2026-09-23T03:24:38.766Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2208,6 +2208,12 @@
       "id": "190618587373895680",
       "name": "Salami Stromhorsey",
       "username": "yozoranightsbane",
+      "modder": true
+    },
+    {
+      "id": "978909519423893504",
+      "name": "𝕾𝖆𝖑𝖙𝖊𝖉_𝖘𝖐𝖚𝖑𝖑",
+      "username": "beebom",
       "modder": true
     },
     {
