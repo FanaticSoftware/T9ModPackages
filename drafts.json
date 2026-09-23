@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T00:57:23.597Z",
+  "generated": "2026-09-23T01:11:49.182Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -105,6 +105,17 @@
       "collaboratorNames": {
         "285203050220486656": "DAKILLR"
       }
+    },
+    {
+      "id": "perk_qol_tweaks_765e38",
+      "title": "perk qol tweaks",
+      "author": {
+        "id": "285203050220486656",
+        "name": "longcrustacean"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-23T01:11:49.182Z",
+      "updated": "2026-09-23T01:11:49.182Z"
     },
     {
       "id": "rogue_run_9b67e3",
