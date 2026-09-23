@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T16:34:42.412Z",
+  "generated": "2026-09-23T16:44:42.453Z",
   "mods": {
     "directors_cut": {
-      "favorites": 78,
+      "favorites": 79,
       "rating": {
         "count": 6,
         "average": 5
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 209,
+      "favorites": 210,
       "rating": {
         "count": 15,
         "average": 5
