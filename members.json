@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T12:24:39.193Z",
+  "generated": "2026-09-23T13:24:39.172Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -672,6 +672,12 @@
       "id": "1065057246389739541",
       "name": "Denchik Games",
       "username": "denchikgamesofficial",
+      "modder": true
+    },
+    {
+      "id": "662343074994847795",
+      "name": "dennis6423",
+      "username": "dennis642301",
       "modder": true
     },
     {
@@ -1500,6 +1506,12 @@
       "id": "1418928155439399043",
       "name": "kylorexion",
       "username": "kylorexion",
+      "modder": true
+    },
+    {
+      "id": "495509528092082180",
+      "name": "Kyuna",
+      "username": "qacexu.",
       "modder": true
     },
     {
