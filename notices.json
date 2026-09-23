@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:10:15.543Z",
+  "generated": "2026-09-23T01:16:32.755Z",
   "notices": [
+    {
+      "key": "24e2368ab15aec981c416ea5d64ea3c0ba8fe7bbaa6c2211ca74f0e3af0de49f",
+      "status": "approved",
+      "mod": "Perk & QoL Tweaks",
+      "id": "perk_qol_tweaks",
+      "version": "20260922-234824",
+      "reason": "",
+      "by": "fanaticsoftware",
+      "at": "2026-09-23T01:16:32.608Z"
+    },
     {
       "key": "b72c0e3188df0dbf8dc580594c57c8b7631b86af6929c98ada2fa3badbf5341d",
       "status": "approved",
