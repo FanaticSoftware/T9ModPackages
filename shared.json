@@ -140,15 +140,15 @@
       "updated": "2026-09-22T16:02:23.444Z"
     },
     "perk_qol_tweaks": {
-      "file": "shared_projects/perk_qol_tweaks/8c212ca8092a5993.cwm",
-      "size": 50073,
-      "sha256": "8c212ca8092a599379fc30b113a9e4a52dcabc62ccedc80809f70c864c5c9dce",
-      "basedOn": "ae889375b41a9b2a60feb7dc8b64090ec4d092ad024c4691b63b5f1f3f47ac70",
+      "file": "shared_projects/perk_qol_tweaks/da09ae1c0244000b.cwm",
+      "size": 51188,
+      "sha256": "da09ae1c0244000b15af2f99105a59419bd4720ac82be5d1cb27f83f1e8c425c",
+      "basedOn": "8c212ca8092a599379fc30b113a9e4a52dcabc62ccedc80809f70c864c5c9dce",
       "version": "20260922-234824",
       "files": 2,
       "by": "279815318434480139",
-      "updated": "2026-09-23T02:00:26.526Z"
+      "updated": "2026-09-23T02:07:54.983Z"
     }
   },
-  "generated": "2026-09-23T02:00:26.526Z"
+  "generated": "2026-09-23T02:07:54.983Z"
 }
