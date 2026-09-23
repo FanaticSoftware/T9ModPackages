@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T10:10:19.252Z",
+  "generated": "2026-09-23T19:24:07.113Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1089,6 +1089,58 @@
       ],
       "thumbnail": "mod_packages/replace_zombies_early_wip/thumbnail.png",
       "thumbnailSha256": "1654221646738b2f4245a0397826dc9c5edbd6c13add27d62ab1c6a1f34dbad2",
+      "collaborators": []
+    },
+    {
+      "title": "Start with WW (all maps)",
+      "description": "Will allow for players to spawn in with a WW of their choosing (when more are added, for now just the chrysalaxe)",
+      "author": {
+        "discordName": "igniter_",
+        "id": "340059996438134786",
+        "name": "Igniter_16"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "87d638183e88e7bcc38e0c1008395131128f88381a8de45b8a1456541f3fa202",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Utility / Tools",
+        "Weapons",
+        "Wonder Weapons",
+        "All Maps",
+        "Easy",
+        "Solo"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-23T19:24:06.849Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552398806019219531"
+      },
+      "id": "start_with_chrysal_456002",
+      "version": "20260923-191836",
+      "file": "mod_packages/start_with_chrysal_456002/start_with_chrysal_456002-20260923-191836.cwm",
+      "size": 269732,
+      "sha256": "3a8983e2d2ac5dc3bfe33818fbf5f1c37b3b1c3b3b392ea4d9e8d0fe6dbecdab",
+      "history": [
+        {
+          "version": "20260923-191836",
+          "changelog": "",
+          "published": "2026-09-23T19:24:06.849Z"
+        }
+      ],
+      "thumbnail": "mod_packages/start_with_chrysal_456002/thumbnail.png",
+      "thumbnailSha256": "18b46c8e38230c9b2b7a76a932cb416a18fbc4d3d4ace9afca8b946f54cd70cc",
       "collaborators": []
     },
     {
