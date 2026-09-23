@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T06:04:41.592Z",
+  "generated": "2026-09-23T07:04:41.645Z",
   "mods": {
     "directors_cut": {
       "favorites": 77,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 52,
+      "favorites": 54,
       "rating": {
         "count": 10,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 202,
+      "favorites": 204,
       "rating": {
         "count": 15,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 3,
         "average": 4.5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 4,
         "average": 5
