@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T13:44:42.115Z",
+  "generated": "2026-09-23T13:54:42.147Z",
   "mods": {
     "directors_cut": {
       "favorites": 77,
@@ -17,9 +17,9 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 53,
+      "favorites": 52,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 207,
+      "favorites": 206,
       "rating": {
         "count": 15,
         "average": 5
@@ -61,7 +61,7 @@
     "replace_zombies_early_wip": {
       "favorites": 12,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
@@ -75,7 +75,7 @@
     "day_night": {
       "favorites": 32,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
