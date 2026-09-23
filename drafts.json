@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:21:46.958Z",
+  "generated": "2026-09-23T01:27:30.372Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -107,7 +107,8 @@
       "updated": "2026-09-23T01:21:46.958Z",
       "unpublished": "2026-09-23T01:21:46.958Z",
       "lastVersion": "20260922-234824",
-      "unpublishedBy": "279815318434480139"
+      "unpublishedBy": "279815318434480139",
+      "collaboratorsCanSubmit": true
     },
     {
       "id": "perk_qol_tweaks_765e38",
