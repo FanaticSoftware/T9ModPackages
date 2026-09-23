@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T07:24:38.821Z",
+  "generated": "2026-09-23T08:24:39.006Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -627,6 +627,12 @@
       "modder": true
     },
     {
+      "id": "414516967454539796",
+      "name": "Dark Aether Ghost (Kenobi)",
+      "username": "darkaetherghost",
+      "modder": true
+    },
+    {
       "id": "339519535449112576",
       "name": "Dat boi dank",
       "username": "tfreaper",
@@ -1143,6 +1149,12 @@
       "modder": true
     },
     {
+      "id": "757802853829181440",
+      "name": "Hatboy456",
+      "username": "hatboy4560129",
+      "modder": true
+    },
+    {
       "id": "302605279923535873",
       "name": "Hawk",
       "username": "ayohwk",
@@ -1548,12 +1560,6 @@
       "id": "193968391294287872",
       "name": "Limen",
       "username": "limen2598",
-      "modder": true
-    },
-    {
-      "id": "963846404810375189",
-      "name": "Live Fast Die Young🍂",
-      "username": "ngaymaiminhdichoinhe",
       "modder": true
     },
     {
