@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T19:53:48.321Z",
+  "generated": "2026-09-23T23:41:20.087Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -550,6 +550,54 @@
       ],
       "thumbnail": "mod_packages/gun_game_wip/thumbnail.png",
       "thumbnailSha256": "7af5becd17eae0529b8690fa5b3e238535c208144935e9c544047cefe3e2d964",
+      "collaborators": []
+    },
+    {
+      "title": "Hide HUD",
+      "description": "This hides the HUD and an option to hide the viewmodel.",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "a37104da42bb2c60c7d5ba3dcfd4b850eefd836dd21a91d2831f7d2973f67ba3",
+      "scan": {
+        "critical": 0,
+        "high": 2,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "2 high"
+      },
+      "settings": 1,
+      "tags": [
+        "Gameplay Overhaul",
+        "Cosmetic / HUD"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-23T23:41:19.835Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552464845444481101"
+      },
+      "id": "hide_hud_24d1a2",
+      "version": "20260923-234059",
+      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260923-234059.cwm",
+      "size": 1323250,
+      "sha256": "70f3a0081f9cc0b942d852c30de711f6697cc924711a9c9341f733e46f2c9c5b",
+      "history": [
+        {
+          "version": "20260923-234059",
+          "changelog": "",
+          "published": "2026-09-23T23:41:19.835Z"
+        }
+      ],
+      "thumbnail": "mod_packages/hide_hud_24d1a2/thumbnail.png",
+      "thumbnailSha256": "6196098ee0e63d6b0c4df8c76622be5240d3c4394a4db77f2eb2ba6b862d1818",
       "collaborators": []
     },
     {
