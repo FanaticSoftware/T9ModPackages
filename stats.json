@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:24:41.058Z",
+  "generated": "2026-09-23T01:34:41.198Z",
   "mods": {
     "directors_cut": {
-      "favorites": 75,
+      "favorites": 76,
       "rating": {
         "count": 6,
         "average": 5
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 3,
         "average": 4.7
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
