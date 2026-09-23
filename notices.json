@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T00:57:26.214Z",
+  "generated": "2026-09-23T01:10:15.543Z",
   "notices": [
+    {
+      "key": "b72c0e3188df0dbf8dc580594c57c8b7631b86af6929c98ada2fa3badbf5341d",
+      "status": "approved",
+      "mod": "Gun Game (WIP)",
+      "id": "gun_game_wip",
+      "version": "20260923-004226",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-09-23T01:10:15.298Z"
+    },
     {
       "key": "24e2368ab15aec981c416ea5d64ea3c0ba8fe7bbaa6c2211ca74f0e3af0de49f",
       "status": "collab",
