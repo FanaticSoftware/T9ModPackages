@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T21:24:39.336Z",
+  "generated": "2026-09-23T23:24:39.141Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -837,6 +837,12 @@
       "modder": true
     },
     {
+      "id": "438825756857204736",
+      "name": "eevee父",
+      "username": "eevee__playzzz",
+      "modder": true
+    },
+    {
       "id": "903249873082675200",
       "name": "Eldlich_miguel",
       "username": "abraham_ishmaill",
@@ -1398,6 +1404,12 @@
       "id": "1088290462886002799",
       "name": "JJ",
       "username": "bigjjbinks",
+      "modder": true
+    },
+    {
+      "id": "1194066883847147521",
+      "name": "Joaquim",
+      "username": "joaquim0935_75122",
       "modder": true
     },
     {
@@ -1983,6 +1995,12 @@
       "modder": true
     },
     {
+      "id": "165640596076232705",
+      "name": "Nkstuf",
+      "username": "nkstuf",
+      "modder": true
+    },
+    {
       "id": "232467783357562880",
       "name": "Nooby",
       "username": "yboon",
@@ -2070,6 +2088,12 @@
       "id": "965690988939071569",
       "name": "Pax",
       "username": "paxgunner",
+      "modder": true
+    },
+    {
+      "id": "333652239153496066",
+      "name": "Pedro",
+      "username": "galaxy22",
       "modder": true
     },
     {
@@ -2751,6 +2775,12 @@
       "modder": true
     },
     {
+      "id": "788645159499202571",
+      "name": "Truleh👁",
+      "username": "truleh",
+      "modder": true
+    },
+    {
       "id": "1016109274574884894",
       "name": "TxmEXE222",
       "username": "txmexe222",
@@ -2802,6 +2832,12 @@
       "id": "1023774264207351938",
       "name": "Vepr",
       "username": "vepr0623",
+      "modder": true
+    },
+    {
+      "id": "950838283720618014",
+      "name": "Vic",
+      "username": "sall_may115",
       "modder": true
     },
     {
