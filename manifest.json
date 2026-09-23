@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:21:46.958Z",
+  "generated": "2026-09-23T10:00:29.149Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1030,7 +1030,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "f291abbacb62b307e550a7259ed8530ef493e944753cc1f9634fcb7f26605860",
+      "sourceSha256": "ddd875ec97af8b63cdbd585f0645d4433b6c9ee7c02acfeff2ad286459e90845",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1052,20 +1052,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "added more settings and caps",
+      "changelog": "Fixed Onslaught Survival compatibility",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-19T22:31:07.470Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550997469809217640"
+        "at": "2026-09-23T10:00:28.782Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552258321061515329"
       },
       "id": "replace_zombies_early_wip",
-      "version": "20260919-223010",
-      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260919-223010.cwm",
-      "size": 914783,
-      "sha256": "7c9de374d881b610acc878a84375f3aa9f98cf876e34b946d0898ab315cb0785",
+      "version": "20260923-100020",
+      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260923-100020.cwm",
+      "size": 919663,
+      "sha256": "27c75087d2d3f216c1fd1523b68520f1a75728aff56c5d09d6dd4b04f0d461fb",
       "history": [
+        {
+          "version": "20260923-100020",
+          "changelog": "Fixed Onslaught Survival compatibility",
+          "published": "2026-09-23T10:00:28.782Z"
+        },
         {
           "version": "20260919-223010",
           "changelog": "added more settings and caps",
