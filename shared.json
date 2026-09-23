@@ -138,7 +138,17 @@
       "files": 2,
       "by": "1551981271943614497",
       "updated": "2026-09-22T16:02:23.444Z"
+    },
+    "perk_qol_tweaks": {
+      "file": "shared_projects/perk_qol_tweaks/c072d0b1fbe43a55.cwm",
+      "size": 43729,
+      "sha256": "c072d0b1fbe43a55d889d0a3a40c82a80b1eba0ba955ec4d071d1bfda52a0b15",
+      "basedOn": "",
+      "version": "20260922-234824",
+      "files": 2,
+      "by": "279815318434480139",
+      "updated": "2026-09-23T01:11:11.342Z"
     }
   },
-  "generated": "2026-09-22T16:02:23.444Z"
+  "generated": "2026-09-23T01:11:11.342Z"
 }
