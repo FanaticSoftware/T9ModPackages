@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T19:24:39.334Z",
+  "generated": "2026-09-23T20:24:39.306Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -300,6 +300,12 @@
       "id": "962886700315586642",
       "name": "Aurora",
       "username": "nameless.ghoulette",
+      "modder": true
+    },
+    {
+      "id": "1312003195639435315",
+      "name": "Aziz",
+      "username": "oiiaziz",
       "modder": true
     },
     {
@@ -690,6 +696,12 @@
       "id": "662343074994847795",
       "name": "dennis6423",
       "username": "dennis642301",
+      "modder": true
+    },
+    {
+      "id": "1144934565891276850",
+      "name": "DerDreckige69",
+      "username": "derdreckige69.",
       "modder": true
     },
     {
@@ -2883,6 +2895,12 @@
       "modder": true
     },
     {
+      "id": "826787183109079051",
+      "name": "xHDxModderz",
+      "username": "mrwalker94",
+      "modder": true
+    },
+    {
       "id": "544741539067199511",
       "name": "xSkullHD",
       "username": "xskullhd",
@@ -2994,6 +3012,12 @@
       "id": "922980090688700487",
       "name": "ZestyCODLeaks",
       "username": "zestycodleaks",
+      "modder": true
+    },
+    {
+      "id": "1552074444627902581",
+      "name": "zhbrooklyn",
+      "username": "zhbrooklynftw",
       "modder": true
     },
     {
