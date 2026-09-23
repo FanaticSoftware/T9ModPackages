@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T18:24:39.182Z",
+  "generated": "2026-09-23T19:24:39.334Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1605,6 +1605,12 @@
       "modder": true
     },
     {
+      "id": "789557926419365918",
+      "name": "Lexi",
+      "username": "lexitry",
+      "modder": true
+    },
+    {
       "id": "1042279362147385454",
       "name": "Lillian",
       "username": "lillianro.se",
@@ -2601,6 +2607,12 @@
       "modder": true
     },
     {
+      "id": "924044540069949480",
+      "name": "sven",
+      "username": "bob3405",
+      "modder": true
+    },
+    {
       "id": "1098652776919212063",
       "name": "Swags",
       "username": "thefluffyswagmaster",
@@ -2862,6 +2874,12 @@
       "id": "1512969320387313684",
       "name": "wisp",
       "username": "wisp48",
+      "modder": true
+    },
+    {
+      "id": "1201978846140969000",
+      "name": "wize go crazy",
+      "username": "godaimwize",
       "modder": true
     },
     {
