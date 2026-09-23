@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:16:32.755Z",
+  "generated": "2026-09-23T01:21:50.906Z",
   "notices": [
+    {
+      "key": "914656ad137fd9246879b8eb774b5ab6263e413f997299dbbe447ca430be1afb",
+      "status": "collab",
+      "mod": "Perk & QoL Tweaks",
+      "id": "perk_qol_tweaks",
+      "version": null,
+      "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
+      "by": "",
+      "at": "2026-09-23T01:21:50.712Z"
+    },
     {
       "key": "24e2368ab15aec981c416ea5d64ea3c0ba8fe7bbaa6c2211ca74f0e3af0de49f",
       "status": "approved",
