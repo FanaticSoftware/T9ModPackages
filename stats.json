@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T03:34:41.477Z",
+  "generated": "2026-09-23T03:44:41.377Z",
   "mods": {
     "directors_cut": {
       "favorites": 77,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 2,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 199,
+      "favorites": 200,
       "rating": {
         "count": 14,
         "average": 5
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 20,
+      "favorites": 23,
       "rating": {
         "count": 3,
         "average": 5
