@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T23:24:38.796Z",
+  "generated": "2026-09-23T00:24:38.734Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -339,6 +339,12 @@
       "modder": true
     },
     {
+      "id": "426418477964984332",
+      "name": "bigbradders_",
+      "username": "bigbradders_",
+      "modder": true
+    },
+    {
       "id": "942786238044332043",
       "name": "Billyonzaza",
       "username": "billyonzaza",
@@ -450,6 +456,12 @@
       "id": "836541591022862386",
       "name": "capeling",
       "username": "capeling",
+      "modder": true
+    },
+    {
+      "id": "279815318434480139",
+      "name": "Card Division",
+      "username": "carddivision",
       "modder": true
     },
     {
@@ -1683,6 +1695,12 @@
       "modder": true
     },
     {
+      "id": "538144166564200489",
+      "name": "𝙈𝙤𝙣𝙖𝙧𝙘𝙝𝙮",
+      "username": "monarchy5937",
+      "modder": true
+    },
+    {
       "id": "142841910053175297",
       "name": "Monejha",
       "username": "monejha",
@@ -2232,6 +2250,12 @@
       "id": "459465247506563073",
       "name": "sehteria",
       "username": "sehteria",
+      "modder": true
+    },
+    {
+      "id": "530543201082277898",
+      "name": "Shadow",
+      "username": "shadowk3538",
       "modder": true
     },
     {
