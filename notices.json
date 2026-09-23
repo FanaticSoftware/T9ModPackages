@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:21:50.906Z",
+  "generated": "2026-09-23T01:27:33.420Z",
   "notices": [
+    {
+      "key": "914656ad137fd9246879b8eb774b5ab6263e413f997299dbbe447ca430be1afb",
+      "status": "collab",
+      "mod": "Perk & QoL Tweaks",
+      "id": "perk_qol_tweaks",
+      "version": null,
+      "reason": "The owner of **Perk & QoL Tweaks** now allows co-authors to submit new versions. SUBMIT MOD in your launcher can send one; it is reviewed as usual and published under the owner's name.",
+      "by": "",
+      "at": "2026-09-23T01:27:33.201Z"
+    },
     {
       "key": "914656ad137fd9246879b8eb774b5ab6263e413f997299dbbe447ca430be1afb",
       "status": "collab",
