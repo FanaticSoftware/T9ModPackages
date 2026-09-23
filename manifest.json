@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T01:16:28.372Z",
+  "generated": "2026-09-23T01:21:46.958Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -770,62 +770,6 @@
         ]
       },
       "collaboratorsCanSubmit": true
-    },
-    {
-      "title": "Perk & QoL Tweaks",
-      "description": "Standalone Zombies perk-effectiveness and quality-of-life options.",
-      "author": {
-        "discordName": "carddivision",
-        "id": "279815318434480139",
-        "name": "Card Division"
-      },
-      "publishedBy": null,
-      "developer": false,
-      "sourceSha256": "c2f26662b5e277cdb339589dd2133c3e75312f09cbca9916bbcaffbf4f36721b",
-      "scan": {
-        "critical": 0,
-        "high": 0,
-        "low": 0,
-        "medium": 0,
-        "rules": "2026.08.19",
-        "summary": "clean, nothing flagged"
-      },
-      "settings": 4,
-      "tags": [
-        "Quality of Life",
-        "Perks",
-        "All Maps",
-        "Solo",
-        "Co-op"
-      ],
-      "changelog": "",
-      "highAlerts": [],
-      "approved": {
-        "by": "fanaticsoftware",
-        "byId": "243151432230895619",
-        "at": "2026-09-23T01:16:28.129Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552104317933195288"
-      },
-      "id": "perk_qol_tweaks",
-      "version": "20260922-234824",
-      "file": "mod_packages/perk_qol_tweaks/perk_qol_tweaks-20260922-234824.cwm",
-      "size": 279444,
-      "sha256": "13a6ec3ff46891fee381b4ad09f34130088dde3852e6882f09d3aee3422fb03d",
-      "history": [
-        {
-          "version": "20260922-234824",
-          "changelog": "",
-          "published": "2026-09-23T01:16:28.129Z"
-        }
-      ],
-      "thumbnail": "mod_packages/perk_qol_tweaks/thumbnail.png",
-      "thumbnailSha256": "ba34c570bf21b2fac36cc144f39269e0c3339a1ec4b8c3d45b0ccbdd7db69af2",
-      "collaborators": [
-        "285203050220486656"
-      ],
-      "collaboratorNames": {
-        "285203050220486656": "DAKILLR"
-      }
     },
     {
       "title": "Realism Mode",
