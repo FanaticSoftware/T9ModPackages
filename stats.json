@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T23:44:42.950Z",
+  "generated": "2026-09-23T23:54:42.909Z",
   "mods": {
     "directors_cut": {
       "favorites": 80,
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 213,
+      "favorites": 214,
       "rating": {
         "count": 15,
         "average": 5
@@ -116,6 +116,13 @@
     },
     "start_with_chrysal_456002": {
       "favorites": 4,
+      "rating": {
+        "count": 1,
+        "average": 5
+      }
+    },
+    "hide_hud_24d1a2": {
+      "favorites": 0,
       "rating": {
         "count": 1,
         "average": 5
