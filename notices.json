@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T00:42:50.172Z",
+  "generated": "2026-09-24T01:58:01.275Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "Deadlight Greenlight",
+      "id": "deadlight_greenlight_fc56b7",
+      "version": "20260924-012244",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-09-24T01:58:01.093Z"
+    },
     {
       "key": "b9addc0ccadc8bb9c76d00a23d47968030673d72b3254bd5e74c196e3692477b",
       "status": "collab",
