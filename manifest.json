@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T05:29:08.531Z",
+  "generated": "2026-09-24T05:33:02.903Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1373,7 +1373,12 @@
       ],
       "thumbnail": "mod_packages/zm_classic/thumbnail.png",
       "thumbnailSha256": "e0452b875300b92209c58b3693c12d89cdd14d3d59712eb8e1453ed3c2aefa94",
-      "collaborators": []
+      "collaborators": [
+        "684408486456852481"
+      ],
+      "collaboratorNames": {
+        "684408486456852481": "SaintVertigo"
+      }
     }
   ]
 }
