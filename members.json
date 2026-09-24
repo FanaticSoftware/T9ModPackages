@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T12:24:39.619Z",
+  "generated": "2026-09-24T13:24:39.689Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2958,6 +2958,12 @@
       "id": "427931160191041536",
       "name": "uu",
       "username": "undying.umbrage",
+      "modder": true
+    },
+    {
+      "id": "1218135842057621514",
+      "name": "uzrr_.j",
+      "username": "j4yden_67",
       "modder": true
     },
     {
