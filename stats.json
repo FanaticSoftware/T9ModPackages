@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T10:54:43.822Z",
+  "generated": "2026-09-24T11:24:43.827Z",
   "mods": {
     "directors_cut": {
-      "favorites": 83,
+      "favorites": 84,
       "rating": {
         "count": 6,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 1,
         "average": 4
