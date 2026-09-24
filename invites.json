@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T00:57:20.463Z",
-  "invites": []
+  "generated": "2026-09-24T00:40:47.930Z",
+  "invites": [
+    {
+      "key": "09dadc9efc862646a870775a0e5caced02fca78330c9730a83f2ad66ca765ff0",
+      "mod": "outbreak_survival_87a89c",
+      "title": "Outbreak Survival",
+      "ownerId": "188047951896117248",
+      "ownerName": "brad_.",
+      "at": "2026-09-24T00:40:47.930Z"
+    }
+  ]
 }
