@@ -1,23 +1,23 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T17:54:44.216Z",
+  "generated": "2026-09-24T18:04:44.258Z",
   "mods": {
     "directors_cut": {
-      "favorites": 89,
+      "favorites": 90,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "onslaught_survival": {
-      "favorites": 60,
+      "favorites": 61,
       "rating": {
         "count": 4,
         "average": 5
@@ -31,21 +31,21 @@
       }
     },
     "realism_mode": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 228,
+      "favorites": 229,
       "rating": {
         "count": 18,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 4,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 6,
         "average": 4.9
