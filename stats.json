@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T19:04:44.327Z",
+  "generated": "2026-09-24T19:14:44.481Z",
   "mods": {
     "directors_cut": {
       "favorites": 93,
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 230,
+      "favorites": 231,
       "rating": {
         "count": 18,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 45,
+      "favorites": 46,
       "rating": {
         "count": 4,
         "average": 5
@@ -68,12 +68,12 @@
     "doom_mode_beta": {
       "favorites": 9,
       "rating": {
-        "count": 4,
-        "average": 4.5
+        "count": 5,
+        "average": 4.6
       }
     },
     "day_night": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
         "count": 4,
         "average": 5
