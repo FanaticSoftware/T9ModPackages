@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T05:32:20.342Z",
+  "generated": "2026-09-24T05:33:00.461Z",
   "invites": [
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "mod": "zm_classic",
-      "title": "ZM Classic",
-      "ownerId": "244657466783170560",
-      "ownerName": "illuminatidonut",
-      "at": "2026-09-24T05:32:20.342Z"
-    },
     {
       "key": "6a6fdc86c2197dad866f0a4d17cbf57e8dff96904e43b7e6fe44af7a6f93493b",
       "mod": "outbreak_survival_87a89c",
