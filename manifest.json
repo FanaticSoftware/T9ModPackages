@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T19:57:45.139Z",
+  "generated": "2026-09-24T21:25:28.435Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -910,16 +910,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "bd7281583a6f8d0cab75618b03d1531753e154909dcbdd0148fad4da24366542",
+      "sourceSha256": "b5b529720112c8137c53a2dddcdfaa43e217521e839f2f59b69eb2a5a8d96021",
       "scan": {
         "critical": 0,
-        "high": 127,
-        "low": 19,
-        "medium": 253,
+        "high": 134,
+        "low": 20,
+        "medium": 251,
         "rules": "2026.08.19",
-        "summary": "127 high, 253 medium, 19 low"
+        "summary": "134 high, 251 medium, 20 low"
       },
-      "settings": 0,
+      "settings": 6,
       "tags": [
         "Gameplay Overhaul",
         "Difficulty",
@@ -942,20 +942,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "May or may not have fixed the infinite loading screen",
+      "changelog": "I added options",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-20T08:17:41.057Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551145248129028182"
+        "at": "2026-09-24T21:25:28.037Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552793070171332662"
       },
       "id": "realism_mode",
-      "version": "20260920-081716",
-      "file": "mod_packages/realism_mode/realism_mode-20260920-081716.cwm",
-      "size": 2770194,
-      "sha256": "8ff7efb2b002df321e454598f65a4d06ed788a4a8f690685dd34d4af9cbb5499",
+      "version": "20260924-212505",
+      "file": "mod_packages/realism_mode/realism_mode-20260924-212505.cwm",
+      "size": 2761688,
+      "sha256": "e2ca7a9931951c637a9053b2c340c254a54a74469b356032499ee87daec3a1f9",
       "history": [
+        {
+          "version": "20260924-212505",
+          "changelog": "I added options",
+          "published": "2026-09-24T21:25:28.037Z"
+        },
         {
           "version": "20260920-081716",
           "changelog": "May or may not have fixed the infinite loading screen",
