@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T20:24:39.762Z",
+  "generated": "2026-09-24T21:24:39.440Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -510,6 +510,12 @@
       "id": "519898319049195520",
       "name": "Bustin' Burger",
       "username": "blobfish.inc",
+      "modder": true
+    },
+    {
+      "id": "347447674204585985",
+      "name": "Buzzy",
+      "username": "buzzydx",
       "modder": true
     },
     {
