@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T11:34:43.914Z",
+  "generated": "2026-09-24T11:54:43.909Z",
   "mods": {
     "directors_cut": {
-      "favorites": 84,
+      "favorites": 85,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
         "count": 3,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 10,
+      "favorites": 13,
       "rating": {
         "count": 1,
         "average": 5
