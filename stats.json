@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T02:14:43.096Z",
+  "generated": "2026-09-24T02:24:43.069Z",
   "mods": {
     "directors_cut": {
       "favorites": 81,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 215,
+      "favorites": 216,
       "rating": {
         "count": 16,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 3,
         "average": 4.5
@@ -101,7 +101,7 @@
       }
     },
     "mulekick_0c3f8d": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
