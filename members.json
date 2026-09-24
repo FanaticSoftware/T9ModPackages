@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T03:24:39.189Z",
+  "generated": "2026-09-24T04:24:39.141Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -600,6 +600,12 @@
       "id": "587466342429360158",
       "name": "Crab",
       "username": "crab5994",
+      "modder": true
+    },
+    {
+      "id": "181457427902889984",
+      "name": "cranky",
+      "username": "cranky.vi",
       "modder": true
     },
     {
@@ -1455,6 +1461,12 @@
       "modder": true
     },
     {
+      "id": "1135599033893793894",
+      "name": "Jose",
+      "username": "ju4npablo_",
+      "modder": true
+    },
+    {
       "id": "447464196192600084",
       "name": "José",
       "username": "venenzuela",
@@ -1593,6 +1605,12 @@
       "modder": true
     },
     {
+      "id": "1011366693496430672",
+      "name": "Knuff",
+      "username": "kazuki_knuff",
+      "modder": true
+    },
+    {
       "id": "794384098704883712",
       "name": "Kode",
       "username": "tv4l",
@@ -1656,6 +1674,12 @@
       "id": "319655792481665024",
       "name": "LegitBananaMan",
       "username": "legitbananaman",
+      "modder": true
+    },
+    {
+      "id": "1418478006682255440",
+      "name": "Leminare",
+      "username": "leminaredev",
       "modder": true
     },
     {
@@ -2844,6 +2868,12 @@
       "id": "361226212003020800",
       "name": "ToPicky_4U",
       "username": "topicky4u",
+      "modder": true
+    },
+    {
+      "id": "594420944500686848",
+      "name": "ToxicAtomic",
+      "username": "toxicatomic",
       "modder": true
     },
     {
