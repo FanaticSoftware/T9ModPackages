@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T05:04:43.307Z",
+  "generated": "2026-09-24T05:14:43.347Z",
   "mods": {
     "directors_cut": {
       "favorites": 82,
@@ -12,14 +12,14 @@
     "boss_rush": {
       "favorites": 37,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
     "onslaught_survival": {
       "favorites": 56,
       "rating": {
-        "count": 3,
+        "count": 4,
         "average": 5
       }
     },
@@ -40,7 +40,7 @@
     "zm_classic": {
       "favorites": 219,
       "rating": {
-        "count": 16,
+        "count": 17,
         "average": 5
       }
     },
@@ -68,14 +68,14 @@
     "doom_mode_beta": {
       "favorites": 9,
       "rating": {
-        "count": 3,
-        "average": 4.7
+        "count": 4,
+        "average": 4.5
       }
     },
     "day_night": {
       "favorites": 33,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
