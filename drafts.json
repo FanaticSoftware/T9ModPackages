@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T17:46:51.474Z",
+  "generated": "2026-09-24T17:48:44.278Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -85,7 +85,12 @@
       },
       "collaborators": [],
       "claimed": "2026-09-24T17:46:51.474Z",
-      "updated": "2026-09-24T17:46:51.474Z"
+      "updated": "2026-09-24T17:46:51.474Z",
+      "testerAccounts": {
+        "527228217803800587": [
+          "66c46a780ae68701"
+        ]
+      }
     },
     {
       "id": "jingle_hells",
