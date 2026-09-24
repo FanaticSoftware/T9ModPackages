@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T00:41:01.770Z",
+  "generated": "2026-09-24T00:42:47.490Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -97,13 +97,18 @@
         "id": "188047951896117248",
         "name": "brad_."
       },
-      "collaborators": [],
+      "collaborators": [
+        "114040764912107522"
+      ],
       "claimed": "2026-09-24T00:40:22.911Z",
       "updated": "2026-09-24T00:40:26.809Z",
       "testerAccounts": {
         "188047951896117248": [
           "760c3ac3e100d48d"
         ]
+      },
+      "collaboratorNames": {
+        "114040764912107522": "SictionArc"
       }
     },
     {
