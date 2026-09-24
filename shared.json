@@ -148,7 +148,17 @@
       "files": 2,
       "by": "279815318434480139",
       "updated": "2026-09-23T02:07:54.983Z"
+    },
+    "outbreak_survival_87a89c": {
+      "file": "shared_projects/outbreak_survival_87a89c/77558b332a3f742a.cwm",
+      "size": 5047,
+      "sha256": "77558b332a3f742aa78c54ce6b24657fc8c5f1f3879b828ceb39198ea81d9cbd",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 1,
+      "by": "188047951896117248",
+      "updated": "2026-09-24T00:42:55.630Z"
     }
   },
-  "generated": "2026-09-23T02:07:54.983Z"
+  "generated": "2026-09-24T00:42:55.630Z"
 }
