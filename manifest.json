@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T01:57:57.819Z",
+  "generated": "2026-09-24T05:29:08.531Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -705,6 +705,61 @@
       ],
       "thumbnail": "mod_packages/mulekick_0c3f8d/thumbnail.png",
       "thumbnailSha256": "de42d817193f6cf7fa0a5d0077045f5d593e047e24e8deb965f907467eba6132",
+      "collaborators": []
+    },
+    {
+      "title": "Nacht Der Untoten First Room",
+      "description": "Play the iconic Nacht Der Untoten first room!",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "a7116bd299882f2968f4edf56245f3f1a5b715135f8ee6f05c3ecb5387b5fa8f",
+      "scan": {
+        "critical": 0,
+        "high": 9,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.08.19",
+        "summary": "9 high, 25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Perks",
+        "Pack-a-Punch",
+        "Mystery Box",
+        "Round-Based Maps",
+        "Forsaken",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-24T05:29:08.268Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552552323736403973"
+      },
+      "id": "nacht_survival_396e21",
+      "version": "20260924-052835",
+      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260924-052835.cwm",
+      "size": 1054042,
+      "sha256": "088153d7896d438dbc81dcab91e0c47cf35a089296160ead8f9f1bc3784fc0cb",
+      "history": [
+        {
+          "version": "20260924-052835",
+          "changelog": "",
+          "published": "2026-09-24T05:29:08.268Z"
+        }
+      ],
+      "thumbnail": "mod_packages/nacht_survival_396e21/thumbnail.png",
+      "thumbnailSha256": "2155f3308d1c1bd866ecdcfec9003bcb943c0ab3cdd01215ade9f9681c536aa9",
       "collaborators": []
     },
     {
