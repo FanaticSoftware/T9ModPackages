@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T15:24:39.572Z",
+  "generated": "2026-09-24T16:24:39.833Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1479,6 +1479,12 @@
       "modder": true
     },
     {
+      "id": "1021718684005318697",
+      "name": "Joeley",
+      "username": "joeleyd98",
+      "modder": true
+    },
+    {
       "id": "264868359974289408",
       "name": "Joemet123",
       "username": "joemet123",
@@ -2289,6 +2295,12 @@
       "modder": true
     },
     {
+      "id": "1318987199454380047",
+      "name": "raccoon",
+      "username": "raccoon2342",
+      "modder": true
+    },
+    {
       "id": "1372261558146564237",
       "name": "Radman2077",
       "username": ".radman2077",
@@ -2832,6 +2844,12 @@
       "id": "189097429042200577",
       "name": "TheGamerX20",
       "username": "thegamerx20",
+      "modder": true
+    },
+    {
+      "id": "441040987679358988",
+      "name": "TheGamingSt0ne",
+      "username": "thegamingst0ne",
       "modder": true
     },
     {
