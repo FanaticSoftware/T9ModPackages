@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T05:35:56.460Z",
+  "generated": "2026-09-24T18:17:18.405Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1212,7 +1212,7 @@
     },
     {
       "title": "Start with WW (all maps)",
-      "description": "Will allow for players to spawn in with a WW of their choosing (when more are added, for now just the chrysalaxe)",
+      "description": "Allows you to spawn in with every Wonder Weapon on every map, including the D.I.E varients.",
       "author": {
         "discordName": "igniter_",
         "id": "340059996438134786",
@@ -1220,7 +1220,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "87d638183e88e7bcc38e0c1008395131128f88381a8de45b8a1456541f3fa202",
+      "sourceSha256": "4beaa9a5f275846037ea045f83d4343b5f3252cbd87b1fe7eb7f8d24b01597a0",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1229,7 +1229,7 @@
         "rules": "2026.08.19",
         "summary": "clean, nothing flagged"
       },
-      "settings": 0,
+      "settings": 1,
       "tags": [
         "Utility / Tools",
         "Weapons",
@@ -1238,20 +1238,25 @@
         "Easy",
         "Solo"
       ],
-      "changelog": "",
+      "changelog": "Added the rest of the wonder weapons + D.I.E varients",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-23T19:24:06.849Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552398806019219531"
+        "at": "2026-09-24T18:17:18.051Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552742982812172413"
       },
       "id": "start_with_chrysal_456002",
-      "version": "20260923-191836",
-      "file": "mod_packages/start_with_chrysal_456002/start_with_chrysal_456002-20260923-191836.cwm",
-      "size": 269732,
-      "sha256": "3a8983e2d2ac5dc3bfe33818fbf5f1c37b3b1c3b3b392ea4d9e8d0fe6dbecdab",
+      "version": "20260924-180615",
+      "file": "mod_packages/start_with_chrysal_456002/start_with_chrysal_456002-20260924-180615.cwm",
+      "size": 277863,
+      "sha256": "c4e7609e4fcc39e749fd4dd75501787fc0b6f0f6552e3430c07410407459774c",
       "history": [
+        {
+          "version": "20260924-180615",
+          "changelog": "Added the rest of the wonder weapons + D.I.E varients",
+          "published": "2026-09-24T18:17:18.051Z"
+        },
         {
           "version": "20260923-191836",
           "changelog": "",
