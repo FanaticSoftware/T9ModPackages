@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T00:41:37.253Z",
+  "generated": "2026-09-24T00:42:44.311Z",
   "invites": [
     {
       "key": "6a6fdc86c2197dad866f0a4d17cbf57e8dff96904e43b7e6fe44af7a6f93493b",
@@ -9,14 +9,6 @@
       "ownerId": "188047951896117248",
       "ownerName": "brad_.",
       "at": "2026-09-24T00:41:37.253Z"
-    },
-    {
-      "key": "09dadc9efc862646a870775a0e5caced02fca78330c9730a83f2ad66ca765ff0",
-      "mod": "outbreak_survival_87a89c",
-      "title": "Outbreak Survival",
-      "ownerId": "188047951896117248",
-      "ownerName": "brad_.",
-      "at": "2026-09-24T00:40:47.930Z"
     }
   ]
 }
