@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T10:24:39.689Z",
+  "generated": "2026-09-24T11:24:39.507Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2430,6 +2430,12 @@
       "id": "325453427674972161",
       "name": "rutenguten",
       "username": "rutenguten",
+      "modder": true
+    },
+    {
+      "id": "372861386365337613",
+      "name": "Ruty",
+      "username": "ru.ty",
       "modder": true
     },
     {
