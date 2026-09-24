@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T18:34:44.382Z",
+  "generated": "2026-09-24T18:44:44.337Z",
   "mods": {
     "directors_cut": {
-      "favorites": 92,
+      "favorites": 93,
       "rating": {
         "count": 6,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 229,
+      "favorites": 230,
       "rating": {
         "count": 18,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 4,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 4,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -122,14 +122,14 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 2,
         "average": 4.5
