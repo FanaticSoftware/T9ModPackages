@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T09:24:39.748Z",
+  "generated": "2026-09-24T10:24:39.689Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1290,6 +1290,12 @@
       "id": "209826537036447745",
       "name": "Hitch",
       "username": "_hitch",
+      "modder": true
+    },
+    {
+      "id": "926204309538996265",
+      "name": "Hooker From Bradford",
+      "username": "freehookers",
       "modder": true
     },
     {
@@ -2964,6 +2970,12 @@
       "id": "313872123682619404",
       "name": "Videl Enjoyer",
       "username": "videlenjoyer",
+      "modder": true
+    },
+    {
+      "id": "950844018365988865",
+      "name": "Viktor Francesco",
+      "username": "fliegeaffe",
       "modder": true
     },
     {
