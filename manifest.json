@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-23T23:41:20.087Z",
+  "generated": "2026-09-24T01:57:57.819Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -315,7 +315,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "5fee7872086fe5757e0f7186a51597c5578c0f47af8b795302dbb3a2f97f5e11",
+      "sourceSha256": "14eaba6df34cea8268b058d91828ae4cfa73172c37fa7f52398a60f27a2fdce4",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -324,30 +324,36 @@
         "rules": "2026.08.19",
         "summary": "1 medium"
       },
-      "settings": 5,
+      "settings": 10,
       "tags": [
         "Challenge / Custom Rules",
         "Points / Economy",
         "Zombies / AI",
+        "Player Health / Downs",
         "All Maps",
         "Hard",
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "Re-arranged the Settings to look nicer and to add the following presets: Default, Bo6 Rules, and Challenging.\nChanged the Punishments toggle to be individual toggles instead.\nAdded more settings, Toggle Child Laughter sound when caught, Point drain amount, and Health drain amount.\nRemoved Double Points so it wont mess with the light change.\nIncreased the chances for Deadlight to happen.\nFixed Health loss not functioning when Point loss is disabled.",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-09-20T18:29:12.652Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551223094901743630"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-24T01:57:57.483Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552490445819486209"
       },
       "id": "deadlight_greenlight_fc56b7",
-      "version": "20260920-132644",
-      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20260920-132644.cwm",
-      "size": 110940,
-      "sha256": "de7f6b25138ddb00a272892d9a485440bd071bde01f2a99d6540a3ad821e0ec2",
+      "version": "20260924-012244",
+      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20260924-012244.cwm",
+      "size": 117703,
+      "sha256": "21c2183b3150c4e1c0a2c7a5f680232705231ec7279286e7d155b82d9cca3a01",
       "history": [
+        {
+          "version": "20260924-012244",
+          "changelog": "Re-arranged the Settings to look nicer and to add the following presets: Default, Bo6 Rules, and Challenging.\nChanged the Punishments toggle to be individual toggles instead.\nAdded more settings, Toggle Child Laughter sound when caught, Point drain amount, and Health drain amount.\nRemoved Double Points so it wont mess with the light change.\nIncreased the chances for Deadlight to happen.\nFixed Health loss not functioning when Point loss is disabled.",
+          "published": "2026-09-24T01:57:57.483Z"
+        },
         {
           "version": "20260920-132644",
           "changelog": "",
