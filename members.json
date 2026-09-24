@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T02:24:39.179Z",
+  "generated": "2026-09-24T03:24:39.189Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1203,6 +1203,12 @@
       "modder": true
     },
     {
+      "id": "488219925023031316",
+      "name": "Guppy Gibson",
+      "username": "motionkx",
+      "modder": true
+    },
+    {
       "id": "282131656943599616",
       "name": "Gusric",
       "username": "mitogags",
@@ -1242,6 +1248,12 @@
       "id": "235870015121784833",
       "name": "HDMineFace",
       "username": "hdmineface",
+      "modder": true
+    },
+    {
+      "id": "634262444218515501",
+      "name": "HETZER848",
+      "username": "hetzer88",
       "modder": true
     },
     {
@@ -1506,6 +1518,12 @@
       "id": "1398703391747870853",
       "name": "kat",
       "username": "zurlywurlybird",
+      "modder": true
+    },
+    {
+      "id": "144814346869014528",
+      "name": "KatDaddy",
+      "username": "katdaddy614",
       "modder": true
     },
     {
@@ -2490,6 +2508,12 @@
       "id": "1000794084790775928",
       "name": "Shadowz",
       "username": "shadowz06",
+      "modder": true
+    },
+    {
+      "id": "1086437196279586956",
+      "name": "SHARK",
+      "username": "babyg012",
       "modder": true
     },
     {
