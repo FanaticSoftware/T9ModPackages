@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T19:20:16.822Z",
+  "generated": "2026-09-24T19:57:45.139Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -717,7 +717,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9ad0e4f47941d2806f602c560263db9f1953f77c27152ee1e81f83ca47b1d899",
+      "sourceSha256": "9f1d13c89cd374cbfecc26904d0ef39f9f3f99197e9abdeabf6482964867fcc9",
       "scan": {
         "critical": 0,
         "high": 9,
@@ -738,20 +738,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Fixed the point system and the pack a punch funtion for ZM Classic support",
+      "changelog": "Fixed wonderfizz for ZM Classic",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-24T19:20:16.347Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552761519346032802"
+        "at": "2026-09-24T19:57:44.730Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552770942650945650"
       },
       "id": "nacht_survival_396e21",
-      "version": "20260924-191950",
-      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260924-191950.cwm",
-      "size": 1071967,
-      "sha256": "fef95578b32240ed142659dd6573bf86d50edabd7bce9075d2dd2c80429ea05b",
+      "version": "20260924-195717",
+      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260924-195717.cwm",
+      "size": 1075810,
+      "sha256": "3bcb1ca68d860d3ee6d752f9c04f2847589f6d0a8dfea2c5055a0af672826fdc",
       "history": [
+        {
+          "version": "20260924-195717",
+          "changelog": "Fixed wonderfizz for ZM Classic",
+          "published": "2026-09-24T19:57:44.730Z"
+        },
         {
           "version": "20260924-191950",
           "changelog": "Fixed the point system and the pack a punch funtion for ZM Classic support",
