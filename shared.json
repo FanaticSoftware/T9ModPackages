@@ -158,7 +158,17 @@
       "files": 1,
       "by": "188047951896117248",
       "updated": "2026-09-24T01:06:15.639Z"
+    },
+    "zm_classic": {
+      "file": "shared_projects/zm_classic/7d0371e692fdd842.cwm",
+      "size": 1748370,
+      "sha256": "7d0371e692fdd8421b7452ff7f4224cd4d43fb48a7adc538e43e257138df2acc",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 37,
+      "by": "244657466783170560",
+      "updated": "2026-09-24T05:32:30.223Z"
     }
   },
-  "generated": "2026-09-24T01:06:15.639Z"
+  "generated": "2026-09-24T05:32:30.223Z"
 }
