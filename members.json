@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T23:24:39.542Z",
+  "generated": "2026-09-25T00:24:39.670Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -927,6 +927,12 @@
       "modder": true
     },
     {
+      "id": "905164628340903946",
+      "name": "Ekys 🇬🇧",
+      "username": "ghost_4212",
+      "modder": true
+    },
+    {
       "id": "903249873082675200",
       "name": "Eldlich_miguel",
       "username": "abraham_ishmaill",
@@ -1827,6 +1833,12 @@
       "modder": true
     },
     {
+      "id": "1096328211887034429",
+      "name": "Lighter .F",
+      "username": "lighterxfluid",
+      "modder": true
+    },
+    {
       "id": "1042279362147385454",
       "name": "Lillian",
       "username": "lillianro.se",
@@ -1923,6 +1935,18 @@
       "modder": true
     },
     {
+      "id": "259854865231118339",
+      "name": "Mal",
+      "username": "mallowed",
+      "modder": true
+    },
+    {
+      "id": "424995287761944587",
+      "name": "Mallowed",
+      "username": "mallowed_",
+      "modder": true
+    },
+    {
       "id": "249388147610222593",
       "name": "Mar",
       "username": "hoemaro",
@@ -1998,6 +2022,12 @@
       "id": "1514629951301615659",
       "name": "Milo",
       "username": "mi1l1o",
+      "modder": true
+    },
+    {
+      "id": "884132499943489556",
+      "name": "MirandaCat",
+      "username": "cinna28",
       "modder": true
     },
     {
@@ -2202,6 +2232,12 @@
       "id": "165640596076232705",
       "name": "Nkstuf",
       "username": "nkstuf",
+      "modder": true
+    },
+    {
+      "id": "105401079792947200",
+      "name": "Nolife",
+      "username": "no.life.",
       "modder": true
     },
     {
