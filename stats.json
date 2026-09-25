@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T07:24:45.188Z",
+  "generated": "2026-09-25T07:34:45.189Z",
   "mods": {
     "directors_cut": {
       "favorites": 97,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 68,
+      "favorites": 69,
       "rating": {
         "count": 5,
         "average": 5
@@ -31,7 +31,7 @@
       }
     },
     "realism_mode": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 4,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 1,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 4,
         "average": 5
