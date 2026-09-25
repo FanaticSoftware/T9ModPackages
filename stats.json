@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T06:54:45.220Z",
+  "generated": "2026-09-25T07:04:45.206Z",
   "mods": {
     "directors_cut": {
-      "favorites": 97,
+      "favorites": 96,
       "rating": {
         "count": 6,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 68,
+      "favorites": 67,
       "rating": {
         "count": 5,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 68,
+      "favorites": 67,
       "rating": {
         "count": 10,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 249,
+      "favorites": 248,
       "rating": {
         "count": 18,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 25,
+      "favorites": 24,
       "rating": {
         "count": 1,
         "average": 5
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 11,
+      "favorites": 10,
       "rating": {
         "count": 5,
         "average": 4.6
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 28,
+      "favorites": 27,
       "rating": {
         "count": 3,
         "average": 4.5
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 38,
+      "favorites": 37,
       "rating": {
         "count": 6,
         "average": 4.9
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 17,
+      "favorites": 16,
       "rating": {
         "count": 3,
         "average": 4.8
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 17,
+      "favorites": 16,
       "rating": {
         "count": 3,
         "average": 4.7
