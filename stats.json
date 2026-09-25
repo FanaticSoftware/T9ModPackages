@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T04:34:44.980Z",
+  "generated": "2026-09-25T04:44:44.994Z",
   "mods": {
     "directors_cut": {
-      "favorites": 96,
+      "favorites": 97,
       "rating": {
         "count": 6,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 10,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 4,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 3,
         "average": 4.8
