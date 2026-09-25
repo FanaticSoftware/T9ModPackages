@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T22:23:14.770Z",
+  "generated": "2026-09-25T22:33:14.782Z",
   "mods": {
     "directors_cut": {
       "favorites": 101,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 3,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 264,
+      "favorites": 265,
       "rating": {
         "count": 18,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 50,
+      "favorites": 49,
       "rating": {
         "count": 4,
         "average": 5
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 6,
         "average": 4.9
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 3,
         "average": 4.8
