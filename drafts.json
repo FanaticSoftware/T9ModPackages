@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T08:08:59.154Z",
+  "generated": "2026-09-25T08:12:39.909Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -157,17 +157,6 @@
       "collaborators": [],
       "claimed": "2026-09-23T01:11:49.182Z",
       "updated": "2026-09-23T01:11:49.182Z"
-    },
-    {
-      "id": "randomizer_test_7e619d",
-      "title": "Cold War Roulette Randomizer",
-      "author": {
-        "id": "524393998941683763",
-        "name": "sherisma"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-25T08:08:59.154Z",
-      "updated": "2026-09-25T08:08:59.154Z"
     },
     {
       "id": "rogue_run_9b67e3",
