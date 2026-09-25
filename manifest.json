@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T07:15:46.922Z",
+  "generated": "2026-09-25T09:33:20.251Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1170,7 +1170,7 @@
       }
     },
     {
-      "title": "Replace Zombies (EARLY WIP)",
+      "title": "Oops! All Elites!",
       "description": "Replace Zombies lets you completely change what shows up in place of normal zombie spawns. You can swap them for specials, elites, HVTs, dogs, or build your own custom mix with individual enemy toggles.\n\nYou can also choose whether replacements keep their normal health scaling or use standard zombie health scaling, and dog rounds can be replaced separately with their own enemy selection.\n\nIt’s basically a simple way to turn normal rounds into whatever kind of AI playthrough you want without changing the rest of the map.",
       "author": {
         "discordName": "saintvertigo",
@@ -1179,16 +1179,16 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "68bd8d598f1d08d6804976eceb3d07b561e2e0d328e4049742ae70987161e957",
+      "sourceSha256": "157d1a6a496eb1c858eee77064790fe0c6a28e690fa11cd95fe722ac055e85f2",
       "scan": {
         "critical": 0,
-        "high": 0,
+        "high": 2,
         "low": 0,
-        "medium": 9,
+        "medium": 25,
         "rules": "2026.08.19",
-        "summary": "9 medium"
+        "summary": "2 high, 25 medium"
       },
-      "settings": 16,
+      "settings": 19,
       "tags": [
         "Gameplay Overhaul",
         "Difficulty",
@@ -1201,20 +1201,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Fixed this time i swear",
+      "changelog": "Bug fixes and added 2 ai bosses",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-23T10:10:18.857Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552260725282578456"
+        "at": "2026-09-25T09:33:19.913Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552976259758161934"
       },
       "id": "replace_zombies_early_wip",
-      "version": "20260923-100955",
-      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260923-100955.cwm",
-      "size": 922958,
-      "sha256": "3338be4e14fe5abdb57969c389fde00a1ecf430d058f0b6324e9db1ba25ac3f6",
+      "version": "20260925-093308",
+      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260925-093308.cwm",
+      "size": 1043478,
+      "sha256": "0d788ed5708a25118e58813a8bff362e3546513ae1c57cc3de0a49144ff2d828",
       "history": [
+        {
+          "version": "20260925-093308",
+          "changelog": "Bug fixes and added 2 ai bosses",
+          "published": "2026-09-25T09:33:19.913Z"
+        },
         {
           "version": "20260923-100955",
           "changelog": "Fixed this time i swear",
