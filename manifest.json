@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T09:38:11.002Z",
+  "generated": "2026-09-25T16:34:51.393Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -569,7 +569,7 @@
       "collaborators": []
     },
     {
-      "title": "Hide HUD",
+      "title": "Cinematic Tools",
       "description": "This hides the HUD and an option to hide the viewmodel.",
       "author": {
         "discordName": "saintvertigo",
@@ -578,34 +578,39 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "a37104da42bb2c60c7d5ba3dcfd4b850eefd836dd21a91d2831f7d2973f67ba3",
+      "sourceSha256": "43a26257f0da18c8e10516fff3896a86da84a6500c2669cc23e27e717c9e9791",
       "scan": {
         "critical": 0,
-        "high": 2,
+        "high": 6,
         "low": 0,
-        "medium": 0,
+        "medium": 25,
         "rules": "2026.08.19",
-        "summary": "2 high"
+        "summary": "6 high, 25 medium"
       },
-      "settings": 1,
+      "settings": 7,
       "tags": [
         "Gameplay Overhaul",
         "Cosmetic / HUD"
       ],
-      "changelog": "",
+      "changelog": "Added more options, changed the title.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-23T23:41:19.835Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552464845444481101"
+        "at": "2026-09-25T16:34:50.929Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553082197014093868"
       },
       "id": "hide_hud_24d1a2",
-      "version": "20260923-234059",
-      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260923-234059.cwm",
-      "size": 1323250,
-      "sha256": "70f3a0081f9cc0b942d852c30de711f6697cc924711a9c9341f733e46f2c9c5b",
+      "version": "20260925-163408",
+      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260925-163408.cwm",
+      "size": 1364112,
+      "sha256": "18d2fdc78a3316a20f77d29778fd72219e5e48090039b25b079ed4a637c4dfda",
       "history": [
+        {
+          "version": "20260925-163408",
+          "changelog": "Added more options, changed the title.",
+          "published": "2026-09-25T16:34:50.929Z"
+        },
         {
           "version": "20260923-234059",
           "changelog": "",
