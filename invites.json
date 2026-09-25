@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T08:13:38.250Z",
+  "generated": "2026-09-25T08:14:01.284Z",
   "invites": [
-    {
-      "key": "51f41cab7eb9ee99d9f638c7c3e13eb326dfcc86c946a40e9eccca744a266253",
-      "mod": "randomizer_test_7e619d",
-      "title": "Cold War Roulette Randomizer",
-      "ownerId": "524393998941683763",
-      "ownerName": "sherisma",
-      "at": "2026-09-25T08:13:38.250Z"
-    },
     {
       "key": "6a6fdc86c2197dad866f0a4d17cbf57e8dff96904e43b7e6fe44af7a6f93493b",
       "mod": "outbreak_survival_87a89c",
