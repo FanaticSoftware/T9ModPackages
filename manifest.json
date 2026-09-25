@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T17:32:26.077Z",
+  "generated": "2026-09-25T17:40:48.883Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -578,34 +578,39 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "bf93a9a4ae1d9888c1867f30bcaeb8f7bb3f89158f8001a322b18f5635803a9a",
+      "sourceSha256": "4615fe0851c91ee15e0fe8b1f3e4861b125dc98452c35be03ef63f9dbfa08715",
       "scan": {
         "critical": 0,
-        "high": 6,
+        "high": 5,
         "low": 0,
         "medium": 25,
         "rules": "2026.08.19",
-        "summary": "6 high, 25 medium"
+        "summary": "5 high, 25 medium"
       },
-      "settings": 7,
+      "settings": 6,
       "tags": [
         "Gameplay Overhaul",
         "Cosmetic / HUD"
       ],
-      "changelog": "debugging",
+      "changelog": "Cleanup",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T17:32:25.700Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553096801069043765"
+        "at": "2026-09-25T17:40:48.522Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553098855032164426"
       },
       "id": "hide_hud_24d1a2",
-      "version": "20260925-173210",
-      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260925-173210.cwm",
-      "size": 1369181,
-      "sha256": "d2c497b064bb5c23e2a7f66f332e5a909b8d0568f7d5c8b92101a03334f78707",
+      "version": "20260925-174020",
+      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260925-174020.cwm",
+      "size": 1362153,
+      "sha256": "dbf3f1c4197adc5fd332b6147bba9000b9698ee4943446f0f66b94488cf40d7d",
       "history": [
+        {
+          "version": "20260925-174020",
+          "changelog": "Cleanup",
+          "published": "2026-09-25T17:40:48.522Z"
+        },
         {
           "version": "20260925-173210",
           "changelog": "debugging",
