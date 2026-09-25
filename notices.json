@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T17:32:31.343Z",
+  "generated": "2026-09-25T17:40:54.755Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "Cinematic Tools",
+      "id": "hide_hud_24d1a2",
+      "version": "20260925-174020",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-09-25T17:40:54.578Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-08-27T10:40:27.130Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "DOOM Mode",
-      "id": "doom_mode",
-      "version": "1.0.5",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-08-26T20:39:21.796Z"
     }
   ]
 }
