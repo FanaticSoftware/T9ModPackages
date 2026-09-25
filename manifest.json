@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T18:25:08.238Z",
+  "generated": "2026-09-25T18:59:55.320Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -583,7 +583,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "4615fe0851c91ee15e0fe8b1f3e4861b125dc98452c35be03ef63f9dbfa08715",
+      "sourceSha256": "81eea1a154510786c9b2f72f30aa16eaef4e09aa1559dcaf87648a4707f0e778",
       "scan": {
         "critical": 0,
         "high": 5,
@@ -592,25 +592,30 @@
         "rules": "2026.08.19",
         "summary": "5 high, 25 medium"
       },
-      "settings": 6,
+      "settings": 7,
       "tags": [
         "Gameplay Overhaul",
         "Cosmetic / HUD"
       ],
-      "changelog": "Cleanup",
+      "changelog": "Added colored eyes for zombies",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T17:40:48.522Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553098855032164426"
+        "at": "2026-09-25T18:59:54.937Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553118475516387343"
       },
       "id": "hide_hud_24d1a2",
-      "version": "20260925-174020",
-      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260925-174020.cwm",
-      "size": 1362153,
-      "sha256": "dbf3f1c4197adc5fd332b6147bba9000b9698ee4943446f0f66b94488cf40d7d",
+      "version": "20260925-185817",
+      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260925-185817.cwm",
+      "size": 1371400,
+      "sha256": "bcb8fdd2955582d7a3b910134eef77b61c4659ac69efbed87543c3230cc8e31c",
       "history": [
+        {
+          "version": "20260925-185817",
+          "changelog": "Added colored eyes for zombies",
+          "published": "2026-09-25T18:59:54.937Z"
+        },
         {
           "version": "20260925-174020",
           "changelog": "Cleanup",
