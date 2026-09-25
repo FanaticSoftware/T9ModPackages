@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T17:40:48.883Z",
+  "generated": "2026-09-25T17:54:57.522Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -742,7 +742,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "785b9b198fc9bd52cf9cb22c15eabf70966c125ef4c98402a2e882b7f07b73d6",
+      "sourceSha256": "dc450fec886937fd9f097063f3a0db5df0191e16d2f3241d848db622c2b4ad28",
       "scan": {
         "critical": 0,
         "high": 8,
@@ -763,20 +763,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Fixed potential crash bug, fixed damage numbers and healthbars not working",
+      "changelog": "Potential crash fix",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T06:14:26.230Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552926184092999694"
+        "at": "2026-09-25T17:54:57.157Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553102466571313310"
       },
       "id": "nacht_survival_396e21",
-      "version": "20260925-061408",
-      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260925-061408.cwm",
-      "size": 1083743,
-      "sha256": "426a42104cbd6617fe87e9ffd6194f09336ddddea4bf1467a59fc9ec856c85a1",
+      "version": "20260925-175440",
+      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260925-175440.cwm",
+      "size": 1082574,
+      "sha256": "e27ffc053e6a4087e54ea884ce1713454edcc791eae738ba8e6f25d38aaf6ce9",
       "history": [
+        {
+          "version": "20260925-175440",
+          "changelog": "Potential crash fix",
+          "published": "2026-09-25T17:54:57.157Z"
+        },
         {
           "version": "20260925-061408",
           "changelog": "Fixed potential crash bug, fixed damage numbers and healthbars not working",
