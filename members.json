@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T15:03:14.422Z",
+  "generated": "2026-09-25T17:03:14.261Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1119,6 +1119,12 @@
       "modder": true
     },
     {
+      "id": "531272312733958144",
+      "name": "Frags",
+      "username": "frags3693",
+      "modder": true
+    },
+    {
       "id": "536094670674198559",
       "name": "Franco",
       "username": "francopadre",
@@ -1860,6 +1866,12 @@
       "id": "1008294838275424256",
       "name": "Lachlan",
       "username": "rumadumnotglossy",
+      "modder": true
+    },
+    {
+      "id": "999656011898044476",
+      "name": "Larpnzx",
+      "username": "w7ethern",
       "modder": true
     },
     {
@@ -3006,6 +3018,12 @@
       "id": "1255160786330845260",
       "name": "Smokey",
       "username": "the_smokester",
+      "modder": true
+    },
+    {
+      "id": "897093210512424991",
+      "name": "spanishboy",
+      "username": "jeavi23",
       "modder": true
     },
     {
