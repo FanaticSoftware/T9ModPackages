@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T09:33:20.251Z",
+  "generated": "2026-09-25T09:38:11.002Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1179,7 +1179,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "157d1a6a496eb1c858eee77064790fe0c6a28e690fa11cd95fe722ac055e85f2",
+      "sourceSha256": "6c330808fe8d952b6e9a438bdf3a99b092828d8e5da9d7299f36fbd01c7007bc",
       "scan": {
         "critical": 0,
         "high": 2,
@@ -1201,20 +1201,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Bug fixes and added 2 ai bosses",
+      "changelog": "Added points for legion kills",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T09:33:19.913Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552976259758161934"
+        "at": "2026-09-25T09:38:09.634Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552977446171836521"
       },
       "id": "replace_zombies_early_wip",
-      "version": "20260925-093308",
-      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260925-093308.cwm",
-      "size": 1043478,
-      "sha256": "0d788ed5708a25118e58813a8bff362e3546513ae1c57cc3de0a49144ff2d828",
+      "version": "20260925-093751",
+      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260925-093751.cwm",
+      "size": 1045948,
+      "sha256": "116dd151956b4713ed3bcb7bf56be12575b567104464df2704c419d05fd67301",
       "history": [
+        {
+          "version": "20260925-093751",
+          "changelog": "Added points for legion kills",
+          "published": "2026-09-25T09:38:09.634Z"
+        },
         {
           "version": "20260925-093308",
           "changelog": "Bug fixes and added 2 ai bosses",
