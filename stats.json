@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T04:04:44.953Z",
+  "generated": "2026-09-25T04:14:44.965Z",
   "mods": {
     "directors_cut": {
-      "favorites": 95,
+      "favorites": 96,
       "rating": {
         "count": 6,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 65,
+      "favorites": 67,
       "rating": {
         "count": 5,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 66,
+      "favorites": 67,
       "rating": {
         "count": 10,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 244,
+      "favorites": 245,
       "rating": {
         "count": 18,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 23,
+      "favorites": 25,
       "rating": {
         "count": 1,
         "average": 5
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 5,
         "average": 4.6
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 26,
+      "favorites": 28,
       "rating": {
         "count": 3,
         "average": 4.5
