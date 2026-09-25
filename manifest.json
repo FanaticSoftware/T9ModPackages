@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T21:25:28.435Z",
+  "generated": "2026-09-25T06:14:26.581Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -717,14 +717,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9f1d13c89cd374cbfecc26904d0ef39f9f3f99197e9abdeabf6482964867fcc9",
+      "sourceSha256": "785b9b198fc9bd52cf9cb22c15eabf70966c125ef4c98402a2e882b7f07b73d6",
       "scan": {
         "critical": 0,
-        "high": 9,
+        "high": 8,
         "low": 0,
         "medium": 25,
         "rules": "2026.08.19",
-        "summary": "9 high, 25 medium"
+        "summary": "8 high, 25 medium"
       },
       "settings": 0,
       "tags": [
@@ -738,20 +738,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Fixed wonderfizz for ZM Classic",
+      "changelog": "Fixed potential crash bug, fixed damage numbers and healthbars not working",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-24T19:57:44.730Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552770942650945650"
+        "at": "2026-09-25T06:14:26.230Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552926184092999694"
       },
       "id": "nacht_survival_396e21",
-      "version": "20260924-195717",
-      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260924-195717.cwm",
-      "size": 1075810,
-      "sha256": "3bcb1ca68d860d3ee6d752f9c04f2847589f6d0a8dfea2c5055a0af672826fdc",
+      "version": "20260925-061408",
+      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260925-061408.cwm",
+      "size": 1083743,
+      "sha256": "426a42104cbd6617fe87e9ffd6194f09336ddddea4bf1467a59fc9ec856c85a1",
       "history": [
+        {
+          "version": "20260925-061408",
+          "changelog": "Fixed potential crash bug, fixed damage numbers and healthbars not working",
+          "published": "2026-09-25T06:14:26.230Z"
+        },
         {
           "version": "20260924-195717",
           "changelog": "Fixed wonderfizz for ZM Classic",
