@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T08:12:49.961Z",
+  "generated": "2026-09-25T08:14:05.007Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -165,9 +165,14 @@
         "id": "524393998941683763",
         "name": "sherisma"
       },
-      "collaborators": [],
+      "collaborators": [
+        "1138650063661432902"
+      ],
       "claimed": "2026-09-25T08:12:49.961Z",
-      "updated": "2026-09-25T08:12:49.961Z"
+      "updated": "2026-09-25T08:12:49.961Z",
+      "collaboratorNames": {
+        "1138650063661432902": "Cloudsy"
+      }
     },
     {
       "id": "rogue_run_9b67e3",
