@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T09:03:14.367Z",
+  "generated": "2026-09-25T11:03:14.235Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1314,6 +1314,12 @@
       "id": "416002022601654283",
       "name": "Goodmorning",
       "username": "goodmorming",
+      "modder": true
+    },
+    {
+      "id": "240489274292699137",
+      "name": "grandma's dead",
+      "username": "elvn011",
       "modder": true
     },
     {
@@ -2670,6 +2676,12 @@
       "id": "196996916356055040",
       "name": "ruby",
       "username": "gaypuppygirl",
+      "modder": true
+    },
+    {
+      "id": "1232489883063287870",
+      "name": "Ruke",
+      "username": "lizqid.",
       "modder": true
     },
     {
