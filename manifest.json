@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T06:14:26.581Z",
+  "generated": "2026-09-25T06:25:00.149Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -438,7 +438,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9151f060d7b10c1923f17ca026954b8a4c18892a1f7198da1b7cc8f1808fb04f",
+      "sourceSha256": "b51f1582ee42a631d57eec95be90d4a411440a92a8439acce41de2de6703e1a2",
       "scan": {
         "critical": 0,
         "high": 53,
@@ -462,20 +462,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Bug fixes and changed zombie pathing",
+      "changelog": "Fixed a potential crash issue",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-22T06:11:41.889Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551838260450295822"
+        "at": "2026-09-25T06:24:59.763Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1552928839515115618"
       },
       "id": "doom_mode_beta",
-      "version": "20260922-061109",
-      "file": "mod_packages/doom_mode_beta/doom_mode_beta-20260922-061109.cwm",
-      "size": 2609709,
-      "sha256": "c1fc70472e8545d585bb1b61fb30cf77891aa96aff1b1db41951f82663e991c0",
+      "version": "20260925-062438",
+      "file": "mod_packages/doom_mode_beta/doom_mode_beta-20260925-062438.cwm",
+      "size": 2631598,
+      "sha256": "67ef5069e03863db8a08c42466ad2390f39b85c65eda4eb1723560f1ec02fa80",
       "history": [
+        {
+          "version": "20260925-062438",
+          "changelog": "Fixed a potential crash issue",
+          "published": "2026-09-25T06:24:59.763Z"
+        },
         {
           "version": "20260922-061109",
           "changelog": "Bug fixes and changed zombie pathing",
