@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T21:25:33.770Z",
+  "generated": "2026-09-25T06:14:31.346Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "Nacht Der Untoten First Room",
+      "id": "nacht_survival_396e21",
+      "version": "20260925-061408",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-09-25T06:14:31.153Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
