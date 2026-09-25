@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T11:03:14.235Z",
+  "generated": "2026-09-25T12:03:14.274Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1041,6 +1041,18 @@
       "modder": true
     },
     {
+      "id": "1005579293474173049",
+      "name": "Excuton",
+      "username": "excuton",
+      "modder": true
+    },
+    {
+      "id": "1550256024206839879",
+      "name": "Excuton",
+      "username": "excuton_74488",
+      "modder": true
+    },
+    {
       "id": "479120371803619330",
       "name": "EXTIINCT",
       "username": "extiinct.",
@@ -1386,6 +1398,12 @@
       "id": "235870015121784833",
       "name": "HDMineFace",
       "username": "hdmineface",
+      "modder": true
+    },
+    {
+      "id": "781539986834587650",
+      "name": "henrik",
+      "username": "henrik2250",
       "modder": true
     },
     {
@@ -2181,6 +2199,12 @@
       "modder": true
     },
     {
+      "id": "762318947038658580",
+      "name": "mudgie12",
+      "username": "mudgie12",
+      "modder": true
+    },
+    {
       "id": "1042080098758692915",
       "name": "Muhammad",
       "username": "1uwufemboy",
@@ -2382,6 +2406,12 @@
       "id": "115173340334915587",
       "name": "Oryxs Middle Orb",
       "username": "tech_wave",
+      "modder": true
+    },
+    {
+      "id": "650605755564818432",
+      "name": "Owey woey",
+      "username": "faze_throneuntid",
       "modder": true
     },
     {
@@ -2712,6 +2742,12 @@
       "id": "175243922132566017",
       "name": "Ryan",
       "username": "r14n_",
+      "modder": true
+    },
+    {
+      "id": "760400378549370920",
+      "name": "Ryan Gosling",
+      "username": "ryangosling001_",
       "modder": true
     },
     {
