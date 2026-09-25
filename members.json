@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T22:03:14.350Z",
+  "generated": "2026-09-25T23:03:14.370Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -615,6 +615,12 @@
       "modder": true
     },
     {
+      "id": "923723563750551652",
+      "name": "Chiiild",
+      "username": "paddy914",
+      "modder": true
+    },
+    {
       "id": "726509826557083680",
       "name": "chorb",
       "username": "chorb.txt",
@@ -672,6 +678,12 @@
       "id": "384362343737327616",
       "name": "comicat",
       "username": "comicat0",
+      "modder": true
+    },
+    {
+      "id": "704346043625766952",
+      "name": "condom broke but we awoke",
+      "username": "uchiha.reflection",
       "modder": true
     },
     {
@@ -1851,6 +1863,12 @@
       "modder": true
     },
     {
+      "id": "149693231016312832",
+      "name": "King Chud",
+      "username": "kingqasmoke",
+      "modder": true
+    },
+    {
       "id": "247134686629855240",
       "name": "Kiyy",
       "username": "kiyy",
@@ -2997,15 +3015,15 @@
       "modder": true
     },
     {
-      "id": "418458785841938432",
-      "name": "Shoto",
-      "username": "mr.shotoyoki",
+      "id": "298616324647550987",
+      "name": "Shork",
+      "username": "waifushork",
       "modder": true
     },
     {
-      "id": "704346043625766952",
-      "name": "Shura",
-      "username": "uchiha.reflection",
+      "id": "418458785841938432",
+      "name": "Shoto",
+      "username": "mr.shotoyoki",
       "modder": true
     },
     {
