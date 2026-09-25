@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T17:54:57.522Z",
+  "generated": "2026-09-25T18:25:08.238Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -259,7 +259,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "6ceba96bd7347bf2255cd5deb4aefe459a1431533f787795cff3ffff0afaf20e",
+      "sourceSha256": "34b037d17e65d794b929bba923e40012744a31561b70f04ad246cdbeb34fd2c8",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -268,7 +268,7 @@
         "rules": "2026.08.19",
         "summary": "clean, nothing flagged"
       },
-      "settings": 8,
+      "settings": 9,
       "tags": [
         "Gameplay Overhaul",
         "Die Maschine",
@@ -276,20 +276,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added nuketown",
+      "changelog": "Added toggleable flashlight option",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-23T19:53:47.772Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552407536819376202"
+        "at": "2026-09-25T18:25:07.859Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553110060891115634"
       },
       "id": "day_night",
-      "version": "20260923-195316",
-      "file": "mod_packages/day_night/day_night-20260923-195316.cwm",
-      "size": 1276391,
-      "sha256": "df0f5e3bca4ba002d0e28dcf70b31007f8cd322848714d3cc86151a4872e1781",
+      "version": "20260925-182451",
+      "file": "mod_packages/day_night/day_night-20260925-182451.cwm",
+      "size": 1288763,
+      "sha256": "e967078b4cfb1a3f7cb8aedd15e2271be43a70045bd4789b2c3fd918b24b883b",
       "history": [
+        {
+          "version": "20260925-182451",
+          "changelog": "Added toggleable flashlight option",
+          "published": "2026-09-25T18:25:07.859Z"
+        },
         {
           "version": "20260923-195316",
           "changelog": "Added nuketown",
