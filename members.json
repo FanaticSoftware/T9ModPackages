@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T12:03:14.274Z",
+  "generated": "2026-09-25T13:03:14.421Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1869,6 +1869,12 @@
       "modder": true
     },
     {
+      "id": "1553012825549705297",
+      "name": "Lastwine",
+      "username": "lastwine.",
+      "modder": true
+    },
+    {
       "id": "1005827722389487716",
       "name": "lauffy",
       "username": "grendelmain",
@@ -2268,6 +2274,12 @@
       "id": "214630093291651072",
       "name": "newbie1canoebee",
       "username": "newbie1canoebee",
+      "modder": true
+    },
+    {
+      "id": "702981274947682474",
+      "name": "NFS Headshot",
+      "username": "eyesight_playz",
       "modder": true
     },
     {
@@ -3372,6 +3384,12 @@
       "id": "603213581537771521",
       "name": "Wanted",
       "username": "wanteddeviation",
+      "modder": true
+    },
+    {
+      "id": "1358488401669525595",
+      "name": "Wazzup_Basti",
+      "username": "wazzup_basti_",
       "modder": true
     },
     {
