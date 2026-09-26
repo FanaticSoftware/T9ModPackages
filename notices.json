@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T07:31:02.526Z",
+  "generated": "2026-09-26T08:06:47.287Z",
   "notices": [
+    {
+      "key": "899182dc657dfbd0d8e2f2d1a40b399a8a1c6e961a6389d04af6bdaa29454e36",
+      "status": "rejected",
+      "mod": "cammo grinding mod",
+      "id": "mod_menu_796e25",
+      "version": "20260926-080131",
+      "reason": "Breaks rule 2 of submission rules. No camo/level farming tools are allowed to be hosted on the launcher.",
+      "by": "illuminatidonut",
+      "at": "2026-09-26T08:06:47.065Z"
+    },
     {
       "key": "18ca310dda82ae4e5669ca544b22dc5c1cd460edf72ad596fbf3d82ce629d5e9",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-08-29T03:19:01.994Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.0.5",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-08-29T02:18:06.645Z"
     }
   ]
 }
