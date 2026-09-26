@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T12:53:01.884Z",
+  "generated": "2026-09-26T12:53:16.587Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -584,8 +584,8 @@
       "collaborators": []
     },
     {
-      "title": "Cinematic Tools",
-      "description": "This hides the HUD and an option to hide the viewmodel.",
+      "title": "Clean View",
+      "description": "This hides the HUD, an option to hide the viewmodel, and change the zombie eye color fx.",
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
@@ -593,34 +593,39 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "81eea1a154510786c9b2f72f30aa16eaef4e09aa1559dcaf87648a4707f0e778",
+      "sourceSha256": "c0d7e4203dd58632b44eabe251d9240a67174014760298f2fba0f8d48bb3e518",
       "scan": {
         "critical": 0,
-        "high": 5,
+        "high": 3,
         "low": 0,
         "medium": 25,
         "rules": "2026.08.19",
-        "summary": "5 high, 25 medium"
+        "summary": "3 high, 25 medium"
       },
-      "settings": 7,
+      "settings": 4,
       "tags": [
         "Gameplay Overhaul",
         "Cosmetic / HUD"
       ],
-      "changelog": "Added colored eyes for zombies",
+      "changelog": "Move stuff around",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T18:59:54.937Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553118475516387343"
+        "at": "2026-09-26T12:53:16.215Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553388697918120103"
       },
       "id": "hide_hud_24d1a2",
-      "version": "20260925-185817",
-      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260925-185817.cwm",
-      "size": 1371400,
-      "sha256": "bcb8fdd2955582d7a3b910134eef77b61c4659ac69efbed87543c3230cc8e31c",
+      "version": "20260926-125201",
+      "file": "mod_packages/hide_hud_24d1a2/hide_hud_24d1a2-20260926-125201.cwm",
+      "size": 1701109,
+      "sha256": "918fc092a1a29a98c380e6bfd2e2619efbd2ac41d58b5b10c04f03ccb42c0888",
       "history": [
+        {
+          "version": "20260926-125201",
+          "changelog": "Move stuff around",
+          "published": "2026-09-26T12:53:16.215Z"
+        },
         {
           "version": "20260925-185817",
           "changelog": "Added colored eyes for zombies",
@@ -648,7 +653,7 @@
         }
       ],
       "thumbnail": "mod_packages/hide_hud_24d1a2/thumbnail.png",
-      "thumbnailSha256": "6196098ee0e63d6b0c4df8c76622be5240d3c4394a4db77f2eb2ba6b862d1818",
+      "thumbnailSha256": "82a305a18c42624a65a654e0431ea1b6bbba3ac6b0c461df5aa3a7fc69b76f7f",
       "collaborators": []
     },
     {
