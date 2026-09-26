@@ -1,23 +1,23 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T18:13:16.156Z",
+  "generated": "2026-09-26T18:53:16.250Z",
   "mods": {
     "directors_cut": {
-      "favorites": 109,
+      "favorites": 110,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "onslaught_survival": {
-      "favorites": 76,
+      "favorites": 77,
       "rating": {
         "count": 5,
         "average": 5
@@ -52,14 +52,14 @@
       }
     },
     "t9_bots": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 4,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 3,
         "average": 4.8
