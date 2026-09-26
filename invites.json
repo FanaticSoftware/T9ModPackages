@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T19:05:43.829Z",
+  "generated": "2026-09-26T08:11:48.376Z",
   "invites": [
+    {
+      "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
+      "mod": "mod_menu_796e25",
+      "title": "cammo grinding mod",
+      "ownerId": "1420899241613590690",
+      "ownerName": "gaberiel0912",
+      "at": "2026-09-26T08:11:48.376Z"
+    },
     {
       "key": "6a6fdc86c2197dad866f0a4d17cbf57e8dff96904e43b7e6fe44af7a6f93493b",
       "mod": "outbreak_survival_87a89c",
