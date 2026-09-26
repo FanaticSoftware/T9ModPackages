@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T18:03:14.317Z",
+  "generated": "2026-09-26T19:03:14.329Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -96,6 +96,12 @@
       "id": "268129579401609216",
       "name": "🌸 에테르 🌸",
       "username": "ethervfx",
+      "modder": true
+    },
+    {
+      "id": "758156659079380993",
+      "name": "🎮breezebug🎮",
+      "username": "bugzone.",
       "modder": true
     },
     {
@@ -839,7 +845,7 @@
     {
       "id": "1517529878340178011",
       "name": "DavidHiFi",
-      "username": "davidhifi",
+      "username": "gerschdevice404",
       "modder": true
     },
     {
@@ -1344,6 +1350,12 @@
       "id": "965349881013215332",
       "name": "GentlyUsedOreos",
       "username": "gentlyusedoreos",
+      "modder": true
+    },
+    {
+      "id": "360739898153500674",
+      "name": "George Droid",
+      "username": "zachmavrakos",
       "modder": true
     },
     {
@@ -2277,6 +2289,12 @@
       "modder": true
     },
     {
+      "id": "1453899549021175989",
+      "name": "Mason.mas2",
+      "username": "mason.mas2",
+      "modder": true
+    },
+    {
       "id": "1551403196801482895",
       "name": "MasterChief117",
       "username": "masterchief11707628",
@@ -2568,6 +2586,12 @@
       "id": "722197661020848249",
       "name": "Nicolaspacman16",
       "username": "nicolaspacman",
+      "modder": true
+    },
+    {
+      "id": "248861913809813514",
+      "name": "Nicolass Cheeks",
+      "username": "termicatplays",
       "modder": true
     },
     {
