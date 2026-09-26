@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T12:38:40.223Z",
+  "generated": "2026-09-26T12:52:47.210Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -748,7 +748,7 @@
       "collaborators": []
     },
     {
-      "title": "Nacht Der Untoten First Room",
+      "title": "Nacht Spawn Room",
       "description": "Play the iconic Nacht Der Untoten first room! (YOU MUST LOAD INTO FORSAKEN!)",
       "author": {
         "discordName": "saintvertigo",
@@ -778,20 +778,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Potential crash fix",
+      "changelog": "Changed thumbnail",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T17:54:57.157Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553102466571313310"
+        "at": "2026-09-26T12:52:46.864Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553385550285770856"
       },
       "id": "nacht_survival_396e21",
-      "version": "20260925-175440",
-      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260925-175440.cwm",
-      "size": 1082574,
-      "sha256": "e27ffc053e6a4087e54ea884ce1713454edcc791eae738ba8e6f25d38aaf6ce9",
+      "version": "20260926-123932",
+      "file": "mod_packages/nacht_survival_396e21/nacht_survival_396e21-20260926-123932.cwm",
+      "size": 1748343,
+      "sha256": "85706f43b95040fef93293977ae185afec2d4e5665acf2a4dfe0fe7b711cd633",
       "history": [
+        {
+          "version": "20260926-123932",
+          "changelog": "Changed thumbnail",
+          "published": "2026-09-26T12:52:46.864Z"
+        },
         {
           "version": "20260925-175440",
           "changelog": "Potential crash fix",
@@ -824,7 +829,7 @@
         }
       ],
       "thumbnail": "mod_packages/nacht_survival_396e21/thumbnail.png",
-      "thumbnailSha256": "2155f3308d1c1bd866ecdcfec9003bcb943c0ab3cdd01215ade9f9681c536aa9",
+      "thumbnailSha256": "1b12d023c0c2de86de8fe18239fae9048c028ef582d2381d4c1b97f370f3e60c",
       "collaborators": []
     },
     {
