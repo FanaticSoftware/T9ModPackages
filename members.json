@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T17:03:14.269Z",
+  "generated": "2026-09-26T18:03:14.317Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -432,6 +432,12 @@
       "id": "409856691165986828",
       "name": "bear",
       "username": "brie._.",
+      "modder": true
+    },
+    {
+      "id": "359397254768885761",
+      "name": "Beeber",
+      "username": "beeberisback",
       "modder": true
     },
     {
@@ -936,6 +942,12 @@
       "id": "333483060236648450",
       "name": "doof",
       "username": "__doof",
+      "modder": true
+    },
+    {
+      "id": "1095080991057518623",
+      "name": "Doxr",
+      "username": ".doxr",
       "modder": true
     },
     {
@@ -1923,12 +1935,6 @@
       "modder": true
     },
     {
-      "id": "500378674382635018",
-      "name": "KentTheSnep",
-      "username": "kentthesnep",
-      "modder": true
-    },
-    {
       "id": "1413170728269775011",
       "name": "kevinss",
       "username": "kevinss_89996",
@@ -2481,6 +2487,12 @@
       "modder": true
     },
     {
+      "id": "1357474106874007742",
+      "name": "mysterious_raccoon_21423",
+      "username": "mysterious_raccoon_21423",
+      "modder": true
+    },
+    {
       "id": "513724024702894083",
       "name": "Mystic_Skyler",
       "username": "mystic_skyler",
@@ -2574,6 +2586,12 @@
       "id": "257687281131978755",
       "name": "NiftyCarrot 🇵🇸",
       "username": "niftycarrot",
+      "modder": true
+    },
+    {
+      "id": "1369348609790709915",
+      "name": "Night.",
+      "username": "error_demon_unknown",
       "modder": true
     },
     {
@@ -2694,6 +2712,12 @@
       "id": "313768846786035714",
       "name": "Owlie",
       "username": "_owile_",
+      "modder": true
+    },
+    {
+      "id": "356530140395864066",
+      "name": "Pabzy",
+      "username": "pabzy_1207",
       "modder": true
     },
     {
@@ -2910,6 +2934,12 @@
       "id": "191434806016344064",
       "name": "Red1kal",
       "username": "redikal9176",
+      "modder": true
+    },
+    {
+      "id": "879030758973526026",
+      "name": "Redacted",
+      "username": "thatguysoloe",
       "modder": true
     },
     {
@@ -3405,6 +3435,12 @@
       "modder": true
     },
     {
+      "id": "326909595463319552",
+      "name": "Stevi",
+      "username": "thatguystevie",
+      "modder": true
+    },
+    {
       "id": "785131411731513374",
       "name": "Stylx",
       "username": "stylx.0",
@@ -3726,6 +3762,12 @@
       "id": "414443604799520788",
       "name": "VorteX",
       "username": "vortexz7",
+      "modder": true
+    },
+    {
+      "id": "487399749218074628",
+      "name": "vulkrus",
+      "username": "vulkrus",
       "modder": true
     },
     {
