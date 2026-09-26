@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T11:53:15.766Z",
+  "generated": "2026-09-26T12:23:15.809Z",
   "mods": {
     "directors_cut": {
       "favorites": 107,
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 1,
         "average": 5
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
