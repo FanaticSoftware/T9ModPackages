@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T12:38:38.421Z",
+  "generated": "2026-09-26T12:38:45.534Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "Oops! All Elites!",
+      "id": "replace_zombies_early_wip",
+      "version": "20260926-123512",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-09-26T12:38:45.369Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "approved",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-08-29T19:25:45.381Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.0.9",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-08-29T18:49:36.403Z"
     }
   ]
 }
