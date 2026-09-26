@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T23:03:14.370Z",
+  "generated": "2026-09-26T00:03:14.424Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -816,6 +816,12 @@
       "id": "662343074994847795",
       "name": "dennis6423",
       "username": "dennis642301",
+      "modder": true
+    },
+    {
+      "id": "1395809769947660389",
+      "name": "DeOld779",
+      "username": "denew779_89763",
       "modder": true
     },
     {
@@ -2205,6 +2211,12 @@
       "modder": true
     },
     {
+      "id": "318171311056617492",
+      "name": "Missing_Textures",
+      "username": "missingtextures",
+      "modder": true
+    },
+    {
       "id": "379665800849784842",
       "name": "Mist",
       "username": "cod4x",
@@ -3189,6 +3201,12 @@
       "modder": true
     },
     {
+      "id": "785131411731513374",
+      "name": "Stylx",
+      "username": "stylx.0",
+      "modder": true
+    },
+    {
       "id": "1121607624287326250",
       "name": "sucky",
       "username": "number0nepatriot",
@@ -3378,6 +3396,12 @@
       "id": "788645159499202571",
       "name": "Truleh👁",
       "username": "truleh",
+      "modder": true
+    },
+    {
+      "id": "927201210723872839",
+      "name": "tsohg",
+      "username": "tsohg._",
       "modder": true
     },
     {
