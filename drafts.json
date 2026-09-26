@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T19:05:46.919Z",
+  "generated": "2026-09-26T08:02:38.459Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -107,6 +107,17 @@
       "unpublished": "2026-09-09T18:49:40.473Z",
       "lastVersion": "1.0.1",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "mod_menu_796e25",
+      "title": "cammo grinding mod",
+      "author": {
+        "id": "1420899241613590690",
+        "name": "gaberiel0912"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-26T08:02:38.459Z",
+      "updated": "2026-09-26T08:02:38.459Z"
     },
     {
       "id": "outbreak_survival_87a89c",
