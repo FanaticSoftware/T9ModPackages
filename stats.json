@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T06:53:15.461Z",
+  "generated": "2026-09-26T07:33:15.443Z",
   "mods": {
     "directors_cut": {
-      "favorites": 103,
+      "favorites": 104,
       "rating": {
         "count": 6,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 1,
         "average": 5
@@ -73,21 +73,21 @@
       }
     },
     "day_night": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "deadlight_greenlight_fc56b7": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "gun_game_wip": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 3,
         "average": 4.5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 3,
         "average": 4.7
