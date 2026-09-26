@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T09:03:14.313Z",
+  "generated": "2026-09-26T10:03:14.367Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -144,6 +144,12 @@
       "id": "221995730464800768",
       "name": "7Lee",
       "username": "7lee",
+      "modder": true
+    },
+    {
+      "id": "475358237420421161",
+      "name": "abood",
+      "username": "kaki_ttv",
       "modder": true
     },
     {
