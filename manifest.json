@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T12:38:33.597Z",
+  "generated": "2026-09-26T12:38:40.223Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -1214,7 +1214,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "6c330808fe8d952b6e9a438bdf3a99b092828d8e5da9d7299f36fbd01c7007bc",
+      "sourceSha256": "a4952fcd467ca08fc5210ede621efde3b0420ccdeb0835a93b12d8724fe9c91e",
       "scan": {
         "critical": 0,
         "high": 2,
@@ -1236,20 +1236,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added points for legion kills",
+      "changelog": "Changed Thumbnail",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T09:38:09.634Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552977446171836521"
+        "at": "2026-09-26T12:38:38.873Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553384465479372825"
       },
       "id": "replace_zombies_early_wip",
-      "version": "20260925-093751",
-      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260925-093751.cwm",
-      "size": 1045948,
-      "sha256": "116dd151956b4713ed3bcb7bf56be12575b567104464df2704c419d05fd67301",
+      "version": "20260926-123512",
+      "file": "mod_packages/replace_zombies_early_wip/replace_zombies_early_wip-20260926-123512.cwm",
+      "size": 2115160,
+      "sha256": "0658ecf264165905aab2f7a810121c107f791a4227cabbf4e425f2deeb0669b6",
       "history": [
+        {
+          "version": "20260926-123512",
+          "changelog": "Changed Thumbnail",
+          "published": "2026-09-26T12:38:38.873Z"
+        },
         {
           "version": "20260925-093751",
           "changelog": "Added points for legion kills",
@@ -1282,7 +1287,7 @@
         }
       ],
       "thumbnail": "mod_packages/replace_zombies_early_wip/thumbnail.png",
-      "thumbnailSha256": "1654221646738b2f4245a0397826dc9c5edbd6c13add27d62ab1c6a1f34dbad2",
+      "thumbnailSha256": "c60db69e6fdf6b112858fda86101d30e9b1902ecade40a890652da3fca48ce36",
       "collaborators": []
     },
     {
