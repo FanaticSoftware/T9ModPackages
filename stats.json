@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T17:33:16.119Z",
+  "generated": "2026-09-26T17:43:16.134Z",
   "mods": {
     "directors_cut": {
       "favorites": 109,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 75,
+      "favorites": 76,
       "rating": {
         "count": 5,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 292,
+      "favorites": 293,
       "rating": {
         "count": 18,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 52,
+      "favorites": 53,
       "rating": {
         "count": 4,
         "average": 5
@@ -115,21 +115,21 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 3,
         "average": 4.8
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 3,
         "average": 4.7
