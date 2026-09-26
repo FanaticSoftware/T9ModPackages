@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T18:59:55.320Z",
+  "generated": "2026-09-26T12:38:33.597Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -215,20 +215,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added start with weapon option, added print that shows the mod is active.",
+      "changelog": "changed logo",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-22T02:10:28.806Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551777261517279320"
+        "at": "2026-09-26T12:38:33.227Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553384265285378164"
       },
       "id": "custom_mutations_dc3d6f",
-      "version": "20260922-020843",
-      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260922-020843.cwm",
-      "size": 1018374,
-      "sha256": "a19d7b68dce266e1a29b82728493dc98f778d88ad0e60d3c0b9a37200fe4573d",
+      "version": "20260926-123424",
+      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260926-123424.cwm",
+      "size": 1859678,
+      "sha256": "cf7f7a9264bc726b9c210b7f5085146a864ffe3f47b35f0e5899aab14c6bd1eb",
       "history": [
+        {
+          "version": "20260926-123424",
+          "changelog": "changed logo",
+          "published": "2026-09-26T12:38:33.227Z"
+        },
         {
           "version": "20260922-020843",
           "changelog": "Added start with weapon option, added print that shows the mod is active.",
@@ -241,7 +246,7 @@
         }
       ],
       "thumbnail": "mod_packages/custom_mutations_dc3d6f/thumbnail.png",
-      "thumbnailSha256": "5b627fb3752a8511f2eec84cb123e202733bd1322923650f0a9a3bcc3b9a4acc",
+      "thumbnailSha256": "2f933516e830662f3ef5f25f6bba09ca086d92d1c65b5aeeec98f778d7330e59",
       "collaborators": [
         "244657466783170560"
       ],
