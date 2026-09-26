@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T12:52:47.210Z",
+  "generated": "2026-09-26T12:53:01.884Z",
   "packages": [
     {
       "title": "Aetheria",
@@ -255,7 +255,7 @@
       }
     },
     {
-      "title": "Day & Night",
+      "title": "Day 'N' Night",
       "description": "Choose Day, Night, or Random authored lighting per supported Zombies map. Supports Die Maschine and selected Outbreak regions.",
       "author": {
         "discordName": "saintvertigo",
@@ -281,20 +281,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added toggleable flashlight option",
+      "changelog": "Changed thumbnail and title",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-25T18:25:07.859Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553110060891115634"
+        "at": "2026-09-26T12:53:01.524Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553386373023670426"
       },
       "id": "day_night",
-      "version": "20260925-182451",
-      "file": "mod_packages/day_night/day_night-20260925-182451.cwm",
-      "size": 1288763,
-      "sha256": "e967078b4cfb1a3f7cb8aedd15e2271be43a70045bd4789b2c3fd918b24b883b",
+      "version": "20260926-124248",
+      "file": "mod_packages/day_night/day_night-20260926-124248.cwm",
+      "size": 1761993,
+      "sha256": "cfb36c85ae23888375e25524ff682cea37d3b5f7420c2c22c761d245254cf64e",
       "history": [
+        {
+          "version": "20260926-124248",
+          "changelog": "Changed thumbnail and title",
+          "published": "2026-09-26T12:53:01.524Z"
+        },
         {
           "version": "20260925-182451",
           "changelog": "Added toggleable flashlight option",
@@ -312,7 +317,7 @@
         }
       ],
       "thumbnail": "mod_packages/day_night/thumbnail.png",
-      "thumbnailSha256": "8d89336073aab486a119b7fd11554f13165912c66085d36b1a26cb9769d1836e",
+      "thumbnailSha256": "b7d28ba88c91d2e27f91628e61f3c0cc6fefe51583c94ac5ae9df2eeb195a5ac",
       "collaborators": []
     },
     {
