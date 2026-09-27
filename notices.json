@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T05:03:57.196Z",
+  "generated": "2026-09-27T05:04:01.811Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "collab",
+      "mod": "4 Player Onslaught",
+      "id": "4_player_onslaught_test_1048f4",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-09-27T05:04:01.588Z"
+    },
     {
       "key": "640385b82f3367c841dc3d10c1cf94156a8b40b8e544e06d3ac04bbb4c702f65",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-03T06:22:19.272Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Aetheria (Unfinished Test Ver)",
-      "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.4",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-03T05:32:28.862Z"
     }
   ]
 }
