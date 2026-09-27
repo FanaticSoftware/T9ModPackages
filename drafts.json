@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T18:34:26.935Z",
+  "generated": "2026-09-27T20:23:45.158Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -54,27 +54,6 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic",
         "684408486456852481": "SaintVertigo"
-      }
-    },
-    {
-      "id": "dm_nacht_74d31a",
-      "title": "DM Nacht",
-      "author": {
-        "id": "1149028242766954537",
-        "name": "theymusthaveamnesia"
-      },
-      "collaborators": [
-        "473935020898254848"
-      ],
-      "claimed": "2026-09-27T13:25:36.468Z",
-      "updated": "2026-09-27T13:25:36.468Z",
-      "collaboratorNames": {
-        "473935020898254848": "Bradley0104"
-      },
-      "testerAccounts": {
-        "473935020898254848": [
-          "4b383ebd1bc36f0a"
-        ]
       }
     },
     {

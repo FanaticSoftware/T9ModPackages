@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T15:45:45.202Z",
+  "generated": "2026-09-27T20:23:45.158Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -502,6 +502,72 @@
       ],
       "collaboratorNames": {
         "244657466783170560": "Figglebottom"
+      }
+    },
+    {
+      "title": "Nacht Only (Die Maschine)",
+      "description": "Survival challenge in the Nacht Der Untoten area of Die Maschine!\nvery similar to SaintVertigo's \"Nacht Spawn Room\" mod (i recommend if you like this mod), \nbut there are enough differences that i think it's worth publishing.\n\nsome things worth noting:\n-weighted box luck (flamethrower 10%, raygun 5%)\n-custom flamethrower mechanics (to act like the WaW flamethrower)\n-ability to open the two debris on the stairs\n-rampage works past 55 (always max spawnrate while active)\n-double regular zombie health, and maxing out at 80k instead of 55k\n-option to choose between cw, waw (1 horde per round), and classic (bo1/2/3/4) zombie formulas\n-option to allow players to enter the penthouse (very top of nacht)",
+      "author": {
+        "discordName": "theymusthaveamnesia",
+        "id": "1149028242766954537",
+        "name": "gravexd"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "abd1e8f0659df0b1e2e5bfa10d811284e04dacbe2b9904b7d6c3d2a5718a1549",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 8,
+        "medium": 55,
+        "rules": "2026.08.19",
+        "summary": "55 medium, 8 low"
+      },
+      "settings": 2,
+      "tags": [
+        "Gameplay Overhaul",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Mystery Box",
+        "Rounds / Spawning",
+        "Scorestreaks",
+        "Die Maschine",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-27T20:23:44.887Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553861926264635556"
+      },
+      "id": "dm_nacht_74d31a",
+      "version": "20260927-201229",
+      "file": "mod_packages/dm_nacht_74d31a/dm_nacht_74d31a-20260927-201229.cwm",
+      "size": 855006,
+      "sha256": "6ff583b591172e086ee98f16f543fd2ff318112c65b47d4bbab61b6777a3662e",
+      "history": [
+        {
+          "version": "20260927-201229",
+          "changelog": "",
+          "published": "2026-09-27T20:23:44.887Z"
+        }
+      ],
+      "thumbnail": "mod_packages/dm_nacht_74d31a/thumbnail.png",
+      "thumbnailSha256": "cfaa9a67f8381887d51a737123563e0e5a1038357e69ff2856650e3f32823989",
+      "collaborators": [
+        "473935020898254848"
+      ],
+      "collaboratorNames": {
+        "473935020898254848": "Bradley0104"
+      },
+      "testerAccounts": {
+        "473935020898254848": [
+          "4b383ebd1bc36f0a"
+        ]
       }
     },
     {
