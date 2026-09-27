@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T06:37:41.707Z",
+  "generated": "2026-09-27T06:40:16.397Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -335,9 +335,14 @@
         "id": "1149028242766954537",
         "name": "theymusthaveamnesia"
       },
-      "collaborators": [],
+      "collaborators": [
+        "207305390654881792"
+      ],
       "claimed": "2026-09-27T06:37:41.707Z",
-      "updated": "2026-09-27T06:37:41.707Z"
+      "updated": "2026-09-27T06:37:41.707Z",
+      "collaboratorNames": {
+        "207305390654881792": "drain"
+      }
     },
     {
       "id": "zm_classic_beta",
