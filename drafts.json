@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T08:02:38.459Z",
+  "generated": "2026-09-27T04:20:54.100Z",
   "drafts": [
+    {
+      "id": "4_player_onslaught_test_1048f4",
+      "title": "4 Player Onslaught Test",
+      "author": {
+        "id": "684408486456852481",
+        "name": "saintvertigo"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-27T04:20:54.100Z",
+      "updated": "2026-09-27T04:20:54.100Z"
+    },
     {
       "id": "aetheria_unfinished_test_ver",
       "title": "Aetheria (Unfinished Test Ver)",
