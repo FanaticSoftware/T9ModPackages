@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T16:24:40.242Z",
+  "generated": "2026-09-27T17:36:13.445Z",
   "invites": [
-    {
-      "key": "3161ac8d4401d5b2a56369e3612b74e8436193ef247af032d58444c404bee6b5",
-      "mod": "quick_restart_9e740d",
-      "title": "quick-restart",
-      "ownerId": "413539982611972126",
-      "ownerName": "itsjonathan08",
-      "at": "2026-09-27T16:24:40.242Z"
-    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
