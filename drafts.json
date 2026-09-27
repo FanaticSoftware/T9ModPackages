@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T06:40:16.397Z",
+  "generated": "2026-09-27T13:25:36.468Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -39,6 +39,17 @@
         "243151432230895619": "Fanatic",
         "684408486456852481": "SaintVertigo"
       }
+    },
+    {
+      "id": "dm_nacht_74d31a",
+      "title": "DM Nacht",
+      "author": {
+        "id": "1149028242766954537",
+        "name": "theymusthaveamnesia"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-27T13:25:36.468Z",
+      "updated": "2026-09-27T13:25:36.468Z"
     },
     {
       "id": "doom_mode",
