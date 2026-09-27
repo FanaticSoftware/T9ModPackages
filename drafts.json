@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T23:57:57.490Z",
+  "generated": "2026-09-27T23:59:39.524Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -101,9 +101,14 @@
         "id": "249388147610222593",
         "name": "hoemaro"
       },
-      "collaborators": [],
+      "collaborators": [
+        "413539982611972126"
+      ],
       "claimed": "2026-09-27T23:57:57.490Z",
-      "updated": "2026-09-27T23:57:57.490Z"
+      "updated": "2026-09-27T23:57:57.490Z",
+      "collaboratorNames": {
+        "413539982611972126": "ItsJonathan"
+      }
     },
     {
       "id": "instant_field_upgrade_charge_0997cd",
