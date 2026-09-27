@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T21:17:29.665Z",
+  "generated": "2026-09-27T21:27:29.576Z",
   "mods": {
     "directors_cut": {
       "favorites": 122,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 54,
+      "favorites": 55,
       "rating": {
         "count": 4,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 3,
         "average": 4.8
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
