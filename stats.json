@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T07:43:17.098Z",
+  "generated": "2026-09-27T07:53:17.179Z",
   "mods": {
     "directors_cut": {
       "favorites": 116,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 83,
+      "favorites": 84,
       "rating": {
         "count": 10,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -122,21 +122,21 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 3,
         "average": 4.7
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
