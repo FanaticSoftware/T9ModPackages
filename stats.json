@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T15:25:40.278Z",
+  "generated": "2026-09-27T16:25:40.358Z",
   "mods": {
     "directors_cut": {
-      "favorites": 117,
+      "favorites": 118,
       "rating": {
         "count": 6,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 83,
+      "favorites": 84,
       "rating": {
         "count": 5,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 313,
+      "favorites": 314,
       "rating": {
         "count": 18,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 55,
+      "favorites": 56,
       "rating": {
         "count": 5,
         "average": 5
