@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T14:47:06.649Z",
+  "generated": "2026-09-27T15:45:49.608Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "Dead Light Green Light",
+      "id": "deadlight_greenlight_fc56b7",
+      "version": "20260927-033745",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-09-27T15:45:49.444Z"
+    },
     {
       "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "**Teaa** (@teaa_the_silliest) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-03T16:31:03.506Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.1",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-03T16:27:36.771Z"
     }
   ]
 }
