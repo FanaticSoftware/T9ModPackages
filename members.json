@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T07:03:14.741Z",
+  "generated": "2026-09-27T09:03:14.596Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -699,9 +699,21 @@
       "modder": true
     },
     {
+      "id": "217420932698865675",
+      "name": "Cbolt20",
+      "username": "cbolt20",
+      "modder": true
+    },
+    {
       "id": "1103512974154530846",
       "name": "CDUB",
       "username": "donutdestroyerlol",
+      "modder": true
+    },
+    {
+      "id": "343212369096343555",
+      "name": "Chalino, The Chosen One",
+      "username": "chalino.",
       "modder": true
     },
     {
