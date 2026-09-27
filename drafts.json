@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:37:29.144Z",
+  "generated": "2026-09-27T06:37:41.707Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -327,6 +327,17 @@
       "unpublished": "2026-09-09T18:49:50.297Z",
       "lastVersion": "1.0.0",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "zm_backrooms_dff63d",
+      "title": "zm_backrooms_earlytestcoopwow",
+      "author": {
+        "id": "1149028242766954537",
+        "name": "theymusthaveamnesia"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-27T06:37:41.707Z",
+      "updated": "2026-09-27T06:37:41.707Z"
     },
     {
       "id": "zm_classic_beta",
