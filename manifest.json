@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T05:03:49.351Z",
+  "generated": "2026-09-27T05:03:53.991Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -57,18 +57,12 @@
       "thumbnail": "mod_packages/4_player_onslaught_test_1048f4/thumbnail.png",
       "thumbnailSha256": "0159420256cc2e45566fb87fe8464586ef873aa8e51344acde48ecfa1f8ec33e",
       "collaborators": [
-        "115173340334915587",
-        "803064934459899916"
+        "115173340334915587"
       ],
       "collaboratorNames": {
-        "115173340334915587": "Oryxs Middle Orb",
-        "803064934459899916": "FuryCanCrit"
+        "115173340334915587": "Oryxs Middle Orb"
       },
       "testerAccounts": {
-        "803064934459899916": [
-          "0844e5fcef9948d5",
-          "844e5fcef9948d5"
-        ],
         "115173340334915587": [
           "1931db6d93c0a4da"
         ]
