@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T00:43:16.630Z",
+  "generated": "2026-09-27T00:53:16.646Z",
   "mods": {
     "directors_cut": {
       "favorites": 115,
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 3,
         "average": 4.8
