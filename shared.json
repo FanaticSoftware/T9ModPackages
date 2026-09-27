@@ -200,14 +200,14 @@
       "updated": "2026-09-27T06:38:23.028Z"
     },
     "dm_nacht_74d31a": {
-      "file": "shared_projects/dm_nacht_74d31a/f84ce5338726f9b4.cwm",
-      "size": 23763,
-      "sha256": "f84ce5338726f9b4f29e5f3712abf4b6f63f75b56cecffef3f0eb1a5d877f556",
-      "basedOn": "",
-      "version": "1.0.0",
+      "file": "shared_projects/dm_nacht_74d31a/fdad13c4e87bb76f.cwm",
+      "size": 854420,
+      "sha256": "fdad13c4e87bb76f98f60b23d00cf1e6b05436808752bb3616d23da5f98eda11",
+      "basedOn": "f84ce5338726f9b4f29e5f3712abf4b6f63f75b56cecffef3f0eb1a5d877f556",
+      "version": "20260927-201229",
       "files": 9,
       "by": "1149028242766954537",
-      "updated": "2026-09-27T14:11:49.932Z"
+      "updated": "2026-09-27T21:30:22.182Z"
     },
     "asldjaslkdjasltestbuild": {
       "file": "shared_projects/asldjaslkdjasltestbuild/bd55e3906c31a482.cwm",
@@ -230,5 +230,5 @@
       "updated": "2026-09-27T17:37:32.792Z"
     }
   },
-  "generated": "2026-09-27T17:37:32.793Z"
+  "generated": "2026-09-27T21:30:22.182Z"
 }
