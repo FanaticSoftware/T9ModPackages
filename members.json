@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T23:03:14.387Z",
+  "generated": "2026-09-27T00:03:14.429Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -132,6 +132,12 @@
       "id": "712875551471173744",
       "name": "1973 chevy malibu",
       "username": "1973chevymalibu",
+      "modder": true
+    },
+    {
+      "id": "1084913529787797545",
+      "name": "21 🏴",
+      "username": "asdzzc23",
       "modder": true
     },
     {
@@ -1767,6 +1773,12 @@
       "modder": true
     },
     {
+      "id": "1482472806854955018",
+      "name": "inactivecatz",
+      "username": "inactivecatz",
+      "modder": true
+    },
+    {
       "id": "670692022310666310",
       "name": "ipod996",
       "username": "ipod996",
@@ -2742,6 +2754,12 @@
       "id": "1000034755900866670",
       "name": "nubby enjoyer",
       "username": "jonasvonhoy",
+      "modder": true
+    },
+    {
+      "id": "633485661508468757",
+      "name": "Nwo_Lucid",
+      "username": "synsmaw2168",
       "modder": true
     },
     {
@@ -3870,12 +3888,6 @@
       "id": "414443604799520788",
       "name": "VorteX",
       "username": "vortexz7",
-      "modder": true
-    },
-    {
-      "id": "487399749218074628",
-      "name": "vulkrus",
-      "username": "vulkrus",
       "modder": true
     },
     {
