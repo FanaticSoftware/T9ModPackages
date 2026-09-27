@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T14:15:56.162Z",
+  "generated": "2026-09-27T14:17:23.270Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -65,6 +65,11 @@
       "updated": "2026-09-27T13:25:36.468Z",
       "collaboratorNames": {
         "473935020898254848": "Bradley0104"
+      },
+      "testerAccounts": {
+        "473935020898254848": [
+          "4b383ebd1bc36f0a"
+        ]
       }
     },
     {
