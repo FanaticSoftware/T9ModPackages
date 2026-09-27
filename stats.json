@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T14:55:40.138Z",
+  "generated": "2026-09-27T15:05:40.279Z",
   "mods": {
     "directors_cut": {
       "favorites": 117,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 82,
+      "favorites": 83,
       "rating": {
         "count": 5,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 52,
+      "favorites": 51,
       "rating": {
         "count": 4,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
