@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T05:03:58.907Z",
+  "generated": "2026-09-27T15:45:45.202Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -377,7 +377,7 @@
       "collaborators": []
     },
     {
-      "title": "Deadlight Greenlight",
+      "title": "Dead Light Green Light",
       "description": "Play a classic game of Red Light Green Light, but with a twist! Inspired by the Black Ops 6 LTM mode, Deadlight Greenlight. Players are able to move until Red Light is called, if you move while on Red Light, you will be punished! Green light grants double points while Red light grants zero points.",
       "author": {
         "discordName": "tech_wave",
@@ -386,16 +386,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "14eaba6df34cea8268b058d91828ae4cfa73172c37fa7f52398a60f27a2fdce4",
+      "sourceSha256": "5439963a8c8d4fbe3a80cdb0c6205badc580f4aa7e2cc1f015f524673cc2473d",
       "scan": {
         "critical": 0,
-        "high": 0,
+        "high": 1,
         "low": 0,
         "medium": 1,
         "rules": "2026.08.19",
-        "summary": "1 medium"
+        "summary": "1 high, 1 medium"
       },
-      "settings": 10,
+      "settings": 12,
       "tags": [
         "Challenge / Custom Rules",
         "Points / Economy",
@@ -406,20 +406,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Re-arranged the Settings to look nicer and to add the following presets: Default, Bo6 Rules, and Challenging.\nChanged the Punishments toggle to be individual toggles instead.\nAdded more settings, Toggle Child Laughter sound when caught, Point drain amount, and Health drain amount.\nRemoved Double Points so it wont mess with the light change.\nIncreased the chances for Deadlight to happen.\nFixed Health loss not functioning when Point loss is disabled.",
+      "changelog": "Added two new punishments, Blurry Vision and Slow Movement\nAdded color to the text to make them look better (Thanks SaintVertigo for the suggestion!)\nChanged the Punishment text to be bigger and easily readable\nFixed Zombies sometimes glitching when Dead Light occurs\nUpdated the Mod Icon to look better",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-09-24T01:57:57.483Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552490445819486209"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-27T15:45:44.857Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553611594951557135"
       },
       "id": "deadlight_greenlight_fc56b7",
-      "version": "20260924-012244",
-      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20260924-012244.cwm",
-      "size": 117703,
-      "sha256": "21c2183b3150c4e1c0a2c7a5f680232705231ec7279286e7d155b82d9cca3a01",
+      "version": "20260927-033745",
+      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20260927-033745.cwm",
+      "size": 1019797,
+      "sha256": "9d57a6b90242041764e58b82b9b1521cdf2a0a3338ab42e22a9760cb47a7b837",
       "history": [
+        {
+          "version": "20260927-033745",
+          "changelog": "Added two new punishments, Blurry Vision and Slow Movement\nAdded color to the text to make them look better (Thanks SaintVertigo for the suggestion!)\nChanged the Punishment text to be bigger and easily readable\nFixed Zombies sometimes glitching when Dead Light occurs\nUpdated the Mod Icon to look better",
+          "published": "2026-09-27T15:45:44.857Z"
+        },
         {
           "version": "20260924-012244",
           "changelog": "Re-arranged the Settings to look nicer and to add the following presets: Default, Bo6 Rules, and Challenging.\nChanged the Punishments toggle to be individual toggles instead.\nAdded more settings, Toggle Child Laughter sound when caught, Point drain amount, and Health drain amount.\nRemoved Double Points so it wont mess with the light change.\nIncreased the chances for Deadlight to happen.\nFixed Health loss not functioning when Point loss is disabled.",
@@ -432,7 +437,7 @@
         }
       ],
       "thumbnail": "mod_packages/deadlight_greenlight_fc56b7/thumbnail.png",
-      "thumbnailSha256": "7facd03672a1c40c792df01659233ebeb66fd8b43a8fb18597cbc392d1c3328b",
+      "thumbnailSha256": "6a823c7cd402fc1a346947d070ba17458c8abeb7009bbcc544c5223d9a83e8bf",
       "collaborators": []
     },
     {
