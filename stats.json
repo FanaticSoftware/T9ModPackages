@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T15:05:40.279Z",
+  "generated": "2026-09-27T15:15:40.352Z",
   "mods": {
     "directors_cut": {
       "favorites": 117,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 312,
+      "favorites": 313,
       "rating": {
         "count": 18,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 51,
+      "favorites": 52,
       "rating": {
         "count": 4,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 3,
         "average": 4.7
