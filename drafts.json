@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:24:41.642Z",
+  "generated": "2026-09-27T04:25:34.764Z",
   "drafts": [
     {
       "id": "4_player_onslaught_test_1048f4",
@@ -20,6 +20,12 @@
         "115173340334915587": "Oryxs Middle Orb",
         "803064934459899916": "FuryCanCrit",
         "1096328211887034429": "Lighter .F"
+      },
+      "testerAccounts": {
+        "803064934459899916": [
+          "0844e5fcef9948d5",
+          "844e5fcef9948d5"
+        ]
       }
     },
     {
