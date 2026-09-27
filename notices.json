@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T18:32:05.224Z",
+  "generated": "2026-09-27T20:23:49.864Z",
   "notices": [
+    {
+      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
+      "status": "approved",
+      "mod": "Nacht Only (Die Maschine)",
+      "id": "dm_nacht_74d31a",
+      "version": "20260927-201229",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-09-27T20:23:49.702Z"
+    },
     {
       "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-04T02:55:23.862Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "ZM Classic [BETA]",
-      "id": "zm_classic_beta",
-      "version": "2.0.6",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-03T23:45:47.678Z"
     }
   ]
 }
