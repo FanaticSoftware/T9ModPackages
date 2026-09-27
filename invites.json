@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:21:34.385Z",
+  "generated": "2026-09-27T04:21:43.451Z",
   "invites": [
     {
       "key": "640385b82f3367c841dc3d10c1cf94156a8b40b8e544e06d3ac04bbb4c702f65",
@@ -17,14 +17,6 @@
       "ownerId": "684408486456852481",
       "ownerName": "saintvertigo",
       "at": "2026-09-27T04:21:24.392Z"
-    },
-    {
-      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
-      "mod": "4_player_onslaught_test_1048f4",
-      "title": "4 Player Onslaught Test",
-      "ownerId": "684408486456852481",
-      "ownerName": "saintvertigo",
-      "at": "2026-09-27T04:21:17.163Z"
     },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
