@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T13:25:36.468Z",
+  "generated": "2026-09-27T14:03:17.990Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -47,9 +47,14 @@
         "id": "1149028242766954537",
         "name": "theymusthaveamnesia"
       },
-      "collaborators": [],
+      "collaborators": [
+        "473935020898254848"
+      ],
       "claimed": "2026-09-27T13:25:36.468Z",
-      "updated": "2026-09-27T13:25:36.468Z"
+      "updated": "2026-09-27T13:25:36.468Z",
+      "collaboratorNames": {
+        "473935020898254848": "Bradley0104"
+      }
     },
     {
       "id": "doom_mode",
