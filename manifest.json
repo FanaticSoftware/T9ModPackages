@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T05:03:53.991Z",
+  "generated": "2026-09-27T05:03:58.907Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -56,17 +56,7 @@
       ],
       "thumbnail": "mod_packages/4_player_onslaught_test_1048f4/thumbnail.png",
       "thumbnailSha256": "0159420256cc2e45566fb87fe8464586ef873aa8e51344acde48ecfa1f8ec33e",
-      "collaborators": [
-        "115173340334915587"
-      ],
-      "collaboratorNames": {
-        "115173340334915587": "Oryxs Middle Orb"
-      },
-      "testerAccounts": {
-        "115173340334915587": [
-          "1931db6d93c0a4da"
-        ]
-      }
+      "collaborators": []
     },
     {
       "title": "Aetheria",
