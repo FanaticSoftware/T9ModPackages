@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T21:45:21.791Z",
+  "generated": "2026-09-27T23:47:36.927Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -514,14 +514,14 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "8293d21ab9adc28a445cd1ecf7de2cf6364a6d6cf4f3f98c80b30ebc3855a866",
+      "sourceSha256": "c824ce0104481554d21d60591684528693875bfa6d59196978d4ccf78fda4f20",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 8,
-        "medium": 56,
+        "medium": 57,
         "rules": "2026.08.19",
-        "summary": "56 medium, 8 low"
+        "summary": "57 medium, 8 low"
       },
       "settings": 3,
       "tags": [
@@ -536,20 +536,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added an option to enable/disable the double health, on by default",
+      "changelog": "Fixed an issue that allowed kazimirs to teleport the player outside of the playable area",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-27T21:45:21.424Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553885004029759545"
+        "at": "2026-09-27T23:47:36.556Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553913031245828124"
       },
       "id": "dm_nacht_74d31a",
-      "version": "20260927-214411",
-      "file": "mod_packages/dm_nacht_74d31a/dm_nacht_74d31a-20260927-214411.cwm",
-      "size": 856120,
-      "sha256": "d580ef97f699e74890af98263bb72f6b7c31d0fc5e0995f7f1dee477b9800a3f",
+      "version": "20260927-233533",
+      "file": "mod_packages/dm_nacht_74d31a/dm_nacht_74d31a-20260927-233533.cwm",
+      "size": 859396,
+      "sha256": "2a8ab09f08d7985a4f89681bc73312959bde3ab6c54a1d978dc017597f867478",
       "history": [
+        {
+          "version": "20260927-233533",
+          "changelog": "Fixed an issue that allowed kazimirs to teleport the player outside of the playable area",
+          "published": "2026-09-27T23:47:36.556Z"
+        },
         {
           "version": "20260927-214411",
           "changelog": "Added an option to enable/disable the double health, on by default",
