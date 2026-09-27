@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T16:13:26.272Z",
+  "generated": "2026-09-27T17:36:16.587Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -215,9 +215,14 @@
         "id": "413539982611972126",
         "name": "itsjonathan08"
       },
-      "collaborators": [],
+      "collaborators": [
+        "326909595463319552"
+      ],
       "claimed": "2026-09-27T16:13:26.272Z",
-      "updated": "2026-09-27T16:13:26.272Z"
+      "updated": "2026-09-27T16:13:26.272Z",
+      "collaboratorNames": {
+        "326909595463319552": "Stevi"
+      }
     },
     {
       "id": "randomizer_test_7e619d",
