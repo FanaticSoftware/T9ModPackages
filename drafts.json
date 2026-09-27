@@ -1,39 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:26:36.866Z",
+  "generated": "2026-09-27T04:37:29.144Z",
   "drafts": [
-    {
-      "id": "4_player_onslaught_test_1048f4",
-      "title": "4 Player Onslaught Test",
-      "author": {
-        "id": "684408486456852481",
-        "name": "saintvertigo"
-      },
-      "collaborators": [
-        "115173340334915587",
-        "803064934459899916",
-        "1096328211887034429"
-      ],
-      "claimed": "2026-09-27T04:20:54.100Z",
-      "updated": "2026-09-27T04:20:54.100Z",
-      "collaboratorNames": {
-        "115173340334915587": "Oryxs Middle Orb",
-        "803064934459899916": "FuryCanCrit",
-        "1096328211887034429": "Lighter .F"
-      },
-      "testerAccounts": {
-        "803064934459899916": [
-          "0844e5fcef9948d5",
-          "844e5fcef9948d5"
-        ],
-        "1096328211887034429": [
-          "5f65912e97692c91"
-        ],
-        "115173340334915587": [
-          "1931db6d93c0a4da"
-        ]
-      }
-    },
     {
       "id": "aetheria_unfinished_test_ver",
       "title": "Aetheria (Unfinished Test Ver)",

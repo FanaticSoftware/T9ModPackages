@@ -1,7 +1,79 @@
 {
   "schema": 1,
-  "generated": "2026-09-26T18:44:00.459Z",
+  "generated": "2026-09-27T04:37:29.144Z",
   "packages": [
+    {
+      "title": "4 Player Onslaught Test",
+      "description": "Load into a survival map with 4 players",
+      "author": {
+        "discordName": "saintvertigo",
+        "id": "684408486456852481",
+        "name": "SaintVertigo"
+      },
+      "publishedBy": null,
+      "developer": true,
+      "sourceSha256": "2a9855a8e8803980a0ae32d505042b42ced61c4db3f4d1163111eb2a37caab23",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.08.19",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Round-Based Maps",
+        "Onslaught",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-09-27T04:37:28.750Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553626541265526870"
+      },
+      "id": "4_player_onslaught_test_1048f4",
+      "version": "20260927-043708",
+      "file": "mod_packages/4_player_onslaught_test_1048f4/4_player_onslaught_test_1048f4-20260927-043708.cwm",
+      "size": 1186542,
+      "sha256": "f7f5cf534cd904cdfda471bfdac3ecb0d052dfc1c2452cf381e017fa4cf8456a",
+      "history": [
+        {
+          "version": "20260927-043708",
+          "changelog": "",
+          "published": "2026-09-27T04:37:28.750Z"
+        }
+      ],
+      "thumbnail": "mod_packages/4_player_onslaught_test_1048f4/thumbnail.png",
+      "thumbnailSha256": "0159420256cc2e45566fb87fe8464586ef873aa8e51344acde48ecfa1f8ec33e",
+      "collaborators": [
+        "115173340334915587",
+        "803064934459899916",
+        "1096328211887034429"
+      ],
+      "collaboratorNames": {
+        "115173340334915587": "Oryxs Middle Orb",
+        "803064934459899916": "FuryCanCrit",
+        "1096328211887034429": "Lighter .F"
+      },
+      "testerAccounts": {
+        "803064934459899916": [
+          "0844e5fcef9948d5",
+          "844e5fcef9948d5"
+        ],
+        "1096328211887034429": [
+          "5f65912e97692c91"
+        ],
+        "115173340334915587": [
+          "1931db6d93c0a4da"
+        ]
+      }
+    },
     {
       "title": "Aetheria",
       "description": "Aetheria is essentially a more difficult yet more refreshing mod of Cold War Zombies. This mod adds all applicable enemy types to every map including Onslaught maps, with increasing swarms of their numbers thwarting you. it also adds unique pack a punch effects to weapons and the Vanguard covenant system, along with much more QoL changes and additions. Will add more covenant effects to it soon!",
