@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:37:29.144Z",
+  "generated": "2026-09-27T04:56:22.177Z",
   "packages": [
     {
-      "title": "4 Player Onslaught Test",
-      "description": "Load into a survival map with 4 players",
+      "title": "4 Player Onslaught",
+      "description": "Load into a survival map with 4 players.",
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
@@ -12,7 +12,7 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "2a9855a8e8803980a0ae32d505042b42ced61c4db3f4d1163111eb2a37caab23",
+      "sourceSha256": "909ecff1e0e3f1374da6f935fb75f51fdd9876b439cad43a2e4aa946959c21af",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -21,7 +21,7 @@
         "rules": "2026.08.19",
         "summary": "clean, nothing flagged"
       },
-      "settings": 0,
+      "settings": 1,
       "tags": [
         "Gameplay Overhaul",
         "Quality of Life",
@@ -29,20 +29,25 @@
         "Onslaught",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "Testing",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-27T04:37:28.750Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553626541265526870"
+        "at": "2026-09-27T04:56:21.858Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1553631327041884234"
       },
       "id": "4_player_onslaught_test_1048f4",
-      "version": "20260927-043708",
-      "file": "mod_packages/4_player_onslaught_test_1048f4/4_player_onslaught_test_1048f4-20260927-043708.cwm",
-      "size": 1186542,
-      "sha256": "f7f5cf534cd904cdfda471bfdac3ecb0d052dfc1c2452cf381e017fa4cf8456a",
+      "version": "20260927-045608",
+      "file": "mod_packages/4_player_onslaught_test_1048f4/4_player_onslaught_test_1048f4-20260927-045608.cwm",
+      "size": 1191001,
+      "sha256": "2a51e3a9c1f672f1aea81d9d513a58bf6c723534d0c0adf26e4955dfdcc43696",
       "history": [
+        {
+          "version": "20260927-045608",
+          "changelog": "Testing",
+          "published": "2026-09-27T04:56:21.858Z"
+        },
         {
           "version": "20260927-043708",
           "changelog": "",
