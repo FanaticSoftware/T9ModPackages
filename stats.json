@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T10:15:39.936Z",
+  "generated": "2026-09-27T11:25:40.004Z",
   "mods": {
     "directors_cut": {
       "favorites": 116,
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 1,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 51,
+      "favorites": 52,
       "rating": {
         "count": 4,
         "average": 5
@@ -115,14 +115,14 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 3,
         "average": 4.8
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 2,
         "average": 5
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
