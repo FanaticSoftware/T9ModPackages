@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:13:16.878Z",
+  "generated": "2026-09-27T04:33:16.899Z",
   "mods": {
     "directors_cut": {
       "favorites": 116,
@@ -115,14 +115,14 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 3,
         "average": 4.8
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
