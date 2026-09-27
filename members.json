@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T14:55:40.322Z",
+  "generated": "2026-09-27T15:55:40.509Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -2841,6 +2841,12 @@
       "modder": true
     },
     {
+      "id": "1095686714456031335",
+      "name": "NYIKO",
+      "username": "nyikoh",
+      "modder": true
+    },
+    {
       "id": "1002380164937822279",
       "name": "OG KING",
       "username": "ogking8994",
@@ -3486,6 +3492,18 @@
       "id": "564141419048992782",
       "name": "sigob",
       "username": "sigob_",
+      "modder": true
+    },
+    {
+      "id": "475413874061869066",
+      "name": "Silv3r",
+      "username": "silv3r_official",
+      "modder": true
+    },
+    {
+      "id": "303470548019707904",
+      "name": "SilxntAssassin",
+      "username": "silxntassassin",
       "modder": true
     },
     {
