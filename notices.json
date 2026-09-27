@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T15:45:49.608Z",
+  "generated": "2026-09-27T17:36:19.591Z",
   "notices": [
+    {
+      "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
+      "status": "collab",
+      "mod": "quick-restart",
+      "id": "quick_restart_9e740d",
+      "version": null,
+      "reason": "**Stevi** (@thatguystevie) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-27T17:36:19.399Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-03T18:41:12.987Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "collab",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": null,
-      "reason": "**Teaa** (@teaa_the_silliest) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-03T16:31:03.506Z"
     }
   ]
 }
