@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T19:27:29.971Z",
+  "generated": "2026-09-27T20:27:29.740Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -969,6 +969,12 @@
       "modder": true
     },
     {
+      "id": "1395706310712098837",
+      "name": "Demian",
+      "username": "hypezenox",
+      "modder": true
+    },
+    {
       "id": "1065057246389739541",
       "name": "Denchik Games",
       "username": "denchikgamesofficial",
@@ -1104,6 +1110,12 @@
       "id": "702196504533926078",
       "name": "DudeReally",
       "username": "dudereally",
+      "modder": true
+    },
+    {
+      "id": "798499173762596880",
+      "name": "Dumdumb",
+      "username": "asvathvj",
       "modder": true
     },
     {
@@ -1929,9 +1941,21 @@
       "modder": true
     },
     {
+      "id": "231902894373339136",
+      "name": "Javix473",
+      "username": "javix473",
+      "modder": true
+    },
+    {
       "id": "527228217803800587",
       "name": "JBANDZ(150/AD)",
       "username": "jbandz_150",
+      "modder": true
+    },
+    {
+      "id": "1174154530208895026",
+      "name": "Jerkface935",
+      "username": "jerkface935",
       "modder": true
     },
     {
@@ -3858,6 +3882,12 @@
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
+      "modder": true
+    },
+    {
+      "id": "243208613546557440",
+      "name": "The Universe",
+      "username": "maggal",
       "modder": true
     },
     {
