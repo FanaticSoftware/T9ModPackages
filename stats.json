@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T22:07:29.747Z",
+  "generated": "2026-09-27T22:27:29.709Z",
   "mods": {
     "directors_cut": {
       "favorites": 122,
       "rating": {
-        "count": 7,
+        "count": 8,
         "average": 5
       }
     },
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 86,
+      "favorites": 87,
       "rating": {
         "count": 11,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 53,
+      "favorites": 54,
       "rating": {
         "count": 4,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -108,17 +108,17 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 64,
+      "favorites": 66,
       "rating": {
         "count": 6,
         "average": 4.9
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
-        "count": 3,
-        "average": 4.8
+        "count": 4,
+        "average": 4.9
       }
     },
     "hide_hud_24d1a2": {
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
