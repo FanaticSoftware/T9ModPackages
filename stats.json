@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T22:27:29.709Z",
+  "generated": "2026-09-27T22:37:29.735Z",
   "mods": {
     "directors_cut": {
       "favorites": 122,
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 57,
+      "favorites": 58,
       "rating": {
         "count": 5,
         "average": 5
@@ -103,8 +103,8 @@
     "mulekick_0c3f8d": {
       "favorites": 3,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "custom_mutations_dc3d6f": {
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 4,
         "average": 4.9
