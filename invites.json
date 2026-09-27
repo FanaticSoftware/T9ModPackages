@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T14:02:17.255Z",
+  "generated": "2026-09-27T14:03:14.805Z",
   "invites": [
-    {
-      "key": "425dded6a152b005bda07caa5db152e5d3241b554cfeb7e22f0e104b196ea45a",
-      "mod": "dm_nacht_74d31a",
-      "title": "DM Nacht",
-      "ownerId": "1149028242766954537",
-      "ownerName": "theymusthaveamnesia",
-      "at": "2026-09-27T14:02:17.255Z"
-    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
