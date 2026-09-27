@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T10:55:40.409Z",
+  "generated": "2026-09-27T11:55:40.439Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -921,9 +921,9 @@
       "modder": true
     },
     {
-      "id": "1517529878340178011",
+      "id": "1553713171938938891",
       "name": "DavidHiFi",
-      "username": "gerschdevice404",
+      "username": "david_hifi",
       "modder": true
     },
     {
@@ -1446,6 +1446,12 @@
       "id": "360739898153500674",
       "name": "George Droid",
       "username": "zachmavrakos",
+      "modder": true
+    },
+    {
+      "id": "1517529878340178011",
+      "name": "Gersch",
+      "username": "gerschdevice404",
       "modder": true
     },
     {
@@ -2016,6 +2022,12 @@
       "id": "1132315787567300648",
       "name": "kallum12345",
       "username": "kallum12345",
+      "modder": true
+    },
+    {
+      "id": "1015821267514970193",
+      "name": "karmas bodyguard",
+      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -3621,12 +3633,6 @@
       "modder": true
     },
     {
-      "id": "1015821267514970193",
-      "name": "stunnaboyyyyyyyyyyyyyyyyyyy",
-      "username": "stunnatoy",
-      "modder": true
-    },
-    {
       "id": "785131411731513374",
       "name": "Stylx",
       "username": "stylx.0",
@@ -3690,6 +3696,12 @@
       "id": "1419827051766218803",
       "name": "talal(tsa)",
       "username": "3zoro5",
+      "modder": true
+    },
+    {
+      "id": "434050913007697921",
+      "name": "TankerMod667",
+      "username": "tankermod667",
       "modder": true
     },
     {
