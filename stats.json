@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T00:53:16.646Z",
+  "generated": "2026-09-27T01:03:16.559Z",
   "mods": {
     "directors_cut": {
       "favorites": 115,
@@ -12,7 +12,7 @@
     "boss_rush": {
       "favorites": 51,
       "rating": {
-        "count": 3,
+        "count": 4,
         "average": 5
       }
     },
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 300,
+      "favorites": 301,
       "rating": {
         "count": 18,
         "average": 5
@@ -124,7 +124,7 @@
     "hide_hud_24d1a2": {
       "favorites": 7,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
