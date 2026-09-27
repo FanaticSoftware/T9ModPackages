@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T04:21:46.187Z",
+  "generated": "2026-09-27T04:24:34.304Z",
   "drafts": [
     {
       "id": "4_player_onslaught_test_1048f4",
@@ -10,12 +10,14 @@
         "name": "saintvertigo"
       },
       "collaborators": [
-        "115173340334915587"
+        "115173340334915587",
+        "803064934459899916"
       ],
       "claimed": "2026-09-27T04:20:54.100Z",
       "updated": "2026-09-27T04:20:54.100Z",
       "collaboratorNames": {
-        "115173340334915587": "Oryxs Middle Orb"
+        "115173340334915587": "Oryxs Middle Orb",
+        "803064934459899916": "FuryCanCrit"
       }
     },
     {
