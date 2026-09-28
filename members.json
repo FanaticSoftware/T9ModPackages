@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T08:27:29.962Z",
+  "generated": "2026-09-28T09:27:30.280Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -588,6 +588,12 @@
       "id": "528608148878262294",
       "name": "Blutengel",
       "username": "sickenedcunt",
+      "modder": true
+    },
+    {
+      "id": "478372597625520139",
+      "name": "Bobman123",
+      "username": "bobman1231025",
       "modder": true
     },
     {
@@ -1335,6 +1341,12 @@
       "modder": true
     },
     {
+      "id": "243151432230895619",
+      "name": "Fanatic",
+      "username": "fanaticsoftware",
+      "modder": true
+    },
+    {
       "id": "420091175261700098",
       "name": "FancyIsAPro",
       "username": "fancyisapro",
@@ -1482,6 +1494,12 @@
       "id": "695844475876147250",
       "name": "G",
       "username": "od4d",
+      "modder": true
+    },
+    {
+      "id": "1146498606661115914",
+      "name": "g3tr",
+      "username": "gaw29877_692851",
       "modder": true
     },
     {
@@ -4107,6 +4125,12 @@
       "modder": true
     },
     {
+      "id": "1305298566322847870",
+      "name": "Ttvboxy",
+      "username": "ttvboxy3695_75554",
+      "modder": true
+    },
+    {
       "id": "1541983505783988241",
       "name": "tubbybacon",
       "username": "tubbybacon75",
@@ -4158,6 +4182,12 @@
       "id": "316886580000194561",
       "name": "Ultra",
       "username": "prodbyultra",
+      "modder": true
+    },
+    {
+      "id": "727103467696685098",
+      "name": "uniak",
+      "username": "uniak24916",
       "modder": true
     },
     {
