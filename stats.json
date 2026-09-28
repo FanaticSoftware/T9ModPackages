@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:31:25.308Z",
+  "generated": "2026-09-28T23:41:25.383Z",
   "mods": {
     "directors_cut": {
       "favorites": 131,
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 5,
         "average": 4.6
@@ -115,14 +115,14 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 4,
         "average": 4.9
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 2,
         "average": 5
