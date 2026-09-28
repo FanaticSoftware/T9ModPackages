@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T09:30:18.426Z",
+  "generated": "2026-09-28T10:45:11.661Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -363,6 +363,20 @@
           "6978039fb0797530"
         ]
       }
+    },
+    {
+      "id": "test_mod_27dc95",
+      "title": "Test Mod",
+      "author": {
+        "id": "478372597625520139",
+        "name": "T9 Mod Team"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-28T10:29:57.745Z",
+      "updated": "2026-09-28T10:45:11.661Z",
+      "unpublished": "2026-09-28T10:45:11.661Z",
+      "lastVersion": "20260928-102940",
+      "unpublishedBy": "478372597625520139"
     },
     {
       "id": "test_mod_57ab83",
