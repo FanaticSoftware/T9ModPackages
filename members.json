@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T05:27:29.915Z",
+  "generated": "2026-09-28T06:27:30.018Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -540,6 +540,12 @@
       "id": "426418477964984332",
       "name": "bigbradders_",
       "username": "bigbradders_",
+      "modder": true
+    },
+    {
+      "id": "994843259442581574",
+      "name": "BigPopz",
+      "username": "bigdadz223",
       "modder": true
     },
     {
@@ -2580,6 +2586,12 @@
       "id": "1075108573442490518",
       "name": "math",
       "username": "badsnames",
+      "modder": true
+    },
+    {
+      "id": "222367203805102080",
+      "name": "Maze",
+      "username": "mazeramsey",
       "modder": true
     },
     {
