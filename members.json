@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T14:59:09.661Z",
+  "generated": "2026-09-28T15:59:09.432Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1878,6 +1878,12 @@
       "id": "1336775981515407393",
       "name": "Hypemilk",
       "username": "hypemilk_720",
+      "modder": true
+    },
+    {
+      "id": "668973329331519518",
+      "name": "I GENOX I",
+      "username": "igenoni",
       "modder": true
     },
     {
