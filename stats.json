@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T13:09:09.265Z",
+  "generated": "2026-09-28T13:59:09.202Z",
   "mods": {
     "directors_cut": {
       "favorites": 126,
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 55,
+      "favorites": 56,
       "rating": {
         "count": 4,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -143,9 +143,9 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     }
