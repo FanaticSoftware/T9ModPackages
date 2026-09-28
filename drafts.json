@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T01:06:35.726Z",
+  "generated": "2026-09-28T01:08:05.918Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -114,13 +114,15 @@
       },
       "collaborators": [
         "991356144813604875",
-        "497060796212445204"
+        "497060796212445204",
+        "1336775981515407393"
       ],
       "claimed": "2026-09-28T00:19:34.887Z",
       "updated": "2026-09-28T00:20:54.305Z",
       "collaboratorNames": {
         "991356144813604875": "Junketsu",
-        "497060796212445204": "TheKillerManya"
+        "497060796212445204": "TheKillerManya",
+        "1336775981515407393": "Hypemilk"
       },
       "testerAccounts": {
         "249388147610222593": [
