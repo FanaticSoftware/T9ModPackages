@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T09:06:27.906Z",
+  "generated": "2026-09-28T09:07:05.268Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -441,7 +441,8 @@
       },
       "collaborators": [],
       "claimed": "2026-09-28T09:06:27.906Z",
-      "updated": "2026-09-28T09:06:27.906Z"
+      "updated": "2026-09-28T09:06:27.906Z",
+      "collaboratorsCanSubmit": true
     },
     {
       "id": "the_haunting",
