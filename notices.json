@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T10:30:01.779Z",
+  "generated": "2026-09-28T10:52:25.931Z",
   "notices": [
+    {
+      "key": "39c16f53c55d4bd27ba4d5997e3bd9a9ef211b2f2e8a60891507417ad35da9a2",
+      "status": "rejected",
+      "mod": "classic point system",
+      "id": "classic_point_system_cc5eb4",
+      "version": "20260927-211600",
+      "reason": "Breaks Rule 1 (No duplicate mods)",
+      "by": "illuminatidonut",
+      "at": "2026-09-28T10:52:25.584Z"
+    },
     {
       "key": "2be2048d0ba804b00619be4ee30829e7b382334c7bc5aeb7fb3583278911ab7b",
       "status": "approved",
@@ -1992,16 +2002,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-07T03:58:44.093Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.1.21",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-07T03:51:52.438Z"
     }
   ]
 }
