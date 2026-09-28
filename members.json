@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T02:27:29.948Z",
+  "generated": "2026-09-28T03:27:30.082Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1467,12 +1467,6 @@
       "modder": true
     },
     {
-      "id": "803064934459899916",
-      "name": "FuryCanCrit",
-      "username": "wafer.exe",
-      "modder": true
-    },
-    {
       "id": "695844475876147250",
       "name": "G",
       "username": "od4d",
@@ -2442,6 +2436,12 @@
       "id": "544799971870769152",
       "name": "Loogi",
       "username": "loogi_4323",
+      "modder": true
+    },
+    {
+      "id": "202303089049468930",
+      "name": "LookAtMyZombies",
+      "username": "theoxyclean",
       "modder": true
     },
     {
@@ -3561,6 +3561,12 @@
       "modder": true
     },
     {
+      "id": "803064934459899916",
+      "name": "Serj Tankian",
+      "username": "wafer.exe",
+      "modder": true
+    },
+    {
       "id": "530543201082277898",
       "name": "Shadow",
       "username": "shadowk3538",
@@ -3990,12 +3996,6 @@
       "id": "995729916303781918",
       "name": "TheMexSpy",
       "username": "themexicanspy",
-      "modder": true
-    },
-    {
-      "id": "202303089049468930",
-      "name": "TheOxyclean",
-      "username": "theoxyclean",
       "modder": true
     },
     {
