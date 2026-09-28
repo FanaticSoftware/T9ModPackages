@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T12:59:09.620Z",
+  "generated": "2026-09-28T14:59:09.661Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -705,6 +705,12 @@
       "modder": true
     },
     {
+      "id": "1467889067164434696",
+      "name": "Calorie",
+      "username": "polioscopio2",
+      "modder": true
+    },
+    {
       "id": "613029018224164919",
       "name": "Camilo",
       "username": "codmilo",
@@ -768,6 +774,12 @@
       "id": "343212369096343555",
       "name": "Chalino, The Chosen One",
       "username": "chalino.",
+      "modder": true
+    },
+    {
+      "id": "1370814395189428344",
+      "name": "check my bio",
+      "username": "erwinwermach",
       "modder": true
     },
     {
@@ -1281,12 +1293,6 @@
       "modder": true
     },
     {
-      "id": "1370814395189428344",
-      "name": "Erwin",
-      "username": "erwinwermach",
-      "modder": true
-    },
-    {
       "id": "196104299925864449",
       "name": "Esper",
       "username": "whosesper",
@@ -1692,6 +1698,12 @@
       "id": "503531162132545536",
       "name": "Greedo",
       "username": "whoshotfirst",
+      "modder": true
+    },
+    {
+      "id": "332017039617294347",
+      "name": "Grim",
+      "username": "rivalgrim",
       "modder": true
     },
     {
@@ -2364,12 +2376,6 @@
       "id": "999656011898044476",
       "name": "Larpnzx",
       "username": "w7ethern",
-      "modder": true
-    },
-    {
-      "id": "1467889067164434696",
-      "name": "Larpolioscopio",
-      "username": "polioscopio2",
       "modder": true
     },
     {
