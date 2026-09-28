@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T07:37:30.177Z",
+  "generated": "2026-09-28T07:47:30.313Z",
   "mods": {
     "directors_cut": {
-      "favorites": 124,
+      "favorites": 125,
       "rating": {
         "count": 8,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 41,
+      "favorites": 42,
       "rating": {
         "count": 4,
         "average": 4.9
