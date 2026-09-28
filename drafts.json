@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:15:44.560Z",
+  "generated": "2026-09-28T23:17:35.543Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -188,9 +188,14 @@
         "id": "1095686714456031335",
         "name": "nyikoh"
       },
-      "collaborators": [],
+      "collaborators": [
+        "535472573266264074"
+      ],
       "claimed": "2026-09-28T23:15:44.560Z",
-      "updated": "2026-09-28T23:15:44.560Z"
+      "updated": "2026-09-28T23:15:44.560Z",
+      "collaboratorNames": {
+        "535472573266264074": "SLG_Bxst7"
+      }
     },
     {
       "id": "instant_field_upgrade_charge_0997cd",
