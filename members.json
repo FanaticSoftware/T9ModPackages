@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T19:55:58.025Z",
+  "generated": "2026-09-28T20:56:02.277Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -675,6 +675,12 @@
       "modder": true
     },
     {
+      "id": "520016119671816220",
+      "name": "Bucket TF2",
+      "username": "buckettf2",
+      "modder": true
+    },
+    {
       "id": "989779413895905290",
       "name": "Burandonzehn",
       "username": "weebz10",
@@ -957,6 +963,12 @@
       "modder": true
     },
     {
+      "id": "205166174713937921",
+      "name": "Cyctorn",
+      "username": "cyctorn",
+      "modder": true
+    },
+    {
       "id": "981894382171082782",
       "name": "d4rkcw",
       "username": "d4rkcw",
@@ -1068,6 +1080,12 @@
       "id": "1502281049407754352",
       "name": "𝔻𝕚𝕝💝⃞⃟⃠⃟⃞⃤⃟𒁎𒌧𒇫✯",
       "username": "dil0159_25699",
+      "modder": true
+    },
+    {
+      "id": "348457343060803586",
+      "name": "Dino",
+      "username": "dino.__.",
       "modder": true
     },
     {
@@ -1446,6 +1464,12 @@
       "id": "235235031834951690",
       "name": "FrankTheTank",
       "username": "frankthetank0968",
+      "modder": true
+    },
+    {
+      "id": "1350822281286516778",
+      "name": "freddyboy666",
+      "username": "freddyboy666_14393",
       "modder": true
     },
     {
@@ -4125,6 +4149,12 @@
       "modder": true
     },
     {
+      "id": "434780524251316234",
+      "name": "Thotty",
+      "username": "thottyz",
+      "modder": true
+    },
+    {
       "id": "799670501478760467",
       "name": "TinyBot777",
       "username": "tinybot777",
@@ -4170,6 +4200,12 @@
       "id": "788645159499202571",
       "name": "Truleh👁",
       "username": "truleh",
+      "modder": true
+    },
+    {
+      "id": "461264541829955595",
+      "name": "TrzewikOOO",
+      "username": "_trzewikooo_",
       "modder": true
     },
     {
@@ -4596,6 +4632,12 @@
       "id": "932263265050951740",
       "name": "ZK798X2",
       "username": "zk798x2",
+      "modder": true
+    },
+    {
+      "id": "1549519271732838472",
+      "name": "Zombie_Nerd.",
+      "username": "zombie_nerd.",
       "modder": true
     },
     {
