@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T22:07:28.316Z",
+  "generated": "2026-09-28T22:37:08.902Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -944,13 +944,18 @@
       ],
       "thumbnail": "mod_packages/gun_rotation_96c5bd/thumbnail.png",
       "thumbnailSha256": "0e249b7bd4495485da0af73b989b0860fa2f7927e1797dabc72c9c2207f94988",
-      "collaborators": [],
+      "collaborators": [
+        "535472573266264074"
+      ],
       "testerAccounts": {
         "1095686714456031335": [
           "00ebd7449731cfee",
           "ebd7449731cfee",
           "569e65fb5ad815b0"
         ]
+      },
+      "collaboratorNames": {
+        "535472573266264074": "SLG_Bxst7"
       }
     },
     {
