@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T20:01:19.063Z",
+  "generated": "2026-09-28T20:15:04.984Z",
   "notices": [
+    {
+      "key": "f50a6ec7a3c2bdf581b9f05b0e4ed231417713c1b1d39ce20c23e21157304f30",
+      "status": "rejected",
+      "mod": "Gun Rotation 1.0",
+      "id": "gun_rotation_96c5bd",
+      "version": "20260928-050352",
+      "reason": "Resubmit as is, so it will be updated with our new launcher build",
+      "by": "illuminatidonut",
+      "at": "2026-09-28T20:15:04.714Z"
+    },
     {
       "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
       "status": "collab",
@@ -1992,16 +2002,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-07T05:29:10.801Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Aetheria (Unfinished Test Ver)",
-      "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.22",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-07T05:20:35.660Z"
     }
   ]
 }
