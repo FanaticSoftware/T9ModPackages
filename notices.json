@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T03:08:19.004Z",
+  "generated": "2026-09-28T03:08:26.844Z",
   "notices": [
+    {
+      "key": "28de78f9a7db342e97836c7be6c880458ae5f8c2111f6970ac77632104ae10bf",
+      "status": "collab",
+      "mod": "quick-restart",
+      "id": "quick_restart_9e740d",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-09-28T03:08:26.672Z"
+    },
     {
       "key": "4e1fa9e383f82d83d2be9abf5f961b5289792b379d09a9dfa947a42c69c3a8a0",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-06T01:32:22.416Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.1.16",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-05T22:47:59.266Z"
     }
   ]
 }
