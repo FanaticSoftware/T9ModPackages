@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T03:47:29.974Z",
+  "generated": "2026-09-28T03:57:30.008Z",
   "mods": {
     "directors_cut": {
       "favorites": 123,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 56,
+      "favorites": 57,
       "rating": {
         "count": 4,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 323,
+      "favorites": 325,
       "rating": {
         "count": 18,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 54,
+      "favorites": 55,
       "rating": {
         "count": 4,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 4,
         "average": 4.6
