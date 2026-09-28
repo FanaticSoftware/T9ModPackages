@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T22:21:25.173Z",
+  "generated": "2026-09-28T22:31:25.237Z",
   "mods": {
     "directors_cut": {
-      "favorites": 130,
+      "favorites": 131,
       "rating": {
         "count": 9,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 90,
+      "favorites": 91,
       "rating": {
         "count": 6,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 346,
+      "favorites": 347,
       "rating": {
         "count": 20,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 56,
+      "favorites": 57,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -150,7 +150,7 @@
       }
     },
     "gun_rotation_96c5bd": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 2,
         "average": 5
