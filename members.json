@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T11:28:46.084Z",
+  "generated": "2026-09-28T11:57:29.643Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3900,6 +3900,12 @@
       "id": "615280540119203850",
       "name": "Straight Edge (Berlin)",
       "username": "outerwild",
+      "modder": true
+    },
+    {
+      "id": "1416862779310346293",
+      "name": "Straightorc",
+      "username": "lljw999flyhigh",
       "modder": true
     },
     {
