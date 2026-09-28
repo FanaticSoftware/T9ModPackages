@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T00:14:41.189Z",
+  "generated": "2026-09-28T00:15:05.308Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -112,7 +112,7 @@
     },
     {
       "id": "gauntlet_v3_fd7b45",
-      "title": "Gauntlet V3",
+      "title": "Gauntlet 1",
       "author": {
         "id": "249388147610222593",
         "name": "hoemaro"
@@ -121,7 +121,7 @@
         "413539982611972126"
       ],
       "claimed": "2026-09-27T23:57:57.490Z",
-      "updated": "2026-09-28T00:14:41.189Z",
+      "updated": "2026-09-28T00:15:05.308Z",
       "collaboratorNames": {
         "413539982611972126": "ItsJonathan"
       },
