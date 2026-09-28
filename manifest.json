@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T23:47:36.927Z",
+  "generated": "2026-09-28T10:29:58.018Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1571,6 +1571,52 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
       }
+    },
+    {
+      "title": "Test Mod",
+      "description": "This is a test. This mod is boring asf as it does nothing.",
+      "author": {
+        "discordName": "bobman1231025",
+        "id": "478372597625520139",
+        "name": "T9 Mod Team"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "f09a53d647796ba27b6ef6b85c0b077caa28ad5e8f585868185d1cae3ffee67d",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-28T10:29:57.745Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1554077640812400692"
+      },
+      "id": "test_mod_27dc95",
+      "version": "20260928-102940",
+      "file": "mod_packages/test_mod_27dc95/test_mod_27dc95-20260928-102940.cwm",
+      "size": 142230,
+      "sha256": "a44d183e148f2a766b9f0d78e352ab8faf5013caf1dc5480e0eb40d31fa82a8d",
+      "history": [
+        {
+          "version": "20260928-102940",
+          "changelog": "",
+          "published": "2026-09-28T10:29:57.745Z"
+        }
+      ],
+      "thumbnail": "mod_packages/test_mod_27dc95/thumbnail.png",
+      "thumbnailSha256": "d29b8112689371e94352b8fcf452a98d89fb1aafa1205b9802d3e5ce3cb73df2",
+      "collaborators": []
     },
     {
       "title": "ZM Classic",
