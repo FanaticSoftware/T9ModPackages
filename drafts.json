@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T07:15:30.982Z",
+  "generated": "2026-09-28T09:06:27.906Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -431,6 +431,17 @@
       "collaboratorNames": {
         "244657466783170560": "Figglebottom"
       }
+    },
+    {
+      "id": "testy_project_4882c0",
+      "title": "Testy Project",
+      "author": {
+        "id": "478372597625520139",
+        "name": "bobman1231025"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-28T09:06:27.906Z",
+      "updated": "2026-09-28T09:06:27.906Z"
     },
     {
       "id": "the_haunting",
