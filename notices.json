@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T07:15:34.009Z",
+  "generated": "2026-09-28T09:08:39.182Z",
   "notices": [
+    {
+      "key": "2be2048d0ba804b00619be4ee30829e7b382334c7bc5aeb7fb3583278911ab7b",
+      "status": "collab",
+      "mod": "Testy Project",
+      "id": "testy_project_4882c0",
+      "version": null,
+      "reason": "**Fanatic** (@fanaticsoftware) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-09-28T09:08:39.000Z"
+    },
     {
       "key": "697590f28ec3ade0ab6febdee7ec8629e8420a8bfe595b33e49187278b8720d6",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-06T06:56:39.676Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.1.20",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-06T03:43:22.271Z"
     }
   ]
 }
