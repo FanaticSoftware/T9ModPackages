@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T18:59:09.569Z",
+  "generated": "2026-09-28T19:55:58.025Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -84,12 +84,6 @@
       "id": "707641399356686416",
       "name": "＠Soldiア",
       "username": "soldi08",
-      "modder": true
-    },
-    {
-      "id": "1477346360373154027",
-      "name": "█████████████████",
-      "username": "bubbles_modz343",
       "modder": true
     },
     {
@@ -1419,6 +1413,12 @@
       "modder": true
     },
     {
+      "id": "1127852253211009107",
+      "name": "flow",
+      "username": "doenertellermitextrafleisch",
+      "modder": true
+    },
+    {
       "id": "1473798649229213903",
       "name": "forveined",
       "username": "damon022648",
@@ -2586,6 +2586,12 @@
       "id": "904044958338650142",
       "name": "𝘮𝘢𝘪",
       "username": "xbox3269",
+      "modder": true
+    },
+    {
+      "id": "575393627082194944",
+      "name": "𝕸𝖆𝖏𝖔𝖗𝖊𝖈𝖟𝖐𝖆𝕺𝖓",
+      "username": "majoreczka",
       "modder": true
     },
     {
@@ -4164,6 +4170,12 @@
       "id": "788645159499202571",
       "name": "Truleh👁",
       "username": "truleh",
+      "modder": true
+    },
+    {
+      "id": "995761251504369755",
+      "name": "TTV_Alphyre",
+      "username": "alphyre",
       "modder": true
     },
     {
