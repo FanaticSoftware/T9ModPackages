@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T10:45:11.661Z",
+  "generated": "2026-09-28T20:50:56.101Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -723,6 +723,67 @@
       ],
       "thumbnail": "mod_packages/gun_game_wip/thumbnail.png",
       "thumbnailSha256": "7af5becd17eae0529b8690fa5b3e238535c208144935e9c544047cefe3e2d964",
+      "collaborators": []
+    },
+    {
+      "title": "Gun Rotation 1.0",
+      "description": "Gun Rotation (WIP)\n\nLooking for a fun, chaotic challenge to play with friends? Gun Rotation switches your weapon every single minute to a completely random Pack-a-Punch Tier 3 gun!\n\nInspired by the old-school, arcade-style CoD4 & WAW mods from back in the day, this mod keeps things simple, fast-paced, and unpredictable.\n\nFeatures:\n\nWeapon Roulette & Fast Rounds: Every 60 seconds, your weapon automatically swaps to a random PaP Level 3 gun and triggers a brand-new round to start immediately.\n\nMax Perks: Spawn in with every perk active right from the start.\n\nInfinite Map Access: Starts you with 1,000,000 Essence so you can unlock the full map and focus purely on surviving the weapon RNG.",
+      "author": {
+        "discordName": "nyikoh",
+        "id": "1095686714456031335",
+        "name": "nyikoh"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "28508544b8301e4146c7c21271d7721ba6bfee67e02bbc13d178cfad04a0596a",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 5,
+        "rules": "2026.09.26",
+        "summary": "1 high, 5 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Outbreak",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-28T20:50:55.754Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1554233729344475220"
+      },
+      "id": "gun_rotation_96c5bd",
+      "version": "20260928-204959",
+      "file": "mod_packages/gun_rotation_96c5bd/gun_rotation_96c5bd-20260928-204959.cwm",
+      "size": 897137,
+      "sha256": "3594936890d9f33f8785b0316414674d000e616abb1892483ae2cd972ae26b8b",
+      "history": [
+        {
+          "version": "20260928-204959",
+          "changelog": "",
+          "published": "2026-09-28T20:50:55.754Z"
+        }
+      ],
+      "thumbnail": "mod_packages/gun_rotation_96c5bd/thumbnail.png",
+      "thumbnailSha256": "0e249b7bd4495485da0af73b989b0860fa2f7927e1797dabc72c9c2207f94988",
       "collaborators": []
     },
     {
