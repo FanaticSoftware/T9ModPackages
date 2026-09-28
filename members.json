@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T03:27:30.082Z",
+  "generated": "2026-09-28T04:27:24.036Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -156,6 +156,12 @@
       "id": "306535338531094549",
       "name": "404syntax",
       "username": "404_syntax",
+      "modder": true
+    },
+    {
+      "id": "1047696920010838036",
+      "name": "4NG3L",
+      "username": "4ng3l2025",
       "modder": true
     },
     {
@@ -1530,6 +1536,12 @@
       "id": "1124897575997276250",
       "name": "Ghani",
       "username": "ghaniow",
+      "modder": true
+    },
+    {
+      "id": "482526882408038400",
+      "name": "ghffg6569",
+      "username": "ghffg6569",
       "modder": true
     },
     {
@@ -2955,6 +2967,12 @@
       "modder": true
     },
     {
+      "id": "491178974861328404",
+      "name": "nugget",
+      "username": "nugget_consumer",
+      "modder": true
+    },
+    {
       "id": "633485661508468757",
       "name": "Nwo_Lucid",
       "username": "synsmaw2168",
@@ -3168,6 +3186,12 @@
       "id": "1104790734822973591",
       "name": "probability",
       "username": "byecaramel",
+      "modder": true
+    },
+    {
+      "id": "156677759282839552",
+      "name": "ProPhorce",
+      "username": "prophorce",
       "modder": true
     },
     {
@@ -3528,12 +3552,6 @@
       "id": "1029423816901918781",
       "name": "Scott",
       "username": "oscottx",
-      "modder": true
-    },
-    {
-      "id": "796512162855125022",
-      "name": "Scrally",
-      "username": "katomate",
       "modder": true
     },
     {
