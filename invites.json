@@ -1,7 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T22:37:06.285Z",
+  "generated": "2026-09-28T23:16:57.893Z",
   "invites": [
+    {
+      "key": "cee8edcfd8174a9b3a90ec2820003f4a8de9bab967f690df2125029a4d939b46",
+      "mod": "gun_rotation_1_1_client_test_527935",
+      "title": "Gun Rotation 1.1 Client-Test",
+      "ownerId": "1095686714456031335",
+      "ownerName": "nyikoh",
+      "at": "2026-09-28T23:16:57.893Z",
+      "askedAs": "f0305e141e9d121301cfb7469a921f89a5c961f41f96460989e3deec561ea875"
+    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
