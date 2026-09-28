@@ -258,7 +258,17 @@
       "files": 2,
       "by": "478372597625520139",
       "updated": "2026-09-28T09:08:50.957Z"
+    },
+    "gun_rotation_96c5bd": {
+      "file": "shared_projects/gun_rotation_96c5bd/03300f35e48d9978.cwm",
+      "size": 2293464,
+      "sha256": "03300f35e48d9978fc2aaf54e402391988b3dba9fb9a24db30f4c630432eb1de",
+      "basedOn": "",
+      "version": "20260928-204959",
+      "files": 1,
+      "by": "1095686714456031335",
+      "updated": "2026-09-28T22:41:39.680Z"
     }
   },
-  "generated": "2026-09-28T09:08:50.957Z"
+  "generated": "2026-09-28T22:41:39.680Z"
 }
