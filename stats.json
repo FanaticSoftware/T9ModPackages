@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:11:25.330Z",
+  "generated": "2026-09-28T23:21:25.223Z",
   "mods": {
     "directors_cut": {
       "favorites": 131,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 60,
+      "favorites": 61,
       "rating": {
         "count": 5,
         "average": 4.9
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 62,
+      "favorites": 61,
       "rating": {
         "count": 5,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 3,
         "average": 4.7
