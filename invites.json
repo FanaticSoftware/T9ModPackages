@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T09:07:51.578Z",
+  "generated": "2026-09-28T09:08:32.195Z",
   "invites": [
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "mod": "testy_project_4882c0",
-      "title": "Testy Project",
-      "ownerId": "478372597625520139",
-      "ownerName": "bobman1231025",
-      "at": "2026-09-28T09:07:51.578Z"
-    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
