@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T08:17:30.314Z",
+  "generated": "2026-09-28T08:27:30.132Z",
   "mods": {
     "directors_cut": {
       "favorites": 125,
@@ -110,7 +110,7 @@
     "custom_mutations_dc3d6f": {
       "favorites": 69,
       "rating": {
-        "count": 6,
+        "count": 7,
         "average": 4.9
       }
     },
@@ -138,7 +138,7 @@
     "4_player_onslaught_test_1048f4": {
       "favorites": 8,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
