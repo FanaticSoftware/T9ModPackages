@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T04:47:30.049Z",
+  "generated": "2026-09-28T05:37:30.090Z",
   "mods": {
     "directors_cut": {
       "favorites": 124,
@@ -80,7 +80,7 @@
       }
     },
     "deadlight_greenlight_fc56b7": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 2,
         "average": 5
