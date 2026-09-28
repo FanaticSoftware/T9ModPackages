@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T21:06:01.919Z",
+  "generated": "2026-09-28T21:16:01.903Z",
   "mods": {
     "directors_cut": {
       "favorites": 128,
@@ -40,7 +40,7 @@
     "zm_classic": {
       "favorites": 343,
       "rating": {
-        "count": 19,
+        "count": 20,
         "average": 5
       }
     },
@@ -75,7 +75,7 @@
     "day_night": {
       "favorites": 56,
       "rating": {
-        "count": 4,
+        "count": 5,
         "average": 5
       }
     },
@@ -150,7 +150,7 @@
       }
     },
     "gun_rotation_96c5bd": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
