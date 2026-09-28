@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T03:08:14.095Z",
+  "generated": "2026-09-28T03:08:19.004Z",
   "notices": [
+    {
+      "key": "4e1fa9e383f82d83d2be9abf5f961b5289792b379d09a9dfa947a42c69c3a8a0",
+      "status": "collab",
+      "mod": "quick-restart",
+      "id": "quick_restart_9e740d",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-09-28T03:08:18.841Z"
+    },
     {
       "key": "bc5c30556b1009be1623b4d5be98e420cf5ededf02821796ed63b3a211c5b976",
       "status": "collab",
@@ -1991,16 +2001,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-05T22:47:59.266Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Aetheria (Unfinished Test Ver)",
-      "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.16",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-05T08:07:05.386Z"
     }
   ]
 }
