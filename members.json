@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T20:56:02.277Z",
+  "generated": "2026-09-28T22:21:25.512Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -402,6 +402,12 @@
       "id": "204718276394090507",
       "name": "ATE47",
       "username": "ate47",
+      "modder": true
+    },
+    {
+      "id": "263505899534942210",
+      "name": "AtomicRecall",
+      "username": "atomic5689",
       "modder": true
     },
     {
@@ -1665,6 +1671,12 @@
       "modder": true
     },
     {
+      "id": "338595699161563146",
+      "name": "Gingerboi34.5",
+      "username": "door420",
+      "modder": true
+    },
+    {
       "id": "521097245664346122",
       "name": "GingeyRyn",
       "username": "gingey115",
@@ -2088,6 +2100,12 @@
       "id": "320228177307762690",
       "name": "Jerry",
       "username": "jerryjuliano",
+      "modder": true
+    },
+    {
+      "id": "1358860914165551245",
+      "name": "Jester",
+      "username": "geekbardemon",
       "modder": true
     },
     {
@@ -3285,6 +3303,12 @@
       "modder": true
     },
     {
+      "id": "471781955890053140",
+      "name": "Prim1sRulz",
+      "username": "prim1srulz",
+      "modder": true
+    },
+    {
       "id": "1104790734822973591",
       "name": "probability",
       "username": "byecaramel",
@@ -3756,12 +3780,6 @@
       "id": "1469386232277504283",
       "name": "SILENTLYX",
       "username": "mrghost0633",
-      "modder": true
-    },
-    {
-      "id": "475413874061869066",
-      "name": "Silv3r",
-      "username": "silv3r_official",
       "modder": true
     },
     {
@@ -4326,6 +4344,12 @@
       "id": "395742493775495199",
       "name": "VadersOtherSon",
       "username": "vadersotherson",
+      "modder": true
+    },
+    {
+      "id": "748074756904845353",
+      "name": "variant_bike63",
+      "username": "foxclanyt123",
       "modder": true
     },
     {
