@@ -1,44 +1,44 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T16:49:09.379Z",
+  "generated": "2026-09-28T17:09:09.567Z",
   "mods": {
     "directors_cut": {
-      "favorites": 126,
+      "favorites": 127,
       "rating": {
-        "count": 8,
+        "count": 9,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 58,
+      "favorites": 59,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "onslaught_survival": {
-      "favorites": 89,
+      "favorites": 90,
       "rating": {
-        "count": 5,
+        "count": 6,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 92,
+      "favorites": 93,
       "rating": {
-        "count": 11,
+        "count": 12,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 336,
+      "favorites": 337,
       "rating": {
         "count": 18,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 5,
         "average": 5
@@ -108,9 +108,9 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 74,
+      "favorites": 75,
       "rating": {
-        "count": 7,
+        "count": 8,
         "average": 4.9
       }
     },
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 2,
         "average": 5
