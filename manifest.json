@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T20:50:56.101Z",
+  "generated": "2026-09-28T21:22:13.955Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -254,12 +254,12 @@
       "developer": true,
       "sourceSha256": "5c6e12cf7230654097b4c01336c94c16ab42004da0ce4957fd0e3555b695a6d0",
       "scan": {
-        "critical": 0,
+        "critical": 24,
         "high": 28,
         "low": 0,
         "medium": 25,
-        "rules": "2026.08.19",
-        "summary": "28 high, 25 medium"
+        "rules": "2026.09.26",
+        "summary": "24 critical, 28 high, 25 medium"
       },
       "settings": 100,
       "tags": [
@@ -271,20 +271,171 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "changed logo",
-      "highAlerts": [],
+      "changelog": "removed xp",
+      "noProgression": true,
+      "highAlerts": [
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 309
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 327
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 328
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 329
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 330
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 331
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 332
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 333
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 334
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 335
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 340
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 341
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 342
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 343
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 344
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 345
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 346
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 347
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 357
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 358
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 359
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 360
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 361
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "",
+          "line": 362
+        }
+      ],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-26T12:38:33.227Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553384265285378164"
+        "at": "2026-09-28T21:22:13.571Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1554240317455077604"
       },
       "id": "custom_mutations_dc3d6f",
-      "version": "20260926-123424",
-      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260926-123424.cwm",
-      "size": 1859678,
-      "sha256": "cf7f7a9264bc726b9c210b7f5085146a864ffe3f47b35f0e5899aab14c6bd1eb",
+      "version": "20260928-211604",
+      "file": "mod_packages/custom_mutations_dc3d6f/custom_mutations_dc3d6f-20260928-211604.cwm",
+      "size": 1859690,
+      "sha256": "ec07c11bcf3305fb63ee631d84c73acf10a3fdd14f60674d4b6344be06ab0cc0",
       "history": [
+        {
+          "version": "20260928-211604",
+          "changelog": "removed xp",
+          "published": "2026-09-28T21:22:13.571Z"
+        },
         {
           "version": "20260926-123424",
           "changelog": "changed logo",
