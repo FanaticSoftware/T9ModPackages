@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T10:45:11.661Z",
+  "generated": "2026-09-28T23:13:09.302Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -484,6 +484,17 @@
       "unpublished": "2026-09-09T18:49:50.297Z",
       "lastVersion": "1.0.0",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "yoss_828564",
+      "title": "Yoss",
+      "author": {
+        "id": "1095686714456031335",
+        "name": "nyikoh"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-28T23:13:09.302Z",
+      "updated": "2026-09-28T23:13:09.302Z"
     },
     {
       "id": "zm_backrooms_dff63d",
