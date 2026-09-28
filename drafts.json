@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T00:13:20.600Z",
+  "generated": "2026-09-28T00:14:12.222Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -103,7 +103,12 @@
       },
       "collaborators": [],
       "claimed": "2026-09-28T00:13:20.600Z",
-      "updated": "2026-09-28T00:13:20.600Z"
+      "updated": "2026-09-28T00:13:20.600Z",
+      "testerAccounts": {
+        "249388147610222593": [
+          "7bc3868752fdc9b9"
+        ]
+      }
     },
     {
       "id": "gauntlet_v3_fd7b45",
