@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T21:22:13.955Z",
+  "generated": "2026-09-28T21:45:24.965Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -140,16 +140,19 @@
         "id": "243151432230895619",
         "name": "Fanatic"
       },
-      "publishedBy": null,
+      "publishedBy": {
+        "id": "244657466783170560",
+        "name": "Fanatic"
+      },
       "developer": true,
-      "sourceSha256": "a9f5a5db0cb91a813985b04f43d84b6159541747796edb64087eaa0ee6ad8f9e",
+      "sourceSha256": "d9c3456cd53377554ac937676277926a744b90a7700760fa3d55c4badb61aeb2",
       "scan": {
         "critical": 0,
-        "high": 14,
+        "high": 9,
         "low": 1,
-        "medium": 50,
-        "rules": "2026.08.19",
-        "summary": "14 high, 50 medium, 1 low"
+        "medium": 39,
+        "rules": "2026.09.26",
+        "summary": "9 high, 39 medium, 1 low"
       },
       "settings": 1,
       "tags": [
@@ -162,20 +165,26 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "Removed progression",
+      "noProgression": true,
       "highAlerts": [],
       "approved": {
-        "by": "fanaticsoftware",
-        "byId": "243151432230895619",
-        "at": "2026-09-19T09:50:29.937Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550806252408283143"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-28T21:45:24.581Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1554247649186553900"
       },
       "id": "boss_rush",
-      "version": "20260919-095021",
-      "file": "mod_packages/boss_rush/boss_rush-20260919-095021.cwm",
-      "size": 1956794,
-      "sha256": "dcbb65db0de4344b8cf3918c24e74bb9fc05c88722fb122397a45c9f25567057",
+      "version": "20260928-214511",
+      "file": "mod_packages/boss_rush/boss_rush-20260928-214511.cwm",
+      "size": 2160103,
+      "sha256": "7358774e502e467091cf57a90bbb0991bf85128b2bea8b2212aef9ba86831585",
       "history": [
+        {
+          "version": "20260928-214511",
+          "changelog": "Removed progression",
+          "published": "2026-09-28T21:45:24.581Z"
+        },
         {
           "version": "20260919-095021",
           "changelog": "",
