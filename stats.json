@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T21:20:13.911Z",
+  "generated": "2026-09-28T21:31:25.200Z",
   "mods": {
     "directors_cut": {
       "favorites": 128,
@@ -75,8 +75,8 @@
     "day_night": {
       "favorites": 56,
       "rating": {
-        "count": 5,
-        "average": 5
+        "count": 6,
+        "average": 4.9
       }
     },
     "deadlight_greenlight_fc56b7": {
@@ -152,7 +152,7 @@
     "gun_rotation_96c5bd": {
       "favorites": 2,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     }
