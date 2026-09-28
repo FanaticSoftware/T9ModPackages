@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:13:16.052Z",
+  "generated": "2026-09-28T23:15:44.560Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -180,6 +180,17 @@
           "7bc3868752fdc9b9"
         ]
       }
+    },
+    {
+      "id": "gun_rotation_1_1_client_test_527935",
+      "title": "Gun Rotation 1.1 Client-Test",
+      "author": {
+        "id": "1095686714456031335",
+        "name": "nyikoh"
+      },
+      "collaborators": [],
+      "claimed": "2026-09-28T23:15:44.560Z",
+      "updated": "2026-09-28T23:15:44.560Z"
     },
     {
       "id": "instant_field_upgrade_charge_0997cd",
