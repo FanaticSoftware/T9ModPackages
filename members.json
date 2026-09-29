@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T17:21:26.450Z",
+  "generated": "2026-09-29T18:21:25.751Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -63,6 +63,12 @@
       "modder": true
     },
     {
+      "id": "529072086073737266",
+      "name": ".snipe2die",
+      "username": ".snipe2die",
+      "modder": true
+    },
+    {
       "id": "780145760804536360",
       "name": ".y8v",
       "username": ".y8v",
@@ -96,6 +102,12 @@
       "id": "707641399356686416",
       "name": "＠Soldiア",
       "username": "soldi08",
+      "modder": true
+    },
+    {
+      "id": "414558788092428299",
+      "name": "=(UnluckyGuess)=",
+      "username": "dangerousprops",
       "modder": true
     },
     {
@@ -846,6 +858,12 @@
       "id": "1241224471357030411",
       "name": "Chris",
       "username": "etnchris",
+      "modder": true
+    },
+    {
+      "id": "1517529878340178011",
+      "name": "Chris Hansen",
+      "username": "gerschdevice404",
       "modder": true
     },
     {
@@ -1638,12 +1656,6 @@
       "id": "360739898153500674",
       "name": "George Droid",
       "username": "zachmavrakos",
-      "modder": true
-    },
-    {
-      "id": "1517529878340178011",
-      "name": "Gersch",
-      "username": "gerschdevice404",
       "modder": true
     },
     {
@@ -4032,6 +4044,12 @@
       "id": "302385354088906752",
       "name": "Skerdoink",
       "username": "skardii",
+      "modder": true
+    },
+    {
+      "id": "1508847727272919143",
+      "name": "SKITTLZ",
+      "username": "me3sharksido",
       "modder": true
     },
     {
