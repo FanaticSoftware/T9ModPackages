@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T21:41:26.259Z",
+  "generated": "2026-09-29T21:51:26.161Z",
   "mods": {
     "directors_cut": {
       "favorites": 140,
@@ -40,7 +40,7 @@
     "zm_classic": {
       "favorites": 370,
       "rating": {
-        "count": 21,
+        "count": 22,
         "average": 5
       }
     },
@@ -110,7 +110,7 @@
     "custom_mutations_dc3d6f": {
       "favorites": 86,
       "rating": {
-        "count": 12,
+        "count": 13,
         "average": 3.8
       }
     },
@@ -152,8 +152,8 @@
     "chaos_478629": {
       "favorites": 12,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 3.5
       }
     }
   }
