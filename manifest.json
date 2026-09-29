@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T00:23:50.123Z",
+  "generated": "2026-09-29T00:45:18.090Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -200,6 +200,56 @@
         "244657466783170560": "Figglebottom"
       },
       "collaboratorsCanSubmit": true
+    },
+    {
+      "title": "Chaos Mod",
+      "description": "Its the Chaos mod. Random effects every minute or so. Some good. Some bad. Some just goofy. There are currently 57 effects.",
+      "author": {
+        "discordName": "tartarsus842",
+        "id": "480010978872786945",
+        "name": "tartarsus842"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "750b33fb3fb5436585044cf503999363264b5bcecab9f68c57b9b0ec08122d9c",
+      "scan": {
+        "critical": 0,
+        "high": 2,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.09.26",
+        "summary": "2 high, 25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Challenge / Custom Rules",
+        "All Maps",
+        "Balanced"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-09-29T00:45:17.692Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1554247755197849735"
+      },
+      "id": "chaos_478629",
+      "version": "20260928-214539",
+      "file": "mod_packages/chaos_478629/chaos_478629-20260928-214539.cwm",
+      "size": 1046515,
+      "sha256": "47d2ca326394eeb49de325efc0d497e8731a5c30429276a8bb71825aa141612f",
+      "history": [
+        {
+          "version": "20260928-214539",
+          "changelog": "",
+          "published": "2026-09-29T00:45:17.692Z"
+        }
+      ],
+      "thumbnail": "mod_packages/chaos_478629/thumbnail.png",
+      "thumbnailSha256": "f21e997e7c1634a9e7987dbfb3ba199ef9cd056c885d0e2422827271fd542474",
+      "collaborators": []
     },
     {
       "title": "Co-op Spawnrate Fix",
