@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T00:45:18.090Z",
+  "generated": "2026-09-29T17:20:39.170Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -68,13 +68,13 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "9d0586603f9715c6565048d43030c12f8081082d67d388157f1c4809b1f55719",
+      "sourceSha256": "977d89d8c5e0742a1669214eb52881ef635a57fbdd37cb8a74fb3f5287ea4c7c",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
         "medium": 51,
-        "rules": "2026.08.19",
+        "rules": "2026.09.26",
         "summary": "51 medium"
       },
       "settings": 0,
@@ -88,20 +88,25 @@
         "Onslaught",
         "Hard"
       ],
-      "changelog": "M60 fix",
+      "changelog": "changes to some attunements and descriptions, removed some debug related things",
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-09-19T20:01:53.666Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550960097214341144"
+        "at": "2026-09-29T17:20:38.794Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1554543372344234029"
       },
       "id": "aetheria",
-      "version": "20260919-200135",
-      "file": "mod_packages/aetheria/aetheria-20260919-200135.cwm",
-      "size": 2552294,
-      "sha256": "4419e637f8fdd52f323e7ec9783a805af0d3063858385e1a08d2c7ee0a113fe8",
+      "version": "20260929-172008",
+      "file": "mod_packages/aetheria/aetheria-20260929-172008.cwm",
+      "size": 2556592,
+      "sha256": "5e653b5659efffcef10f11d2fa1f39d656570fab039b7057f27d1c49fb8e8ee4",
       "history": [
+        {
+          "version": "20260929-172008",
+          "changelog": "changes to some attunements and descriptions, removed some debug related things",
+          "published": "2026-09-29T17:20:38.794Z"
+        },
         {
           "version": "20260919-200135",
           "changelog": "M60 fix",
