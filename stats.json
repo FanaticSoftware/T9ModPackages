@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T03:01:25.473Z",
+  "generated": "2026-09-29T03:21:25.483Z",
   "mods": {
     "directors_cut": {
-      "favorites": 134,
+      "favorites": 136,
       "rating": {
         "count": 9,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 93,
+      "favorites": 94,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 93,
+      "favorites": 94,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 354,
+      "favorites": 355,
       "rating": {
         "count": 20,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 1,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 45,
+      "favorites": 46,
       "rating": {
         "count": 4,
         "average": 4.6
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 82,
+      "favorites": 83,
       "rating": {
         "count": 11,
         "average": 4.3
@@ -122,14 +122,14 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 3,
         "average": 4.7
@@ -143,14 +143,14 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "chaos_478629": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
