@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:17:32.705Z",
+  "generated": "2026-09-29T02:58:29.211Z",
   "invites": [
+    {
+      "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
+      "mod": "gauntlet_1_3229a8",
+      "title": "Gauntlet 1",
+      "ownerId": "249388147610222593",
+      "ownerName": "hoemaro",
+      "at": "2026-09-29T02:58:29.211Z"
+    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
