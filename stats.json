@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T02:11:25.471Z",
+  "generated": "2026-09-29T02:21:25.409Z",
   "mods": {
     "directors_cut": {
       "favorites": 133,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 92,
+      "favorites": 93,
       "rating": {
         "count": 6,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 353,
+      "favorites": 354,
       "rating": {
         "count": 20,
         "average": 5
@@ -52,28 +52,28 @@
       }
     },
     "t9_bots": {
-      "favorites": 47,
+      "favorites": 48,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 5,
         "average": 5
       }
     },
     "doom_mode_beta": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 5,
         "average": 4.6
       }
     },
     "day_night": {
-      "favorites": 58,
+      "favorites": 59,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 80,
+      "favorites": 82,
       "rating": {
         "count": 10,
         "average": 4.7
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
