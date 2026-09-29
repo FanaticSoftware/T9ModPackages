@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T02:21:25.409Z",
+  "generated": "2026-09-29T02:31:25.486Z",
   "mods": {
     "directors_cut": {
       "favorites": 133,
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 2,
         "average": 5
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 9,
+      "favorites": 11,
       "rating": {
         "count": 2,
         "average": 5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
