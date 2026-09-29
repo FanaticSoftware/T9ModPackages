@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T11:21:26.025Z",
+  "generated": "2026-09-29T12:21:25.851Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1341,6 +1341,12 @@
       "modder": true
     },
     {
+      "id": "1090898071094820864",
+      "name": "𝔈𝔱𝔢𝔯𝔫𝔞𝔩",
+      "username": "haloiseternal",
+      "modder": true
+    },
+    {
       "id": "752711656299167744",
       "name": "ethi",
       "username": "ethi_vr",
@@ -2676,6 +2682,12 @@
       "id": "1286287295858868236",
       "name": "Lulo.2?",
       "username": "lulo.2.",
+      "modder": true
+    },
+    {
+      "id": "966588203417092096",
+      "name": "Lumpix",
+      "username": "lumpix036",
       "modder": true
     },
     {
