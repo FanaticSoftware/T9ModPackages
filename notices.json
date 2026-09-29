@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T04:14:26.563Z",
+  "generated": "2026-09-29T17:20:45.540Z",
   "notices": [
+    {
+      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
+      "status": "approved",
+      "mod": "Aetheria",
+      "id": "aetheria",
+      "version": "20260929-172008",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-09-29T17:20:45.330Z"
+    },
     {
       "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
       "status": "collab",
@@ -1997,16 +2008,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-10T20:46:16.413Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Aetheria (Unfinished Test Ver)",
-      "id": "aetheria_unfinished_test_ver",
-      "version": "1.0.33",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-10T20:38:41.335Z"
     }
   ]
 }
