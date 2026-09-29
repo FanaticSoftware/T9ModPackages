@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T09:21:25.781Z",
+  "generated": "2026-09-29T10:21:25.859Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1776,6 +1776,12 @@
       "id": "503531162132545536",
       "name": "Greedo",
       "username": "whoshotfirst",
+      "modder": true
+    },
+    {
+      "id": "1149114926309310655",
+      "name": "Greninja64",
+      "username": "miopia63",
       "modder": true
     },
     {
@@ -4938,6 +4944,12 @@
       "id": "845497012454948876",
       "name": "光 .",
       "username": "akaiiwe",
+      "modder": true
+    },
+    {
+      "id": "508927785473933313",
+      "name": "孙清",
+      "username": "sunqing8054",
       "modder": true
     },
     {
