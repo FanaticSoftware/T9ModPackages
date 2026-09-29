@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T14:11:25.988Z",
+  "generated": "2026-09-29T14:21:25.791Z",
   "mods": {
     "directors_cut": {
       "favorites": 139,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 94,
+      "favorites": 95,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 360,
+      "favorites": 361,
       "rating": {
         "count": 20,
         "average": 5
@@ -124,12 +124,12 @@
     "hide_hud_24d1a2": {
       "favorites": 18,
       "rating": {
-        "count": 2,
-        "average": 5
+        "count": 3,
+        "average": 3.5
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
         "count": 3,
         "average": 4.7
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
