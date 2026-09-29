@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T19:21:25.748Z",
+  "generated": "2026-09-29T20:21:25.851Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -318,6 +318,12 @@
       "id": "450286363909029888",
       "name": "Alfi.",
       "username": "alfiiiii",
+      "modder": true
+    },
+    {
+      "id": "787575929375424534",
+      "name": "ali _qazan",
+      "username": "fh_hamza",
       "modder": true
     },
     {
@@ -1359,12 +1365,6 @@
       "modder": true
     },
     {
-      "id": "1370814395189428344",
-      "name": "Erwin",
-      "username": "erwinwermach",
-      "modder": true
-    },
-    {
       "id": "196104299925864449",
       "name": "Esper",
       "username": "whosesper",
@@ -1542,6 +1542,12 @@
       "id": "1350822281286516778",
       "name": "freddyboy666",
       "username": "freddyboy666_14393",
+      "modder": true
+    },
+    {
+      "id": "1015821267514970193",
+      "name": "Free karma",
+      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -2631,6 +2637,12 @@
       "modder": true
     },
     {
+      "id": "490572146406588417",
+      "name": "𝕷𝖎𝖑 𝕯𝖔𝖔𝖋𝖞",
+      "username": "lil_doofy_01",
+      "modder": true
+    },
+    {
       "id": "1042279362147385454",
       "name": "Lillian",
       "username": "lillianro.se",
@@ -2640,6 +2652,12 @@
       "id": "193968391294287872",
       "name": "Limen",
       "username": "limen2598",
+      "modder": true
+    },
+    {
+      "id": "1370814395189428344",
+      "name": "limited",
+      "username": "erwinwermach",
       "modder": true
     },
     {
@@ -4236,12 +4254,6 @@
       "id": "1416862779310346293",
       "name": "Straightorc",
       "username": "lljw999flyhigh",
-      "modder": true
-    },
-    {
-      "id": "1015821267514970193",
-      "name": "stunnatoy",
-      "username": "stunnatoy",
       "modder": true
     },
     {
