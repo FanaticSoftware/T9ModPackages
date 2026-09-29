@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T05:21:37.965Z",
+  "generated": "2026-09-29T05:31:27.515Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -906,12 +906,6 @@
       "id": "384362343737327616",
       "name": "comicat",
       "username": "comicat0",
-      "modder": true
-    },
-    {
-      "id": "661665747017138196",
-      "name": "Comrade",
-      "username": "nikolofton",
       "modder": true
     },
     {
