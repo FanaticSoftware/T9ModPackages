@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T06:21:25.625Z",
+  "generated": "2026-09-29T07:21:25.955Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1395,6 +1395,12 @@
       "modder": true
     },
     {
+      "id": "343085901565526017",
+      "name": "Fanatic",
+      "username": "fanaticgiant",
+      "modder": true
+    },
+    {
       "id": "243151432230895619",
       "name": "Fanatic",
       "username": "fanaticsoftware",
@@ -1680,6 +1686,12 @@
       "id": "272096079523086336",
       "name": "giandeli",
       "username": "giandeli",
+      "modder": true
+    },
+    {
+      "id": "849319485130932225",
+      "name": "GiantJohnson",
+      "username": "giggajohnson",
       "modder": true
     },
     {
@@ -4668,6 +4680,12 @@
       "id": "766731417240600616",
       "name": "xaratti",
       "username": "xaratti",
+      "modder": true
+    },
+    {
+      "id": "1023792872979443763",
+      "name": "XeX Poiiison",
+      "username": "xexpoiiison",
       "modder": true
     },
     {
