@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T05:31:27.515Z",
+  "generated": "2026-09-29T06:21:25.625Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -96,6 +96,12 @@
       "id": "707641399356686416",
       "name": "＠Soldiア",
       "username": "soldi08",
+      "modder": true
+    },
+    {
+      "id": "107250736076693504",
+      "name": "♫ Universal ♫",
+      "username": "dj_universal",
       "modder": true
     },
     {
@@ -414,6 +420,12 @@
       "id": "204718276394090507",
       "name": "ATE47",
       "username": "ate47",
+      "modder": true
+    },
+    {
+      "id": "636152282953547786",
+      "name": "AtlasGhee",
+      "username": "akumoofgod",
       "modder": true
     },
     {
@@ -1941,6 +1953,12 @@
       "modder": true
     },
     {
+      "id": "597092709345394701",
+      "name": "IbenezZWG",
+      "username": "ibenezzwg",
+      "modder": true
+    },
+    {
       "id": "455777294175305759",
       "name": "Iceeman",
       "username": ".iceeman",
@@ -3192,6 +3210,12 @@
       "id": "947218756487217252",
       "name": "Omartiano",
       "username": "omartianino",
+      "modder": true
+    },
+    {
+      "id": "785659974264029186",
+      "name": "omniloic",
+      "username": "omniloic",
       "modder": true
     },
     {
