@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T01:21:25.464Z",
+  "generated": "2026-09-29T02:21:25.433Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -690,6 +690,12 @@
       "id": "989779413895905290",
       "name": "Burandonzehn",
       "username": "weebz10",
+      "modder": true
+    },
+    {
+      "id": "1465940616796962982",
+      "name": "Burnsy",
+      "username": "burnsyisbad",
       "modder": true
     },
     {
@@ -1683,6 +1689,12 @@
       "modder": true
     },
     {
+      "id": "322761185826963456",
+      "name": "Gjust24",
+      "username": "gjust246404",
+      "modder": true
+    },
+    {
       "id": "208776392316289025",
       "name": "Glongo",
       "username": "theglongo",
@@ -2112,6 +2124,12 @@
       "id": "1358860914165551245",
       "name": "Jester",
       "username": "geekbardemon",
+      "modder": true
+    },
+    {
+      "id": "1331714837083852810",
+      "name": "Jet 2 holiday",
+      "username": "nxtelqox_",
       "modder": true
     },
     {
@@ -2853,6 +2871,12 @@
       "modder": true
     },
     {
+      "id": "830979969760493619",
+      "name": "Mr.Clean122",
+      "username": "mr.clean122",
+      "modder": true
+    },
+    {
       "id": "478726669805420557",
       "name": "mrbub",
       "username": "misterbub",
@@ -3387,6 +3411,12 @@
       "modder": true
     },
     {
+      "id": "1198692139798909039",
+      "name": "qt_Zaytzz",
+      "username": "qt_zaytzz_06263",
+      "modder": true
+    },
+    {
       "id": "737327914399432704",
       "name": "Quinn",
       "username": "quinster5545",
@@ -3423,12 +3453,6 @@
       "modder": true
     },
     {
-      "id": "852754309522522184",
-      "name": "rand",
-      "username": "randyisntreal",
-      "modder": true
-    },
-    {
       "id": "274844248183144448",
       "name": "raprody",
       "username": "raprody",
@@ -3456,6 +3480,12 @@
       "id": "999425762090307666",
       "name": "Reality",
       "username": "realityuk",
+      "modder": true
+    },
+    {
+      "id": "420433926536822805",
+      "name": "ReaperWiiPlaza",
+      "username": "reaperwiiplaza",
       "modder": true
     },
     {
@@ -4077,6 +4107,12 @@
       "modder": true
     },
     {
+      "id": "386730215839236096",
+      "name": "Swiffty",
+      "username": ".swiffty",
+      "modder": true
+    },
+    {
       "id": "1075875492516864000",
       "name": "swng.by.xim",
       "username": "imdatnga",
@@ -4617,6 +4653,12 @@
       "modder": true
     },
     {
+      "id": "781967945315909652",
+      "name": "y METRO y",
+      "username": "gfan2001",
+      "modder": true
+    },
+    {
       "id": "614145236876132382",
       "name": "YaBoiPlux",
       "username": "yaboiplux",
@@ -4656,6 +4698,12 @@
       "id": "703349682746949735",
       "name": "YuckoTheClown",
       "username": "savagelyxo",
+      "modder": true
+    },
+    {
+      "id": "1278553403856912442",
+      "name": "yukkd",
+      "username": "foldyen",
       "modder": true
     },
     {
