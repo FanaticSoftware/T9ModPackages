@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:17:35.543Z",
+  "generated": "2026-09-29T00:23:50.123Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -196,6 +196,36 @@
       "collaboratorNames": {
         "535472573266264074": "SLG_Bxst7"
       }
+    },
+    {
+      "id": "gun_rotation_96c5bd",
+      "title": "Gun Rotation 1.0",
+      "author": {
+        "id": "1095686714456031335",
+        "name": "nyikoh"
+      },
+      "collaborators": [
+        "535472573266264074"
+      ],
+      "collaboratorNames": {
+        "535472573266264074": "SLG_Bxst7"
+      },
+      "testerAccounts": {
+        "1095686714456031335": [
+          "00ebd7449731cfee",
+          "ebd7449731cfee",
+          "569e65fb5ad815b0"
+        ],
+        "535472573266264074": [
+          "041caea7f9136659",
+          "41caea7f9136659"
+        ]
+      },
+      "claimed": "2026-09-28T20:50:55.754Z",
+      "updated": "2026-09-29T00:23:50.123Z",
+      "unpublished": "2026-09-29T00:23:50.123Z",
+      "lastVersion": "20260928-204959",
+      "unpublishedBy": "1095686714456031335"
     },
     {
       "id": "instant_field_upgrade_charge_0997cd",
