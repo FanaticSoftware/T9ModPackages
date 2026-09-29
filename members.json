@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T14:21:26.865Z",
+  "generated": "2026-09-29T15:21:25.789Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -2595,6 +2595,12 @@
       "modder": true
     },
     {
+      "id": "644008693993570325",
+      "name": "LiFe of Juan",
+      "username": "loading.0889",
+      "modder": true
+    },
+    {
       "id": "1096328211887034429",
       "name": "Lighter .F",
       "username": "lighterxfluid",
@@ -3000,6 +3006,12 @@
       "id": "206300341895954433",
       "name": "Mushy",
       "username": "mushy6101",
+      "modder": true
+    },
+    {
+      "id": "1204891564405555294",
+      "name": "muz",
+      "username": "golden_beagle_12114",
       "modder": true
     },
     {
@@ -3492,6 +3504,12 @@
       "id": "498361272966971392",
       "name": "QFhunter",
       "username": "qfhunter",
+      "modder": true
+    },
+    {
+      "id": "851644973614235670",
+      "name": "qoa",
+      "username": "qoa",
       "modder": true
     },
     {
