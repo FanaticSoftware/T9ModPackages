@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T08:21:25.800Z",
+  "generated": "2026-09-29T09:21:25.781Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4845,12 +4845,6 @@
       "modder": true
     },
     {
-      "id": "1549519271732838472",
-      "name": "Zombie_Nerd.",
-      "username": "zombie_nerd.",
-      "modder": true
-    },
-    {
       "id": "1209844747624128592",
       "name": "ᴢᴍ_𝓮𝓾𝓹𝓱𝓸𝓻𝓲𝓪.𝓰𝓼𝓬",
       "username": "zm_euphoria.gsc",
@@ -4896,6 +4890,12 @@
       "id": "492754231737188352",
       "name": "ᗪ4ᐯ1ᑎ",
       "username": "d4v1n",
+      "modder": true
+    },
+    {
+      "id": "329728256527826944",
+      "name": "ᛋᚻᚪᛞᚩᚹ",
+      "username": "shadow152",
       "modder": true
     },
     {
