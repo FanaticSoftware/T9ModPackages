@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T00:51:25.391Z",
+  "generated": "2026-09-29T01:01:25.397Z",
   "mods": {
     "directors_cut": {
-      "favorites": 131,
+      "favorites": 132,
       "rating": {
         "count": 9,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 351,
+      "favorites": 352,
       "rating": {
         "count": 20,
         "average": 5
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 5,
         "average": 4.6
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 3,
         "average": 4.7
