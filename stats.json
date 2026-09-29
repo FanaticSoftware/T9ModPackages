@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T00:11:25.358Z",
+  "generated": "2026-09-29T00:31:25.424Z",
   "mods": {
     "directors_cut": {
       "favorites": 131,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 348,
+      "favorites": 350,
       "rating": {
         "count": 20,
         "average": 5
@@ -146,13 +146,6 @@
       "favorites": 20,
       "rating": {
         "count": 4,
-        "average": 5
-      }
-    },
-    "gun_rotation_96c5bd": {
-      "favorites": 4,
-      "rating": {
-        "count": 2,
         "average": 5
       }
     }
