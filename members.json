@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T00:21:25.573Z",
+  "generated": "2026-09-29T01:21:25.464Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3237,6 +3237,12 @@
       "modder": true
     },
     {
+      "id": "355707977170157579",
+      "name": "Patrick78907",
+      "username": "patrick78907",
+      "modder": true
+    },
+    {
       "id": "1529859394815135965",
       "name": "PaulaDeensPluggV2",
       "username": "pauladeenspluggv2",
@@ -3414,6 +3420,12 @@
       "id": "837055485848322048",
       "name": "ragefilledanomaly",
       "username": "ragefilledanomaly",
+      "modder": true
+    },
+    {
+      "id": "852754309522522184",
+      "name": "rand",
+      "username": "randyisntreal",
       "modder": true
     },
     {
@@ -3711,12 +3723,6 @@
       "modder": true
     },
     {
-      "id": "191540741154144256",
-      "name": "scopefx",
-      "username": "scopefx",
-      "modder": true
-    },
-    {
       "id": "505175362104328194",
       "name": "Scorpion",
       "username": "scorpiondev",
@@ -3933,6 +3939,12 @@
       "modder": true
     },
     {
+      "id": "738866327720165377",
+      "name": "speed_vee",
+      "username": "speedkey731",
+      "modder": true
+    },
+    {
       "id": "354425392926425088",
       "name": "Spet",
       "username": "spet._.",
@@ -4062,6 +4074,12 @@
       "id": "1098652776919212063",
       "name": "Swags",
       "username": "thefluffyswagmaster",
+      "modder": true
+    },
+    {
+      "id": "1075875492516864000",
+      "name": "swng.by.xim",
+      "username": "imdatnga",
       "modder": true
     },
     {
