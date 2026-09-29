@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T02:01:25.484Z",
+  "generated": "2026-09-29T02:11:25.471Z",
   "mods": {
     "directors_cut": {
       "favorites": 133,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 61,
+      "favorites": 62,
       "rating": {
         "count": 5,
         "average": 4.9
@@ -45,14 +45,14 @@
       }
     },
     "aetheria": {
-      "favorites": 61,
+      "favorites": 62,
       "rating": {
         "count": 5,
         "average": 5
       }
     },
     "t9_bots": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 1,
         "average": 5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
