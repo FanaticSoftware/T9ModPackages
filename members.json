@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T05:21:26.372Z",
+  "generated": "2026-09-30T06:21:26.065Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -102,12 +102,6 @@
       "id": "707641399356686416",
       "name": "＠Soldiア",
       "username": "soldi08",
-      "modder": true
-    },
-    {
-      "id": "1015821267514970193",
-      "name": "#xkarma",
-      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -762,6 +756,12 @@
       "id": "519898319049195520",
       "name": "Bustin' Burger",
       "username": "blobfish.inc",
+      "modder": true
+    },
+    {
+      "id": "1015821267514970193",
+      "name": "buzzokarma",
+      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -3408,6 +3408,12 @@
       "id": "115173340334915587",
       "name": "Oryxs Middle Orb",
       "username": "tech_wave",
+      "modder": true
+    },
+    {
+      "id": "1148074046349656296",
+      "name": "OrZeliuM",
+      "username": "soulstealap",
       "modder": true
     },
     {
