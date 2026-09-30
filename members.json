@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T11:48:26.104Z",
+  "generated": "2026-09-30T12:48:26.021Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4746,6 +4746,12 @@
       "id": "748074756904845353",
       "name": "variant_bike63",
       "username": "foxclanyt123",
+      "modder": true
+    },
+    {
+      "id": "1014300858063794237",
+      "name": "vee",
+      "username": "xlxqr",
       "modder": true
     },
     {
