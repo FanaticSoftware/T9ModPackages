@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T19:48:26.271Z",
+  "generated": "2026-09-30T20:48:25.988Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -903,6 +903,12 @@
       "modder": true
     },
     {
+      "id": "1526863032741789767",
+      "name": "Chips Dubbo",
+      "username": "chipsdubbo416",
+      "modder": true
+    },
+    {
       "id": "726509826557083680",
       "name": "chorb",
       "username": "chorb.txt",
@@ -1728,6 +1734,12 @@
       "id": "360739898153500674",
       "name": "George Droid",
       "username": "zachmavrakos",
+      "modder": true
+    },
+    {
+      "id": "465641038720139265",
+      "name": "Gerf",
+      "username": "shmoovement",
       "modder": true
     },
     {
@@ -3060,12 +3072,6 @@
       "id": "538144166564200489",
       "name": "𝙈𝙤𝙣𝙖𝙧𝙘𝙝𝙮",
       "username": "monarchy5937",
-      "modder": true
-    },
-    {
-      "id": "665482916188389377",
-      "name": "Mondstein",
-      "username": "mondstein",
       "modder": true
     },
     {
