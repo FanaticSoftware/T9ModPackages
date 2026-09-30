@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T23:21:25.845Z",
+  "generated": "2026-09-30T00:21:25.809Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -102,6 +102,12 @@
       "id": "707641399356686416",
       "name": "＠Soldiア",
       "username": "soldi08",
+      "modder": true
+    },
+    {
+      "id": "1015821267514970193",
+      "name": "#xkarma",
+      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -1578,12 +1584,6 @@
       "id": "1350822281286516778",
       "name": "freddyboy666",
       "username": "freddyboy666_14393",
-      "modder": true
-    },
-    {
-      "id": "1015821267514970193",
-      "name": "Free karma",
-      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -4656,6 +4656,12 @@
       "id": "207694986643374080",
       "name": "Unverified",
       "username": ".unverified",
+      "modder": true
+    },
+    {
+      "id": "382590100430913539",
+      "name": "UpRisingEvil",
+      "username": "uprisingevil",
       "modder": true
     },
     {
