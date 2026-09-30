@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T10:48:26.059Z",
+  "generated": "2026-09-30T11:48:26.104Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3066,6 +3066,12 @@
       "id": "1030342221150572575",
       "name": "Moonie <3",
       "username": "iriyuri.1",
+      "modder": true
+    },
+    {
+      "id": "548581140257046586",
+      "name": "morpheus♡",
+      "username": "morpheusbbc",
       "modder": true
     },
     {
