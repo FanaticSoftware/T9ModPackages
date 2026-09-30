@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T21:08:26.080Z",
+  "generated": "2026-09-30T22:18:26.139Z",
   "mods": {
     "directors_cut": {
-      "favorites": 145,
+      "favorites": 146,
       "rating": {
         "count": 10,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 101,
+      "favorites": 102,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 381,
+      "favorites": 382,
       "rating": {
         "count": 24,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 64,
+      "favorites": 65,
       "rating": {
         "count": 7,
         "average": 5
