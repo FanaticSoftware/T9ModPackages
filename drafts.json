@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T01:21:05.975Z",
+  "generated": "2026-09-30T01:26:53.605Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -407,17 +407,6 @@
         "897778086752440321": "✧",
         "207305390654881792": "drain"
       }
-    },
-    {
-      "id": "test_c7a1ac",
-      "title": "test",
-      "author": {
-        "id": "803064934459899916",
-        "name": "wafer.exe"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-30T01:20:15.305Z",
-      "updated": "2026-09-30T01:21:05.975Z"
     },
     {
       "id": "test_mod_1f7452",
