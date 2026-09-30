@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T00:51:26.326Z",
+  "generated": "2026-09-30T01:01:26.458Z",
   "mods": {
     "directors_cut": {
       "favorites": 140,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 97,
+      "favorites": 98,
       "rating": {
         "count": 13,
         "average": 5
@@ -108,16 +108,16 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 87,
+      "favorites": 86,
       "rating": {
         "count": 13,
         "average": 3.8
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 51,
+      "favorites": 52,
       "rating": {
-        "count": 4,
+        "count": 5,
         "average": 4.9
       }
     },
