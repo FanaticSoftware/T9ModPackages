@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T14:48:26.103Z",
+  "generated": "2026-09-30T15:48:26.826Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -366,6 +366,12 @@
       "id": "756325387822170174",
       "name": "Andrey521",
       "username": "andrey521",
+      "modder": true
+    },
+    {
+      "id": "571843519803817984",
+      "name": "Angel Rodriguez",
+      "username": "angelr327",
       "modder": true
     },
     {
@@ -1137,12 +1143,6 @@
       "modder": true
     },
     {
-      "id": "662343074994847795",
-      "name": "dennis6423",
-      "username": "dennis642301",
-      "modder": true
-    },
-    {
       "id": "1395809769947660389",
       "name": "DeOld779",
       "username": "denew779_89763",
@@ -1344,6 +1344,12 @@
       "id": "123224151841308674",
       "name": "Ect",
       "username": "ectvx",
+      "modder": true
+    },
+    {
+      "id": "1370814395189428344",
+      "name": "Edwin",
+      "username": "erwinwermach",
       "modder": true
     },
     {
@@ -1890,12 +1896,6 @@
       "id": "282131656943599616",
       "name": "Gusric",
       "username": "mitogags",
-      "modder": true
-    },
-    {
-      "id": "1010768894606192692",
-      "name": "H I D",
-      "username": "i555t",
       "modder": true
     },
     {
@@ -2730,12 +2730,6 @@
       "id": "193968391294287872",
       "name": "Limen",
       "username": "limen2598",
-      "modder": true
-    },
-    {
-      "id": "1370814395189428344",
-      "name": "limited",
-      "username": "erwinwermach",
       "modder": true
     },
     {
