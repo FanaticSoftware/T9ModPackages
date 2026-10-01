@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T06:42:27.895Z",
+  "generated": "2026-10-01T06:48:11.210Z",
   "notices": [
+    {
+      "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
+      "status": "approved",
+      "mod": "Zombyrdom",
+      "id": "zombyrdom_411e72",
+      "version": "20261001-063824",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-01T06:48:11.036Z"
+    },
     {
       "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
       "status": "approved",
@@ -1999,16 +2010,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-15T17:07:58.054Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "collab",
-      "mod": "Test Project",
-      "id": "test_project_a44489",
-      "version": null,
-      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-14T23:01:55.612Z"
     }
   ]
 }
