@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T10:06:08.212Z",
+  "generated": "2026-10-01T10:16:08.182Z",
   "mods": {
     "directors_cut": {
       "favorites": 149,
@@ -117,7 +117,7 @@
     "start_with_chrysal_456002": {
       "favorites": 59,
       "rating": {
-        "count": 5,
+        "count": 6,
         "average": 4.9
       }
     },
@@ -152,8 +152,8 @@
     "chaos_478629": {
       "favorites": 21,
       "rating": {
-        "count": 2,
-        "average": 4.3
+        "count": 3,
+        "average": 3.7
       }
     },
     "zombyrdom_411e72": {
