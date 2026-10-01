@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T14:36:08.197Z",
+  "generated": "2026-10-01T15:36:08.311Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -825,12 +825,6 @@
       "modder": true
     },
     {
-      "id": "1467889067164434696",
-      "name": "Calorie",
-      "username": "polioscopio2",
-      "modder": true
-    },
-    {
       "id": "613029018224164919",
       "name": "Camilo",
       "username": "codmilo",
@@ -864,6 +858,12 @@
       "id": "195686950252969984",
       "name": "Carl - Manager",
       "username": "_genpatton",
+      "modder": true
+    },
+    {
+      "id": "1467889067164434696",
+      "name": "Cathode Ray Tube",
+      "username": "polioscopio2",
       "modder": true
     },
     {
@@ -1530,6 +1530,12 @@
       "id": "1347038896667754608",
       "name": "FAlty75",
       "username": "falty75",
+      "modder": true
+    },
+    {
+      "id": "1431741938268377129",
+      "name": "FamilyFriendlyClub",
+      "username": "3skittenlums",
       "modder": true
     },
     {
@@ -2226,6 +2232,12 @@
       "id": "277433700075962369",
       "name": "Jack_",
       "username": "jack_0444",
+      "modder": true
+    },
+    {
+      "id": "610570090303455244",
+      "name": "Jack_Sniper21",
+      "username": "endlessabyssjack",
       "modder": true
     },
     {
@@ -3558,6 +3570,12 @@
       "id": "714903228361474140",
       "name": "ParanoiaPareidolia",
       "username": "paranoiapareidolia",
+      "modder": true
+    },
+    {
+      "id": "1453761768311488685",
+      "name": "Pars",
+      "username": "pars_34889",
       "modder": true
     },
     {
