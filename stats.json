@@ -1,30 +1,30 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T10:16:08.182Z",
+  "generated": "2026-10-01T10:36:08.065Z",
   "mods": {
     "directors_cut": {
-      "favorites": 149,
+      "favorites": 150,
       "rating": {
         "count": 10,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 66,
+      "favorites": 67,
       "rating": {
         "count": 5,
         "average": 4.9
       }
     },
     "onslaught_survival": {
-      "favorites": 101,
+      "favorites": 102,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "holiday_events": {
-      "favorites": 104,
+      "favorites": 105,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 386,
+      "favorites": 387,
       "rating": {
         "count": 25,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 64,
+      "favorites": 65,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 5,
         "average": 4
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 90,
+      "favorites": 91,
       "rating": {
         "count": 14,
         "average": 3.6
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 3,
         "average": 5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 3,
         "average": 3.7
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
