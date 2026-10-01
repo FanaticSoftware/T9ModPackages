@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T16:36:08.233Z",
+  "generated": "2026-10-01T17:36:08.291Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -894,6 +894,12 @@
       "id": "343212369096343555",
       "name": "Chalino, The Chosen One",
       "username": "chalino.",
+      "modder": true
+    },
+    {
+      "id": "912313221107572736",
+      "name": "Chaosmatthi",
+      "username": "chaosmatthi",
       "modder": true
     },
     {
