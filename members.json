@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T20:36:08.141Z",
+  "generated": "2026-10-01T21:36:08.378Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1110,6 +1110,12 @@
       "id": "795860532871036930",
       "name": "CRAZYRUSSIANGUN",
       "username": "cinnimantoastr",
+      "modder": true
+    },
+    {
+      "id": "1018979357944991814",
+      "name": "CreepALONG",
+      "username": "creepalong",
       "modder": true
     },
     {
