@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T18:32:55.528Z",
+  "generated": "2026-10-01T19:33:45.465Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -18,7 +18,7 @@
         "high": 0,
         "low": 0,
         "medium": 0,
-        "rules": "2026.08.19",
+        "rules": "2026.09.26",
         "summary": "clean, nothing flagged"
       },
       "settings": 1,
@@ -29,20 +29,25 @@
         "Onslaught",
         "Co-op"
       ],
-      "changelog": "Testing",
+      "changelog": "Updated thumbnail",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-27T04:56:21.858Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553631327041884234"
+        "at": "2026-10-01T19:33:45.019Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555301623608250444"
       },
       "id": "4_player_onslaught_test_1048f4",
-      "version": "20260927-045608",
-      "file": "mod_packages/4_player_onslaught_test_1048f4/4_player_onslaught_test_1048f4-20260927-045608.cwm",
-      "size": 1191001,
-      "sha256": "2a51e3a9c1f672f1aea81d9d513a58bf6c723534d0c0adf26e4955dfdcc43696",
+      "version": "20261001-193319",
+      "file": "mod_packages/4_player_onslaught_test_1048f4/4_player_onslaught_test_1048f4-20261001-193319.cwm",
+      "size": 1649985,
+      "sha256": "aa274084228d7ed6226408b38caf3794f801089f0f42b6c8a3ac7333ea3f775b",
       "history": [
+        {
+          "version": "20261001-193319",
+          "changelog": "Updated thumbnail",
+          "published": "2026-10-01T19:33:45.019Z"
+        },
         {
           "version": "20260927-045608",
           "changelog": "Testing",
@@ -55,7 +60,7 @@
         }
       ],
       "thumbnail": "mod_packages/4_player_onslaught_test_1048f4/thumbnail.png",
-      "thumbnailSha256": "0159420256cc2e45566fb87fe8464586ef873aa8e51344acde48ecfa1f8ec33e",
+      "thumbnailSha256": "4922812d86f66bc4d5331e6ac6782eb9e9146826246cd0d0a4c621fa0ac6bd89",
       "collaborators": []
     },
     {
