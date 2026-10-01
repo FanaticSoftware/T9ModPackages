@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T08:33:48.610Z",
+  "generated": "2026-10-01T18:32:55.528Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1853,6 +1853,61 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
       }
+    },
+    {
+      "title": "Essence Drain",
+      "description": "Drains your points every second. Starts at 10/s and increases by 1 every round. If you run out of points, you die.",
+      "author": {
+        "discordName": "cootkz",
+        "id": "909199866121556068",
+        "name": "cootkz"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "f0b4317d932d2222909900a5ad128180badcf405cd331f771671df60bb7a0bd7",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Challenge / Custom Rules",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Round-Based Maps",
+        "Hard",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-01T18:32:55.208Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555284006138814489"
+      },
+      "id": "test_e5ab1b",
+      "version": "20261001-182318",
+      "file": "mod_packages/test_e5ab1b/test_e5ab1b-20261001-182318.cwm",
+      "size": 359745,
+      "sha256": "ccb2e502e09c5f7f7c3c092722218d3292e2b9a1f0a2f8e0954106e14ac1be09",
+      "history": [
+        {
+          "version": "20261001-182318",
+          "changelog": "",
+          "published": "2026-10-01T18:32:55.208Z"
+        }
+      ],
+      "thumbnail": "mod_packages/test_e5ab1b/thumbnail.png",
+      "thumbnailSha256": "8980d09eb050686b355421dbdb56e98781dbafdfdd22f7632c4e2d13d54e3585",
+      "collaborators": []
     },
     {
       "title": "10,000 Health (Godemode)",
