@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T11:36:09.356Z",
+  "generated": "2026-10-01T12:36:08.175Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3555,6 +3555,12 @@
       "modder": true
     },
     {
+      "id": "966439932363173979",
+      "name": "partypooper",
+      "username": "partypooper3756",
+      "modder": true
+    },
+    {
       "id": "836181464512200704",
       "name": "Pastelzinhodrogo",
       "username": "pastelzinhodrogo",
@@ -4284,6 +4290,12 @@
       "id": "1255160786330845260",
       "name": "Smokey",
       "username": "the_smokester",
+      "modder": true
+    },
+    {
+      "id": "1516452516865376535",
+      "name": "smoki",
+      "username": "imthesmoki",
       "modder": true
     },
     {
