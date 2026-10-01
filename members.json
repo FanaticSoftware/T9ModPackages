@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T23:48:25.867Z",
+  "generated": "2026-10-01T01:48:25.936Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -657,6 +657,12 @@
       "modder": true
     },
     {
+      "id": "787836744027734036",
+      "name": "Blunt trauma",
+      "username": "blunt_trauma66",
+      "modder": true
+    },
+    {
       "id": "528608148878262294",
       "name": "Blutengel",
       "username": "sickenedcunt",
@@ -1242,6 +1248,12 @@
       "id": "1236744041241251875",
       "name": "DORETO",
       "username": "salvador098_46601",
+      "modder": true
+    },
+    {
+      "id": "478844852050853907",
+      "name": "Dosarari",
+      "username": ".deathbox",
       "modder": true
     },
     {
@@ -4836,6 +4848,12 @@
       "id": "137046118201688064",
       "name": "Violawoocool",
       "username": "violawoocool",
+      "modder": true
+    },
+    {
+      "id": "522556689602314253",
+      "name": "Virus",
+      "username": "v_i_r_us_666",
       "modder": true
     },
     {
