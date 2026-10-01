@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T01:48:25.936Z",
+  "generated": "2026-10-01T02:48:25.771Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4854,6 +4854,12 @@
       "id": "522556689602314253",
       "name": "Virus",
       "username": "v_i_r_us_666",
+      "modder": true
+    },
+    {
+      "id": "544054516048199682",
+      "name": "vLucid Aqua",
+      "username": "1773_",
       "modder": true
     },
     {
