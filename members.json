@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T06:36:08.377Z",
+  "generated": "2026-10-01T07:36:08.652Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -2763,6 +2763,12 @@
       "modder": true
     },
     {
+      "id": "196996916356055040",
+      "name": "Lillian",
+      "username": "gaypuppygirl",
+      "modder": true
+    },
+    {
       "id": "1042279362147385454",
       "name": "Lillian",
       "username": "lillianro.se",
@@ -3906,12 +3912,6 @@
       "id": "332196764809560065",
       "name": "Rosso",
       "username": "r_sso",
-      "modder": true
-    },
-    {
-      "id": "196996916356055040",
-      "name": "ruby",
-      "username": "gaypuppygirl",
       "modder": true
     },
     {
