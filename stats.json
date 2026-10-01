@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T11:26:08.232Z",
+  "generated": "2026-10-01T12:06:08.253Z",
   "mods": {
     "directors_cut": {
       "favorites": 150,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 5,
         "average": 4.9
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 389,
+      "favorites": 390,
       "rating": {
         "count": 25,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 25,
+      "favorites": 26,
       "rating": {
         "count": 5,
         "average": 5
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 2,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 4,
         "average": 4.8
