@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T06:06:07.771Z",
+  "generated": "2026-10-01T06:56:07.832Z",
   "mods": {
     "directors_cut": {
       "favorites": 149,
@@ -154,6 +154,13 @@
       "rating": {
         "count": 2,
         "average": 4.3
+      }
+    },
+    "zombyrdom_411e72": {
+      "favorites": 0,
+      "rating": {
+        "count": 1,
+        "average": 5
       }
     }
   }
