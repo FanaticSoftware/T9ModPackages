@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T07:36:08.652Z",
+  "generated": "2026-10-01T09:36:08.208Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4278,6 +4278,12 @@
       "id": "1255160786330845260",
       "name": "Smokey",
       "username": "the_smokester",
+      "modder": true
+    },
+    {
+      "id": "1085805846094675988",
+      "name": "Snip3",
+      "username": "snip3maybe2",
       "modder": true
     },
     {
