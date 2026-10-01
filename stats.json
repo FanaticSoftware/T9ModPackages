@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T11:16:08.267Z",
+  "generated": "2026-10-01T11:26:08.232Z",
   "mods": {
     "directors_cut": {
       "favorites": 150,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 68,
+      "favorites": 67,
       "rating": {
         "count": 5,
         "average": 4.9
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 26,
+      "favorites": 25,
       "rating": {
         "count": 5,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 41,
+      "favorites": 40,
       "rating": {
         "count": 4,
         "average": 4.8
