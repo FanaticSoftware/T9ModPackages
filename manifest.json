@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T06:42:23.596Z",
+  "generated": "2026-10-01T06:48:05.508Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1918,6 +1918,59 @@
       "collaboratorNames": {
         "684408486456852481": "SaintVertigo"
       }
+    },
+    {
+      "title": "Zombyrdom",
+      "description": "Inspired by ye ol martyrdom of old, this makes it so zombies drop grenades when they die, with a configurable option to adjust the amount of time before it explodes. Thumbnail made by Pulsar.",
+      "author": {
+        "discordName": "dangerousprops",
+        "id": "414558788092428299",
+        "name": "dangerousprops"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "ffd5fed0a915f10356bc526ae997ef03b565bb971a3c49b7c94b716500dab055",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 1,
+      "tags": [
+        "Gameplay Overhaul",
+        "Rounds / Spawning",
+        "Zombies / AI",
+        "Bosses / Specials",
+        "Round-Based Maps",
+        "Easy",
+        "Solo"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-01T06:48:05.102Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555106603483664429"
+      },
+      "id": "zombyrdom_411e72",
+      "version": "20261001-063824",
+      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261001-063824.cwm",
+      "size": 2037289,
+      "sha256": "226949e06854c3e077a12c15c8e060053bb16ee2670d37778dfdbaba547210dd",
+      "history": [
+        {
+          "version": "20261001-063824",
+          "changelog": "",
+          "published": "2026-10-01T06:48:05.102Z"
+        }
+      ],
+      "thumbnail": "mod_packages/zombyrdom_411e72/thumbnail.png",
+      "thumbnailSha256": "4f8cf39cc8876668b1069e54c76cef9097ac3ab9f6e0aeb6fe1edaca6234a596",
+      "collaborators": []
     }
   ]
 }
