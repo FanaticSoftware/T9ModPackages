@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T19:33:45.465Z",
+  "generated": "2026-10-01T22:47:13.851Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1963,6 +1963,54 @@
       ],
       "thumbnail": "mod_packages/test_lot_of_health_eb14c2/thumbnail.png",
       "thumbnailSha256": "4f9e0d853289a5fcb1a10c906d707403bc2a332cb65438565610e2e55015c3e4",
+      "collaborators": []
+    },
+    {
+      "title": "Two Loadout Choices",
+      "description": "It's essentially just allowing for you to pick a starting weapon or a secondary once it's chosen you can no longer change the option.",
+      "author": {
+        "discordName": "baugh",
+        "id": "478060323669278720",
+        "name": "Orin"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "e5dff1ff29253b3fbd4a280ad0e5385fa7f54ebe72e93f71a504fa20a1c3a9f1",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Quality of Life",
+        "Weapons"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-01T22:47:13.484Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555337112600055954"
+      },
+      "id": "two_weapons_ca99d3",
+      "version": "20261001-215424",
+      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261001-215424.cwm",
+      "size": 259410,
+      "sha256": "b7d640e6585d2f54dca26f8a5647ff8c7153341338b4b981a911ff6679de21b4",
+      "history": [
+        {
+          "version": "20261001-215424",
+          "changelog": "",
+          "published": "2026-10-01T22:47:13.484Z"
+        }
+      ],
+      "thumbnail": "mod_packages/two_weapons_ca99d3/thumbnail.png",
+      "thumbnailSha256": "72f91264c5357273dd991cf1999d89cd35b3f98962dbb1c4ef11aac496df8301",
       "collaborators": []
     },
     {
