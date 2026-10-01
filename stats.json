@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T02:08:26.191Z",
+  "generated": "2026-10-01T02:28:26.173Z",
   "mods": {
     "directors_cut": {
       "favorites": 146,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 98,
+      "favorites": 99,
       "rating": {
         "count": 6,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 382,
+      "favorites": 383,
       "rating": {
         "count": 24,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 65,
+      "favorites": 66,
       "rating": {
         "count": 7,
         "average": 5
@@ -80,7 +80,7 @@
       }
     },
     "deadlight_greenlight_fc56b7": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 86,
+      "favorites": 87,
       "rating": {
         "count": 14,
         "average": 3.6
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 2,
         "average": 4.3
