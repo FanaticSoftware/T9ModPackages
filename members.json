@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T05:35:39.132Z",
+  "generated": "2026-10-01T06:36:08.377Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -730,7 +730,7 @@
     },
     {
       "id": "188047951896117248",
-      "name": "Brad🏒🔥| (@ZestyCODLeaks)",
+      "name": "brad 🏒🔥|  (@ZestyCODLeaks)",
       "username": "brad_.",
       "modder": true
     },
@@ -4341,6 +4341,12 @@
       "modder": true
     },
     {
+      "id": "737125402597785671",
+      "name": "Splatter Drive",
+      "username": "splatterdrive",
+      "modder": true
+    },
+    {
       "id": "1087093466586153051",
       "name": "SpokyScarlet",
       "username": "hiyascarlet",
@@ -4704,6 +4710,12 @@
       "id": "1064393361185853582",
       "name": "twinco",
       "username": "cjn67",
+      "modder": true
+    },
+    {
+      "id": "948845991661027329",
+      "name": "twurtle",
+      "username": "twurtle_",
       "modder": true
     },
     {
