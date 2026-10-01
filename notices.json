@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T06:48:11.210Z",
+  "generated": "2026-10-01T08:33:54.794Z",
   "notices": [
+    {
+      "key": "8a4f7985590fb872adff75129f41ee2be5ac7ebf7d35d524be6eabd3fb29cbda",
+      "status": "approved",
+      "mod": "10,000 Health (Godemode)",
+      "id": "test_lot_of_health_eb14c2",
+      "version": "20261001-083218",
+      "progression": "off",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-01T08:33:54.586Z"
+    },
     {
       "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
       "status": "approved",
@@ -2000,16 +2011,6 @@
       "reason": "The owner of **Onslaught Survival** now allows co-authors to submit new versions. SUBMIT MOD in your launcher can send one; it is reviewed as usual and published under the owner's name.",
       "by": "",
       "at": "2026-09-15T20:03:22.405Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "ZM Classic [BETA]",
-      "id": "zm_classic_beta",
-      "version": "2.0.14",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-15T17:07:58.054Z"
     }
   ]
 }
