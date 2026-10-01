@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T18:36:08.161Z",
+  "generated": "2026-10-01T19:36:08.162Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -222,6 +222,12 @@
       "id": "221995730464800768",
       "name": "7Lee",
       "username": "7lee",
+      "modder": true
+    },
+    {
+      "id": "236439868656451585",
+      "name": "Abdullah",
+      "username": "a77qi",
       "modder": true
     },
     {
@@ -4212,6 +4218,12 @@
       "id": "298616324647550987",
       "name": "Shork",
       "username": "waifushork",
+      "modder": true
+    },
+    {
+      "id": "824729059106750478",
+      "name": "shorty",
+      "username": "shorty5047",
       "modder": true
     },
     {
