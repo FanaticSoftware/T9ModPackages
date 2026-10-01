@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T03:58:26.200Z",
+  "generated": "2026-10-01T04:18:26.337Z",
   "mods": {
     "directors_cut": {
       "favorites": 149,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 100,
+      "favorites": 101,
       "rating": {
         "count": 6,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 63,
+      "favorites": 64,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 2,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 90,
+      "favorites": 91,
       "rating": {
         "count": 14,
         "average": 3.6
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 4,
         "average": 4.8
