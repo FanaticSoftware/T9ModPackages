@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T01:26:53.605Z",
+  "generated": "2026-10-01T06:42:23.596Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -335,30 +335,6 @@
       "collaborators": [],
       "claimed": "2026-09-23T01:11:49.182Z",
       "updated": "2026-09-23T01:11:49.182Z"
-    },
-    {
-      "id": "quick_restart_9e740d",
-      "title": "quick-restart",
-      "author": {
-        "id": "413539982611972126",
-        "name": "itsjonathan08"
-      },
-      "collaborators": [
-        "115173340334915587"
-      ],
-      "claimed": "2026-09-27T16:13:26.272Z",
-      "updated": "2026-09-28T00:20:36.970Z",
-      "testerAccounts": {
-        "413539982611972126": [
-          "6e205dec500fa973"
-        ],
-        "115173340334915587": [
-          "1931db6d93c0a4da"
-        ]
-      },
-      "collaboratorNames": {
-        "115173340334915587": "Oryxs Middle Orb"
-      }
     },
     {
       "id": "randomizer_test_7e619d",

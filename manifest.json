@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-29T17:20:39.170Z",
+  "generated": "2026-10-01T06:42:23.596Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1331,6 +1331,73 @@
         ]
       },
       "collaboratorsCanSubmit": true
+    },
+    {
+      "title": "Quick Restart",
+      "description": "QUICK RESTART\n\nRestart your Zombies match quickly. Vote to restart at any time, or let the mod restart for you when your team goes down, without going back through the menus.\n\nHOW TO RESTART\nHold the Interact button for 7 seconds to vote for a restart. When more than half of the players in the match have voted, a message shows for 3 seconds and the match restarts. Votes expire after about 30 seconds, and players who leave stop counting. AI teammates from the bot mod do not count and cannot vote.\n\nSeven seconds is longer than the normal hold actions I know of (a revive takes about 5), so you will not vote by accident.\n\n\nSETTINGS\nSettings are read when the mod loads, so choose them before you start your match.\n- Auto-Restart on Death (on by default): restarts after your whole team is down.\n- Always Skip Map Intro (off by default): also skips the intro on normal loads, not only after a restart.\n- Fast Game Over (off by default): skips the scoreboard. Auto-restart happens after half a second instead of 8 seconds, and when you quit from the pause menu the game-over screen is shorter, so you reach the lobby sooner. Easter egg and exfil victory screens are left alone. Leave this off if you want time to read your stats.\n\nGOOD TO KNOW\n- A restart resets the match. Points, weapons and progress all start over.\n- A vote restart lets the game write your run's stats before restarting, the way it does when you leave from the pause menu.\n- Before a vote restart you will see the game-over screen and hear the game-over sound for about a second (This is normal and intended).\n- Fast Game Over also shortens the Trials results screen.\n- A restart fires the game's end-of-match event, so mods that react to a game ending may react to a restart, future-proofing compatability with other \"gamemode mods\" as long as they are coded correctly. (If you're a mod dev interested in making your mod compatable, DM me)\n\nNOT YET TESTED\n- Whether stats and XP are saved correctly after a restart. The launcher records none for unreleased mods, so this could not be checked.",
+      "author": {
+        "discordName": "itsjonathan08",
+        "id": "413539982611972126",
+        "name": "Nullvector"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "9777051f76822c6aeb907335c02e027da562f79fc542e916e812348e9acc62c8",
+      "scan": {
+        "critical": 0,
+        "high": 7,
+        "low": 0,
+        "medium": 4,
+        "rules": "2026.09.26",
+        "summary": "7 high, 4 medium"
+      },
+      "settings": 3,
+      "tags": [
+        "Quality of Life",
+        "Utility / Tools",
+        "All Maps",
+        "Round-Based Maps",
+        "Outbreak",
+        "Onslaught",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-01T06:42:23.321Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555097454339301491"
+      },
+      "id": "quick_restart_9e740d",
+      "version": "20261001-060204",
+      "file": "mod_packages/quick_restart_9e740d/quick_restart_9e740d-20261001-060204.cwm",
+      "size": 154077,
+      "sha256": "68f358c8e0a8dec57baa692a93c95f41559f66164242020fe02b56860c5f7221",
+      "history": [
+        {
+          "version": "20261001-060204",
+          "changelog": "",
+          "published": "2026-10-01T06:42:23.321Z"
+        }
+      ],
+      "thumbnail": "mod_packages/quick_restart_9e740d/thumbnail.png",
+      "thumbnailSha256": "d28310685eee5e7bc6d5c30b706121c119f46b2f2d28bcc8646bf56441b2eb78",
+      "collaborators": [
+        "115173340334915587"
+      ],
+      "collaboratorNames": {
+        "115173340334915587": "Oryxs Middle Orb"
+      },
+      "testerAccounts": {
+        "413539982611972126": [
+          "6e205dec500fa973"
+        ],
+        "115173340334915587": [
+          "1931db6d93c0a4da"
+        ]
+      }
     },
     {
       "title": "Realism Mode",
