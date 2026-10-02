@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:58:25.852Z",
+  "generated": "2026-10-02T22:59:37.009Z",
   "invites": [
     {
       "key": "697590f28ec3ade0ab6febdee7ec8629e8420a8bfe595b33e49187278b8720d6",
@@ -9,14 +9,6 @@
       "ownerId": "413539982611972126",
       "ownerName": "itsjonathan08",
       "at": "2026-10-02T22:58:25.852Z"
-    },
-    {
-      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
-      "mod": "forsaken_spawn_room_a26fbe",
-      "title": "Forsaken Spawn Room",
-      "ownerId": "413539982611972126",
-      "ownerName": "itsjonathan08",
-      "at": "2026-10-02T22:58:15.042Z"
     },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
