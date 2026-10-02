@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T13:56:09.228Z",
+  "generated": "2026-10-02T14:26:09.221Z",
   "mods": {
     "directors_cut": {
       "favorites": 163,
       "rating": {
-        "count": 11,
+        "count": 12,
         "average": 5
       }
     },
     "boss_rush": {
       "favorites": 76,
       "rating": {
-        "count": 9,
+        "count": 10,
         "average": 4.9
       }
     },
@@ -47,8 +47,8 @@
     "aetheria": {
       "favorites": 66,
       "rating": {
-        "count": 8,
-        "average": 4.9
+        "count": 9,
+        "average": 4.8
       }
     },
     "t9_bots": {
@@ -75,7 +75,7 @@
     "day_night": {
       "favorites": 68,
       "rating": {
-        "count": 6,
+        "count": 7,
         "average": 4.9
       }
     },
@@ -111,7 +111,7 @@
       "favorites": 93,
       "rating": {
         "count": 14,
-        "average": 3.6
+        "average": 3.5
       }
     },
     "start_with_chrysal_456002": {
