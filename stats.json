@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T02:06:08.861Z",
+  "generated": "2026-10-02T02:16:08.744Z",
   "mods": {
     "directors_cut": {
-      "favorites": 155,
+      "favorites": 156,
       "rating": {
         "count": 10,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 61,
+      "favorites": 62,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -171,10 +171,10 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 4
       }
     },
     "two_weapons_ca99d3": {
