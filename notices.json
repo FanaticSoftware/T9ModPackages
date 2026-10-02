@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:59:42.647Z",
+  "generated": "2026-10-02T22:59:53.683Z",
   "notices": [
+    {
+      "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
+      "status": "collab",
+      "mod": "Forsaken Spawn Room",
+      "id": "forsaken_spawn_room_a26fbe",
+      "version": null,
+      "reason": "**Mar** (@hoemaro) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-10-02T22:59:53.503Z"
+    },
     {
       "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
       "status": "collab",
@@ -2009,16 +2019,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-18T23:45:29.722Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "T9 Bots",
-      "id": "t9_bots",
-      "version": "20260918-232230",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-18T23:23:09.465Z"
     }
   ]
 }
