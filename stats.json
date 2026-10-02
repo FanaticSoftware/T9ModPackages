@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T04:16:08.831Z",
+  "generated": "2026-10-02T04:26:08.884Z",
   "mods": {
     "directors_cut": {
       "favorites": 157,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 108,
+      "favorites": 110,
       "rating": {
         "count": 13,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 5,
         "average": 5
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 90,
+      "favorites": 91,
       "rating": {
         "count": 14,
         "average": 3.6
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 64,
+      "favorites": 66,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
