@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:14:52.068Z",
+  "generated": "2026-10-02T21:15:06.367Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -578,12 +578,14 @@
         "name": "tech_wave"
       },
       "collaborators": [
-        "413539982611972126"
+        "413539982611972126",
+        "249388147610222593"
       ],
       "claimed": "2026-10-02T19:39:37.969Z",
       "updated": "2026-10-02T19:39:37.969Z",
       "collaboratorNames": {
-        "413539982611972126": "ItsJonathan"
+        "413539982611972126": "ItsJonathan",
+        "249388147610222593": "Mar"
       }
     }
   ]
