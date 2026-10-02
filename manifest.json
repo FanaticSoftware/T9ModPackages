@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T00:12:21.477Z",
+  "generated": "2026-10-02T03:46:49.048Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1799,6 +1799,66 @@
       ],
       "thumbnail": "mod_packages/start_with_chrysal_456002/thumbnail.png",
       "thumbnailSha256": "18b46c8e38230c9b2b7a76a932cb416a18fbc4d3d4ace9afca8b946f54cd70cc",
+      "collaborators": []
+    },
+    {
+      "title": "Custom Starting Round",
+      "description": "Select your desired Starting Round! Either if you wan't to test something or even test your skills. It's not been tested on Outbreak or Onslaught maps, so if it works or it has problems, please, reach out to me!\nThanks for playing and helping bring Black Ops Cold War to its Glory again!\n\n- If there's an issue with another Mod or in THIS mod itself, have a suggestion or a complain, please DM me on Discord: \"saku.mvf\" with the context, ie:\n\"Hi! I've played X mod (my mod, and if applies) together with X mod (another Creator's mod) and it Crashes! Can you take a look please? Thanks!\"",
+      "author": {
+        "discordName": "saku.mvf",
+        "id": "535500260726800387",
+        "name": "Sakupen"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "1ab5f73a5ea2387276837e90be81b56eb167f723f00b3f2355627f1a0d6b3fff",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 1,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Quality of Life",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Rounds / Spawning",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-02T03:46:48.776Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555424613885022232"
+      },
+      "id": "starting_round_d65f71",
+      "version": "20261002-034203",
+      "file": "mod_packages/starting_round_d65f71/starting_round_d65f71-20261002-034203.cwm",
+      "size": 1284841,
+      "sha256": "67e48dd54399df62700d09b5ba72ed850bce5117654211777c59744e86f753d7",
+      "history": [
+        {
+          "version": "20261002-034203",
+          "changelog": "",
+          "published": "2026-10-02T03:46:48.776Z"
+        }
+      ],
+      "thumbnail": "mod_packages/starting_round_d65f71/thumbnail.png",
+      "thumbnailSha256": "7e11cb39d4ce0c05bbf68bec9127b0004d73f73c13871c5e42f862a00e0a0b8a",
       "collaborators": []
     },
     {
