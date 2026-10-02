@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T17:36:09.242Z",
+  "generated": "2026-10-02T17:46:09.352Z",
   "mods": {
     "directors_cut": {
       "favorites": 165,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 76,
+      "favorites": 77,
       "rating": {
         "count": 11,
         "average": 4.9
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 5,
         "average": 5
@@ -201,8 +201,8 @@
     "horde_mod_6a1b9c": {
       "favorites": 3,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 0.5
       }
     }
   }
