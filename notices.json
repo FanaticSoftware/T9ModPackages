@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T03:46:53.669Z",
+  "generated": "2026-10-02T03:47:13.468Z",
   "notices": [
+    {
+      "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
+      "status": "approved",
+      "mod": "Zombyrdom",
+      "id": "zombyrdom_411e72",
+      "version": "20261002-025333",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-02T03:47:13.309Z"
+    },
     {
       "key": "3060ce6dc4bd9693b634798850d90f4331bbeafdae4dee1cfb846ede6ae19caa",
       "status": "approved",
@@ -2006,16 +2017,6 @@
       "reason": "Published by co-author TheTeaa.",
       "by": "teaa_the_silliest",
       "at": "2026-09-16T07:20:25.216Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.5",
-      "reason": "Published by co-author TheTeaa.",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-16T07:20:24.172Z"
     }
   ]
 }
