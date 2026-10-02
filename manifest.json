@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T04:49:32.274Z",
+  "generated": "2026-10-02T22:36:53.314Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -734,14 +734,14 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "c824ce0104481554d21d60591684528693875bfa6d59196978d4ccf78fda4f20",
+      "sourceSha256": "596bc8c99e1d78a7ef704811682b37e5f8156bc19950f8b932d8144265fa4a78",
       "scan": {
         "critical": 0,
-        "high": 0,
-        "low": 8,
+        "high": 2,
+        "low": 9,
         "medium": 57,
-        "rules": "2026.08.19",
-        "summary": "57 medium, 8 low"
+        "rules": "2026.09.26",
+        "summary": "2 high, 57 medium, 9 low"
       },
       "settings": 3,
       "tags": [
@@ -756,20 +756,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Fixed an issue that allowed kazimirs to teleport the player outside of the playable area",
+      "changelog": "Stopped the map's fog from rolling in.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-27T23:47:36.556Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553913031245828124"
+        "at": "2026-10-02T22:36:52.965Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555704724777476096"
       },
       "id": "dm_nacht_74d31a",
-      "version": "20260927-233533",
-      "file": "mod_packages/dm_nacht_74d31a/dm_nacht_74d31a-20260927-233533.cwm",
-      "size": 859396,
-      "sha256": "2a8ab09f08d7985a4f89681bc73312959bde3ab6c54a1d978dc017597f867478",
+      "version": "20261002-221502",
+      "file": "mod_packages/dm_nacht_74d31a/dm_nacht_74d31a-20261002-221502.cwm",
+      "size": 861740,
+      "sha256": "7126ab044e601c15455d2b9900b622605fbe80d1fdaa4331d1db7da9adb78f58",
       "history": [
+        {
+          "version": "20261002-221502",
+          "changelog": "Stopped the map's fog from rolling in.",
+          "published": "2026-10-02T22:36:52.965Z"
+        },
         {
           "version": "20260927-233533",
           "changelog": "Fixed an issue that allowed kazimirs to teleport the player outside of the playable area",
