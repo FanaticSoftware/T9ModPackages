@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T18:16:09.408Z",
+  "generated": "2026-10-02T18:26:09.541Z",
   "mods": {
     "directors_cut": {
       "favorites": 166,
@@ -10,14 +10,14 @@
       }
     },
     "boss_rush": {
-      "favorites": 77,
+      "favorites": 78,
       "rating": {
         "count": 11,
         "average": 4.9
       }
     },
     "onslaught_survival": {
-      "favorites": 106,
+      "favorites": 107,
       "rating": {
         "count": 6,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 407,
+      "favorites": 409,
       "rating": {
         "count": 25,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 9,
         "average": 4.8
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 5,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 93,
+      "favorites": 94,
       "rating": {
         "count": 15,
         "average": 3.3
