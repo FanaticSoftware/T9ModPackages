@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T06:42:23.596Z",
+  "generated": "2026-10-02T19:39:37.969Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -569,6 +569,17 @@
       "unpublished": "2026-09-18T08:08:05.734Z",
       "lastVersion": "20260917-030316",
       "unpublishedBy": "244657466783170560"
+    },
+    {
+      "id": "zombie_snacks_9d8881",
+      "title": "Zombie Snacks",
+      "author": {
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "collaborators": [],
+      "claimed": "2026-10-02T19:39:37.969Z",
+      "updated": "2026-10-02T19:39:37.969Z"
     }
   ]
 }
