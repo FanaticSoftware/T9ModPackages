@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T05:36:08.111Z",
+  "generated": "2026-10-02T06:36:08.154Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4725,6 +4725,12 @@
       "modder": true
     },
     {
+      "id": "496972536568086539",
+      "name": "The Drink",
+      "username": "zabuza123",
+      "modder": true
+    },
+    {
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
@@ -5250,6 +5256,12 @@
       "id": "491393599783567362",
       "name": "Yellow",
       "username": "y3llow_skull",
+      "modder": true
+    },
+    {
+      "id": "1273002497409290311",
+      "name": "YesKing",
+      "username": "roudystevo",
       "modder": true
     },
     {
