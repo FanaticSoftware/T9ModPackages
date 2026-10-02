@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T15:26:09.357Z",
+  "generated": "2026-10-02T15:36:09.312Z",
   "mods": {
     "directors_cut": {
       "favorites": 163,
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 51,
+      "favorites": 52,
       "rating": {
         "count": 6,
         "average": 4.1
