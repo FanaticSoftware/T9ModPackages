@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T10:36:08.332Z",
+  "generated": "2026-10-02T11:04:13.229Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -486,6 +486,12 @@
       "id": "1308538626254045246",
       "name": "Arky",
       "username": "fizzysoulz",
+      "modder": true
+    },
+    {
+      "id": "1357131532363366591",
+      "name": "Armz_tvrr_0107",
+      "username": "tzr_lolo",
       "modder": true
     },
     {
