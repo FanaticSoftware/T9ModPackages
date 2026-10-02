@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:14:54.679Z",
+  "generated": "2026-10-02T21:15:09.589Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "collab",
+      "mod": "Zombie Snacks",
+      "id": "zombie_snacks_9d8881",
+      "version": null,
+      "reason": "**Mar** (@hoemaro) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-10-02T21:15:09.270Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "collab",
@@ -2008,16 +2018,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-16T20:21:22.135Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.6",
-      "reason": "Published by co-author TheTeaa.",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-16T07:30:27.285Z"
     }
   ]
 }
