@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T22:47:13.851Z",
+  "generated": "2026-10-02T00:12:21.477Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1975,7 +1975,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "e5dff1ff29253b3fbd4a280ad0e5385fa7f54ebe72e93f71a504fa20a1c3a9f1",
+      "sourceSha256": "26e622c9c678cd2e47390b85b12307a0d3a73e05eca9764153ed23b21ddc2c7e",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1989,20 +1989,25 @@
         "Quality of Life",
         "Weapons"
       ],
-      "changelog": "",
+      "changelog": "Just making sure everything worked and added the ability to use all weapons with the same limiter since some melee weapons weren't working for some reason.",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-10-01T22:47:13.484Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555337112600055954"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-02T00:12:21.014Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555371197741404161"
       },
       "id": "two_weapons_ca99d3",
-      "version": "20261001-215424",
-      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261001-215424.cwm",
-      "size": 259410,
-      "sha256": "b7d640e6585d2f54dca26f8a5647ff8c7153341338b4b981a911ff6679de21b4",
+      "version": "20261002-000950",
+      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261002-000950.cwm",
+      "size": 269817,
+      "sha256": "e0f90da3771d371adf422975809e4d8befb9a47f469a38b0a649c5e4103da268",
       "history": [
+        {
+          "version": "20261002-000950",
+          "changelog": "Just making sure everything worked and added the ability to use all weapons with the same limiter since some melee weapons weren't working for some reason.",
+          "published": "2026-10-02T00:12:21.014Z"
+        },
         {
           "version": "20261001-215424",
           "changelog": "",
