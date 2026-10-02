@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T22:47:17.845Z",
+  "generated": "2026-10-02T00:12:25.636Z",
   "notices": [
+    {
+      "key": "bf7118a66156933571510c7a4e9d8ecbf2a02db397a2f313c6a351ecca5af2e8",
+      "status": "approved",
+      "mod": "Two Loadout Choices",
+      "id": "two_weapons_ca99d3",
+      "version": "20261002-000950",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-02T00:12:25.368Z"
+    },
     {
       "key": "bf7118a66156933571510c7a4e9d8ecbf2a02db397a2f313c6a351ecca5af2e8",
       "status": "approved",
@@ -2004,16 +2015,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-15T20:06:36.970Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.4",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-15T20:06:30.978Z"
     }
   ]
 }
