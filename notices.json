@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:17:48.561Z",
+  "generated": "2026-10-02T21:18:11.226Z",
   "notices": [
+    {
+      "key": "be2cc82771bf5ab94a1769918abe34f8e06130a376764609d23e06410eceef39",
+      "status": "collab",
+      "mod": "Gauntlet 1",
+      "id": "gauntlet_1_3229a8",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-10-02T21:18:10.959Z"
+    },
     {
       "key": "bc5c30556b1009be1623b4d5be98e420cf5ededf02821796ed63b3a211c5b976",
       "status": "collab",
@@ -2008,16 +2018,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-17T03:05:08.370Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "T9 Bots",
-      "id": "t9_bots",
-      "version": null,
-      "reason": "**Fanatic** (@fanaticsoftware) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-16T20:41:47.287Z"
     }
   ]
 }
