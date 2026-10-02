@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T03:47:13.468Z",
+  "generated": "2026-10-02T04:49:36.981Z",
   "notices": [
+    {
+      "key": "3060ce6dc4bd9693b634798850d90f4331bbeafdae4dee1cfb846ede6ae19caa",
+      "status": "approved",
+      "mod": "Extended Hordes",
+      "id": "horde_mod_6a1b9c",
+      "version": "20261002-044319",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-02T04:49:36.762Z"
+    },
     {
       "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
       "status": "approved",
@@ -2007,16 +2018,6 @@
       "reason": "Published by co-author TheTeaa.",
       "by": "teaa_the_silliest",
       "at": "2026-09-16T07:30:26.271Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.5",
-      "reason": "Published by co-author TheTeaa.",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-16T07:20:25.216Z"
     }
   ]
 }
