@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T03:16:08.871Z",
+  "generated": "2026-10-02T03:26:08.821Z",
   "mods": {
     "directors_cut": {
       "favorites": 157,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 402,
+      "favorites": 403,
       "rating": {
         "count": 25,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 5,
         "average": 5
@@ -80,7 +80,7 @@
       }
     },
     "deadlight_greenlight_fc56b7": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 4,
         "average": 4.8
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 5,
         "average": 5
@@ -171,13 +171,20 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 4
       }
     },
     "two_weapons_ca99d3": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "test_e5ab1b": {
       "favorites": 1,
       "rating": {
         "count": 0,
