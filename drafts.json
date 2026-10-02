@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:57:47.767Z",
+  "generated": "2026-10-02T22:59:39.974Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -112,9 +112,14 @@
         "id": "413539982611972126",
         "name": "itsjonathan08"
       },
-      "collaborators": [],
+      "collaborators": [
+        "115173340334915587"
+      ],
       "claimed": "2026-10-02T22:57:16.182Z",
-      "updated": "2026-10-02T22:57:16.182Z"
+      "updated": "2026-10-02T22:57:16.182Z",
+      "collaboratorNames": {
+        "115173340334915587": "Oryxs Middle Orb"
+      }
     },
     {
       "id": "gauntlet_1_3229a8",
