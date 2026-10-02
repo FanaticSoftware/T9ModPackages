@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:18:19.042Z",
+  "generated": "2026-10-02T21:18:41.520Z",
   "notices": [
+    {
+      "key": "28de78f9a7db342e97836c7be6c880458ae5f8c2111f6970ac77632104ae10bf",
+      "status": "collab",
+      "mod": "Gauntlet 1",
+      "id": "gauntlet_1_3229a8",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-10-02T21:18:41.346Z"
+    },
     {
       "key": "6350975a66eeaa5acd5c747bd7de82cb6d6ea72e5a1e786dc7014e5d479b1f9d",
       "status": "collab",
@@ -2008,16 +2018,6 @@
       "reason": "Published by co-author TheTeaa.",
       "by": "teaa_the_silliest",
       "at": "2026-09-18T16:50:08.278Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "ZM Classic",
-      "id": "zm_classic",
-      "version": "20260918-081511",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-18T08:15:52.751Z"
     }
   ]
 }
