@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T18:06:09.416Z",
+  "generated": "2026-10-02T18:16:09.408Z",
   "mods": {
     "directors_cut": {
-      "favorites": 165,
+      "favorites": 166,
       "rating": {
         "count": 13,
         "average": 5
@@ -75,7 +75,7 @@
     "day_night": {
       "favorites": 68,
       "rating": {
-        "count": 7,
+        "count": 8,
         "average": 4.9
       }
     },
@@ -110,8 +110,8 @@
     "custom_mutations_dc3d6f": {
       "favorites": 93,
       "rating": {
-        "count": 14,
-        "average": 3.5
+        "count": 15,
+        "average": 3.3
       }
     },
     "start_with_chrysal_456002": {
