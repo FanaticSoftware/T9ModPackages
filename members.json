@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T16:36:08.341Z",
+  "generated": "2026-10-02T17:36:08.409Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1236,6 +1236,12 @@
       "id": "970439670553018439",
       "name": "dcedi",
       "username": "dcedi",
+      "modder": true
+    },
+    {
+      "id": "623675190613901322",
+      "name": "Deadgamer1001",
+      "username": "deadgamer1001",
       "modder": true
     },
     {
@@ -4578,6 +4584,12 @@
       "id": "1052995145303343167",
       "name": "Steelviper",
       "username": ".steelviper",
+      "modder": true
+    },
+    {
+      "id": "1120068868241637497",
+      "name": "Steven Seagal",
+      "username": "megabuster12379",
       "modder": true
     },
     {
