@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T03:46:49.048Z",
+  "generated": "2026-10-02T03:47:08.360Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2153,7 +2153,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "ffd5fed0a915f10356bc526ae997ef03b565bb971a3c49b7c94b716500dab055",
+      "sourceSha256": "253eb957f024ed3418ff7a1cdcb2800cf76bffca0d047f43e83dd5f828a60db8",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -2172,20 +2172,25 @@
         "Easy",
         "Solo"
       ],
-      "changelog": "",
+      "changelog": "Removed debugging lines.\nElites now drop 3 grenades instead of 1.",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-10-01T06:48:05.102Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555106603483664429"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-02T03:47:07.842Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555412409945030730"
       },
       "id": "zombyrdom_411e72",
-      "version": "20261001-063824",
-      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261001-063824.cwm",
-      "size": 2037289,
-      "sha256": "226949e06854c3e077a12c15c8e060053bb16ee2670d37778dfdbaba547210dd",
+      "version": "20261002-025333",
+      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261002-025333.cwm",
+      "size": 2039285,
+      "sha256": "52fb1f92b9fc5c829a8c5ef52d193256a4f0d2f070b051638a025e1744c9e24b",
       "history": [
+        {
+          "version": "20261002-025333",
+          "changelog": "Removed debugging lines.\nElites now drop 3 grenades instead of 1.",
+          "published": "2026-10-02T03:47:07.842Z"
+        },
         {
           "version": "20261001-063824",
           "changelog": "",
