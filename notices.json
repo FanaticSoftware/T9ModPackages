@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:18:47.455Z",
+  "generated": "2026-10-02T22:36:57.975Z",
   "notices": [
+    {
+      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
+      "status": "approved",
+      "mod": "Nacht Only (Die Maschine)",
+      "id": "dm_nacht_74d31a",
+      "version": "20261002-221502",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-02T22:36:57.790Z"
+    },
     {
       "key": "4e1fa9e383f82d83d2be9abf5f961b5289792b379d09a9dfa947a42c69c3a8a0",
       "status": "collab",
@@ -2008,16 +2019,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-18T22:10:23.670Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.7",
-      "reason": "Published by co-author TheTeaa.",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-18T16:50:09.299Z"
     }
   ]
 }
