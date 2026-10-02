@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T03:47:08.360Z",
+  "generated": "2026-10-02T04:49:32.274Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1077,6 +1077,66 @@
       ],
       "thumbnail": "mod_packages/holiday_events/thumbnail.png",
       "thumbnailSha256": "0e8bb4a0e25744e37689967f44d6a0d928b8a30754e2bed9de3b168969e2c351",
+      "collaborators": []
+    },
+    {
+      "title": "Extended Hordes",
+      "description": "Extend the Hordes, extend the fun! (or stress, take it as you like)\nChange the default Zombie Horde limit from 40 to 64 and improve your skills dodging even MORE Zombie arms!\nOr, if you like to, you can also decrease the amount of Zombies even to just 1!\n\nIt's on the works to check if it's possible to extend even more the amount of Zombies, meanwhile, enjoy having more Zombies to kill!\nIt's yet to be tested on Outbreak and Onslaught gamemodes. If it works or it have problems, please reach out to me!\nThanks for playing and helping bring Black Ops Cold War to its Glory again!\n\n- If there's an issue with another Mod or in THIS mod itself, have a suggestion or a complain, please DM me on Discord: \"saku.mvf\" with the context, ie:\n\"Hi! I've played X mod (my mod, and if applies) together with X mod (another Creator's mod) and it Crashes! Can you take a look please? Thanks!\"",
+      "author": {
+        "discordName": "saku.mvf",
+        "id": "535500260726800387",
+        "name": "Sakupen"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "fb75f96f78ba14f91fbd36e229343cc41dd52ebf962386e674376eb34b4a0c75",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 1,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Quality of Life",
+        "Challenge / Custom Rules",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Zombies / AI",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Hard",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-02T04:49:31.963Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555440038026678347"
+      },
+      "id": "horde_mod_6a1b9c",
+      "version": "20261002-044319",
+      "file": "mod_packages/horde_mod_6a1b9c/horde_mod_6a1b9c-20261002-044319.cwm",
+      "size": 1274205,
+      "sha256": "a8e4275c52f0272ddd0377a70bbe6ce65de5fc6437e25ab2c358ef2612935e43",
+      "history": [
+        {
+          "version": "20261002-044319",
+          "changelog": "",
+          "published": "2026-10-02T04:49:31.963Z"
+        }
+      ],
+      "thumbnail": "mod_packages/horde_mod_6a1b9c/thumbnail.png",
+      "thumbnailSha256": "777264aa258cf478f347fcf77041ab3a358ead9b9a5b7d0974e73725b4d01339",
       "collaborators": []
     },
     {
