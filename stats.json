@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T14:36:09.202Z",
+  "generated": "2026-10-02T15:26:09.357Z",
   "mods": {
     "directors_cut": {
       "favorites": 163,
@@ -12,7 +12,7 @@
     "boss_rush": {
       "favorites": 76,
       "rating": {
-        "count": 10,
+        "count": 11,
         "average": 4.9
       }
     },
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 110,
+      "favorites": 111,
       "rating": {
         "count": 13,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 54,
+      "favorites": 55,
       "rating": {
         "count": 1,
         "average": 5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 3,
         "average": 3.7
