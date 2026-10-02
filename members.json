@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T04:36:08.093Z",
+  "generated": "2026-10-02T05:36:08.111Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4122,6 +4122,12 @@
       "id": "684408486456852481",
       "name": "SaintVertigo",
       "username": "saintvertigo",
+      "modder": true
+    },
+    {
+      "id": "535500260726800387",
+      "name": "saku",
+      "username": "saku.mvf",
       "modder": true
     },
     {
