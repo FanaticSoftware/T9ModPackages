@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T10:26:09.143Z",
+  "generated": "2026-10-02T11:06:09.171Z",
   "mods": {
     "directors_cut": {
-      "favorites": 162,
+      "favorites": 163,
       "rating": {
         "count": 11,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 403,
+      "favorites": 404,
       "rating": {
         "count": 25,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 6,
         "average": 4.9
@@ -87,14 +87,14 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 50,
+      "favorites": 51,
       "rating": {
         "count": 6,
         "average": 4.1
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 2,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 92,
+      "favorites": 93,
       "rating": {
         "count": 14,
         "average": 3.6
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 3,
         "average": 3.5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 3,
         "average": 3.7
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 0,
         "average": 0
