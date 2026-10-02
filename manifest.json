@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:36:53.314Z",
+  "generated": "2026-10-02T22:58:39.220Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1454,18 +1454,10 @@
       ],
       "thumbnail": "mod_packages/quick_restart_9e740d/thumbnail.png",
       "thumbnailSha256": "d28310685eee5e7bc6d5c30b706121c119f46b2f2d28bcc8646bf56441b2eb78",
-      "collaborators": [
-        "115173340334915587"
-      ],
-      "collaboratorNames": {
-        "115173340334915587": "Oryxs Middle Orb"
-      },
+      "collaborators": [],
       "testerAccounts": {
         "413539982611972126": [
           "6e205dec500fa973"
-        ],
-        "115173340334915587": [
-          "1931db6d93c0a4da"
         ]
       }
     },
