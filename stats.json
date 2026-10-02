@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T12:26:09.244Z",
+  "generated": "2026-10-02T13:36:09.119Z",
   "mods": {
     "directors_cut": {
       "favorites": 163,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 404,
+      "favorites": 405,
       "rating": {
         "count": 25,
         "average": 5
@@ -173,8 +173,8 @@
     "test_lot_of_health_eb14c2": {
       "favorites": 12,
       "rating": {
-        "count": 1,
-        "average": 4
+        "count": 2,
+        "average": 4.5
       }
     },
     "two_weapons_ca99d3": {
