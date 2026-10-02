@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:57:41.987Z",
+  "generated": "2026-10-02T22:57:47.767Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -566,20 +566,12 @@
         "id": "115173340334915587",
         "name": "tech_wave"
       },
-      "collaborators": [
-        "413539982611972126"
-      ],
+      "collaborators": [],
       "claimed": "2026-10-02T19:39:37.969Z",
       "updated": "2026-10-02T19:39:37.969Z",
-      "collaboratorNames": {
-        "413539982611972126": "ItsJonathan"
-      },
       "testerAccounts": {
         "115173340334915587": [
           "1931db6d93c0a4da"
-        ],
-        "413539982611972126": [
-          "6e205dec500fa973"
         ]
       }
     }
