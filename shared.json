@@ -288,7 +288,17 @@
       "files": 1,
       "by": "115173340334915587",
       "updated": "2026-10-02T22:38:17.213Z"
+    },
+    "forsaken_spawn_room_a26fbe": {
+      "file": "shared_projects/forsaken_spawn_room_a26fbe/f31f38abd228265a.cwm",
+      "size": 15808,
+      "sha256": "f31f38abd228265a269cd7bf70b52045d1a7d42f6c5dcee2a3464efdced24fe2",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 1,
+      "by": "413539982611972126",
+      "updated": "2026-10-02T23:07:08.270Z"
     }
   },
-  "generated": "2026-10-02T22:38:17.214Z"
+  "generated": "2026-10-02T23:07:08.270Z"
 }
