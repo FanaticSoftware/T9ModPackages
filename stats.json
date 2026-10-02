@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:06:09.624Z",
+  "generated": "2026-10-02T23:26:09.692Z",
   "mods": {
     "directors_cut": {
       "favorites": 166,
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 57,
+      "favorites": 58,
       "rating": {
         "count": 2,
         "average": 4
