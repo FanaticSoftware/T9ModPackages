@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:14:05.531Z",
+  "generated": "2026-10-02T21:14:49.096Z",
   "invites": [
-    {
-      "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
-      "mod": "zombie_snacks_9d8881",
-      "title": "Zombie Snacks",
-      "ownerId": "115173340334915587",
-      "ownerName": "tech_wave",
-      "at": "2026-10-02T21:14:05.531Z"
-    },
     {
       "key": "697590f28ec3ade0ab6febdee7ec8629e8420a8bfe595b33e49187278b8720d6",
       "mod": "zombie_snacks_9d8881",
