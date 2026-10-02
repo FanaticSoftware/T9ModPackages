@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T10:06:09.199Z",
+  "generated": "2026-10-02T10:26:09.143Z",
   "mods": {
     "directors_cut": {
       "favorites": 162,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 72,
+      "favorites": 73,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 4,
         "average": 4.8
