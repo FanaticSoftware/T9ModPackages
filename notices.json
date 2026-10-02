@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T21:18:41.520Z",
+  "generated": "2026-10-02T21:18:47.455Z",
   "notices": [
+    {
+      "key": "4e1fa9e383f82d83d2be9abf5f961b5289792b379d09a9dfa947a42c69c3a8a0",
+      "status": "collab",
+      "mod": "Gauntlet 1",
+      "id": "gauntlet_1_3229a8",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-10-02T21:18:47.299Z"
+    },
     {
       "key": "28de78f9a7db342e97836c7be6c880458ae5f8c2111f6970ac77632104ae10bf",
       "status": "collab",
@@ -2008,16 +2018,6 @@
       "reason": "Published by co-author TheTeaa.",
       "by": "teaa_the_silliest",
       "at": "2026-09-18T16:50:09.299Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "1.0.7",
-      "reason": "Published by co-author TheTeaa.",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-18T16:50:08.278Z"
     }
   ]
 }
