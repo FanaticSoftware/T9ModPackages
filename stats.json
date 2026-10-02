@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T23:56:08.599Z",
+  "generated": "2026-10-02T00:26:08.587Z",
   "mods": {
     "directors_cut": {
       "favorites": 155,
@@ -172,6 +172,13 @@
     },
     "test_lot_of_health_eb14c2": {
       "favorites": 2,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "two_weapons_ca99d3": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
