@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:32:37.617Z",
+  "generated": "2026-10-03T05:24:11.427Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2192,6 +2192,55 @@
       ],
       "thumbnail": "mod_packages/two_weapons_ca99d3/thumbnail.png",
       "thumbnailSha256": "72f91264c5357273dd991cf1999d89cd35b3f98962dbb1c4ef11aac496df8301",
+      "collaborators": []
+    },
+    {
+      "title": "BO7",
+      "description": "Implements BO7 features - currently limited to the wall bounce feature with plans for more additions soon!",
+      "author": {
+        "discordName": "russ_nb",
+        "id": "761432580632870943",
+        "name": "russ_nb"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "95af8d70dd16a66c994857d2f49b7a1be5dd56a12a189f42fb02e12eb83ad0df",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Movement",
+        "All Maps"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-03T05:24:10.946Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555731601370120227"
+      },
+      "id": "wall_jump_20261002",
+      "version": "20261003-000154",
+      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261003-000154.cwm",
+      "size": 376591,
+      "sha256": "67199b4e2113fca0f892a9e08f63f4904b72b71aed761c97bf4fc23d4219f382",
+      "history": [
+        {
+          "version": "20261003-000154",
+          "changelog": "",
+          "published": "2026-10-03T05:24:10.946Z"
+        }
+      ],
+      "thumbnail": "mod_packages/wall_jump_20261002/thumbnail.png",
+      "thumbnailSha256": "84a298f50cf534957ddb36cf9b6afc4b5b61064d81d79169e027de07e7df9d67",
       "collaborators": []
     },
     {
