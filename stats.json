@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T22:36:10.669Z",
+  "generated": "2026-10-03T22:46:10.728Z",
   "mods": {
     "directors_cut": {
       "favorites": 178,
@@ -24,21 +24,21 @@
       }
     },
     "holiday_events": {
-      "favorites": 117,
+      "favorites": 118,
       "rating": {
         "count": 13,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 425,
+      "favorites": 426,
       "rating": {
         "count": 29,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 47,
+      "favorites": 48,
       "rating": {
         "count": 5,
         "average": 4.8
