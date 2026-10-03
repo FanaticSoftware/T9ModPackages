@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:31:59.683Z",
+  "generated": "2026-10-03T02:32:42.394Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "Zombie Snacks",
+      "id": "zombie_snacks_9d8881",
+      "version": "20261003-021648",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-03T02:32:42.235Z"
+    },
     {
       "key": "3060ce6dc4bd9693b634798850d90f4331bbeafdae4dee1cfb846ede6ae19caa",
       "status": "approved",
@@ -2011,16 +2022,6 @@
       "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
       "by": "",
       "at": "2026-09-19T00:52:51.774Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "approved",
-      "mod": "Test Mod",
-      "id": "test_mod_6e01be",
-      "version": "20260919-004157",
-      "reason": "",
-      "by": "fanaticsoftware",
-      "at": "2026-09-19T00:43:16.393Z"
     }
   ]
 }
