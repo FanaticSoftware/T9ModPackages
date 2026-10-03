@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T01:41:39.682Z",
+  "generated": "2026-10-03T02:31:59.683Z",
   "notices": [
+    {
+      "key": "3060ce6dc4bd9693b634798850d90f4331bbeafdae4dee1cfb846ede6ae19caa",
+      "status": "approved",
+      "mod": "Extended Hordes",
+      "id": "horde_mod_6a1b9c",
+      "version": "20261003-021353",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-03T02:31:59.507Z"
+    },
     {
       "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
       "status": "approved",
@@ -2010,16 +2021,6 @@
       "reason": "",
       "by": "fanaticsoftware",
       "at": "2026-09-19T00:43:16.393Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "ZM Classic",
-      "id": "zm_classic",
-      "version": "20260919-003605",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-19T00:36:40.224Z"
     }
   ]
 }
