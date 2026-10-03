@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T16:36:08.341Z",
+  "generated": "2026-10-03T17:36:08.387Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3732,6 +3732,12 @@
       "id": "1148074046349656296",
       "name": "OrZeliuM",
       "username": "soulstealap",
+      "modder": true
+    },
+    {
+      "id": "1525593135001108592",
+      "name": "Osama Kirk Laden",
+      "username": "pepitodicehola1",
       "modder": true
     },
     {
