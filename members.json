@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T19:36:08.322Z",
+  "generated": "2026-10-03T20:36:08.460Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -918,6 +918,12 @@
       "id": "836541591022862386",
       "name": "capeling",
       "username": "capeling",
+      "modder": true
+    },
+    {
+      "id": "1528681121859108904",
+      "name": "caption23",
+      "username": "caption242",
       "modder": true
     },
     {
@@ -3000,6 +3006,12 @@
       "id": "1042279362147385454",
       "name": "Lillian",
       "username": "lillianro.se",
+      "modder": true
+    },
+    {
+      "id": "842533814923427841",
+      "name": "lilschmitty",
+      "username": "lilschmitty6080",
       "modder": true
     },
     {
