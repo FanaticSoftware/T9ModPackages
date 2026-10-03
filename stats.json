@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T10:26:10.137Z",
+  "generated": "2026-10-03T10:56:10.116Z",
   "mods": {
     "directors_cut": {
-      "favorites": 172,
+      "favorites": 173,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 416,
+      "favorites": 417,
       "rating": {
         "count": 26,
         "average": 5
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 2,
         "average": 4.5
