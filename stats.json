@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T20:56:10.695Z",
+  "generated": "2026-10-03T21:16:10.686Z",
   "mods": {
     "directors_cut": {
-      "favorites": 176,
+      "favorites": 177,
       "rating": {
         "count": 14,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 5,
         "average": 4.8
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
