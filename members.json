@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T22:36:08.587Z",
+  "generated": "2026-10-03T23:36:13.434Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -156,6 +156,12 @@
       "id": "341329803388911618",
       "name": "⛧",
       "username": "bc1q",
+      "modder": true
+    },
+    {
+      "id": "897778086752440321",
+      "name": "✮⋆˙",
+      "username": "starophreniaaa",
       "modder": true
     },
     {
@@ -2364,12 +2370,6 @@
       "id": "1227316920009887817",
       "name": "Isami",
       "username": "_isami_",
-      "modder": true
-    },
-    {
-      "id": "897778086752440321",
-      "name": "isekai",
-      "username": "starophren1c",
       "modder": true
     },
     {
@@ -5367,6 +5367,12 @@
       "modder": true
     },
     {
+      "id": "1440424212383662291",
+      "name": "WildWill009",
+      "username": "wildwill009",
+      "modder": true
+    },
+    {
       "id": "338019914604609538",
       "name": "WILL",
       "username": "will157sss",
@@ -5556,6 +5562,18 @@
       "id": "762805916344647700",
       "name": "z3tooor",
       "username": "z3tooor",
+      "modder": true
+    },
+    {
+      "id": "1556080435321249882",
+      "name": "Z9♦",
+      "username": "alluring_dragon_39739",
+      "modder": true
+    },
+    {
+      "id": "521588724027621396",
+      "name": "Z9HQ",
+      "username": "z9_envy.",
       "modder": true
     },
     {
