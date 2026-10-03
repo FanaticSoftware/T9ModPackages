@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T15:45:09.255Z",
+  "generated": "2026-10-03T15:46:29.357Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2201,7 +2201,7 @@
     },
     {
       "title": "BO7",
-      "description": "Implements BO7 features - currently limited to the wall bounce feature with plans for more additions soon!",
+      "description": "Implements BO7 features - select which BO7 enhancements to add to your game!",
       "author": {
         "discordName": "russ_nb",
         "id": "761432580632870943",
@@ -2209,35 +2209,40 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "95af8d70dd16a66c994857d2f49b7a1be5dd56a12a189f42fb02e12eb83ad0df",
+      "sourceSha256": "fce22b7d62b1327c91a068634ff447b58f25f0201ce4f572d20274a1fb1c627c",
       "scan": {
         "critical": 0,
         "high": 0,
-        "low": 0,
+        "low": 2,
         "medium": 0,
         "rules": "2026.09.26",
-        "summary": "clean, nothing flagged"
+        "summary": "2 low"
       },
-      "settings": 0,
+      "settings": 2,
       "tags": [
         "Gameplay Overhaul",
         "Movement",
         "All Maps"
       ],
-      "changelog": "",
+      "changelog": "- Added slide to knock down zombie from BO6/BO7. Note: this has no effect when PHD is active.\n- Added settings to select which features to enable.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-03T05:24:10.946Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555731601370120227"
+        "at": "2026-10-03T15:46:28.994Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555965252682776577"
       },
       "id": "wall_jump_20261002",
-      "version": "20261003-000154",
-      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261003-000154.cwm",
-      "size": 376591,
-      "sha256": "67199b4e2113fca0f892a9e08f63f4904b72b71aed761c97bf4fc23d4219f382",
+      "version": "20261003-153023",
+      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261003-153023.cwm",
+      "size": 383785,
+      "sha256": "c8b9e8299b2fd4ea4c34fd2b7390c0fa2a75c7aad75b1447980422246a40b6de",
       "history": [
+        {
+          "version": "20261003-153023",
+          "changelog": "- Added slide to knock down zombie from BO6/BO7. Note: this has no effect when PHD is active.\n- Added settings to select which features to enable.",
+          "published": "2026-10-03T15:46:28.994Z"
+        },
         {
           "version": "20261003-000154",
           "changelog": "",
