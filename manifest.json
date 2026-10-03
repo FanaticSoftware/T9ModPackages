@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T17:37:56.339Z",
+  "generated": "2026-10-03T19:38:52.033Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1399,6 +1399,60 @@
       ],
       "thumbnail": "mod_packages/nacht_survival_396e21/thumbnail.png",
       "thumbnailSha256": "1b12d023c0c2de86de8fe18239fae9048c028ef582d2381d4c1b97f370f3e60c",
+      "collaborators": []
+    },
+    {
+      "title": "Nikolai Zombies Toolkit",
+      "description": "Nikolai Zombies Toolkit brings convenient gameplay shortcuts to your solo Cold War Zombies matches. Experiment with weapon upgrades, restock supplies, and customize your survival experience without opening a menu.\n\nFEATURES\n\n• Add 25,000 points per use.\n• Toggle invincibility on or off.\n• Refill ammunition for your carried weapons.\n• Add 1,000 regular Salvage and 100 High-Grade Salvage.\n• Add one Field Upgrade charge, up to its maximum capacity.\n• Upgrade your current weapon by one Pack-a-Punch level, up to Level III.\n• View a compact shortcut guide when you need it.\n\nCONTROLS\n\nHold Aim, then press:\n\n• Interact → Add 25,000 points.\n• Reload → Toggle invincibility.\n• Melee → Refill ammunition.\n• Jump → Upgrade your current weapon.\n\nFor the following combinations, hold the first two buttons BEFORE pressing Aim:\n\n• Reload + Melee, then Aim → Add Salvage.\n• Interact + Melee, then Aim → Recharge your Field Upgrade.\n• Interact + Reload, then hold Aim for two seconds → Show the shortcut guide.\n\nRelease the buttons after each combination before using another shortcut.\n\nUSAGE NOTES\n\n• This version supports Solo matches only.\n• Controls follow your in-game button bindings.\n• Buttons retain their normal gameplay actions.\n• Weapon upgrades depend on the weapon and the upgrade system being available.\n• Salvage and Field Upgrade features require their corresponding systems to be active.\n• Aiming alone does not display the shortcut guide.\n\nCreated by Nikolai.Kw & AI",
+      "author": {
+        "discordName": "g_8l",
+        "id": "1028605611702763522",
+        "name": "Nikolai.Kw / g_8l"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "f355143852964d630876cc772001fb68a9d89b4fecb9ef5ac0101bb489cea781",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 23,
+        "rules": "2026.09.26",
+        "summary": "23 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Pack-a-Punch",
+        "Points / Economy",
+        "Field Upgrades",
+        "Salvage / Crafting",
+        "Player Health / Downs",
+        "Balanced",
+        "Solo"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-03T19:38:51.662Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556026828265623711"
+      },
+      "id": "nikolai_mod_menu_767906",
+      "version": "20261003-193459",
+      "file": "mod_packages/nikolai_mod_menu_767906/nikolai_mod_menu_767906-20261003-193459.cwm",
+      "size": 1577299,
+      "sha256": "1fe6ebf4a89f6621b6a4db500017d52bb2336fcd9cb07463ed1d19c35dcfb48c",
+      "history": [
+        {
+          "version": "20261003-193459",
+          "changelog": "",
+          "published": "2026-10-03T19:38:51.662Z"
+        }
+      ],
+      "thumbnail": "mod_packages/nikolai_mod_menu_767906/thumbnail.png",
+      "thumbnailSha256": "ba7498aa5137f861524ff816f34e0839feba2d2f43caabc24d1b40a32de61a87",
       "collaborators": []
     },
     {
