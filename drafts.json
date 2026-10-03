@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:46:39.095Z",
+  "generated": "2026-10-03T03:45:19.459Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -258,9 +258,14 @@
         "id": "115173340334915587",
         "name": "tech_wave"
       },
-      "collaborators": [],
+      "collaborators": [
+        "413539982611972126"
+      ],
       "claimed": "2026-10-03T02:46:39.095Z",
-      "updated": "2026-10-03T02:46:39.095Z"
+      "updated": "2026-10-03T02:46:39.095Z",
+      "collaboratorNames": {
+        "413539982611972126": "ItsJonathan"
+      }
     },
     {
       "id": "mod_menu_796e25",
