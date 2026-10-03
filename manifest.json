@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T22:58:39.220Z",
+  "generated": "2026-10-03T01:41:35.026Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -890,6 +890,62 @@
       "testerAccounts": {
         "684408486456852481": [
           "790835014941a647"
+        ]
+      }
+    },
+    {
+      "title": "Forsaken Spawn Room Only",
+      "description": "FORSAKEN SPAWN ROOM ONLY\nForsaken's spawn room as a round-based map. You can't leave the room, so you play here the whole time. What makes this specific room so special is that this is one of the only rooms in the entirety of Cold War that continuously spawns zombies, meaning no break from zombies at all.\n\nWHAT IS IN THE ROOM\n- Der Wunderfizz, in place of the Death Perception machine. It is the only source of perks.\n- Pack-a-Punch, inside the Main Street teleporter\n- The Mystery Box\n- The Armor Station and the Rampage Inducer\n- The Exfil radio, on the crate in the corner of the room. It comes on at round 11 and every fifth round after that, like in a normal game. The helicopter picks you up in the spawn room.\n\nBOX EXTRAS\nThe box in this mod carries all the weapons that exist in Cold War Zombies, including wonder weapons from other maps that usually wouldn't exist here. \n\nIn order for this mod to function you must play on Forsaken. It will not do anything on any other map. \n\nNOT YET TESTED\n- Whether the extra box weapons come out by chance. They were forced out of the box and worked, but nobody has seen them roll naturally yet.\n- Other mods that change rounds, the box or the Exfil (The bot mod also has not been tried with it).\n\nCREDITS\n- grave (Discord): provided a code snippet that allowed for the spawning of machines in custom positions. .\n- DK420187 (Discord): provided a full weapon name list used for the box weapons.",
+      "author": {
+        "discordName": "itsjonathan08",
+        "id": "413539982611972126",
+        "name": "Nullvector"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "0426f59d3bb03099a656112c12d1dd60d5565fd309ebcc512b0da2b0cb45d3fc",
+      "scan": {
+        "critical": 0,
+        "high": 3,
+        "low": 0,
+        "medium": 11,
+        "rules": "2026.09.26",
+        "summary": "3 high, 11 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Challenge / Custom Rules",
+        "Forsaken",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-03T01:41:34.658Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555752149781184554"
+      },
+      "id": "forsaken_spawn_room_a26fbe",
+      "version": "20261003-012335",
+      "file": "mod_packages/forsaken_spawn_room_a26fbe/forsaken_spawn_room_a26fbe-20261003-012335.cwm",
+      "size": 1161263,
+      "sha256": "23725d3b7ba903650195061a6c712a4bb388ad5a5ac3aa30e6a303e2c26ff627",
+      "history": [
+        {
+          "version": "20261003-012335",
+          "changelog": "",
+          "published": "2026-10-03T01:41:34.658Z"
+        }
+      ],
+      "thumbnail": "mod_packages/forsaken_spawn_room_a26fbe/thumbnail.png",
+      "thumbnailSha256": "5db6e1d0cdeb0be3ea54525f4820616a77dd0ce47ab9424f0ea5ef10da45ffc7",
+      "collaborators": [],
+      "testerAccounts": {
+        "413539982611972126": [
+          "6e205dec500fa973"
         ]
       }
     },
