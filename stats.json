@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T14:46:10.346Z",
+  "generated": "2026-10-03T15:36:10.296Z",
   "mods": {
     "directors_cut": {
       "favorites": 173,
@@ -40,7 +40,7 @@
     "zm_classic": {
       "favorites": 419,
       "rating": {
-        "count": 26,
+        "count": 27,
         "average": 5
       }
     },
@@ -131,7 +131,7 @@
     "nacht_survival_396e21": {
       "favorites": 46,
       "rating": {
-        "count": 4,
+        "count": 5,
         "average": 4.8
       }
     },
@@ -222,8 +222,8 @@
     "wall_jump_20261002": {
       "favorites": 1,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     }
   }
