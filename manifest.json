@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T15:47:09.751Z",
+  "generated": "2026-10-03T15:49:38.890Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -309,6 +309,64 @@
       ],
       "thumbnail": "mod_packages/coop_spawnrate_fix_d47076/thumbnail.png",
       "thumbnailSha256": "2f55ee0ba37ce1181bac0bc12799a889bfd99d0053f1ebdc21600a8c41f06f67",
+      "collaborators": []
+    },
+    {
+      "title": "Loadout Customizer",
+      "description": "Customize your starting loadout in Black Ops Cold War Zombies!\n\nChoose your starting weapons, Pack-a-Punch tier, weapon rarity, Ammo Mods, perks, equipment, armor, Field Upgrade, Scorestreaks, and starting Essence.\n\nLoad into a match with your custom setup and skip the usual grind to get the loadout you want. Your selected settings are applied to every eligible player when the match starts.",
+      "author": {
+        "discordName": "xbox_live_water",
+        "id": "1006708578696048650",
+        "name": "xbox_live_water"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "2a0d02d8df5714d453ee376730b18ca2a5c90ccec7cab8950f5d0ad429873302",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 22,
+        "rules": "2026.09.26",
+        "summary": "22 medium"
+      },
+      "settings": 34,
+      "tags": [
+        "Quality of Life",
+        "Weapons",
+        "Wonder Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Points / Economy",
+        "Field Upgrades",
+        "Armor / Rarity",
+        "All Maps",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-03T15:49:38.600Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555805654034423943"
+      },
+      "id": "custom_insertion_317c70",
+      "version": "20261003-045611",
+      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261003-045611.cwm",
+      "size": 221332,
+      "sha256": "d72b8f8fdf6edd6e02157fe90666750bb552b0e89fc571e6381be01716b08d5e",
+      "history": [
+        {
+          "version": "20261003-045611",
+          "changelog": "",
+          "published": "2026-10-03T15:49:38.600Z"
+        }
+      ],
+      "thumbnail": "mod_packages/custom_insertion_317c70/thumbnail.png",
+      "thumbnailSha256": "0a4cd256dbec11414fae0a2c8621248997a22aa1623cd85f4d2ad5a4407587d0",
       "collaborators": []
     },
     {
