@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T01:12:27.019Z",
+  "generated": "2026-10-03T01:12:31.922Z",
   "drafts": [
     {
       "id": "aetheria_unfinished_test_ver",
@@ -112,18 +112,10 @@
         "id": "413539982611972126",
         "name": "itsjonathan08"
       },
-      "collaborators": [
-        "249388147610222593"
-      ],
+      "collaborators": [],
       "claimed": "2026-10-02T22:57:16.182Z",
       "updated": "2026-10-02T22:57:16.182Z",
-      "collaboratorNames": {
-        "249388147610222593": "Mar"
-      },
       "testerAccounts": {
-        "249388147610222593": [
-          "7bc3868752fdc9b9"
-        ],
         "413539982611972126": [
           "6e205dec500fa973"
         ]
