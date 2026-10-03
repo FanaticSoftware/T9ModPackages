@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:46:09.873Z",
+  "generated": "2026-10-03T03:16:09.916Z",
   "mods": {
     "directors_cut": {
-      "favorites": 166,
+      "favorites": 167,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 411,
+      "favorites": 412,
       "rating": {
         "count": 25,
         "average": 5
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 94,
+      "favorites": 95,
       "rating": {
         "count": 16,
         "average": 3.3
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 69,
+      "favorites": 70,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 4,
         "average": 4.8
