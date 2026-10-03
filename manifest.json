@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T15:46:29.357Z",
+  "generated": "2026-10-03T15:47:09.751Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2156,7 +2156,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "26e622c9c678cd2e47390b85b12307a0d3a73e05eca9764153ed23b21ddc2c7e",
+      "sourceSha256": "8ae28813b514611953c24eac290e63aee5f8570968d0e17b9a0f7b0f1b3afe65",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -2170,20 +2170,26 @@
         "Quality of Life",
         "Weapons"
       ],
-      "changelog": "Just making sure everything worked and added the ability to use all weapons with the same limiter since some melee weapons weren't working for some reason.",
+      "changelog": "- Added a Camo Grinding Mode\n- Fixed an issue where your gun would Despawn if you didn't choose the mode / weapon first.",
+      "noProgression": true,
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-02T00:12:21.014Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555371197741404161"
+        "at": "2026-10-03T15:47:09.302Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555932171062218818"
       },
       "id": "two_weapons_ca99d3",
-      "version": "20261002-000950",
-      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261002-000950.cwm",
-      "size": 269817,
-      "sha256": "e0f90da3771d371adf422975809e4d8befb9a47f469a38b0a649c5e4103da268",
+      "version": "20261003-131856",
+      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261003-131856.cwm",
+      "size": 280459,
+      "sha256": "72a89dc40c9297c92b6d3394bc7679ab998527e2e485ca7c9ffc703bea1a1d3e",
       "history": [
+        {
+          "version": "20261003-131856",
+          "changelog": "- Added a Camo Grinding Mode\n- Fixed an issue where your gun would Despawn if you didn't choose the mode / weapon first.",
+          "published": "2026-10-03T15:47:09.302Z"
+        },
         {
           "version": "20261002-000950",
           "changelog": "Just making sure everything worked and added the ability to use all weapons with the same limiter since some melee weapons weren't working for some reason.",
