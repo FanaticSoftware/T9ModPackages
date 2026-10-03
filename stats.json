@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T06:26:09.965Z",
+  "generated": "2026-10-03T07:06:10.001Z",
   "mods": {
     "directors_cut": {
-      "favorites": 170,
+      "favorites": 171,
       "rating": {
         "count": 13,
         "average": 5
@@ -213,6 +213,13 @@
       }
     },
     "zombie_snacks_9d8881": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "wall_jump_20261002": {
       "favorites": 1,
       "rating": {
         "count": 0,
