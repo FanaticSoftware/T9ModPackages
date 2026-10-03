@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T20:26:10.663Z",
+  "generated": "2026-10-03T20:46:10.678Z",
   "mods": {
     "directors_cut": {
       "favorites": 176,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 115,
+      "favorites": 116,
       "rating": {
         "count": 13,
         "average": 5
@@ -228,6 +228,13 @@
     },
     "custom_insertion_317c70": {
       "favorites": 4,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "nikolai_mod_menu_767906": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
