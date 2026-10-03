@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T23:36:08.412Z",
+  "generated": "2026-10-03T00:36:08.366Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1362,6 +1362,12 @@
       "id": "600316833836302378",
       "name": "Dqnnyll",
       "username": "dqnnyll",
+      "modder": true
+    },
+    {
+      "id": "1319625332701265920",
+      "name": "Dr. WunderWASA",
+      "username": "wasafatspider",
       "modder": true
     },
     {
@@ -4545,12 +4551,6 @@
       "modder": true
     },
     {
-      "id": "1319625332701265920",
-      "name": "spiderbear",
-      "username": "wasafatspider",
-      "modder": true
-    },
-    {
       "id": "416997148010479628",
       "name": "Spiderwars",
       "username": "spiderwars",
@@ -5172,6 +5172,12 @@
       "id": "1358488401669525595",
       "name": "Wazzup_Basti",
       "username": "wazzup_basti_",
+      "modder": true
+    },
+    {
+      "id": "504377156474896397",
+      "name": "webby677",
+      "username": "webby4520",
       "modder": true
     },
     {
