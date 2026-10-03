@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T17:26:10.512Z",
+  "generated": "2026-10-03T17:36:10.428Z",
   "mods": {
     "directors_cut": {
       "favorites": 175,
@@ -24,21 +24,21 @@
       }
     },
     "holiday_events": {
-      "favorites": 114,
+      "favorites": 115,
       "rating": {
         "count": 13,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 420,
+      "favorites": 421,
       "rating": {
         "count": 27,
         "average": 5
@@ -206,7 +206,7 @@
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
