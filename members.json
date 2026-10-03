@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T01:36:08.406Z",
+  "generated": "2026-10-03T03:36:08.372Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -876,6 +876,12 @@
       "id": "350892077086932993",
       "name": "c",
       "username": "vital6023",
+      "modder": true
+    },
+    {
+      "id": "690354794241720411",
+      "name": "C Money Bags",
+      "username": "coatedwave",
       "modder": true
     },
     {
@@ -4509,6 +4515,12 @@
       "modder": true
     },
     {
+      "id": "1015821267514970193",
+      "name": "So horny I could fuck a karma",
+      "username": "stunnatoy",
+      "modder": true
+    },
+    {
       "id": "797958857778528256",
       "name": "Sorynx",
       "username": "sorynx",
@@ -4638,12 +4650,6 @@
       "id": "1416862779310346293",
       "name": "Straightorc",
       "username": "lljw999flyhigh",
-      "modder": true
-    },
-    {
-      "id": "1015821267514970193",
-      "name": "stunnatoy",
-      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -5232,6 +5238,12 @@
       "id": "1100686691045478471",
       "name": "Wifmaker",
       "username": ".r0o",
+      "modder": true
+    },
+    {
+      "id": "365687199292981259",
+      "name": "wild",
+      "username": "wildz_",
       "modder": true
     },
     {
