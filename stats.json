@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:36:09.755Z",
+  "generated": "2026-10-03T02:46:09.873Z",
   "mods": {
     "directors_cut": {
       "favorites": 166,
@@ -210,6 +210,13 @@
       "rating": {
         "count": 1,
         "average": 5
+      }
+    },
+    "zombie_snacks_9d8881": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
       }
     }
   }
