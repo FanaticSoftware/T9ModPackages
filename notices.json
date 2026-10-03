@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T19:38:56.812Z",
+  "generated": "2026-10-03T20:28:27.631Z",
   "notices": [
+    {
+      "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
+      "status": "collab",
+      "mod": "1",
+      "id": "1_e59066",
+      "version": null,
+      "reason": "**Serj Tankian** (@wafer.exe) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-10-03T20:28:27.489Z"
+    },
     {
       "key": "cb68e2099cc9682502264e63c055728b54110a52961b9f569e7f7f28d11f7dfb",
       "status": "approved",
@@ -2019,16 +2029,6 @@
       "reason": "Published by co-author Fanatic.",
       "by": "illuminatidonut",
       "at": "2026-09-19T06:50:56.606Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Aetheria",
-      "id": "aetheria",
-      "version": "1.0.1",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-19T06:28:52.308Z"
     }
   ]
 }
