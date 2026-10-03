@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T04:36:08.166Z",
+  "generated": "2026-10-03T07:36:08.429Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -4521,12 +4521,6 @@
       "modder": true
     },
     {
-      "id": "1015821267514970193",
-      "name": "So horny I could fuck a karma",
-      "username": "stunnatoy",
-      "modder": true
-    },
-    {
       "id": "797958857778528256",
       "name": "Sorynx",
       "username": "sorynx",
@@ -4656,6 +4650,12 @@
       "id": "1416862779310346293",
       "name": "Straightorc",
       "username": "lljw999flyhigh",
+      "modder": true
+    },
+    {
+      "id": "1015821267514970193",
+      "name": "stunnatoy",
+      "username": "stunnatoy",
       "modder": true
     },
     {
@@ -4830,6 +4830,12 @@
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
+      "modder": true
+    },
+    {
+      "id": "394333278917754881",
+      "name": "TheBeanSirrito",
+      "username": "pasta12",
       "modder": true
     },
     {
