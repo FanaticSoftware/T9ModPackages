@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T01:12:29.904Z",
+  "generated": "2026-10-03T01:12:35.192Z",
   "notices": [
+    {
+      "key": "697590f28ec3ade0ab6febdee7ec8629e8420a8bfe595b33e49187278b8720d6",
+      "status": "collab",
+      "mod": "Forsaken Spawn Room",
+      "id": "forsaken_spawn_room_a26fbe",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-10-03T01:12:35.020Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "collab",
@@ -2009,16 +2019,6 @@
       "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-19T00:21:11.678Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "collab",
-      "mod": "Test Mod",
-      "id": "test_mod_d69e57",
-      "version": null,
-      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-19T00:02:37.795Z"
     }
   ]
 }
