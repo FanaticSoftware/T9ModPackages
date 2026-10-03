@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T01:41:35.026Z",
+  "generated": "2026-10-03T02:31:54.747Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1150,7 +1150,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "fb75f96f78ba14f91fbd36e229343cc41dd52ebf962386e674376eb34b4a0c75",
+      "sourceSha256": "ac09b467669a7775fda5ce90a926f54d78f32abfc7f41519351c11d375067a98",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1159,37 +1159,40 @@
         "rules": "2026.09.26",
         "summary": "clean, nothing flagged"
       },
-      "settings": 1,
+      "settings": 2,
       "tags": [
         "Gameplay Overhaul",
         "Difficulty",
         "Quality of Life",
+        "Cosmetic / HUD",
         "Challenge / Custom Rules",
         "Points / Economy",
         "Rounds / Spawning",
         "Zombies / AI",
-        "Die Maschine",
-        "Firebase Z",
-        "Mauer der Toten",
-        "Forsaken",
-        "Hard",
+        "Round-Based Maps",
+        "Balanced",
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "+ Added Zombie Counter (Optional)\n- Removed possibility to work on Onslaught and Outbreak gamemodes (and their variants, haven't tested DoA)",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-02T04:49:31.963Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555440038026678347"
+        "at": "2026-10-03T02:31:54.306Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555764825076801552"
       },
       "id": "horde_mod_6a1b9c",
-      "version": "20261002-044319",
-      "file": "mod_packages/horde_mod_6a1b9c/horde_mod_6a1b9c-20261002-044319.cwm",
-      "size": 1274205,
-      "sha256": "a8e4275c52f0272ddd0377a70bbe6ce65de5fc6437e25ab2c358ef2612935e43",
+      "version": "20261003-021353",
+      "file": "mod_packages/horde_mod_6a1b9c/horde_mod_6a1b9c-20261003-021353.cwm",
+      "size": 1591783,
+      "sha256": "5c299b9aee8eea5bad5262c23f5161ca5f6cd81d1d6928e95656f2275c58d8b6",
       "history": [
+        {
+          "version": "20261003-021353",
+          "changelog": "+ Added Zombie Counter (Optional)\n- Removed possibility to work on Onslaught and Outbreak gamemodes (and their variants, haven't tested DoA)",
+          "published": "2026-10-03T02:31:54.306Z"
+        },
         {
           "version": "20261002-044319",
           "changelog": "",
@@ -1197,7 +1200,7 @@
         }
       ],
       "thumbnail": "mod_packages/horde_mod_6a1b9c/thumbnail.png",
-      "thumbnailSha256": "777264aa258cf478f347fcf77041ab3a358ead9b9a5b7d0974e73725b4d01339",
+      "thumbnailSha256": "baee35849e396b5b4ed62ccba8d6292e431a7319d19b714d77bd35b66665ce03",
       "collaborators": []
     },
     {
