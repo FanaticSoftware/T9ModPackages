@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T20:26:29.961Z",
+  "generated": "2026-10-03T20:28:22.393Z",
   "invites": [
-    {
-      "key": "640385b82f3367c841dc3d10c1cf94156a8b40b8e544e06d3ac04bbb4c702f65",
-      "mod": "1_e59066",
-      "title": "1",
-      "ownerId": "1002160337681915959",
-      "ownerName": "kallumrex12345",
-      "at": "2026-10-03T20:26:29.961Z"
-    },
     {
       "key": "697590f28ec3ade0ab6febdee7ec8629e8420a8bfe595b33e49187278b8720d6",
       "mod": "last_man_standing_85239d",
