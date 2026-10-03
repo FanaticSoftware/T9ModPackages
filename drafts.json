@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T20:25:11.862Z",
+  "generated": "2026-10-03T20:28:25.209Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -9,9 +9,14 @@
         "id": "1002160337681915959",
         "name": "kallumrex12345"
       },
-      "collaborators": [],
+      "collaborators": [
+        "803064934459899916"
+      ],
       "claimed": "2026-10-03T20:25:11.862Z",
-      "updated": "2026-10-03T20:25:11.862Z"
+      "updated": "2026-10-03T20:25:11.862Z",
+      "collaboratorNames": {
+        "803064934459899916": "Serj Tankian"
+      }
     },
     {
       "id": "aetheria_unfinished_test_ver",
