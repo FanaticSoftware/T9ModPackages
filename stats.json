@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T11:36:09.984Z",
+  "generated": "2026-10-03T12:16:10.160Z",
   "mods": {
     "directors_cut": {
       "favorites": 173,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 80,
+      "favorites": 79,
       "rating": {
         "count": 13,
         "average": 4.8
