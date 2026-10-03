@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T15:47:13.457Z",
+  "generated": "2026-10-03T15:49:42.797Z",
   "notices": [
+    {
+      "key": "57cc73f8b611b10e074d2b2ac846cb02963eb0b17b5108b2149c095d2bc455a5",
+      "status": "approved",
+      "mod": "Loadout Customizer",
+      "id": "custom_insertion_317c70",
+      "version": "20261003-045611",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-03T15:49:42.600Z"
+    },
     {
       "key": "bf7118a66156933571510c7a4e9d8ecbf2a02db397a2f313c6a351ecca5af2e8",
       "status": "approved",
@@ -2016,16 +2027,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-19T04:26:20.404Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "rejected",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.1.23",
-      "reason": "thumbnail",
-      "by": "saintvertigo",
-      "at": "2026-09-19T04:23:55.748Z"
     }
   ]
 }
