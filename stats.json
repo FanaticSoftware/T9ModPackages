@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T18:46:10.583Z",
+  "generated": "2026-10-03T19:16:10.671Z",
   "mods": {
     "directors_cut": {
       "favorites": 176,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 421,
+      "favorites": 422,
       "rating": {
         "count": 27,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 70,
+      "favorites": 71,
       "rating": {
         "count": 9,
         "average": 4.9
@@ -206,7 +206,7 @@
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
