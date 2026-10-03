@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T05:24:11.427Z",
+  "generated": "2026-10-03T15:45:09.255Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -903,7 +903,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "0426f59d3bb03099a656112c12d1dd60d5565fd309ebcc512b0da2b0cb45d3fc",
+      "sourceSha256": "8528defae1a3635e957a4c8aef04fb5f57dcbe3ba5dac1b49226aa4ffac72aae",
       "scan": {
         "critical": 0,
         "high": 3,
@@ -920,20 +920,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "- Added a possible fix for console compatability (better game-start logic)",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-03T01:41:34.658Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555752149781184554"
+        "at": "2026-10-03T15:45:08.795Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555807326974251132"
       },
       "id": "forsaken_spawn_room_a26fbe",
-      "version": "20261003-012335",
-      "file": "mod_packages/forsaken_spawn_room_a26fbe/forsaken_spawn_room_a26fbe-20261003-012335.cwm",
-      "size": 1161263,
-      "sha256": "23725d3b7ba903650195061a6c712a4bb388ad5a5ac3aa30e6a303e2c26ff627",
+      "version": "20261003-050250",
+      "file": "mod_packages/forsaken_spawn_room_a26fbe/forsaken_spawn_room_a26fbe-20261003-050250.cwm",
+      "size": 1163381,
+      "sha256": "9fb19dabf8a965c018d913475902900fa7419ed218a0cd076751a926e1335e4e",
       "history": [
+        {
+          "version": "20261003-050250",
+          "changelog": "- Added a possible fix for console compatability (better game-start logic)",
+          "published": "2026-10-03T15:45:08.795Z"
+        },
         {
           "version": "20261003-012335",
           "changelog": "",
