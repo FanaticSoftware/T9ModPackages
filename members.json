@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T00:36:08.366Z",
+  "generated": "2026-10-03T01:36:08.406Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3030,6 +3030,12 @@
       "id": "966588203417092096",
       "name": "Lumpix",
       "username": "lumpix036",
+      "modder": true
+    },
+    {
+      "id": "354298594951430146",
+      "name": "𝕷𝖚𝖛 𝕻𝖎𝖊𝖗𝖈𝖎𝖓𝖌𝖘",
+      "username": "x.him",
       "modder": true
     },
     {
