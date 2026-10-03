@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T15:36:10.296Z",
+  "generated": "2026-10-03T15:56:10.429Z",
   "mods": {
     "directors_cut": {
-      "favorites": 173,
+      "favorites": 174,
       "rating": {
         "count": 13,
         "average": 5
@@ -17,21 +17,21 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 107,
+      "favorites": 108,
       "rating": {
         "count": 9,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 113,
+      "favorites": 114,
       "rating": {
         "count": 13,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 4,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 69,
+      "favorites": 70,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 5,
         "average": 5
@@ -224,6 +224,13 @@
       "rating": {
         "count": 1,
         "average": 5
+      }
+    },
+    "custom_insertion_317c70": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
       }
     }
   }
