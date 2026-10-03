@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:32:42.394Z",
+  "generated": "2026-10-03T03:45:22.496Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "collab",
+      "mod": "Last Man Standing",
+      "id": "last_man_standing_85239d",
+      "version": null,
+      "reason": "**ItsJonathan** (@itsjonathan08) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-10-03T03:45:22.253Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
@@ -2012,16 +2022,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-19T00:58:04.284Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "Test Mod",
-      "id": "test_mod_6e01be",
-      "version": null,
-      "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
-      "by": "",
-      "at": "2026-09-19T00:52:51.774Z"
     }
   ]
 }
