@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T02:31:54.747Z",
+  "generated": "2026-10-03T02:32:37.617Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2257,6 +2257,72 @@
       ],
       "collaboratorNames": {
         "684408486456852481": "SaintVertigo"
+      }
+    },
+    {
+      "title": "Zombie Snacks",
+      "description": "All that zombie killing must make you hungry! Players must eat food in order to heal properly, while they are slowly dying. After a certain amount of kills without getting hit, players can enter a flowstate where everything is an insta kill.",
+      "author": {
+        "discordName": "tech_wave",
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "1b09417a039a573140bb9796e4c4e62fcf55989769b8ff80b3349a64849f81b9",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 9,
+        "rules": "2026.09.26",
+        "summary": "1 high, 9 medium"
+      },
+      "settings": 11,
+      "tags": [
+        "Difficulty",
+        "Challenge / Custom Rules",
+        "Player Health / Downs",
+        "Round-Based Maps",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Outbreak",
+        "Onslaught",
+        "Easy",
+        "Hard",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-03T02:32:37.352Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1555765560535552177"
+      },
+      "id": "zombie_snacks_9d8881",
+      "version": "20261003-021648",
+      "file": "mod_packages/zombie_snacks_9d8881/zombie_snacks_9d8881-20261003-021648.cwm",
+      "size": 1020808,
+      "sha256": "6afe5572e05df428056b7e6a7617d24963e48ca15f40a3ae51e3ed9978346cad",
+      "history": [
+        {
+          "version": "20261003-021648",
+          "changelog": "",
+          "published": "2026-10-03T02:32:37.352Z"
+        }
+      ],
+      "thumbnail": "mod_packages/zombie_snacks_9d8881/thumbnail.png",
+      "thumbnailSha256": "25717f1452671b75c98d8786f3902f781aaa6977a8a9b185712a43f5a32576a7",
+      "collaborators": [],
+      "testerAccounts": {
+        "115173340334915587": [
+          "1931db6d93c0a4da"
+        ]
       }
     },
     {
