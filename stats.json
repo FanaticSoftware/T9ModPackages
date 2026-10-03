@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T16:26:10.454Z",
+  "generated": "2026-10-03T16:56:10.484Z",
   "mods": {
     "directors_cut": {
       "favorites": 174,
@@ -222,12 +222,12 @@
     "wall_jump_20261002": {
       "favorites": 1,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
