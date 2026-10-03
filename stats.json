@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-02T23:26:09.692Z",
+  "generated": "2026-10-03T02:26:09.906Z",
   "mods": {
     "directors_cut": {
       "favorites": 166,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 111,
+      "favorites": 112,
       "rating": {
         "count": 13,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 410,
+      "favorites": 411,
       "rating": {
         "count": 25,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 68,
+      "favorites": 69,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 0,
         "average": 0
@@ -199,10 +199,17 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 1,
         "average": 0.5
+      }
+    },
+    "forsaken_spawn_room_a26fbe": {
+      "favorites": 0,
+      "rating": {
+        "count": 1,
+        "average": 5
       }
     }
   }
