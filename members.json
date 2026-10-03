@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T08:36:08.327Z",
+  "generated": "2026-10-03T09:36:08.317Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -24,6 +24,12 @@
       "id": "795389290199908362",
       "name": "-Living_ZomB-🎮🧟",
       "username": "dread0282",
+      "modder": true
+    },
+    {
+      "id": "1028605611702763522",
+      "name": "!  Nikolai  🇰🇼",
+      "username": "g_8l",
       "modder": true
     },
     {
