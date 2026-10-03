@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T21:56:10.703Z",
+  "generated": "2026-10-03T22:06:10.752Z",
   "mods": {
     "directors_cut": {
       "favorites": 178,
@@ -12,7 +12,7 @@
     "boss_rush": {
       "favorites": 79,
       "rating": {
-        "count": 13,
+        "count": 14,
         "average": 4.8
       }
     },
@@ -61,7 +61,7 @@
     "replace_zombies_early_wip": {
       "favorites": 34,
       "rating": {
-        "count": 5,
+        "count": 6,
         "average": 5
       }
     },
