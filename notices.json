@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T13:14:54.570Z",
+  "generated": "2026-10-03T15:45:14.124Z",
   "notices": [
+    {
+      "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
+      "status": "approved",
+      "mod": "Forsaken Spawn Room Only",
+      "id": "forsaken_spawn_room_a26fbe",
+      "version": "20261003-050250",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-03T15:45:13.852Z"
+    },
     {
       "key": "bf7118a66156933571510c7a4e9d8ecbf2a02db397a2f313c6a351ecca5af2e8",
       "status": "collab",
@@ -2013,16 +2024,6 @@
       "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-19T03:27:31.326Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "ZM Classic",
-      "id": "zm_classic",
-      "version": "20260919-025851",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-19T02:59:28.098Z"
     }
   ]
 }
