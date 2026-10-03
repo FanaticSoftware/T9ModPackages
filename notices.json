@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T15:45:14.124Z",
+  "generated": "2026-10-03T15:46:33.298Z",
   "notices": [
+    {
+      "key": "3d73eda8e98506a99dff42230e93b912b3d93c9a6480572e303df1badbd75f70",
+      "status": "approved",
+      "mod": "BO7",
+      "id": "wall_jump_20261002",
+      "version": "20261003-153023",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-03T15:46:33.063Z"
+    },
     {
       "key": "a6dcb20c4da8a35dc324ff1c4c0845f51ddbb9c4a3985e8b590b41a92f3aad18",
       "status": "approved",
@@ -2014,16 +2025,6 @@
       "reason": "The owner of **Boss Rush** now allows co-authors to submit new versions. SUBMIT MOD in your launcher can send one; it is reviewed as usual and published under the owner's name.",
       "by": "",
       "at": "2026-09-19T03:41:11.605Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "collab",
-      "mod": "Boss Rush",
-      "id": "boss_rush",
-      "version": null,
-      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-19T03:27:31.326Z"
     }
   ]
 }
