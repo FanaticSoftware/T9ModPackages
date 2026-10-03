@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T21:16:10.686Z",
+  "generated": "2026-10-03T21:46:10.670Z",
   "mods": {
     "directors_cut": {
       "favorites": 177,
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 96,
+      "favorites": 97,
       "rating": {
         "count": 16,
         "average": 3.3
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 69,
+      "favorites": 70,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 0,
         "average": 0
