@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T19:36:08.757Z",
+  "generated": "2026-10-04T20:36:08.529Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3396,6 +3396,12 @@
       "id": "1227319665383051324",
       "name": "Mnhtran",
       "username": "cearm1",
+      "modder": true
+    },
+    {
+      "id": "984222345201848430",
+      "name": "ModzIsMyWeed",
+      "username": "modzismyweed",
       "modder": true
     },
     {
