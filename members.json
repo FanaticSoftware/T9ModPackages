@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T18:36:08.501Z",
+  "generated": "2026-10-04T19:36:08.757Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -1308,6 +1308,12 @@
       "id": "623675190613901322",
       "name": "Deadgamer1001",
       "username": "deadgamer1001",
+      "modder": true
+    },
+    {
+      "id": "663365261805748224",
+      "name": "𝐃𝐞𝐚𝐅𝐒𝐞𝐳𝐨",
+      "username": "deafsezo",
       "modder": true
     },
     {
@@ -3228,6 +3234,12 @@
       "id": "330770592854704128",
       "name": "mario135790",
       "username": "mario135790",
+      "modder": true
+    },
+    {
+      "id": "1294884964978135042",
+      "name": "Markus Thompson",
+      "username": "omiscientstyx",
       "modder": true
     },
     {
