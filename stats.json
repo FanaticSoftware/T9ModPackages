@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T08:06:11.131Z",
+  "generated": "2026-10-04T08:26:11.045Z",
   "mods": {
     "directors_cut": {
-      "favorites": 175,
+      "favorites": 176,
       "rating": {
         "count": 14,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 432,
+      "favorites": 433,
       "rating": {
         "count": 29,
         "average": 5
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 2,
         "average": 4
