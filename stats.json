@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T14:16:11.480Z",
+  "generated": "2026-10-04T14:26:11.338Z",
   "mods": {
     "directors_cut": {
       "favorites": 180,
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 0,
         "average": 0
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
