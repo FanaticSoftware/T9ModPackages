@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T17:36:08.508Z",
+  "generated": "2026-10-04T18:36:08.501Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -3801,12 +3801,6 @@
       "modder": true
     },
     {
-      "id": "1525593135001108592",
-      "name": "Osama Kirk Laden",
-      "username": "pepitodicehola1",
-      "modder": true
-    },
-    {
       "id": "650605755564818432",
       "name": "Owey woey",
       "username": "faze_throneuntid",
@@ -5118,6 +5112,12 @@
       "id": "629757079413850136",
       "name": "Toasts",
       "username": "colin_3555",
+      "modder": true
+    },
+    {
+      "id": "1556358552791163003",
+      "name": "TommyDarkAetherZombies",
+      "username": "tommydarkaetherzombies",
       "modder": true
     },
     {
