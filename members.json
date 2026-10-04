@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T04:36:08.388Z",
+  "generated": "2026-10-04T05:36:08.425Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -150,6 +150,12 @@
       "id": "414558788092428299",
       "name": "=(UnluckyGuess)=",
       "username": "dangerousprops",
+      "modder": true
+    },
+    {
+      "id": "540090598661816320",
+      "name": "╭∩╮(•̀_·́)╭∩╮",
+      "username": "ragefulsins",
       "modder": true
     },
     {
@@ -450,6 +456,12 @@
       "id": "810152611332227123",
       "name": "amaliamarinelli#1111",
       "username": "amaliamarinelli1102",
+      "modder": true
+    },
+    {
+      "id": "447464196192600084",
+      "name": "Āmōs",
+      "username": "venenzuela",
       "modder": true
     },
     {
@@ -2583,12 +2595,6 @@
       "modder": true
     },
     {
-      "id": "447464196192600084",
-      "name": "José",
-      "username": "venenzuela",
-      "modder": true
-    },
-    {
       "id": "772761466994425858",
       "name": "Josh",
       "username": "joshstice_",
@@ -2805,12 +2811,6 @@
       "modder": true
     },
     {
-      "id": "149693231016312832",
-      "name": "King Chud",
-      "username": "kingqasmoke",
-      "modder": true
-    },
-    {
       "id": "247134686629855240",
       "name": "Kiyy",
       "username": "kiyy",
@@ -2844,6 +2844,12 @@
       "id": "424564093681139714",
       "name": "KrosseKrabbe703",
       "username": "krossekrabbe703",
+      "modder": true
+    },
+    {
+      "id": "604852672620920853",
+      "name": "KurtisGaming37",
+      "username": "kurtisgaming37",
       "modder": true
     },
     {
@@ -4002,6 +4008,12 @@
       "id": "338454509640613888",
       "name": "Pyro Pete",
       "username": "pyro_pete",
+      "modder": true
+    },
+    {
+      "id": "149693231016312832",
+      "name": "Qasmoke the Shitposter",
+      "username": "kingqasmoke",
       "modder": true
     },
     {
