@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T02:03:42.259Z",
+  "generated": "2026-10-04T02:03:57.968Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1264,6 +1264,57 @@
       ],
       "thumbnail": "mod_packages/horde_mod_6a1b9c/thumbnail.png",
       "thumbnailSha256": "baee35849e396b5b4ed62ccba8d6292e431a7319d19b714d77bd35b66665ce03",
+      "collaborators": []
+    },
+    {
+      "title": "Infinite Ammo",
+      "description": "The mod constantly tops up your current gun so the magazine and spare ammo never run out. You can keep shooting as long as you want without ever needing to pick up ammo or reload from empty.",
+      "author": {
+        "discordName": "we123_s",
+        "id": "1366611350830452797",
+        "name": "Nytris"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "9bce15cadaa3a63b25e03f23eff864a8fe081a52a9220227d3b17001735b52fe",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Weapons",
+        "Easy",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-04T02:03:57.599Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556123644403654680"
+      },
+      "id": "infinite_ammo_e8e45c",
+      "version": "20261004-015946",
+      "file": "mod_packages/infinite_ammo_e8e45c/infinite_ammo_e8e45c-20261004-015946.cwm",
+      "size": 81090,
+      "sha256": "6a107775db12acdc3e09ecc5caaa953a3c4d76cf5281d88e16c41b471a9533ab",
+      "history": [
+        {
+          "version": "20261004-015946",
+          "changelog": "",
+          "published": "2026-10-04T02:03:57.599Z"
+        }
+      ],
+      "thumbnail": "mod_packages/infinite_ammo_e8e45c/thumbnail.png",
+      "thumbnailSha256": "9462d685179f63829cd824f4b4b85061a09d51628d48c87bb79333d1d2fdeef3",
       "collaborators": []
     },
     {
