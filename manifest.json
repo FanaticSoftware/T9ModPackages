@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T02:02:31.067Z",
+  "generated": "2026-10-04T02:03:42.259Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1461,21 +1461,18 @@
       "author": {
         "discordName": "saintvertigo",
         "id": "684408486456852481",
-        "name": "SaintVertigo, TheTeaa, and Figglebottom"
+        "name": "The Teaa, Figglebottom, and SaintVertigo"
       },
-      "publishedBy": {
-        "id": "244657466783170560",
-        "name": "SaintVertigo, TheTeaa, and Figglebottom"
-      },
+      "publishedBy": null,
       "developer": true,
-      "sourceSha256": "3f88515bd15e3e1f2385e59d887067a11fe4809a877567f6c47e190ed33c80d9",
+      "sourceSha256": "a3f0d2d8f84654fe7ab971c8b2b5977f75a6e1e5567b3545fde0b167165ae8be",
       "scan": {
         "critical": 0,
         "high": 4,
         "low": 10,
-        "medium": 177,
-        "rules": "2026.08.19",
-        "summary": "4 high, 177 medium, 10 low"
+        "medium": 175,
+        "rules": "2026.09.26",
+        "summary": "4 high, 175 medium, 10 low"
       },
       "settings": 2,
       "tags": [
@@ -1486,20 +1483,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Complete overhaul, more accurate to standard round based maps.",
+      "changelog": "Added 4 player support (havent tested) and fixes with the orb death barriers.",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-09-22T08:11:27.133Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1551868174717423710"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-04T02:03:41.900Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556124018095030316"
       },
       "id": "onslaught_survival",
-      "version": "20260922-080952",
-      "file": "mod_packages/onslaught_survival/onslaught_survival-20260922-080952.cwm",
-      "size": 2274083,
-      "sha256": "575701a57e7fae8c6c12442234dc14eafd41bf0cb2d2b240f8e7ee293a470c1d",
+      "version": "20261004-020109",
+      "file": "mod_packages/onslaught_survival/onslaught_survival-20261004-020109.cwm",
+      "size": 2076372,
+      "sha256": "40e2f06b3f6632ce3e24c42d70fd4d9b5a5467572921c303527c1e65a7e7a37a",
       "history": [
+        {
+          "version": "20261004-020109",
+          "changelog": "Added 4 player support (havent tested) and fixes with the orb death barriers.",
+          "published": "2026-10-04T02:03:41.900Z"
+        },
         {
           "version": "20260922-080952",
           "changelog": "Complete overhaul, more accurate to standard round based maps.",
