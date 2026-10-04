@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T21:46:11.516Z",
+  "generated": "2026-10-04T21:56:11.537Z",
   "mods": {
     "directors_cut": {
       "favorites": 182,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 445,
+      "favorites": 446,
       "rating": {
         "count": 30,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 73,
+      "favorites": 74,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
