@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T07:06:10.924Z",
+  "generated": "2026-10-04T07:46:11.059Z",
   "mods": {
     "directors_cut": {
       "favorites": 175,
@@ -236,8 +236,8 @@
     "nikolai_mod_menu_767906": {
       "favorites": 5,
       "rating": {
-        "count": 2,
-        "average": 0.5
+        "count": 3,
+        "average": 2
       }
     },
     "infinite_ammo_e8e45c": {
