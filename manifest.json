@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T02:04:25.340Z",
+  "generated": "2026-10-04T02:04:40.865Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -259,6 +259,54 @@
       ],
       "thumbnail": "mod_packages/chaos_478629/thumbnail.png",
       "thumbnailSha256": "f21e997e7c1634a9e7987dbfb3ba199ef9cd056c885d0e2422827271fd542474",
+      "collaborators": []
+    },
+    {
+      "title": "classic point system",
+      "description": "it the classic point system",
+      "author": {
+        "discordName": "jhall8200",
+        "id": "840326623311560744",
+        "name": "jhall8200"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "2f5f7046e2af383ffc08bc9216b64c567449229612c6bc510c7686c97d85c4cc",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Points / Economy",
+        "All Maps"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-04T02:04:40.543Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556062980989395025"
+      },
+      "id": "classic_point_system_cc5eb4",
+      "version": "20261003-215842",
+      "file": "mod_packages/classic_point_system_cc5eb4/classic_point_system_cc5eb4-20261003-215842.cwm",
+      "size": 37468,
+      "sha256": "71469e4913a3446f533df45e31040fdbd3ca1268e1662960a5dd57327ed1ebe0",
+      "history": [
+        {
+          "version": "20261003-215842",
+          "changelog": "",
+          "published": "2026-10-04T02:04:40.543Z"
+        }
+      ],
+      "thumbnail": "mod_packages/classic_point_system_cc5eb4/thumbnail.png",
+      "thumbnailSha256": "75e4f82734d9375f2dfa1d7f7c790883c12f4207eab9f2c40186f5f4e787de09",
       "collaborators": []
     },
     {
