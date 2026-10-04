@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T02:26:52.428Z",
+  "generated": "2026-10-04T04:32:11.979Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2339,35 +2339,40 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "fce22b7d62b1327c91a068634ff447b58f25f0201ce4f572d20274a1fb1c627c",
+      "sourceSha256": "1470b4bddca37f7d5f94998da1cb9b8ace7a486f008abd78367fedc7fe51db99",
       "scan": {
         "critical": 0,
         "high": 0,
-        "low": 2,
+        "low": 4,
         "medium": 0,
         "rules": "2026.09.26",
-        "summary": "2 low"
+        "summary": "4 low"
       },
-      "settings": 2,
+      "settings": 4,
       "tags": [
         "Gameplay Overhaul",
         "Movement",
         "All Maps"
       ],
-      "changelog": "- Added slide to knock down zombie from BO6/BO7. Note: this has no effect when PHD is active.\n- Added settings to select which features to enable.",
+      "changelog": "- Added critical melees. Deals 20% extra damage and gives +20 points on kill.\n- Added a basic omnimovement implementation. No sliding as of yet.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-03T15:46:28.994Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555965252682776577"
+        "at": "2026-10-04T04:32:11.588Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556161809914798185"
       },
       "id": "wall_jump_20261002",
-      "version": "20261003-153023",
-      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261003-153023.cwm",
-      "size": 383785,
-      "sha256": "c8b9e8299b2fd4ea4c34fd2b7390c0fa2a75c7aad75b1447980422246a40b6de",
+      "version": "20261004-043124",
+      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261004-043124.cwm",
+      "size": 398999,
+      "sha256": "5d2ac8f2236c7c9237b1a17e5021da17fbe68be5b9dc65662133d64061d54633",
       "history": [
+        {
+          "version": "20261004-043124",
+          "changelog": "- Added critical melees. Deals 20% extra damage and gives +20 points on kill.\n- Added a basic omnimovement implementation. No sliding as of yet.",
+          "published": "2026-10-04T04:32:11.588Z"
+        },
         {
           "version": "20261003-153023",
           "changelog": "- Added slide to knock down zombie from BO6/BO7. Note: this has no effect when PHD is active.\n- Added settings to select which features to enable.",
