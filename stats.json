@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T01:26:10.834Z",
+  "generated": "2026-10-04T01:36:10.696Z",
   "mods": {
     "directors_cut": {
       "favorites": 178,
@@ -110,8 +110,8 @@
     "custom_mutations_dc3d6f": {
       "favorites": 97,
       "rating": {
-        "count": 16,
-        "average": 3.3
+        "count": 17,
+        "average": 3.1
       }
     },
     "start_with_chrysal_456002": {
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 2,
         "average": 4.5
@@ -227,14 +227,14 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "nikolai_mod_menu_767906": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 0.5
