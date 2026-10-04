@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T04:32:15.548Z",
+  "generated": "2026-10-04T16:30:51.558Z",
   "notices": [
+    {
+      "key": "7baee7f4319358341203d375f836dce9211a4c95f6161dd1135dd3cb8761fe00",
+      "status": "approved",
+      "mod": "Stackable Jug",
+      "id": "stackable_perks_cf3a81",
+      "version": "20261004-140609",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-04T16:30:51.302Z"
+    },
     {
       "key": "3d73eda8e98506a99dff42230e93b912b3d93c9a6480572e303df1badbd75f70",
       "status": "approved",
@@ -2026,16 +2037,6 @@
       "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
       "by": "",
       "at": "2026-09-19T09:04:21.028Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "collab",
-      "mod": "Director's Cut",
-      "id": "directors_cut",
-      "version": null,
-      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-19T08:34:54.521Z"
     }
   ]
 }
