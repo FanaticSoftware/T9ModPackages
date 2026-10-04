@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T22:36:11.534Z",
+  "generated": "2026-10-04T22:46:11.554Z",
   "mods": {
     "directors_cut": {
       "favorites": 183,
@@ -96,7 +96,7 @@
     "coop_spawnrate_fix_d47076": {
       "favorites": 17,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
