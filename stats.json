@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T19:06:11.487Z",
+  "generated": "2026-10-04T19:56:11.515Z",
   "mods": {
     "directors_cut": {
       "favorites": 181,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 118,
+      "favorites": 119,
       "rating": {
         "count": 14,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 441,
+      "favorites": 442,
       "rating": {
         "count": 30,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 69,
+      "favorites": 70,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 97,
+      "favorites": 98,
       "rating": {
         "count": 17,
         "average": 3.1
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 71,
+      "favorites": 72,
       "rating": {
         "count": 8,
         "average": 4.9
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 5,
         "average": 5
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 0,
         "average": 0
@@ -192,14 +192,14 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 2,
         "average": 4
@@ -236,8 +236,8 @@
     "nikolai_mod_menu_767906": {
       "favorites": 6,
       "rating": {
-        "count": 3,
-        "average": 2
+        "count": 4,
+        "average": 1.8
       }
     },
     "infinite_ammo_e8e45c": {
