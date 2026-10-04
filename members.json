@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T07:36:09.058Z",
+  "generated": "2026-10-04T11:36:08.607Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -18,6 +18,12 @@
       "id": "750018593910947882",
       "name": "_7ingy4n",
       "username": "_7ingy4n",
+      "modder": true
+    },
+    {
+      "id": "351731884281167873",
+      "name": "_v",
+      "username": "_v2460",
       "modder": true
     },
     {
@@ -2913,6 +2919,12 @@
       "modder": true
     },
     {
+      "id": "1426885321685205043",
+      "name": "LASSE",
+      "username": "lasse07944",
+      "modder": true
+    },
+    {
       "id": "1553012825549705297",
       "name": "Lastwine",
       "username": "lastwine.",
@@ -4947,15 +4959,15 @@
       "modder": true
     },
     {
-      "id": "496972536568086539",
-      "name": "The Drink",
-      "username": "zabuza123",
-      "modder": true
-    },
-    {
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
+      "modder": true
+    },
+    {
+      "id": "496972536568086539",
+      "name": "The Shovel",
+      "username": "zabuza123",
       "modder": true
     },
     {
@@ -5160,6 +5172,12 @@
       "id": "316886580000194561",
       "name": "Ultra",
       "username": "prodbyultra",
+      "modder": true
+    },
+    {
+      "id": "1392130707815399526",
+      "name": "Unfo",
+      "username": "unf.o1",
       "modder": true
     },
     {
