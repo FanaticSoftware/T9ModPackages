@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T14:56:11.347Z",
+  "generated": "2026-10-04T15:36:11.293Z",
   "mods": {
     "directors_cut": {
       "favorites": 180,
@@ -38,9 +38,9 @@
       }
     },
     "zm_classic": {
-      "favorites": 435,
+      "favorites": 437,
       "rating": {
-        "count": 29,
+        "count": 30,
         "average": 5
       }
     },
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 2,
         "average": 5
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
