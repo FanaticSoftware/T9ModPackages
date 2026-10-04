@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T20:56:11.601Z",
+  "generated": "2026-10-04T21:16:11.525Z",
   "mods": {
     "directors_cut": {
       "favorites": 182,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 120,
+      "favorites": 121,
       "rating": {
         "count": 14,
         "average": 5
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 443,
+      "favorites": 444,
       "rating": {
         "count": 30,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 70,
+      "favorites": 71,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
