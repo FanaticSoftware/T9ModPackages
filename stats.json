@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T03:16:10.842Z",
+  "generated": "2026-10-04T04:16:10.815Z",
   "mods": {
     "directors_cut": {
-      "favorites": 177,
+      "favorites": 176,
       "rating": {
         "count": 14,
         "average": 5
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 10,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
@@ -234,9 +234,9 @@
       }
     },
     "nikolai_mod_menu_767906": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 0.5
       }
     },
