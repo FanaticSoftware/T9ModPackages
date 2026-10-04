@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T01:16:02.102Z",
+  "generated": "2026-10-04T02:02:35.839Z",
   "notices": [
+    {
+      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
+      "status": "approved",
+      "mod": "Realism Mode",
+      "id": "realism_mode",
+      "version": "20261004-015823",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-04T02:02:35.561Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "collab",
@@ -2019,16 +2030,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-19T06:57:17.881Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "approved",
-      "mod": "Boss Rush",
-      "id": "boss_rush",
-      "version": "20260919-065026",
-      "reason": "Published by co-author Fanatic.",
-      "by": "illuminatidonut",
-      "at": "2026-09-19T06:50:57.756Z"
     }
   ]
 }
