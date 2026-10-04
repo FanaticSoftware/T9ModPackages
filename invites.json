@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T20:28:22.393Z",
+  "generated": "2026-10-04T01:15:56.263Z",
   "invites": [
-    {
-      "key": "697590f28ec3ade0ab6febdee7ec8629e8420a8bfe595b33e49187278b8720d6",
-      "mod": "last_man_standing_85239d",
-      "title": "Last Man Standing",
-      "ownerId": "115173340334915587",
-      "ownerName": "tech_wave",
-      "at": "2026-10-03T02:49:31.734Z"
-    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
