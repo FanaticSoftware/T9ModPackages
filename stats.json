@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T18:06:11.496Z",
+  "generated": "2026-10-04T18:16:11.492Z",
   "mods": {
     "directors_cut": {
       "favorites": 181,
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 56,
+      "favorites": 57,
       "rating": {
         "count": 6,
         "average": 4.1
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 0,
         "average": 0
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 2,
         "average": 5
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
