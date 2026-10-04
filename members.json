@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T15:36:08.489Z",
+  "generated": "2026-10-04T17:36:08.508Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -972,6 +972,12 @@
       "id": "1467889067164434696",
       "name": "Cathode Ray Tube",
       "username": "polioscopio2",
+      "modder": true
+    },
+    {
+      "id": "243162369117782018",
+      "name": "Cawsh",
+      "username": "cawsh",
       "modder": true
     },
     {
@@ -4440,6 +4446,12 @@
       "id": "449961075115425812",
       "name": "scryo",
       "username": "scryocat",
+      "modder": true
+    },
+    {
+      "id": "605140188590505986",
+      "name": "Scuffed Android",
+      "username": "scuffedandroid",
       "modder": true
     },
     {
