@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T22:56:11.570Z",
+  "generated": "2026-10-04T23:06:11.696Z",
   "mods": {
     "directors_cut": {
       "favorites": 183,
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 0,
         "average": 0
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
