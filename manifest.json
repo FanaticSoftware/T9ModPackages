@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T04:32:11.979Z",
+  "generated": "2026-10-04T16:30:47.115Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1978,6 +1978,60 @@
       ],
       "thumbnail": "mod_packages/replace_zombies_early_wip/thumbnail.png",
       "thumbnailSha256": "c60db69e6fdf6b112858fda86101d30e9b1902ecade40a890652da3fca48ce36",
+      "collaborators": []
+    },
+    {
+      "title": "Stackable Jug",
+      "description": "lets you buy up to 5 stacks of jug with each stack adding 65 health for 2000 points each after the first purchase.\nbase jug with no upgrades max health is 460.\nmax jug with the 250 health upgrade max health is 510",
+      "author": {
+        "discordName": "zackattack555._17509",
+        "id": "1349478295795929118",
+        "name": "Joeylee7501"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "90b1f1c8505f212b19fbf2a0e55131df82c64d6aab10d6003ed1835b455154cd",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 4,
+        "rules": "2026.09.26",
+        "summary": "4 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Cosmetic / HUD",
+        "Perks",
+        "Player Health / Downs",
+        "All Maps",
+        "Easy",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-04T16:30:46.777Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556306445283360774"
+      },
+      "id": "stackable_perks_cf3a81",
+      "version": "20261004-140609",
+      "file": "mod_packages/stackable_perks_cf3a81/stackable_perks_cf3a81-20261004-140609.cwm",
+      "size": 484991,
+      "sha256": "0a1d5be17914e841afb103281ffa9525fdeff9e6eb58f82015266ced5976da1e",
+      "history": [
+        {
+          "version": "20261004-140609",
+          "changelog": "",
+          "published": "2026-10-04T16:30:46.777Z"
+        }
+      ],
+      "thumbnail": "mod_packages/stackable_perks_cf3a81/thumbnail.png",
+      "thumbnailSha256": "13ad988367902cb888fde821bc0ea95c59a8bbe3cdcbc41fbaeabd6e72d74834",
       "collaborators": []
     },
     {
