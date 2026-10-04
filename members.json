@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T14:36:08.442Z",
+  "generated": "2026-10-04T15:36:08.489Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -186,12 +186,6 @@
       "id": "268129579401609216",
       "name": "🌸 에테르 🌸",
       "username": "ethervfx",
-      "modder": true
-    },
-    {
-      "id": "1054858139981320244",
-      "name": "🎃Spooky Skelly🎃",
-      "username": "dizrizzpect.",
       "modder": true
     },
     {
@@ -3573,6 +3567,12 @@
       "modder": true
     },
     {
+      "id": "481092647616905226",
+      "name": "Nexo",
+      "username": "nexo432",
+      "modder": true
+    },
+    {
       "id": "1140594276833706075",
       "name": "NeXonNative",
       "username": "nexontwisted13",
@@ -3786,12 +3786,6 @@
       "id": "463323630814625795",
       "name": "oreo",
       "username": "yzyoreo",
-      "modder": true
-    },
-    {
-      "id": "115173340334915587",
-      "name": "Oryxs Middle Orb",
-      "username": "tech_wave",
       "modder": true
     },
     {
@@ -4755,6 +4749,12 @@
       "modder": true
     },
     {
+      "id": "1054858139981320244",
+      "name": "Spooky Skelly 🎃",
+      "username": "dizrizzpect.",
+      "modder": true
+    },
+    {
       "id": "1317053317653991489",
       "name": "Sproozer",
       "username": "realsprooit_67473",
@@ -4950,6 +4950,12 @@
       "id": "1507106905233821746",
       "name": "Taylor",
       "username": "aspect.of.autumn",
+      "modder": true
+    },
+    {
+      "id": "115173340334915587",
+      "name": "Techie",
+      "username": "tech_wave",
       "modder": true
     },
     {
