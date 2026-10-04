@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T12:06:11.296Z",
+  "generated": "2026-10-04T12:16:11.230Z",
   "mods": {
     "directors_cut": {
       "favorites": 178,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 433,
+      "favorites": 434,
       "rating": {
         "count": 29,
         "average": 5
@@ -52,14 +52,14 @@
       }
     },
     "t9_bots": {
-      "favorites": 61,
+      "favorites": 62,
       "rating": {
         "count": 3,
         "average": 4.2
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 6,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 69,
+      "favorites": 70,
       "rating": {
         "count": 8,
         "average": 4.9
