@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T19:38:52.033Z",
+  "generated": "2026-10-04T02:02:31.067Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1647,14 +1647,14 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "b5b529720112c8137c53a2dddcdfaa43e217521e839f2f59b69eb2a5a8d96021",
+      "sourceSha256": "4bf4ae198856eff7cbd5121af0f75afb8638e92701d1b15a8f4c75187b915170",
       "scan": {
-        "critical": 0,
+        "critical": 6,
         "high": 134,
         "low": 20,
         "medium": 251,
-        "rules": "2026.08.19",
-        "summary": "134 high, 251 medium, 20 low"
+        "rules": "2026.09.26",
+        "summary": "6 critical, 134 high, 251 medium, 20 low"
       },
       "settings": 6,
       "tags": [
@@ -1679,20 +1679,62 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "I added options",
-      "highAlerts": [],
+      "changelog": "Made compatable with outbreak survival",
+      "highAlerts": [
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/realism_main.gsc",
+          "line": 59
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/realism_main.gsc",
+          "line": 63
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/realism_main.gsc",
+          "line": 256
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/realism_world.gsc",
+          "line": 2808
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/realism_world.gsc",
+          "line": 3068
+        },
+        {
+          "id": "harm.clientfield_kick",
+          "title": "Kicks every non-host player with a clientfield mismatch",
+          "file": "source/realism_world.gsc",
+          "line": 3075
+        }
+      ],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-09-24T21:25:28.037Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1552793070171332662"
+        "at": "2026-10-04T02:02:30.700Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556123351070543990"
       },
       "id": "realism_mode",
-      "version": "20260924-212505",
-      "file": "mod_packages/realism_mode/realism_mode-20260924-212505.cwm",
-      "size": 2761688,
-      "sha256": "e2ca7a9931951c637a9053b2c340c254a54a74469b356032499ee87daec3a1f9",
+      "version": "20261004-015823",
+      "file": "mod_packages/realism_mode/realism_mode-20261004-015823.cwm",
+      "size": 2348511,
+      "sha256": "accd54904f07d21e94989196325b0bd113eafbe3ce8e69ef646f28b61f7c390d",
       "history": [
+        {
+          "version": "20261004-015823",
+          "changelog": "Made compatable with outbreak survival",
+          "published": "2026-10-04T02:02:30.700Z"
+        },
         {
           "version": "20260924-212505",
           "changelog": "I added options",
