@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T02:03:57.968Z",
+  "generated": "2026-10-04T02:04:25.340Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2363,7 +2363,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "19f63ab23a3039bf4d1196fe1b56554c7342a4688c264cf1601635109ace0860",
+      "sourceSha256": "47e564847d5986ef386deb16d2fd9cc589cfa874d6ca0df45b24b044972f7aea",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -2377,20 +2377,25 @@
         "Quality of Life",
         "Weapons"
       ],
-      "changelog": "- Removed Camo grinding mode\n- More quality of life fixes to the tabs\n- Extended Drop Lifespans \n- Mystery Box Relocation Skip \n- Screen Clutter Removal \n- Freeze Perk Decay on Down\n\nHuge Quality of Life Feature's to come.",
+      "changelog": "- Fixed Late Game Crashes\n- Zombie Limit Reduced\n- Spawn Delay Relaxed\n- Drop Lifespan Balanced\n- Mystery Box Skip Removed\n- Loop Optimization",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-03T17:37:55.982Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555987504514080824"
+        "at": "2026-10-04T02:04:24.822Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556120335043268715"
       },
       "id": "two_weapons_ca99d3",
-      "version": "20261003-165849",
-      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261003-165849.cwm",
-      "size": 277879,
-      "sha256": "b0c863b29a6485e67bc4ffad391399194b283614f88aa0b5a722631c673eb213",
+      "version": "20261004-014637",
+      "file": "mod_packages/two_weapons_ca99d3/two_weapons_ca99d3-20261004-014637.cwm",
+      "size": 278171,
+      "sha256": "93289b7e5d7b663b08dea13c184e2c18b287c30d37011c6486e5bd4bc8efdc39",
       "history": [
+        {
+          "version": "20261004-014637",
+          "changelog": "- Fixed Late Game Crashes\n- Zombie Limit Reduced\n- Spawn Delay Relaxed\n- Drop Lifespan Balanced\n- Mystery Box Skip Removed\n- Loop Optimization",
+          "published": "2026-10-04T02:04:24.822Z"
+        },
         {
           "version": "20261003-165849",
           "changelog": "- Removed Camo grinding mode\n- More quality of life fixes to the tabs\n- Extended Drop Lifespans \n- Mystery Box Relocation Skip \n- Screen Clutter Removal \n- Freeze Perk Decay on Down\n\nHuge Quality of Life Feature's to come.",
