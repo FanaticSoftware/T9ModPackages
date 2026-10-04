@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T18:16:11.492Z",
+  "generated": "2026-10-04T18:36:11.393Z",
   "mods": {
     "directors_cut": {
       "favorites": 181,
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 0,
         "average": 0
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
