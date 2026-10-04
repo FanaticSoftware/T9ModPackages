@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T20:16:11.524Z",
+  "generated": "2026-10-04T20:36:11.447Z",
   "mods": {
     "directors_cut": {
       "favorites": 181,
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 6,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 72,
+      "favorites": 73,
       "rating": {
         "count": 8,
         "average": 4.9
