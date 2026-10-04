@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T23:36:13.434Z",
+  "generated": "2026-10-04T00:36:08.446Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -12,6 +12,12 @@
       "id": "324233042430394369",
       "name": "⃝",
       "username": "skulyire",
+      "modder": true
+    },
+    {
+      "id": "750018593910947882",
+      "name": "_7ingy4n",
+      "username": "_7ingy4n",
       "modder": true
     },
     {
@@ -234,6 +240,12 @@
       "id": "1498082137390321828",
       "name": "25g6.33",
       "username": "25g6.33_08567",
+      "modder": true
+    },
+    {
+      "id": "1462134904811945984",
+      "name": "321movies",
+      "username": "321movies.",
       "modder": true
     },
     {
