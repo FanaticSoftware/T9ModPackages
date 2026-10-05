@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T20:36:08.839Z",
+  "generated": "2026-10-05T21:36:08.698Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4227,6 +4227,12 @@
       "modder": true
     },
     {
+      "id": "1474807201787940965",
+      "name": "RealeseTheFiles",
+      "username": "realesethefiles",
+      "modder": true
+    },
+    {
       "id": "999425762090307666",
       "name": "Reality",
       "username": "realityuk",
@@ -4326,6 +4332,12 @@
       "id": "1553774231559479298",
       "name": "Rikoo",
       "username": "rikoo_84074",
+      "modder": true
+    },
+    {
+      "id": "1509694234876448899",
+      "name": "Rim_Rinse.Repeat",
+      "username": "rim_rinse.repeat",
       "modder": true
     },
     {
