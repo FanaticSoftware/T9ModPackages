@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T01:03:45.717Z",
+  "generated": "2026-10-05T01:04:01.364Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1538,6 +1538,56 @@
         ]
       },
       "collaboratorsCanSubmit": true
+    },
+    {
+      "title": "point per bullit",
+      "description": "1 bullet cost 10 points every round after it adds 5 ponits",
+      "author": {
+        "discordName": "hygro5",
+        "id": "795740469413281803",
+        "name": "hygro5"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "a8e2e346f99322a1025d8f7daed3a1d59abb34bd49e97ba322de13ae99554267",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Difficulty",
+        "Weapons",
+        "All Maps",
+        "Hard"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-05T01:04:00.920Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556448560139075709"
+      },
+      "id": "point_per_bullit_8a7781",
+      "version": "20261004-232649",
+      "file": "mod_packages/point_per_bullit_8a7781/point_per_bullit_8a7781-20261004-232649.cwm",
+      "size": 1836697,
+      "sha256": "c8230115204b216a4c12b71446d5a497d54fc99fd63b8692eca71e6267fe5e76",
+      "history": [
+        {
+          "version": "20261004-232649",
+          "changelog": "",
+          "published": "2026-10-05T01:04:00.920Z"
+        }
+      ],
+      "thumbnail": "mod_packages/point_per_bullit_8a7781/thumbnail.png",
+      "thumbnailSha256": "40d62acae64ec592e6e119794f39fc4ec64f4113a1450a149b109e9f99587606",
+      "collaborators": []
     },
     {
       "title": "Quick Restart",
