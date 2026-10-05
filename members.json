@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T21:36:08.698Z",
+  "generated": "2026-10-05T22:36:08.590Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -228,6 +228,12 @@
       "id": "697416404906803240",
       "name": "୨🩵୧ Mimy ୨🩷୧",
       "username": ".lm20",
+      "modder": true
+    },
+    {
+      "id": "240489274292699137",
+      "name": "2027.",
+      "username": "elvn011",
       "modder": true
     },
     {
@@ -1395,6 +1401,12 @@
       "modder": true
     },
     {
+      "id": "1127140631618260993",
+      "name": "dhirgham",
+      "username": "dhirgham64",
+      "modder": true
+    },
+    {
       "id": "485097805598162944",
       "name": "Diamonds",
       "username": "shiningdiamonds",
@@ -1414,7 +1426,7 @@
     },
     {
       "id": "1502281049407754352",
-      "name": "Dil💝⃞⃟⃠⃟⃞⃤⃟𒁎𒌧𒇫✯",
+      "name": "𝔻𝕚𝕝💝⃞⃟⃠⃟⃞⃤⃟𒁎𒌧𒇫✯",
       "username": "dil0159_25699",
       "modder": true
     },
@@ -2160,12 +2172,6 @@
       "id": "416002022601654283",
       "name": "Goodmorning",
       "username": "goodmorming",
-      "modder": true
-    },
-    {
-      "id": "240489274292699137",
-      "name": "grandma's dead",
-      "username": "elvn011",
       "modder": true
     },
     {
@@ -4947,12 +4953,6 @@
       "modder": true
     },
     {
-      "id": "1015821267514970193",
-      "name": "stunnatoy",
-      "username": "stunnatoy",
-      "modder": true
-    },
-    {
       "id": "785131411731513374",
       "name": "Stylx",
       "username": "stylx.0",
@@ -5250,6 +5250,12 @@
       "id": "1556358552791163003",
       "name": "TommyDarkAetherZombies",
       "username": "tommydarkaetherzombies",
+      "modder": true
+    },
+    {
+      "id": "1015821267514970193",
+      "name": "top",
+      "username": "stunnatoy",
       "modder": true
     },
     {
