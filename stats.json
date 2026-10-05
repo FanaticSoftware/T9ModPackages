@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T03:16:11.688Z",
+  "generated": "2026-10-05T03:26:11.721Z",
   "mods": {
     "directors_cut": {
       "favorites": 183,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 114,
+      "favorites": 115,
       "rating": {
         "count": 10,
         "average": 4.8
@@ -80,7 +80,7 @@
       }
     },
     "deadlight_greenlight_fc56b7": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 99,
+      "favorites": 100,
       "rating": {
         "count": 17,
         "average": 3.1
