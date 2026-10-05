@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T01:04:06.223Z",
+  "generated": "2026-10-05T09:19:08.624Z",
   "notices": [
+    {
+      "key": "61919d86f24b552cddd336722c792b46ba4bd3f735c9177f629484b0d1e90850",
+      "status": "approved",
+      "mod": "SANDBOX - Zombies Toolkit",
+      "id": "test_a8804f",
+      "version": "20261005-091100",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-05T09:19:08.432Z"
+    },
     {
       "key": "3a86385769c60b12e658a83439b877a0f88855f496c7488c79f691c0760acbf0",
       "status": "approved",
@@ -2029,16 +2040,6 @@
       "reason": "",
       "by": "fanaticsoftware",
       "at": "2026-09-19T09:47:20.540Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "Trailer Tool",
-      "id": "director",
-      "version": null,
-      "reason": "**Fanatic** (@fanaticsoftware) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-19T09:42:07.198Z"
     }
   ]
 }
