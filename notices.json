@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T09:19:08.624Z",
+  "generated": "2026-10-05T22:46:33.596Z",
   "notices": [
+    {
+      "key": "61919d86f24b552cddd336722c792b46ba4bd3f735c9177f629484b0d1e90850",
+      "status": "approved",
+      "mod": "SANDBOX - Zombies Toolkit v1.1",
+      "id": "test_a8804f",
+      "version": "20261005-224542",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-05T22:46:33.417Z"
+    },
     {
       "key": "61919d86f24b552cddd336722c792b46ba4bd3f735c9177f629484b0d1e90850",
       "status": "approved",
@@ -2030,16 +2041,6 @@
       "reason": "forgor some stuff",
       "by": "teaa_the_silliest",
       "at": "2026-09-19T09:50:15.341Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "approved",
-      "mod": "Holiday Events",
-      "id": "holiday_events",
-      "version": "20260919-094704",
-      "reason": "",
-      "by": "fanaticsoftware",
-      "at": "2026-09-19T09:47:20.540Z"
     }
   ]
 }
