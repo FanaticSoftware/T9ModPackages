@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T03:06:11.675Z",
+  "generated": "2026-10-05T03:16:11.688Z",
   "mods": {
     "directors_cut": {
       "favorites": 183,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 122,
+      "favorites": 123,
       "rating": {
         "count": 14,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 58,
+      "favorites": 57,
       "rating": {
         "count": 6,
         "average": 4.1
