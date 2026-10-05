@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T01:04:01.364Z",
+  "generated": "2026-10-05T09:19:03.507Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2258,6 +2258,70 @@
       "collaboratorNames": {
         "243151432230895619": "Fanatic"
       }
+    },
+    {
+      "title": "SANDBOX - Zombies Toolkit",
+      "description": "SANDBOX - Zombies Toolkit\n\nA lightweight in-game menu for experimenting, practicing and messing around in Cold War Zombies. Built for solo and private matches. Everything is controlled from a simple on-screen menu, with no setup needed.\n\nThis is an open beta. If something doesn't work on a map, or you find a bug, please leave a comment with the map name and what happened.\n\nFEATURES\n\nPlayer\n- God Mode, Infinite Ammo, No Target (zombies ignore you)\n- Fly Mode (Jump = up, Crouch = down, Sprint = faster)\n- Give All Perks\n- Add or set your points with an adjustable amount (up to 4,000,000)\n\nWeapons & Upgrades\n- Spawn any base weapon or wonder weapon, at the rarity you choose (Common to Legendary)\n- Pack-a-Punch your current weapon to level 1, 2 or 3\n- Raise or max out weapon rarity\n- Apply any ammo mod: Brain Rot, Cryo Freeze, Dead Wire, Napalm Burst, Shatter Blast\n\nLoot\n- Armor (levels 1-3) and Self Revives\n- Salvage and Rare Salvage with adjustable amounts (on maps that use salvage)\n- Equipment: frags, semtex, molotovs, monkey bombs, stims\n- Scorestreaks: Chopper Gunner, Death Machine, Sentry Turret, Napalm, Artillery, and more\n\nZombies & World\n- Kill all zombies, end the current round, One-Hit Zombies\n- Drop any powerup: Max Ammo, Insta-Kill, Double Points, Nuke, Carpenter, Fire Sale\n- Save / load your position, teleport to your crosshair\n- Open all doors, turn on power\n\nHOW TO USE\n\nOpen menu ........ Aim (ADS) + Melee\nScroll ........... ADS = up, Fire = down (hold to scroll fast)\nSelect ........... Reload\nBack / Close ..... Melee\n\nOptions with a value in brackets, like \"Add Points [5,000]\":\n1. Select it with Reload\n2. Change the amount with ADS / Fire\n3. Press Reload to confirm, or Melee to cancel\n\nThe controls are also shown on screen when the match starts, and in any empty space in the menu.\n\nKNOWN LIMITATIONS\n- The menu takes a second or two to fade after you close it. Settings has a beta \"Bottom-Screen Display\" that closes instantly, but it may not show on every setup. If the menu disappears after turning it on, press Reload again to switch back.\n- Some features depend on the map (for example, salvage and power).",
+      "author": {
+        "discordName": "user837638",
+        "id": "521451594462658570",
+        "name": "Jmuse"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "8f49c0fd4f20ca05c0b9b78c0a669013d42599559703e7bcd469c4838a25271d",
+      "scan": {
+        "critical": 0,
+        "high": 2,
+        "low": 12,
+        "medium": 22,
+        "rules": "2026.09.26",
+        "summary": "2 high, 22 medium, 12 low"
+      },
+      "settings": 0,
+      "tags": [
+        "Quality of Life",
+        "Utility / Tools",
+        "Weapons",
+        "Wonder Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Zombies / AI",
+        "Power-ups",
+        "Scorestreaks",
+        "Armor / Rarity",
+        "Salvage / Crafting",
+        "Player Health / Downs",
+        "All Maps",
+        "Easy",
+        "Solo"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-05T09:19:03.165Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556594557787836450"
+      },
+      "id": "test_a8804f",
+      "version": "20261005-091100",
+      "file": "mod_packages/test_a8804f/test_a8804f-20261005-091100.cwm",
+      "size": 264788,
+      "sha256": "701f878c4434f230897de57031b631ae9af8427398ee88bbc6fcd31b8db378ae",
+      "history": [
+        {
+          "version": "20261005-091100",
+          "changelog": "",
+          "published": "2026-10-05T09:19:03.165Z"
+        }
+      ],
+      "thumbnail": "mod_packages/test_a8804f/thumbnail.png",
+      "thumbnailSha256": "08457bddb898b36c7fde8ed69d5e28da103b479251dc2ba381a676c5237878f3",
+      "collaborators": []
     },
     {
       "title": "Essence Drain",
