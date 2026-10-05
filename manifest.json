@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-04T16:30:47.115Z",
+  "generated": "2026-10-05T01:03:45.717Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2393,35 +2393,40 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "1470b4bddca37f7d5f94998da1cb9b8ace7a486f008abd78367fedc7fe51db99",
+      "sourceSha256": "2c208384392ae2eadee80e3f01772cdfaac3edcf4bce61e1b0588dda22b40891",
       "scan": {
         "critical": 0,
         "high": 0,
-        "low": 4,
+        "low": 5,
         "medium": 0,
         "rules": "2026.09.26",
-        "summary": "4 low"
+        "summary": "5 low"
       },
-      "settings": 4,
+      "settings": 5,
       "tags": [
         "Gameplay Overhaul",
         "Movement",
         "All Maps"
       ],
-      "changelog": "- Added critical melees. Deals 20% extra damage and gives +20 points on kill.\n- Added a basic omnimovement implementation. No sliding as of yet.",
+      "changelog": "- Added an early implementation of Fireworks AAT. Replaces Shatter Blast and defaults to OFF.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-04T04:32:11.588Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1556161809914798185"
+        "at": "2026-10-05T01:03:45.330Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556471278360203336"
       },
       "id": "wall_jump_20261002",
-      "version": "20261004-043124",
-      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261004-043124.cwm",
-      "size": 398999,
-      "sha256": "5d2ac8f2236c7c9237b1a17e5021da17fbe68be5b9dc65662133d64061d54633",
+      "version": "20261005-010109",
+      "file": "mod_packages/wall_jump_20261002/wall_jump_20261002-20261005-010109.cwm",
+      "size": 413941,
+      "sha256": "dc8df06d5656f761fac6d87206975cd778f17352733a413a0ea3cbe1445fa661",
       "history": [
+        {
+          "version": "20261005-010109",
+          "changelog": "- Added an early implementation of Fireworks AAT. Replaces Shatter Blast and defaults to OFF.",
+          "published": "2026-10-05T01:03:45.330Z"
+        },
         {
           "version": "20261004-043124",
           "changelog": "- Added critical melees. Deals 20% extra damage and gives +20 points on kill.\n- Added a basic omnimovement implementation. No sliding as of yet.",
