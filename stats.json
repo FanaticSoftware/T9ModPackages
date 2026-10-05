@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T04:16:11.783Z",
+  "generated": "2026-10-05T04:46:11.856Z",
   "mods": {
     "directors_cut": {
       "favorites": 184,
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 72,
+      "favorites": 73,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 6,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
