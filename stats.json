@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T02:46:11.651Z",
+  "generated": "2026-10-05T03:06:11.675Z",
   "mods": {
     "directors_cut": {
       "favorites": 183,
@@ -17,35 +17,35 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 113,
+      "favorites": 114,
       "rating": {
         "count": 10,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 121,
+      "favorites": 122,
       "rating": {
         "count": 14,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 447,
+      "favorites": 448,
       "rating": {
         "count": 30,
         "average": 5
       }
     },
     "aetheria": {
-      "favorites": 71,
+      "favorites": 72,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 0,
         "average": 0
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 2,
         "average": 4
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 2,
         "average": 5
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
@@ -256,6 +256,13 @@
     },
     "stackable_perks_cf3a81": {
       "favorites": 4,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "point_per_bullit_8a7781": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
