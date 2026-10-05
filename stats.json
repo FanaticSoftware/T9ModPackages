@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T18:16:12.247Z",
+  "generated": "2026-10-05T18:26:12.248Z",
   "mods": {
     "directors_cut": {
       "favorites": 185,
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
