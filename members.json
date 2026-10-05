@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T12:36:08.804Z",
+  "generated": "2026-10-05T14:36:08.806Z",
   "members": [
     {
       "id": "1375432375831629825",
@@ -306,6 +306,12 @@
       "id": "742177702089457708",
       "name": "aboda7m25",
       "username": "thekingksa125",
+      "modder": true
+    },
+    {
+      "id": "1112520730345746512",
+      "name": "Abu Tarqwa",
+      "username": "g3n.k",
       "modder": true
     },
     {
@@ -1326,6 +1332,12 @@
       "id": "970439670553018439",
       "name": "dcedi",
       "username": "dcedi",
+      "modder": true
+    },
+    {
+      "id": "354425392926425088",
+      "name": "Deactivated_Account",
+      "username": "spet._.",
       "modder": true
     },
     {
@@ -3861,6 +3873,12 @@
       "modder": true
     },
     {
+      "id": "713106410937909339",
+      "name": "onkq",
+      "username": "onkq",
+      "modder": true
+    },
+    {
       "id": "1095404608018452640",
       "name": "opens",
       "username": "opens",
@@ -4797,12 +4815,6 @@
       "modder": true
     },
     {
-      "id": "354425392926425088",
-      "name": "Spet",
-      "username": "spet._.",
-      "modder": true
-    },
-    {
       "id": "1008035854213730324",
       "name": "SPEX",
       "username": "spex6758",
@@ -4824,6 +4836,12 @@
       "id": "737125402597785671",
       "name": "Splatter Drive",
       "username": "splatterdrive",
+      "modder": true
+    },
+    {
+      "id": "714747384252596235",
+      "name": "splitzsz",
+      "username": "splitzsz",
       "modder": true
     },
     {
