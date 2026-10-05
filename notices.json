@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T01:03:50.095Z",
+  "generated": "2026-10-05T01:04:06.223Z",
   "notices": [
+    {
+      "key": "3a86385769c60b12e658a83439b877a0f88855f496c7488c79f691c0760acbf0",
+      "status": "approved",
+      "mod": "point per bullit",
+      "id": "point_per_bullit_8a7781",
+      "version": "20261004-232649",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-05T01:04:06.072Z"
+    },
     {
       "key": "3d73eda8e98506a99dff42230e93b912b3d93c9a6480572e303df1badbd75f70",
       "status": "approved",
@@ -2028,16 +2039,6 @@
       "reason": "**Fanatic** (@fanaticsoftware) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-19T09:42:07.198Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "Director's Cut",
-      "id": "directors_cut",
-      "version": null,
-      "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
-      "by": "",
-      "at": "2026-09-19T09:07:35.722Z"
     }
   ]
 }
