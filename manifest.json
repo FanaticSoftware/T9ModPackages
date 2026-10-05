@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T09:19:03.507Z",
+  "generated": "2026-10-05T22:46:29.699Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2260,8 +2260,8 @@
       }
     },
     {
-      "title": "SANDBOX - Zombies Toolkit",
-      "description": "SANDBOX - Zombies Toolkit\n\nA lightweight in-game menu for experimenting, practicing and messing around in Cold War Zombies. Built for solo and private matches. Everything is controlled from a simple on-screen menu, with no setup needed.\n\nThis is an open beta. If something doesn't work on a map, or you find a bug, please leave a comment with the map name and what happened.\n\nFEATURES\n\nPlayer\n- God Mode, Infinite Ammo, No Target (zombies ignore you)\n- Fly Mode (Jump = up, Crouch = down, Sprint = faster)\n- Give All Perks\n- Add or set your points with an adjustable amount (up to 4,000,000)\n\nWeapons & Upgrades\n- Spawn any base weapon or wonder weapon, at the rarity you choose (Common to Legendary)\n- Pack-a-Punch your current weapon to level 1, 2 or 3\n- Raise or max out weapon rarity\n- Apply any ammo mod: Brain Rot, Cryo Freeze, Dead Wire, Napalm Burst, Shatter Blast\n\nLoot\n- Armor (levels 1-3) and Self Revives\n- Salvage and Rare Salvage with adjustable amounts (on maps that use salvage)\n- Equipment: frags, semtex, molotovs, monkey bombs, stims\n- Scorestreaks: Chopper Gunner, Death Machine, Sentry Turret, Napalm, Artillery, and more\n\nZombies & World\n- Kill all zombies, end the current round, One-Hit Zombies\n- Drop any powerup: Max Ammo, Insta-Kill, Double Points, Nuke, Carpenter, Fire Sale\n- Save / load your position, teleport to your crosshair\n- Open all doors, turn on power\n\nHOW TO USE\n\nOpen menu ........ Aim (ADS) + Melee\nScroll ........... ADS = up, Fire = down (hold to scroll fast)\nSelect ........... Reload\nBack / Close ..... Melee\n\nOptions with a value in brackets, like \"Add Points [5,000]\":\n1. Select it with Reload\n2. Change the amount with ADS / Fire\n3. Press Reload to confirm, or Melee to cancel\n\nThe controls are also shown on screen when the match starts, and in any empty space in the menu.\n\nKNOWN LIMITATIONS\n- The menu takes a second or two to fade after you close it. Settings has a beta \"Bottom-Screen Display\" that closes instantly, but it may not show on every setup. If the menu disappears after turning it on, press Reload again to switch back.\n- Some features depend on the map (for example, salvage and power).",
+      "title": "SANDBOX - Zombies Toolkit v1.1",
+      "description": "SANDBOX - Zombies Toolkit\n\nA lightweight in-game menu for experimenting, practicing and messing around in Cold War Zombies. Built for solo and private matches. Everything is controlled from a simple on-screen menu, with no setup needed.\n\nThis is an open beta. If something doesn't work on a map, or you find a bug, please leave a comment with the map name and what happened.\n\nFEATURES\n\nPlayer\n- God Mode, Infinite Ammo, No Target (zombies ignore you)\n- Fly Mode (Jump = up, Crouch = down, Sprint = faster)\n- Super Speed (1.5x / 2x / 3x)\n- Give All Perks\n- Add Points or Set Points To an exact amount (up to 4,000,000)\n- Revive / Respawn yourself if you're downed or spectating\n\nWeapons & Upgrades\n- Spawn any base weapon or wonder weapon at the rarity you choose (Common to Legendary)\n- Change the rarity of the gun in your hand\n- Pack-a-Punch your current weapon to level 1, 2 or 3\n- Apply any ammo mod: Brain Rot, Cryo Freeze, Dead Wire, Napalm Burst, Shatter Blast\n\nLoot\n- Armor (levels 1-3) and Self Revives\n- Salvage and Rare Salvage in adjustable amounts (on maps that use salvage)\n- Equipment: frags, semtex, molotovs, monkey bombs, stims\n- Scorestreaks: Chopper Gunner, Death Machine, Sentry Turret, Napalm, Artillery, and more\n\nZombies\n- Spawn zombies, specials (Hellhound, Mangler, Mimic, Tempest, Tormentor) and bosses (Krasny Soldat, Abomination, Orda) at your crosshair\n- Freeze / unfreeze zombies, turn them into crawlers, One-Hit Zombies\n- Teleport zombies to your crosshair or bring them to you\n- Kill all zombies or end the current round\n\nTroll / Fun\n- Pick any player in your match to freeze, teleport to you, teleport to, or revive/respawn\n\nWorld\n- Drop any powerup: Max Ammo, Insta-Kill, Double Points, Nuke, Carpenter, Fire Sale\n- Save / load your position, teleport to your crosshair\n- Open all doors, turn on power\n\nHOW TO USE\n\nOpen menu ........ Aim (ADS) + Melee\nScroll ........... ADS = up, Fire = down (hold to scroll fast)\nSelect ........... Reload\nBack / Close ..... Melee\n\nOptions with a value in brackets, like \"Add Points [+5,000]\":\n1. Select it with Reload\n2. Change the value with ADS / Fire\n3. Press Reload to confirm, or Melee to cancel\n\nThe controls are also shown on screen when the match starts, and in any empty space in the menu.\n\nKNOWN LIMITATIONS\n- The menu takes a second or two to fade after you close it. Settings has a beta \"Bottom-Screen Display\" that closes instantly, but it may not show on every setup. If the menu disappears after turning it on, press Reload again to switch back.\n- Some features depend on the map (salvage, power, specials and bosses).\n- Frozen zombies stop the round from ending until you unfreeze them.",
       "author": {
         "discordName": "user837638",
         "id": "521451594462658570",
@@ -2269,14 +2269,14 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "8f49c0fd4f20ca05c0b9b78c0a669013d42599559703e7bcd469c4838a25271d",
+      "sourceSha256": "7c10d07477af6996ea3ba216dc88a1555c998bc2e3bdb67ca092075e62b4d424",
       "scan": {
         "critical": 0,
         "high": 2,
-        "low": 12,
-        "medium": 22,
+        "low": 13,
+        "medium": 31,
         "rules": "2026.09.26",
-        "summary": "2 high, 22 medium, 12 low"
+        "summary": "2 high, 31 medium, 13 low"
       },
       "settings": 0,
       "tags": [
@@ -2298,21 +2298,26 @@
         "Easy",
         "Solo"
       ],
-      "changelog": "",
+      "changelog": "UPDATE 1\n\nNEW\n- Troll / Fun tab: pick any player in the match to freeze/unfreeze them, teleport them to you, teleport to them, or revive/respawn them\n- Zombies: Spawn Zombies (1-20), Spawn Special (Hellhound, Mangler, Mimic, Tempest, Tormentor) and Spawn Boss (Krasny Soldat, Abomination, Orda), all at your crosshair\n- Zombies: Freeze / Unfreeze (zombies that spawn while frozen also freeze), Make Crawlers, Teleport Zombies to Crosshair, Bring Zombies to Me\n- Player: Super Speed (1.5x / 2x / 3x)\n- Player: Revive / Respawn Me (for when you're downed or spectating)\n- Upgrades: Set Rarity - set the gun in your hand to any rarity (replaces Max Rarity)\n\nCHANGED\n- Weapons > Rarity now also changes the gun in your hand, not just newly spawned weapons\n- One-Hit Zombies is now more reliable\n- Add Points and Set Points To are now clearly separate: Add shows \"+5,000\" and adds on top, Set changes your score to exactly that number. Both show your points before and after.\n- Points from the menu no longer count towards stats or contracts\n\nFIXED\n- Salvage and Rare Salvage now update on the HUD instantly (before, they only showed after picking up real salvage)\n- Spawned Hellhounds no longer stay invisible\n- Removed the arrows next to submenu names\n\nSpecials and bosses only spawn on maps that have them. If one isn't available, the menu tells you.\nFound a bug? Leave a comment with the map name and what happened.",
       "noProgression": true,
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-05T09:19:03.165Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1556594557787836450"
+        "at": "2026-10-05T22:46:29.282Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556799584380911732"
       },
       "id": "test_a8804f",
-      "version": "20261005-091100",
-      "file": "mod_packages/test_a8804f/test_a8804f-20261005-091100.cwm",
-      "size": 264788,
-      "sha256": "701f878c4434f230897de57031b631ae9af8427398ee88bbc6fcd31b8db378ae",
+      "version": "20261005-224542",
+      "file": "mod_packages/test_a8804f/test_a8804f-20261005-224542.cwm",
+      "size": 292625,
+      "sha256": "0a0b9f3c039c08f7cbfe7e1f0c405ca89aeb917557a45f0243033e1d9dc80ec8",
       "history": [
+        {
+          "version": "20261005-224542",
+          "changelog": "UPDATE 1\n\nNEW\n- Troll / Fun tab: pick any player in the match to freeze/unfreeze them, teleport them to you, teleport to them, or revive/respawn them\n- Zombies: Spawn Zombies (1-20), Spawn Special (Hellhound, Mangler, Mimic, Tempest, Tormentor) and Spawn Boss (Krasny Soldat, Abomination, Orda), all at your crosshair\n- Zombies: Freeze / Unfreeze (zombies that spawn while frozen also freeze), Make Crawlers, Teleport Zombies to Crosshair, Bring Zombies to Me\n- Player: Super Speed (1.5x / 2x / 3x)\n- Player: Revive / Respawn Me (for when you're downed or spectating)\n- Upgrades: Set Rarity - set the gun in your hand to any rarity (replaces Max Rarity)\n\nCHANGED\n- Weapons > Rarity now also changes the gun in your hand, not just newly spawned weapons\n- One-Hit Zombies is now more reliable\n- Add Points and Set Points To are now clearly separate: Add shows \"+5,000\" and adds on top, Set changes your score to exactly that number. Both show your points before and after.\n- Points from the menu no longer count towards stats or contracts\n\nFIXED\n- Salvage and Rare Salvage now update on the HUD instantly (before, they only showed after picking up real salvage)\n- Spawned Hellhounds no longer stay invisible\n- Removed the arrows next to submenu names\n\nSpecials and bosses only spawn on maps that have them. If one isn't available, the menu tells you.\nFound a bug? Leave a comment with the map name and what happened.",
+          "published": "2026-10-05T22:46:29.282Z"
+        },
         {
           "version": "20261005-091100",
           "changelog": "",
@@ -2320,7 +2325,7 @@
         }
       ],
       "thumbnail": "mod_packages/test_a8804f/thumbnail.png",
-      "thumbnailSha256": "08457bddb898b36c7fde8ed69d5e28da103b479251dc2ba381a676c5237878f3",
+      "thumbnailSha256": "1b3e8e21205507d150f1e3a156391e619aa35bdb315ccbb7189563a2dca4d6b5",
       "collaborators": []
     },
     {
