@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T15:20:49.488Z",
+  "generated": "2026-10-06T19:01:41.458Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1172,7 +1172,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "ac09b467669a7775fda5ce90a926f54d78f32abfc7f41519351c11d375067a98",
+      "sourceSha256": "a58f2d842ae8a0538135c8b1b56b4975eaa103691b204a807260af55a6005e0b",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1196,20 +1196,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "+ Added Zombie Counter (Optional)\n- Removed possibility to work on Onslaught and Outbreak gamemodes (and their variants, haven't tested DoA)",
+      "changelog": "- Fixed Crashes on high rounds (40+)\n- Now Zombie Corpses gets deleted, so no more cluttering or possible lag\n- Zombie counter is Disabled by Default (So you can use other mods' zombie counters)",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-03T02:31:54.306Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555764825076801552"
+        "at": "2026-10-06T19:01:41.043Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557097522277650508"
       },
       "id": "horde_mod_6a1b9c",
-      "version": "20261003-021353",
-      "file": "mod_packages/horde_mod_6a1b9c/horde_mod_6a1b9c-20261003-021353.cwm",
-      "size": 1591783,
-      "sha256": "5c299b9aee8eea5bad5262c23f5161ca5f6cd81d1d6928e95656f2275c58d8b6",
+      "version": "20261006-182922",
+      "file": "mod_packages/horde_mod_6a1b9c/horde_mod_6a1b9c-20261006-182922.cwm",
+      "size": 1594729,
+      "sha256": "7c9fca53853342eb43550e46854c6ef580be402445f92edf9f43fe65f1fa400e",
       "history": [
+        {
+          "version": "20261006-182922",
+          "changelog": "- Fixed Crashes on high rounds (40+)\n- Now Zombie Corpses gets deleted, so no more cluttering or possible lag\n- Zombie counter is Disabled by Default (So you can use other mods' zombie counters)",
+          "published": "2026-10-06T19:01:41.043Z"
+        },
         {
           "version": "20261003-021353",
           "changelog": "+ Added Zombie Counter (Optional)\n- Removed possibility to work on Onslaught and Outbreak gamemodes (and their variants, haven't tested DoA)",
@@ -1222,7 +1227,7 @@
         }
       ],
       "thumbnail": "mod_packages/horde_mod_6a1b9c/thumbnail.png",
-      "thumbnailSha256": "baee35849e396b5b4ed62ccba8d6292e431a7319d19b714d77bd35b66665ce03",
+      "thumbnailSha256": "23f9fac448b83eb5e3b4ac57f8f2d074a7b670f797b39e801bad19251aa8de0f",
       "collaborators": []
     },
     {
