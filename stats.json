@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T12:16:12.916Z",
+  "generated": "2026-10-06T12:46:12.941Z",
   "mods": {
     "directors_cut": {
       "favorites": 186,
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 3,
         "average": 3.5
