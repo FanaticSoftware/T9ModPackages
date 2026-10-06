@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T19:01:41.458Z",
+  "generated": "2026-10-06T23:21:48.670Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2195,6 +2195,66 @@
       ],
       "thumbnail": "mod_packages/start_with_chrysal_456002/thumbnail.png",
       "thumbnailSha256": "18b46c8e38230c9b2b7a76a932cb416a18fbc4d3d4ace9afca8b946f54cd70cc",
+      "collaborators": []
+    },
+    {
+      "title": "Starting Room",
+      "description": "Inspired by the Bo6 LTM and Bo7 perma mode, Players are confined to the starting room. With the option to have every station available or the ones thats already there. The maps do open up when Exfil is active.",
+      "author": {
+        "discordName": "tech_wave",
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "06f4a5c99de219c7f8ecaea63f3ff0f95ce5faaf2c4371d993eb7c29247a9897",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 22,
+        "rules": "2026.09.26",
+        "summary": "22 medium"
+      },
+      "settings": 5,
+      "tags": [
+        "Gameplay Overhaul",
+        "Challenge / Custom Rules",
+        "Perks",
+        "Pack-a-Punch",
+        "Round-Based Maps",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Easy",
+        "Hard",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-06T23:21:48.382Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557162914060697611"
+      },
+      "id": "starting_room_9e62af",
+      "version": "20261006-224922",
+      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261006-224922.cwm",
+      "size": 1096632,
+      "sha256": "aaa016190b873f8c8e8fe59beebef7bd919a020fe8cfe822a91b5fa82acd1423",
+      "history": [
+        {
+          "version": "20261006-224922",
+          "changelog": "",
+          "published": "2026-10-06T23:21:48.382Z"
+        }
+      ],
+      "thumbnail": "mod_packages/starting_room_9e62af/thumbnail.png",
+      "thumbnailSha256": "5f7a086fa810007fac3c1293ca01eaf38fca59e235847ab89d5d2e7fba0c1d5d",
       "collaborators": []
     },
     {
