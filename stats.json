@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T20:46:13.382Z",
+  "generated": "2026-10-06T21:06:13.410Z",
   "mods": {
     "directors_cut": {
       "favorites": 186,
@@ -201,8 +201,8 @@
     "horde_mod_6a1b9c": {
       "favorites": 10,
       "rating": {
-        "count": 2,
-        "average": 4
+        "count": 3,
+        "average": 4.3
       }
     },
     "forsaken_spawn_room_a26fbe": {
