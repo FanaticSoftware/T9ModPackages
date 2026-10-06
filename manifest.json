@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T12:21:40.679Z",
+  "generated": "2026-10-06T15:20:49.488Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -560,6 +560,57 @@
       ],
       "thumbnail": "mod_packages/day_night/thumbnail.png",
       "thumbnailSha256": "b7d28ba88c91d2e27f91628e61f3c0cc6fefe51583c94ac5ae9df2eeb195a5ac",
+      "collaborators": []
+    },
+    {
+      "title": "dead ops drops",
+      "description": "imports the dead ops arcade drops into zombies",
+      "author": {
+        "discordName": "nebulacore",
+        "id": "459129557694545951",
+        "name": "nebulacore"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "5c686e705d519125c4eba6569e76c563930d46a670fa5ba3fe62b43bf2413838",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 3,
+        "rules": "2026.09.26",
+        "summary": "1 high, 3 medium"
+      },
+      "settings": 17,
+      "tags": [
+        "Challenge / Custom Rules",
+        "Power-ups",
+        "All Maps",
+        "Easy"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-06T15:20:49.207Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1556953301617221633"
+      },
+      "id": "dead_ops_drops_cb0937",
+      "version": "20261006-085629",
+      "file": "mod_packages/dead_ops_drops_cb0937/dead_ops_drops_cb0937-20261006-085629.cwm",
+      "size": 736721,
+      "sha256": "e367a6d5ee72b144edd41c695c0887ebafd9d4d5fb117b1ca4fb050f0a8003f4",
+      "history": [
+        {
+          "version": "20261006-085629",
+          "changelog": "",
+          "published": "2026-10-06T15:20:49.207Z"
+        }
+      ],
+      "thumbnail": "mod_packages/dead_ops_drops_cb0937/thumbnail.png",
+      "thumbnailSha256": "7723661a4562ef7685570439fc22e6359484cb4299b5f657bb34faaf849cfc94",
       "collaborators": []
     },
     {
