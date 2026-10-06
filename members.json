@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T07:36:08.720Z",
+  "generated": "2026-10-06T08:36:09.044Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4260,6 +4260,12 @@
       "id": "999425762090307666",
       "name": "Reality",
       "username": "realityuk",
+      "modder": true
+    },
+    {
+      "id": "1366519260909670500",
+      "name": "Reaper",
+      "username": "prophecyreaps",
       "modder": true
     },
     {
