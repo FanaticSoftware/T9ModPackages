@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T21:46:13.502Z",
+  "generated": "2026-10-06T22:46:13.484Z",
   "mods": {
     "directors_cut": {
-      "favorites": 186,
+      "favorites": 187,
       "rating": {
-        "count": 16,
+        "count": 17,
         "average": 5
       }
     },
@@ -61,7 +61,7 @@
     "replace_zombies_early_wip": {
       "favorites": 36,
       "rating": {
-        "count": 6,
+        "count": 7,
         "average": 5
       }
     },
@@ -115,10 +115,10 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 78,
+      "favorites": 79,
       "rating": {
-        "count": 9,
-        "average": 4.9
+        "count": 10,
+        "average": 5
       }
     },
     "hide_hud_24d1a2": {
@@ -173,8 +173,8 @@
     "test_lot_of_health_eb14c2": {
       "favorites": 30,
       "rating": {
-        "count": 4,
-        "average": 3.9
+        "count": 5,
+        "average": 4.1
       }
     },
     "two_weapons_ca99d3": {
@@ -243,7 +243,7 @@
     "infinite_ammo_e8e45c": {
       "favorites": 10,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
