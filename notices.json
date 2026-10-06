@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T12:21:45.736Z",
+  "generated": "2026-10-06T15:19:43.751Z",
   "notices": [
+    {
+      "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
+      "status": "rejected",
+      "mod": "mod menu (WIP)",
+      "id": "no_clip_9ecb2e",
+      "version": "20261005-180634",
+      "reason": "Duplicate mod, there are mods that already does all of this.",
+      "by": "saintvertigo",
+      "at": "2026-10-06T15:19:43.452Z"
+    },
     {
       "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
       "status": "approved",
@@ -2032,16 +2042,6 @@
       "reason": "",
       "by": "fanaticsoftware",
       "at": "2026-09-19T09:54:03.175Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "approved",
-      "mod": "Boss Rush",
-      "id": "boss_rush",
-      "version": "20260919-095021",
-      "reason": "",
-      "by": "fanaticsoftware",
-      "at": "2026-09-19T09:50:35.174Z"
     }
   ]
 }
