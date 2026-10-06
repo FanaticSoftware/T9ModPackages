@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T15:19:43.751Z",
+  "generated": "2026-10-06T15:20:54.872Z",
   "notices": [
+    {
+      "key": "a7e736c91391fd208ec9d3c73342cdc06b45ec31e9484889948f841231861348",
+      "status": "approved",
+      "mod": "dead ops drops",
+      "id": "dead_ops_drops_cb0937",
+      "version": "20261006-085629",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-06T15:20:54.655Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "rejected",
@@ -2032,16 +2043,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-19T10:58:25.318Z"
-    },
-    {
-      "key": "468e32f97667e97ca9d2d813feeba6d1c866a6804e7c6b45993b25946576d85a",
-      "status": "approved",
-      "mod": "Director's Cut",
-      "id": "directors_cut",
-      "version": "20260919-095341",
-      "reason": "",
-      "by": "fanaticsoftware",
-      "at": "2026-09-19T09:54:03.175Z"
     }
   ]
 }
