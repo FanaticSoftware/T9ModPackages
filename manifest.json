@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T23:21:48.670Z",
+  "generated": "2026-10-06T23:22:20.563Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2683,8 +2683,8 @@
       "collaborators": []
     },
     {
-      "title": "raygun pre-patch",
-      "description": "this changes the rayguns damage (pap wise too) to it's old patch, you can also adjust the damage for each pap (no pap too) it also \n\nwhat can you do;\n\n- adjust the damage of the raygun (at any pap too)\n- adjust the splash damage of the ray gun\n- Hotkey to get/upgrade the raygun immediately",
+      "title": "raygun/RoF pre-patch",
+      "description": "this changes the rayguns damage (pap wise too) to it's old patch, you can also adjust the damage for each pap (no pap too) it also \n\nwhat can you do;\n\n- adjust the damage of the raygun (at any pap too)\n- adjust the splash damage of the ray gun\n- Hotkey to get/upgrade the raygun immediately\n\nnew features;\n\n-added Ring of Fire pre-nerf toggle\n\nyou can play with the old damage of the ring of file with other launch date limits",
       "author": {
         "discordName": "69barbeque",
         "id": "1143908856276189236",
@@ -2692,37 +2692,42 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "b189f9eed41f55ef29119ae720355205cd81ef40da635d16846734bf8277727b",
+      "sourceSha256": "01a3982cad496cca903fd7333731860d446e5c1338bff12c3a22cd04ad06f1be",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 3,
+        "medium": 9,
         "rules": "2026.09.26",
-        "summary": "3 medium"
+        "summary": "9 medium"
       },
-      "settings": 7,
+      "settings": 12,
       "tags": [
         "Gameplay Overhaul",
         "Weapons",
         "Pack-a-Punch",
         "All Maps"
       ],
-      "changelog": "",
+      "changelog": "added ring of fire section yay, some1 requested it",
       "noProgression": true,
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-06T12:21:40.371Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1556953126819602549"
+        "at": "2026-10-06T23:22:20.125Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557165121149599745"
       },
       "id": "weapon_mod_51daaf",
-      "version": "20261006-085545",
-      "file": "mod_packages/weapon_mod_51daaf/weapon_mod_51daaf-20261006-085545.cwm",
-      "size": 1620062,
-      "sha256": "bc9a0788638f058a42de5d590dcba081a1e5c2a019c742c38077fba3e18a16a0",
+      "version": "20261006-225809",
+      "file": "mod_packages/weapon_mod_51daaf/weapon_mod_51daaf-20261006-225809.cwm",
+      "size": 1571502,
+      "sha256": "1124308624c83bcfe3d42c1d2f9507ffc9de5e980a062adcd59dc60e3985d6f6",
       "history": [
+        {
+          "version": "20261006-225809",
+          "changelog": "added ring of fire section yay, some1 requested it",
+          "published": "2026-10-06T23:22:20.125Z"
+        },
         {
           "version": "20261006-085545",
           "changelog": "",
@@ -2730,7 +2735,7 @@
         }
       ],
       "thumbnail": "mod_packages/weapon_mod_51daaf/thumbnail.png",
-      "thumbnailSha256": "3d52aa24dddb4deb28266327932329205a237bf6c70831c5ebe6bfdefca5c6c5",
+      "thumbnailSha256": "cc52ffd68a489ffa74848cb682053376da952d6eabb6437df8aab39f67935853",
       "collaborators": []
     },
     {
