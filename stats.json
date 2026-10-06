@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T23:16:13.529Z",
+  "generated": "2026-10-06T23:36:13.539Z",
   "mods": {
     "directors_cut": {
       "favorites": 187,
@@ -280,6 +280,13 @@
       "rating": {
         "count": 2,
         "average": 3.8
+      }
+    },
+    "starting_room_9e62af": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
       }
     }
   }
