@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-05T22:46:33.596Z",
+  "generated": "2026-10-06T12:21:45.736Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "raygun pre-patch",
+      "id": "weapon_mod_51daaf",
+      "version": "20261006-085545",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-06T12:21:45.559Z"
+    },
     {
       "key": "61919d86f24b552cddd336722c792b46ba4bd3f735c9177f629484b0d1e90850",
       "status": "approved",
@@ -2031,16 +2042,6 @@
       "reason": "",
       "by": "fanaticsoftware",
       "at": "2026-09-19T09:50:35.174Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "rejected",
-      "mod": "Aetheria",
-      "id": "aetheria",
-      "version": "1.0.3",
-      "reason": "forgor some stuff",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-19T09:50:15.341Z"
     }
   ]
 }
