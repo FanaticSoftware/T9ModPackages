@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T15:20:54.872Z",
+  "generated": "2026-10-06T19:01:47.335Z",
   "notices": [
+    {
+      "key": "3060ce6dc4bd9693b634798850d90f4331bbeafdae4dee1cfb846ede6ae19caa",
+      "status": "approved",
+      "mod": "Extended Hordes",
+      "id": "horde_mod_6a1b9c",
+      "version": "20261006-182922",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-06T19:01:47.157Z"
+    },
     {
       "key": "a7e736c91391fd208ec9d3c73342cdc06b45ec31e9484889948f841231861348",
       "status": "approved",
@@ -2033,16 +2044,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-19T17:04:52.659Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "1.1.24",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-19T10:58:25.318Z"
     }
   ]
 }
