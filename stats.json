@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T00:06:12.609Z",
+  "generated": "2026-10-06T00:36:12.562Z",
   "mods": {
     "directors_cut": {
-      "favorites": 185,
+      "favorites": 186,
       "rating": {
         "count": 16,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 126,
+      "favorites": 127,
       "rating": {
         "count": 15,
         "average": 5
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 3,
         "average": 3.5
