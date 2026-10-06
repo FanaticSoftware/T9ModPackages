@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T21:06:13.410Z",
+  "generated": "2026-10-06T21:46:13.502Z",
   "mods": {
     "directors_cut": {
       "favorites": 186,
@@ -124,8 +124,8 @@
     "hide_hud_24d1a2": {
       "favorites": 25,
       "rating": {
-        "count": 3,
-        "average": 3.5
+        "count": 4,
+        "average": 3.9
       }
     },
     "nacht_survival_396e21": {
@@ -271,7 +271,7 @@
     "test_a8804f": {
       "favorites": 8,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
