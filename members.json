@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T18:36:09.110Z",
+  "generated": "2026-10-07T19:36:09.101Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2043,6 +2043,12 @@
       "modder": true
     },
     {
+      "id": "1531429439961960668",
+      "name": "george droid",
+      "username": "georgedroid2209",
+      "modder": true
+    },
+    {
       "id": "465641038720139265",
       "name": "Gerf",
       "username": "shmoovement",
@@ -2064,12 +2070,6 @@
       "id": "482526882408038400",
       "name": "ghffg6569",
       "username": "ghffg6569",
-      "modder": true
-    },
-    {
-      "id": "439496341522219039",
-      "name": "Ghost",
-      "username": "._ghost.",
       "modder": true
     },
     {
