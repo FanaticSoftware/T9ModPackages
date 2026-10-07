@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T04:36:09.040Z",
+  "generated": "2026-10-07T05:36:09.021Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5316,6 +5316,12 @@
       "id": "594420944500686848",
       "name": "ToxicAtomic",
       "username": "toxicatomic",
+      "modder": true
+    },
+    {
+      "id": "585292017421123586",
+      "name": "Trey Quillar",
+      "username": "itstreyquillar",
       "modder": true
     },
     {
