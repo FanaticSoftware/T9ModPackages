@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T10:26:13.938Z",
+  "generated": "2026-10-07T10:46:13.967Z",
   "mods": {
     "directors_cut": {
       "favorites": 187,
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 5,
         "average": 4.6
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 81,
+      "favorites": 82,
       "rating": {
         "count": 10,
         "average": 5
