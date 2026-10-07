@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T15:36:09.104Z",
+  "generated": "2026-10-07T16:36:09.504Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1362,12 +1362,6 @@
       "id": "970439670553018439",
       "name": "dcedi",
       "username": "dcedi",
-      "modder": true
-    },
-    {
-      "id": "354425392926425088",
-      "name": "Deactivated_Account",
-      "username": "spet._.",
       "modder": true
     },
     {
@@ -4950,6 +4944,12 @@
       "id": "216498674203623424",
       "name": "Speedy⚡",
       "username": "iammrspeedy",
+      "modder": true
+    },
+    {
+      "id": "354425392926425088",
+      "name": "Spet",
+      "username": "spet._.",
       "modder": true
     },
     {
