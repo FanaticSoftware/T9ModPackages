@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T20:04:41.063Z",
+  "generated": "2026-10-07T21:41:52.577Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1643,6 +1643,57 @@
       ],
       "thumbnail": "mod_packages/point_per_bullit_8a7781/thumbnail.png",
       "thumbnailSha256": "40d62acae64ec592e6e119794f39fc4ec64f4113a1450a149b109e9f99587606",
+      "collaborators": []
+    },
+    {
+      "title": "prepatch ammo mods (WIP)",
+      "description": "this mod give back the old ammo mods back to us",
+      "author": {
+        "discordName": "kallumrex12345",
+        "id": "1002160337681915959",
+        "name": "kallumrex12345"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "0d2b6cb06d929ac33b40d4a1f49edc3382e984201447128b394664ac5fd9ca49",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Weapons",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-07T21:41:52.264Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557506917776097321"
+      },
+      "id": "prepatch_version_of_deadwire_73748a",
+      "version": "20261007-213624",
+      "file": "mod_packages/prepatch_version_of_deadwire_73748a/prepatch_version_of_deadwire_73748a-20261007-213624.cwm",
+      "size": 112599,
+      "sha256": "91a28833e7ab22867b5d1f299b50d6f407aff0801ea7c1ab92248d986afeb24e",
+      "history": [
+        {
+          "version": "20261007-213624",
+          "changelog": "",
+          "published": "2026-10-07T21:41:52.264Z"
+        }
+      ],
+      "thumbnail": "mod_packages/prepatch_version_of_deadwire_73748a/thumbnail.png",
+      "thumbnailSha256": "1faf5b6513d3402e86685284ac414ddf2825f1844e37c5d71e9825728a9c8b96",
       "collaborators": []
     },
     {
