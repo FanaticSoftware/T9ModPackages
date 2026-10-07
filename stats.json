@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T11:06:13.998Z",
+  "generated": "2026-10-07T11:46:14.002Z",
   "mods": {
     "directors_cut": {
       "favorites": 187,
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 2,
         "average": 5
