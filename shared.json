@@ -318,7 +318,17 @@
       "files": 1,
       "by": "1002160337681915959",
       "updated": "2026-10-07T17:11:48.564Z"
+    },
+    "zm_tungsten2_0225aa": {
+      "file": "shared_projects/zm_tungsten2_0225aa/05f60a97df6f4f49.cwm",
+      "size": 252149,
+      "sha256": "05f60a97df6f4f49519688681176caa7e738e7110b4355bffed78c01bedb5a03",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 2,
+      "by": "1556358552791163003",
+      "updated": "2026-10-07T21:59:26.481Z"
     }
   },
-  "generated": "2026-10-07T17:11:48.564Z"
+  "generated": "2026-10-07T21:59:26.481Z"
 }
