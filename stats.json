@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T20:36:14.376Z",
+  "generated": "2026-10-07T21:06:14.370Z",
   "mods": {
     "directors_cut": {
-      "favorites": 187,
+      "favorites": 188,
       "rating": {
         "count": 17,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 129,
+      "favorites": 130,
       "rating": {
         "count": 16,
         "average": 5
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 10,
+      "favorites": 9,
       "rating": {
         "count": 3,
         "average": 4.3
