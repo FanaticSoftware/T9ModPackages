@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T14:43:23.986Z",
+  "generated": "2026-10-07T14:48:09.969Z",
   "notices": [
+    {
+      "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
+      "status": "collab",
+      "mod": "bo3 sliding",
+      "id": "bo3_sliding_c9b774",
+      "version": null,
+      "reason": "**BBQ** (@69barbeque) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-10-07T14:48:09.743Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "collab",
@@ -2037,16 +2047,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-19T20:01:59.367Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "DOOM Mode",
-      "id": "doom_mode",
-      "version": null,
-      "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
-      "by": "",
-      "at": "2026-09-19T18:34:40.990Z"
     }
   ]
 }
