@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T12:36:09.112Z",
+  "generated": "2026-10-07T14:36:09.065Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -288,6 +288,12 @@
       "id": "221995730464800768",
       "name": "7Lee",
       "username": "7lee",
+      "modder": true
+    },
+    {
+      "id": "893377725690167316",
+      "name": "7uigi",
+      "username": "luigidubzz",
       "modder": true
     },
     {
@@ -2547,6 +2553,12 @@
       "modder": true
     },
     {
+      "id": "662100730047627275",
+      "name": "Izon",
+      "username": "izondlamb.exe",
+      "modder": true
+    },
+    {
       "id": "277433700075962369",
       "name": "Jack_",
       "username": "jack_0444",
@@ -3255,12 +3267,6 @@
       "modder": true
     },
     {
-      "id": "893377725690167316",
-      "name": "Luigi-",
-      "username": "luigidubzz",
-      "modder": true
-    },
-    {
       "id": "211169258095247360",
       "name": "Luisete2105",
       "username": "luisete2105",
@@ -3654,6 +3660,12 @@
       "id": "1469864682558062693",
       "name": "MXGUARDIAN",
       "username": "mxguardian_",
+      "modder": true
+    },
+    {
+      "id": "957629395944734733",
+      "name": "mxxlbxrx",
+      "username": "mxxlbxrx",
       "modder": true
     },
     {
@@ -4236,6 +4248,12 @@
       "id": "816458657184219186",
       "name": "Quinn",
       "username": "quinn068",
+      "modder": true
+    },
+    {
+      "id": "1335300318904189040",
+      "name": "qutexz",
+      "username": "qutexz.",
       "modder": true
     },
     {
