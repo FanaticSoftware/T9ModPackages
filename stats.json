@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T21:26:14.418Z",
+  "generated": "2026-10-07T22:06:14.372Z",
   "mods": {
     "directors_cut": {
       "favorites": 188,
@@ -290,6 +290,13 @@
       }
     },
     "dead_ops_drops_cb0937": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "prepatch_version_of_deadwire_73748a": {
       "favorites": 1,
       "rating": {
         "count": 0,
