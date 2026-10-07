@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T21:41:56.488Z",
+  "generated": "2026-10-07T22:19:45.912Z",
   "notices": [
+    {
+      "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
+      "status": "approved",
+      "mod": "prepatch ammo mods (WIP)",
+      "id": "prepatch_version_of_deadwire_73748a",
+      "version": "20261007-221029",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-07T22:19:45.718Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "approved",
@@ -2039,16 +2050,6 @@
       "reason": "Mod crashes when loading into any map, so players will be unable to play the mod. Please fix and resubmit.",
       "by": "illuminatidonut",
       "at": "2026-09-20T07:03:15.372Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Realism Mode",
-      "id": "realism_mode",
-      "version": "20260920-000343",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-20T00:04:06.939Z"
     }
   ]
 }
