@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T14:48:09.969Z",
+  "generated": "2026-10-07T14:49:26.027Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "collab",
+      "mod": "bo3 sliding",
+      "id": "bo3_sliding_c9b774",
+      "version": null,
+      "reason": "The owner unregistered this project. Your local copy stays; the shared copy and the co-author list are gone.",
+      "by": "",
+      "at": "2026-10-07T14:49:25.835Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "collab",
@@ -2037,16 +2047,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-19T20:29:58.119Z"
-    },
-    {
-      "key": "aa9f3d357f0f14d3a4b5bc7f64e1a145e45b719a404466f3326080ba054e36d7",
-      "status": "approved",
-      "mod": "Aetheria",
-      "id": "aetheria",
-      "version": "20260919-200135",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-19T20:01:59.367Z"
     }
   ]
 }
