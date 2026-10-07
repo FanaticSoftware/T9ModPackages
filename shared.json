@@ -310,15 +310,15 @@
       "updated": "2026-10-03T21:32:10.001Z"
     },
     "bo3_sliding_c9b774": {
-      "file": "shared_projects/bo3_sliding_c9b774/0893f5a46882911b.cwm",
-      "size": 3075,
-      "sha256": "0893f5a46882911b3bdcf12b8ecb8e435b3137fac671777e0438c4661124dc67",
-      "basedOn": "2ee54832ba05571ace8e1f51e6f0db1274b84c7c0e9602be8f18b39fbe08b558",
+      "file": "shared_projects/bo3_sliding_c9b774/325406fa0e75a7f9.cwm",
+      "size": 7082,
+      "sha256": "325406fa0e75a7f98f09e745727dc9a5bebeb16cbfdfa68fc6fc9e0daa372640",
+      "basedOn": "0893f5a46882911b3bdcf12b8ecb8e435b3137fac671777e0438c4661124dc67",
       "version": "1.0.0",
       "files": 1,
       "by": "1002160337681915959",
-      "updated": "2026-10-07T14:52:38.113Z"
+      "updated": "2026-10-07T14:58:01.404Z"
     }
   },
-  "generated": "2026-10-07T14:52:38.113Z"
+  "generated": "2026-10-07T14:58:01.404Z"
 }
