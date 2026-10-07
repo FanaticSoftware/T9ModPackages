@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T14:50:36.163Z",
+  "generated": "2026-10-07T14:52:08.001Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -78,9 +78,14 @@
         "id": "1002160337681915959",
         "name": "kallumrex12345"
       },
-      "collaborators": [],
+      "collaborators": [
+        "1143908856276189236"
+      ],
       "claimed": "2026-10-07T14:50:19.643Z",
-      "updated": "2026-10-07T14:50:36.163Z"
+      "updated": "2026-10-07T14:50:36.163Z",
+      "collaboratorNames": {
+        "1143908856276189236": "BBQ"
+      }
     },
     {
       "id": "director",
