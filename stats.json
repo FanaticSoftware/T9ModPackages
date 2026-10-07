@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T17:06:14.349Z",
+  "generated": "2026-10-07T17:36:14.274Z",
   "mods": {
     "directors_cut": {
       "favorites": 187,
@@ -213,14 +213,14 @@
       }
     },
     "zombie_snacks_9d8881": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "wall_jump_20261002": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 2,
         "average": 5
@@ -276,14 +276,14 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 4,
         "average": 4.4
       }
     },
     "starting_room_9e62af": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 1,
         "average": 5
