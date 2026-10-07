@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T14:02:30.316Z",
+  "generated": "2026-10-07T14:05:50.909Z",
   "invites": [
-    {
-      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
-      "mod": "bo3_sliding_c9b774",
-      "title": "bo3 sliding",
-      "ownerId": "1002160337681915959",
-      "ownerName": "kallumrex12345",
-      "at": "2026-10-07T14:02:30.316Z"
-    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
