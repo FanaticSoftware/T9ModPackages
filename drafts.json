@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T14:49:23.318Z",
+  "generated": "2026-10-07T14:50:19.643Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -70,6 +70,17 @@
       "collaborators": [],
       "claimed": "2026-09-28T00:18:11.860Z",
       "updated": "2026-09-28T00:18:11.860Z"
+    },
+    {
+      "id": "bo3_sliding_c9b774",
+      "title": "bo3 sliding",
+      "author": {
+        "id": "1002160337681915959",
+        "name": "kallumrex12345"
+      },
+      "collaborators": [],
+      "claimed": "2026-10-07T14:50:19.643Z",
+      "updated": "2026-10-07T14:50:19.643Z"
     },
     {
       "id": "director",
