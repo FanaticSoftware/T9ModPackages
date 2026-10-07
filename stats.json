@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T11:46:14.002Z",
+  "generated": "2026-10-07T14:26:14.161Z",
   "mods": {
     "directors_cut": {
       "favorites": 187,
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 0,
         "average": 0
@@ -287,6 +287,13 @@
       "rating": {
         "count": 1,
         "average": 5
+      }
+    },
+    "dead_ops_drops_cb0937": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
       }
     }
   }
