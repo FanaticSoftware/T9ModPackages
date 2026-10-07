@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-06T23:22:20.563Z",
+  "generated": "2026-10-07T00:22:22.366Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2233,20 +2233,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "Removed loaded debug text.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-06T23:21:48.382Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1557162914060697611"
+        "at": "2026-10-07T00:22:21.881Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557185042181001258"
       },
       "id": "starting_room_9e62af",
-      "version": "20261006-224922",
-      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261006-224922.cwm",
-      "size": 1096632,
-      "sha256": "aaa016190b873f8c8e8fe59beebef7bd919a020fe8cfe822a91b5fa82acd1423",
+      "version": "20261007-001719",
+      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261007-001719.cwm",
+      "size": 1096714,
+      "sha256": "ad6e9a9e5d6cee2da9b4c736cea7076a5dd1cb742c0ea7f0e892d1952249d515",
       "history": [
+        {
+          "version": "20261007-001719",
+          "changelog": "Removed loaded debug text.",
+          "published": "2026-10-07T00:22:21.881Z"
+        },
         {
           "version": "20261006-224922",
           "changelog": "",
