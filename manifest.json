@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T00:22:22.366Z",
+  "generated": "2026-10-07T20:04:41.063Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2207,7 +2207,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "06f4a5c99de219c7f8ecaea63f3ff0f95ce5faaf2c4371d993eb7c29247a9897",
+      "sourceSha256": "50d63a616d02490ace8641ca17815ca525f1498c363ead5ef8a758297c5d7fd0",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -2216,7 +2216,7 @@
         "rules": "2026.09.26",
         "summary": "22 medium"
       },
-      "settings": 5,
+      "settings": 6,
       "tags": [
         "Gameplay Overhaul",
         "Challenge / Custom Rules",
@@ -2233,20 +2233,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Removed loaded debug text.",
+      "changelog": "- Allowed Fire Sale to drop properly.\n- Fixed players being able to be damaged and could climb ontop of the Arsenal.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-07T00:22:21.881Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1557185042181001258"
+        "at": "2026-10-07T20:04:40.666Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557483669189562394"
       },
       "id": "starting_room_9e62af",
-      "version": "20261007-001719",
-      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261007-001719.cwm",
-      "size": 1096714,
-      "sha256": "ad6e9a9e5d6cee2da9b4c736cea7076a5dd1cb742c0ea7f0e892d1952249d515",
+      "version": "20261007-200356",
+      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261007-200356.cwm",
+      "size": 1097725,
+      "sha256": "709f60c573f444eba01a75f9729b10f061aed930b02cac165a2df29a7dbc1f89",
       "history": [
+        {
+          "version": "20261007-200356",
+          "changelog": "- Allowed Fire Sale to drop properly.\n- Fixed players being able to be damaged and could climb ontop of the Arsenal.",
+          "published": "2026-10-07T20:04:40.666Z"
+        },
         {
           "version": "20261007-001719",
           "changelog": "Removed loaded debug text.",
