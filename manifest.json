@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T22:19:42.096Z",
+  "generated": "2026-10-08T01:45:11.362Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2263,16 +2263,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "50d63a616d02490ace8641ca17815ca525f1498c363ead5ef8a758297c5d7fd0",
+      "sourceSha256": "d003c8c3b8ec348db3a7a0b1316dbce195888e86616e7670ef93dc12781f966c",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 22,
+        "medium": 24,
         "rules": "2026.09.26",
-        "summary": "22 medium"
+        "summary": "24 medium"
       },
-      "settings": 6,
+      "settings": 8,
       "tags": [
         "Gameplay Overhaul",
         "Challenge / Custom Rules",
@@ -2289,20 +2289,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "- Allowed Fire Sale to drop properly.\n- Fixed players being able to be damaged and could climb ontop of the Arsenal.",
+      "changelog": "- Added a Dark Aether teleport sequence that can occur every few rounds in Die Maschine\n- Fixed players able to crawl ontop of other stations. (Wunderfizz, Pack a Punch, and Workbench)",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-07T20:04:40.666Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1557483669189562394"
+        "at": "2026-10-08T01:45:10.933Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557567120345268258"
       },
       "id": "starting_room_9e62af",
-      "version": "20261007-200356",
-      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261007-200356.cwm",
-      "size": 1097725,
-      "sha256": "709f60c573f444eba01a75f9729b10f061aed930b02cac165a2df29a7dbc1f89",
+      "version": "20261008-013532",
+      "file": "mod_packages/starting_room_9e62af/starting_room_9e62af-20261008-013532.cwm",
+      "size": 1105253,
+      "sha256": "d40ecd07800c93aa14aec9193dfbc9f9953946790fd702701f31476ab6dd8bd5",
       "history": [
+        {
+          "version": "20261008-013532",
+          "changelog": "- Added a Dark Aether teleport sequence that can occur every few rounds in Die Maschine\n- Fixed players able to crawl ontop of other stations. (Wunderfizz, Pack a Punch, and Workbench)",
+          "published": "2026-10-08T01:45:10.933Z"
+        },
         {
           "version": "20261007-200356",
           "changelog": "- Allowed Fire Sale to drop properly.\n- Fixed players being able to be damaged and could climb ontop of the Arsenal.",
