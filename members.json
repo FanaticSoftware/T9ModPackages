@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T00:36:09.322Z",
+  "generated": "2026-10-08T03:36:09.315Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6012,6 +6012,12 @@
       "id": "1082740298305773679",
       "name": "zombiefyd.",
       "username": "zombiefyd.",
+      "modder": true
+    },
+    {
+      "id": "629796049229316136",
+      "name": "ZylOw",
+      "username": "itszylow",
       "modder": true
     },
     {
