@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T01:45:11.362Z",
+  "generated": "2026-10-08T01:45:36.639Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1655,7 +1655,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "6b610e16710168c2a822d4f09ccd8dfdaffb76abbcaf92e369243e5c6d6564ba",
+      "sourceSha256": "3d7b19610d4d61a67e5d3369e8d4fed2a3d813cddf52ebb0c34ecbabced623b5",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1672,20 +1672,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "add the whole file",
+      "changelog": "add all the ammo mods",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-07T22:19:41.617Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1557515502954217576"
+        "at": "2026-10-08T01:45:36.198Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557521392566673555"
       },
       "id": "prepatch_version_of_deadwire_73748a",
-      "version": "20261007-221029",
-      "file": "mod_packages/prepatch_version_of_deadwire_73748a/prepatch_version_of_deadwire_73748a-20261007-221029.cwm",
-      "size": 121611,
-      "sha256": "5c839585121abce000a7dad79bc580059b8ce356a5dae5c586bef4a89c59aa6e",
+      "version": "20261007-223355",
+      "file": "mod_packages/prepatch_version_of_deadwire_73748a/prepatch_version_of_deadwire_73748a-20261007-223355.cwm",
+      "size": 131164,
+      "sha256": "eafbd2750b56aa5470f89af9427281e7176dd1ec0e38060a53a24eed63321f58",
       "history": [
+        {
+          "version": "20261007-223355",
+          "changelog": "add all the ammo mods",
+          "published": "2026-10-08T01:45:36.198Z"
+        },
         {
           "version": "20261007-221029",
           "changelog": "add the whole file",
