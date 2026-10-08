@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T15:36:15.120Z",
+  "generated": "2026-10-08T16:56:15.210Z",
   "mods": {
     "directors_cut": {
       "favorites": 192,
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 463,
+      "favorites": 464,
       "rating": {
         "count": 33,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 59,
+      "favorites": 60,
       "rating": {
         "count": 7,
         "average": 4.1
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 84,
+      "favorites": 85,
       "rating": {
         "count": 10,
         "average": 5
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 32,
+      "favorites": 31,
       "rating": {
         "count": 5,
         "average": 4.1
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 2,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
