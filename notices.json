@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T22:19:45.912Z",
+  "generated": "2026-10-08T01:45:17.367Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "Starting Room",
+      "id": "starting_room_9e62af",
+      "version": "20261008-013532",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-08T01:45:17.185Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "approved",
@@ -2040,16 +2051,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-20T08:17:45.928Z"
-    },
-    {
-      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
-      "status": "rejected",
-      "mod": "Deadlight Greenlight",
-      "id": "deadlight_greenlight_fc56b7",
-      "version": "20260920-051903",
-      "reason": "Mod crashes when loading into any map, so players will be unable to play the mod. Please fix and resubmit.",
-      "by": "illuminatidonut",
-      "at": "2026-09-20T07:03:15.372Z"
     }
   ]
 }
