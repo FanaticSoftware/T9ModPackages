@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T08:36:09.802Z",
+  "generated": "2026-10-08T10:36:09.605Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2166,6 +2166,12 @@
       "id": "529363589140840459",
       "name": "Goett",
       "username": "goett",
+      "modder": true
+    },
+    {
+      "id": "378581927545798656",
+      "name": "Golden Leo",
+      "username": "leonis_auream",
       "modder": true
     },
     {
