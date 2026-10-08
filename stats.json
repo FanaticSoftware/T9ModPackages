@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T20:36:15.336Z",
+  "generated": "2026-10-08T22:06:15.492Z",
   "mods": {
     "directors_cut": {
       "favorites": 192,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 119,
+      "favorites": 120,
       "rating": {
         "count": 10,
         "average": 4.8
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 5,
         "average": 4.1
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 1,
         "average": 5
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 3,
         "average": 5
