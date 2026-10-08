@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T00:36:14.360Z",
+  "generated": "2026-10-08T01:06:14.437Z",
   "mods": {
     "directors_cut": {
       "favorites": 188,
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 21,
+      "favorites": 20,
       "rating": {
         "count": 5,
         "average": 4.6
