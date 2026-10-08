@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T04:36:10.899Z",
+  "generated": "2026-10-08T06:36:10.002Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6102,6 +6102,12 @@
       "id": "1393021105299787947",
       "name": "냉혹 Heartless",
       "username": "heartlessneng",
+      "modder": true
+    },
+    {
+      "id": "531821391444705293",
+      "name": "히욱쓰",
+      "username": "heewoog",
       "modder": true
     },
     {
