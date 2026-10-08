@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T01:06:14.437Z",
+  "generated": "2026-10-08T01:56:14.533Z",
   "mods": {
     "directors_cut": {
       "favorites": 188,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 462,
+      "favorites": 463,
       "rating": {
         "count": 33,
         "average": 5
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 17,
+      "favorites": 18,
       "rating": {
         "count": 3,
         "average": 5
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
