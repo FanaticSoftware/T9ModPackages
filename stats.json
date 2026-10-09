@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T04:16:15.851Z",
+  "generated": "2026-10-09T05:36:15.839Z",
   "mods": {
     "directors_cut": {
       "favorites": 193,
@@ -19,14 +19,14 @@
     "onslaught_survival": {
       "favorites": 120,
       "rating": {
-        "count": 10,
+        "count": 11,
         "average": 4.8
       }
     },
     "holiday_events": {
       "favorites": 131,
       "rating": {
-        "count": 16,
+        "count": 17,
         "average": 5
       }
     },
@@ -47,7 +47,7 @@
     "aetheria": {
       "favorites": 75,
       "rating": {
-        "count": 10,
+        "count": 11,
         "average": 4.9
       }
     },
@@ -68,8 +68,8 @@
     "doom_mode_beta": {
       "favorites": 20,
       "rating": {
-        "count": 5,
-        "average": 4.6
+        "count": 6,
+        "average": 4.7
       }
     },
     "day_night": {
@@ -117,7 +117,7 @@
     "start_with_chrysal_456002": {
       "favorites": 86,
       "rating": {
-        "count": 10,
+        "count": 11,
         "average": 5
       }
     },
