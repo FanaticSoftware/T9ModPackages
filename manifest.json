@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T01:45:36.639Z",
+  "generated": "2026-10-09T00:55:43.667Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -369,16 +369,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "2a0d02d8df5714d453ee376730b18ca2a5c90ccec7cab8950f5d0ad429873302",
+      "sourceSha256": "b8d93d0c8998d69d40c5419eb9869cfc8996b65346c7aa88582e41fd3c39dff0",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 22,
+        "medium": 11,
         "rules": "2026.09.26",
-        "summary": "22 medium"
+        "summary": "11 medium"
       },
-      "settings": 34,
+      "settings": 47,
       "tags": [
         "Quality of Life",
         "Weapons",
@@ -387,26 +387,32 @@
         "Pack-a-Punch",
         "Points / Economy",
         "Field Upgrades",
+        "Scorestreaks",
         "Armor / Rarity",
         "All Maps",
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "- Added perk tier selection\n- Added AAT tier selection\n- changed the order of weapon slots to make weapons go in the right slots.",
       "noProgression": true,
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-03T15:49:38.600Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555805654034423943"
+        "at": "2026-10-09T00:55:43.245Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557918024273502263"
       },
       "id": "custom_insertion_317c70",
-      "version": "20261003-045611",
-      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261003-045611.cwm",
-      "size": 221332,
-      "sha256": "d72b8f8fdf6edd6e02157fe90666750bb552b0e89fc571e6381be01716b08d5e",
+      "version": "20261009-005000",
+      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261009-005000.cwm",
+      "size": 235217,
+      "sha256": "f3db6b8f47b029a75582d3c6d7949819a61e7d08c0853295c94408e441da0f64",
       "history": [
+        {
+          "version": "20261009-005000",
+          "changelog": "- Added perk tier selection\n- Added AAT tier selection\n- changed the order of weapon slots to make weapons go in the right slots.",
+          "published": "2026-10-09T00:55:43.245Z"
+        },
         {
           "version": "20261003-045611",
           "changelog": "",
