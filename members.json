@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T08:36:09.653Z",
+  "generated": "2026-10-09T09:36:09.270Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -159,6 +159,12 @@
       "modder": true
     },
     {
+      "id": "897778086752440321",
+      "name": "♡",
+      "username": "cometomauer",
+      "modder": true
+    },
+    {
       "id": "107250736076693504",
       "name": "♫ Universal ♫",
       "username": "dj_universal",
@@ -168,12 +174,6 @@
       "id": "341329803388911618",
       "name": "⛧",
       "username": "bc1q",
-      "modder": true
-    },
-    {
-      "id": "897778086752440321",
-      "name": "✮⋆˙",
-      "username": "starophreniaaa",
       "modder": true
     },
     {
