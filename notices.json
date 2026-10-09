@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T01:45:40.646Z",
+  "generated": "2026-10-09T00:55:47.712Z",
   "notices": [
+    {
+      "key": "57cc73f8b611b10e074d2b2ac846cb02963eb0b17b5108b2149c095d2bc455a5",
+      "status": "approved",
+      "mod": "Loadout Customizer",
+      "id": "custom_insertion_317c70",
+      "version": "20261009-005000",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-09T00:55:47.509Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "approved",
@@ -2042,16 +2053,6 @@
       "reason": "**✧** (@starophren1c) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-21T03:17:17.255Z"
-    },
-    {
-      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
-      "status": "approved",
-      "mod": "Deadlight Greenlight",
-      "id": "deadlight_greenlight_fc56b7",
-      "version": "20260920-132644",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-20T18:29:16.033Z"
     }
   ]
 }
