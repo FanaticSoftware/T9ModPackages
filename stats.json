@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T12:36:15.981Z",
+  "generated": "2026-10-09T13:16:15.989Z",
   "mods": {
     "directors_cut": {
       "favorites": 193,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 131,
+      "favorites": 132,
       "rating": {
         "count": 17,
         "average": 5
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 3,
         "average": 5
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 6,
         "average": 4.4
