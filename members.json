@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T13:36:09.439Z",
+  "generated": "2026-10-09T15:36:09.290Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3834,6 +3834,12 @@
       "id": "257687281131978755",
       "name": "NiftyCarrot 🇵🇸",
       "username": "niftycarrot",
+      "modder": true
+    },
+    {
+      "id": "328096123807858689",
+      "name": "nigel",
+      "username": "nigel8141",
       "modder": true
     },
     {
