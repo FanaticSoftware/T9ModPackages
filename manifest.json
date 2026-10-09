@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T00:55:43.667Z",
+  "generated": "2026-10-09T13:38:43.554Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1285,6 +1285,66 @@
       ],
       "thumbnail": "mod_packages/infinite_ammo_e8e45c/thumbnail.png",
       "thumbnailSha256": "9462d685179f63829cd824f4b4b85061a09d51628d48c87bb79333d1d2fdeef3",
+      "collaborators": []
+    },
+    {
+      "title": "Cheesy Menu",
+      "description": "Cheesy Menu\n\nA simple in-game mod menu for Cold War Zombies. I built it for messing around, practising and testing things in solo matches. Everything runs from a small menu in the bottom-left corner, so you don't need to touch any settings.\n\nWhat's in it\n\nPlayer\n\nGod Mode, Infinite Ammo, No Target\nNoclip: fly with WASD, Jump to go up, Crouch to go down, Sprint to go faster\nThird Person, Low Gravity, Move Speed\nMax Ammo for all your guns, +1 Self Revive, Revive Me\n\nPoints & Salvage\n\nAdd 10k / 100k / 1M points, or set your points to 4,000,000\nAdd Salvage and Rare Salvage (on maps that use it)\n\nPerks\n\nGive any perk on its own, or all of them at once\n\nWeapons\n\nPack-a-Punch your current gun, one level at a time up to III\nChange your current gun's rarity, from Common to Legendary\nPut any ammo mod on your current gun: Brain Rot, Cryo Freeze, Dead Wire, Napalm Burst, Shatter Blast\nSpawn any wonder weapon, or any base weapon at the rarity you pick\n\nZombies & Rounds\n\nOne-Hit Kills, All Sprinters, Pause Spawning, Skip Round\n\nPowerups\n\nDrop Max Ammo, Insta-Kill, Double Points, Nuke, Carpenter, Fire Sale, Bonfire Sale, Free Perk or Death Machine in front of you\n\nWorld\n\nTeleport to crosshair, save and load your position\nOpen every door and debris for free, turn on the power\nSlow motion\n\nControls\n\nOpen menu: hold Aim and press Melee\nScroll: Aim moves up, Fire moves down (hold to scroll faster)\nSelect: Reload or Interact\nBack / close: Melee or Crouch\n\nGood to know\n\nSolo and private matches only. Mods don't run in public matchmaking.\nSome options depend on the map. Salvage only works where the map uses it, and wonder weapons from other maps will have no sound.\nSkip Round ends the current round, but any zombies still alive carry over into the next one.\nInteract also selects, so if you're standing next to a wall-buy or door it might buy it. Use Reload to select if that gets annoying.\n\nMade by the_sir_cheese.\n\n~ A little help from AI.",
+      "author": {
+        "discordName": "the_sir_cheese",
+        "id": "812673259627216928",
+        "name": "the_sir_cheese"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "f133d71f1ee37bd4c22f5378107ee859247479d8194ffa451cdf59cb413fc1c8",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 13,
+        "rules": "2026.09.26",
+        "summary": "13 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Cosmetic / HUD",
+        "Utility / Tools",
+        "Weapons",
+        "Wonder Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Player Health / Downs",
+        "Movement",
+        "All Maps",
+        "Easy",
+        "Solo"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-09T13:38:43.253Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1557758717095706730"
+      },
+      "id": "mod_menu_c75d87",
+      "version": "20261008-141657",
+      "file": "mod_packages/mod_menu_c75d87/mod_menu_c75d87-20261008-141657.cwm",
+      "size": 257129,
+      "sha256": "c65ef96ae603b0036b313ad3b0ecbb051f94baabf4e7f6dc17081a76eb3ad4df",
+      "history": [
+        {
+          "version": "20261008-141657",
+          "changelog": "",
+          "published": "2026-10-09T13:38:43.253Z"
+        }
+      ],
+      "thumbnail": "mod_packages/mod_menu_c75d87/thumbnail.png",
+      "thumbnailSha256": "880d6f1f5cf4b8e82d5b0b44d665eeaae24da098485a4f9c736ed46d5f36a5a2",
       "collaborators": []
     },
     {
