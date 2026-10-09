@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T15:46:16.143Z",
+  "generated": "2026-10-09T16:36:16.237Z",
   "mods": {
     "directors_cut": {
       "favorites": 193,
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 2,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 1,
         "average": 5
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
