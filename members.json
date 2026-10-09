@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T23:36:09.036Z",
+  "generated": "2026-10-09T00:36:09.105Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -84,6 +84,12 @@
       "id": "813907111993147412",
       "name": ".icantstop.",
       "username": ".icantstop.",
+      "modder": true
+    },
+    {
+      "id": "930533162935812117",
+      "name": ".JayShmu518",
+      "username": "jayshmu518",
       "modder": true
     },
     {
@@ -258,12 +264,6 @@
       "id": "1047696920010838036",
       "name": "4NG3L",
       "username": "4ng3l2025",
-      "modder": true
-    },
-    {
-      "id": "930533162935812117",
-      "name": "5ive",
-      "username": "jayshmu518",
       "modder": true
     },
     {
@@ -3999,6 +3999,12 @@
       "modder": true
     },
     {
+      "id": "115173340334915587",
+      "name": "Oryx's Secret  Portal",
+      "username": "tech_wave",
+      "modder": true
+    },
+    {
       "id": "1148074046349656296",
       "name": "OrZeliuM",
       "username": "soulstealap",
@@ -5226,12 +5232,6 @@
       "id": "1507106905233821746",
       "name": "Taylor",
       "username": "aspect.of.autumn",
-      "modder": true
-    },
-    {
-      "id": "115173340334915587",
-      "name": "Techie",
-      "username": "tech_wave",
       "modder": true
     },
     {
