@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T00:55:47.712Z",
+  "generated": "2026-10-09T13:38:48.285Z",
   "notices": [
+    {
+      "key": "1e6cbaa0bb6d9220b77ee73f480375fa3eea74acea36181d8f46a557018e7704",
+      "status": "approved",
+      "mod": "Cheesy Menu",
+      "id": "mod_menu_c75d87",
+      "version": "20261008-141657",
+      "progression": "off",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-09T13:38:48.044Z"
+    },
     {
       "key": "57cc73f8b611b10e074d2b2ac846cb02963eb0b17b5108b2149c095d2bc455a5",
       "status": "approved",
@@ -2043,16 +2054,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-21T05:36:52.628Z"
-    },
-    {
-      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
-      "status": "collab",
-      "mod": "spawn fix",
-      "id": "spawn_fix_6449f1",
-      "version": null,
-      "reason": "**✧** (@starophren1c) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-21T03:17:17.255Z"
     }
   ]
 }
