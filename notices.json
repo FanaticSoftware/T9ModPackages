@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T20:49:43.832Z",
+  "generated": "2026-10-10T20:51:15.947Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "Missing Onslaught Maps",
+      "id": "missing_onslaught_maps_f8798d",
+      "version": "20261010-070606",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-10T20:51:15.703Z"
+    },
     {
       "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
       "status": "approved",
@@ -2050,16 +2061,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-22T02:10:33.357Z"
-    },
-    {
-      "key": "ad192cd95e0779c1f1c4cae5017dee396fe1a6045be77a62815f982c352d3e41",
-      "status": "rejected",
-      "mod": "The Haunting",
-      "id": "the_haunting",
-      "version": "20260921-201425",
-      "reason": "1: This is a Duplicate Mod\n2: SetGameTypeSetting is flagged as red because it causes a clientfield mismatch error in co-op",
-      "by": "fanaticsoftware",
-      "at": "2026-09-22T01:17:00.765Z"
     }
   ]
 }
