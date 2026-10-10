@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T13:38:48.285Z",
+  "generated": "2026-10-10T06:12:02.388Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "3rd Person Mod",
+      "id": "third_person_8d7c94",
+      "version": "20261010-040246",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-10T06:12:01.992Z"
+    },
     {
       "key": "1e6cbaa0bb6d9220b77ee73f480375fa3eea74acea36181d8f46a557018e7704",
       "status": "approved",
@@ -2044,16 +2055,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-21T06:05:07.900Z"
-    },
-    {
-      "key": "b72c0e3188df0dbf8dc580594c57c8b7631b86af6929c98ada2fa3badbf5341d",
-      "status": "approved",
-      "mod": "Gun Game (WIP)",
-      "id": "gun_game_wip",
-      "version": "20260921-051147",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-21T05:36:52.628Z"
     }
   ]
 }
