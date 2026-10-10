@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T20:30:49.315Z",
+  "generated": "2026-10-10T21:30:49.407Z",
   "mods": {
     "directors_cut": {
       "favorites": 194,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 476,
+      "favorites": 477,
       "rating": {
         "count": 34,
         "average": 5
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 25,
+      "favorites": 26,
       "rating": {
         "count": 0,
         "average": 0
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
@@ -304,7 +304,7 @@
       }
     },
     "mod_menu_c75d87": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
