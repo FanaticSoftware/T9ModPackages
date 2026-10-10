@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:12:02.388Z",
+  "generated": "2026-10-10T06:12:25.242Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "Firebase Z Steps Skipper",
+      "id": "firebase_z_mimic_step_skip_fd4bc0",
+      "version": "20261010-030452",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-10T06:12:25.095Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2045,16 +2056,6 @@
       "reason": "",
       "by": "teaa_the_silliest",
       "at": "2026-09-21T19:02:34.240Z"
-    },
-    {
-      "key": "2d27332e62cb1bf0f908b3c6f05b4709e2458719dfb8363df8d9053222b8de4b",
-      "status": "approved",
-      "mod": "ZCT MOD (SUPER EARLY)",
-      "id": "mulekick_0c3f8d",
-      "version": "20260921-055425",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-21T06:05:07.900Z"
     }
   ]
 }
