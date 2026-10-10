@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:11:56.200Z",
+  "generated": "2026-10-10T06:12:21.065Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -915,6 +915,58 @@
           "790835014941a647"
         ]
       }
+    },
+    {
+      "title": "Firebase Z Steps Skipper",
+      "description": "This mod simply skips the Mimic Step in Firebase Z. You hate it, I hate it, Markiplier hates it, relieve the stress of having to do it.",
+      "author": {
+        "discordName": "tech_wave",
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "29be7bb7ab5b86cd3bb2013287509139e80f07897fdf02f30c7e13ea40a01d9c",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 6,
+        "rules": "2026.09.26",
+        "summary": "6 medium"
+      },
+      "settings": 2,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Easter Egg / Quest",
+        "Firebase Z",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-10T06:12:20.752Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558314369094525065"
+      },
+      "id": "firebase_z_mimic_step_skip_fd4bc0",
+      "version": "20261010-030452",
+      "file": "mod_packages/firebase_z_mimic_step_skip_fd4bc0/firebase_z_mimic_step_skip_fd4bc0-20261010-030452.cwm",
+      "size": 865531,
+      "sha256": "1e7ff2ea49722d60f8fb24270ae96798f42bc168f10efa473af291a2f884b3a5",
+      "history": [
+        {
+          "version": "20261010-030452",
+          "changelog": "",
+          "published": "2026-10-10T06:12:20.752Z"
+        }
+      ],
+      "thumbnail": "mod_packages/firebase_z_mimic_step_skip_fd4bc0/thumbnail.png",
+      "thumbnailSha256": "5c0c4ca2859a164060d126f5204bca806ab78a73745922990639914a72259115",
+      "collaborators": []
     },
     {
       "title": "Forsaken Spawn Room Only",
