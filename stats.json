@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T14:00:49.114Z",
+  "generated": "2026-10-10T14:10:49.031Z",
   "mods": {
     "directors_cut": {
       "favorites": 193,
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 3,
         "average": 4.3
