@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T04:20:48.680Z",
+  "generated": "2026-10-10T07:30:48.875Z",
   "mods": {
     "directors_cut": {
       "favorites": 193,
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 4,
         "average": 5
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
@@ -298,6 +298,13 @@
     },
     "prepatch_version_of_deadwire_73748a": {
       "favorites": 5,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "mod_menu_c75d87": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
