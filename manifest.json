@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:13:29.714Z",
+  "generated": "2026-10-10T20:49:39.108Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2582,13 +2582,13 @@
       },
       "publishedBy": null,
       "developer": true,
-      "sourceSha256": "6dd57bc413bfae7ca1528c2293737013a139ef78c03eed8113e97d87ef4e1973",
+      "sourceSha256": "5692e27f625c10e553c779cb0a1cda4627460364874b0e0e162758246a5fab36",
       "scan": {
         "critical": 0,
         "high": 7,
         "low": 12,
         "medium": 88,
-        "rules": "2026.08.19",
+        "rules": "2026.09.26",
         "summary": "7 high, 88 medium, 12 low"
       },
       "settings": 14,
@@ -2596,20 +2596,25 @@
         "Zombies / AI",
         "All Maps"
       ],
-      "changelog": "Changed description",
+      "changelog": "Updated behavior",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-18T23:45:22.473Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1550653932542361726"
+        "at": "2026-10-10T20:49:38.738Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558582237341950080"
       },
       "id": "t9_bots",
-      "version": "20260918-234501",
-      "file": "mod_packages/t9_bots/t9_bots-20260918-234501.cwm",
-      "size": 2445236,
-      "sha256": "41999cff00a0d7fb058b066749b2f2c18c8bf94aa0fde1509495a0151ca217b6",
+      "version": "20261010-204911",
+      "file": "mod_packages/t9_bots/t9_bots-20261010-204911.cwm",
+      "size": 2260103,
+      "sha256": "6f4bc8dd77f7d49985850021c6acb0802a53ee44b6f08889bffda9b5db30aecf",
       "history": [
+        {
+          "version": "20261010-204911",
+          "changelog": "Updated behavior",
+          "published": "2026-10-10T20:49:38.738Z"
+        },
         {
           "version": "20260918-234501",
           "changelog": "Changed description",
