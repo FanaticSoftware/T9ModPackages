@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T20:51:11.951Z",
+  "generated": "2026-10-10T22:45:15.795Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2870,7 +2870,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "b8b7585fff318485ba55cf44a57088188a7732c845fc7efdc942ac9ca25ff70b",
+      "sourceSha256": "06af6a99a5c0f4c1a5b347a95aa568840697fd5adebae60d6e7874b7994d56b2",
       "scan": {
         "critical": 0,
         "high": 11,
@@ -2881,20 +2881,25 @@
       },
       "settings": 18,
       "tags": [],
-      "changelog": "",
+      "changelog": "Thumbnail change",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-10T06:11:55.903Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1558328930656718892"
+        "at": "2026-10-10T22:45:15.415Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558611082111619086"
       },
       "id": "third_person_8d7c94",
-      "version": "20261010-040246",
-      "file": "mod_packages/third_person_8d7c94/third_person_8d7c94-20261010-040246.cwm",
-      "size": 1981394,
-      "sha256": "a41e96c64c1a459dd04d644b5716ee2f4578b941fdfbafcd834ef78173e3e5fb",
+      "version": "20261010-224357",
+      "file": "mod_packages/third_person_8d7c94/third_person_8d7c94-20261010-224357.cwm",
+      "size": 1899345,
+      "sha256": "2864ceb538e27044c674b3767ff0aadefaf32fa432da5ca30858356e8a85545a",
       "history": [
+        {
+          "version": "20261010-224357",
+          "changelog": "Thumbnail change",
+          "published": "2026-10-10T22:45:15.415Z"
+        },
         {
           "version": "20261010-040246",
           "changelog": "",
@@ -2902,7 +2907,7 @@
         }
       ],
       "thumbnail": "mod_packages/third_person_8d7c94/thumbnail.png",
-      "thumbnailSha256": "8e2719d504704a30c4e209999f95d08ac55c43fa4171ce547f7f20182402a9c2",
+      "thumbnailSha256": "647e07e168cbf3a982586a95266a5685f688c53eb8b7fe09bb2c7853ca6ce436",
       "collaborators": []
     },
     {
