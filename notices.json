@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T20:51:15.947Z",
+  "generated": "2026-10-10T22:45:20.973Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "3rd Person Mod",
+      "id": "third_person_8d7c94",
+      "version": "20261010-224357",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-10T22:45:20.822Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2051,16 +2062,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-22T05:01:56.457Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Custom Mutations",
-      "id": "custom_mutations_dc3d6f",
-      "version": "20260922-020843",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-22T02:10:33.357Z"
     }
   ]
 }
