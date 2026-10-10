@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T20:49:39.108Z",
+  "generated": "2026-10-10T20:51:11.951Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1393,6 +1393,51 @@
       ],
       "thumbnail": "mod_packages/make_ww_great_again_e0869b/thumbnail.png",
       "thumbnailSha256": "7d9539ae39d8f8418ab5c0b78cbeaa8382ffaf5923d45b97c81d10b88161fe0b",
+      "collaborators": []
+    },
+    {
+      "title": "Missing Onslaught Maps",
+      "description": "Play Onslaught on Diesel and Miami Strike, two of the missing Onslaught Maps (with more to come) \n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel or Miami Strike.\nStart a SOLO (Not private) zombies match on any map. Die Maschine works, so does any other.\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
+      "author": {
+        "discordName": "izondlamb.exe",
+        "id": "662100730047627275",
+        "name": "Izon"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "9475b22752a0b8b73617c32b7def2b373c02a32928e79ef2af965ab08b7af98a",
+      "scan": {
+        "critical": 0,
+        "high": 3,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "3 high"
+      },
+      "settings": 1,
+      "tags": [],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-10T20:51:11.639Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558375059670966298"
+      },
+      "id": "missing_onslaught_maps_f8798d",
+      "version": "20261010-070606",
+      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261010-070606.cwm",
+      "size": 335045,
+      "sha256": "87e2def304a3c5262c6ef78fa555bc5a3e07fdef8f830b0488a7a51ac6af51e4",
+      "history": [
+        {
+          "version": "20261010-070606",
+          "changelog": "",
+          "published": "2026-10-10T20:51:11.639Z"
+        }
+      ],
+      "thumbnail": "mod_packages/missing_onslaught_maps_f8798d/thumbnail.png",
+      "thumbnailSha256": "6c9681e4841c80c309b4d2bc207a6b8559eec85b591644cfa4dc3d7983df90d5",
       "collaborators": []
     },
     {
