@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:12:37.928Z",
+  "generated": "2026-10-10T06:12:51.875Z",
   "notices": [
+    {
+      "key": "61919d86f24b552cddd336722c792b46ba4bd3f735c9177f629484b0d1e90850",
+      "status": "approved",
+      "mod": "SANDBOX - Zombies Toolkit v1.2",
+      "id": "test_a8804f",
+      "version": "20261009-183058",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-10T06:12:51.661Z"
+    },
     {
       "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
       "status": "approved",
@@ -2047,16 +2058,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-21T22:00:34.177Z"
-    },
-    {
-      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
-      "status": "collab",
-      "mod": "spawn fix",
-      "id": "spawn_fix_6449f1",
-      "version": null,
-      "reason": "**drain** (@drainbb) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-21T20:12:55.750Z"
     }
   ]
 }
