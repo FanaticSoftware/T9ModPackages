@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T15:10:46.020Z",
+  "generated": "2026-10-10T17:10:46.116Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -390,6 +390,12 @@
       "id": "442486528103415808",
       "name": "Agu",
       "username": "olibuu",
+      "modder": true
+    },
+    {
+      "id": "1252584180835942401",
+      "name": "AHM4D",
+      "username": "ahmaddler0",
       "modder": true
     },
     {
@@ -1332,6 +1338,12 @@
       "id": "936667791573008494",
       "name": "Criticz",
       "username": "criticzzz",
+      "modder": true
+    },
+    {
+      "id": "313698444822708226",
+      "name": "Csoki",
+      "username": "csokidev",
       "modder": true
     },
     {
@@ -3267,6 +3279,12 @@
       "modder": true
     },
     {
+      "id": "497463992986370068",
+      "name": "Liam",
+      "username": "liam_bennett",
+      "modder": true
+    },
+    {
       "id": "193448882481528832",
       "name": "Libratory",
       "username": "libratory",
@@ -3630,6 +3648,12 @@
       "id": "330486868368031744",
       "name": "mikebush92",
       "username": "mikebush92",
+      "modder": true
+    },
+    {
+      "id": "353463395468443649",
+      "name": "miles",
+      "username": "milesben2002",
       "modder": true
     },
     {
@@ -5169,6 +5193,12 @@
       "modder": true
     },
     {
+      "id": "863502029829570560",
+      "name": "Spirit",
+      "username": "spiritisis",
+      "modder": true
+    },
+    {
       "id": "737125402597785671",
       "name": "Splatter Drive",
       "username": "splatterdrive",
@@ -5260,7 +5290,7 @@
     },
     {
       "id": "1015821267514970193",
-      "name": "stunnalvl170storm",
+      "name": "stunnatoy",
       "username": "stunnatoy",
       "modder": true
     },
