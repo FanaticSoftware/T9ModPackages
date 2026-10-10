@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T14:40:49.135Z",
+  "generated": "2026-10-10T16:10:49.044Z",
   "mods": {
     "directors_cut": {
-      "favorites": 193,
+      "favorites": 194,
       "rating": {
         "count": 19,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 122,
+      "favorites": 123,
       "rating": {
         "count": 11,
         "average": 4.8
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 474,
+      "favorites": 475,
       "rating": {
         "count": 34,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 5,
         "average": 4.4
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 103,
+      "favorites": 104,
       "rating": {
         "count": 18,
         "average": 3.1
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 87,
+      "favorites": 88,
       "rating": {
         "count": 12,
         "average": 5
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 3,
         "average": 4.3
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -241,14 +241,14 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
@@ -276,14 +276,14 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 7,
         "average": 4.5
       }
     },
     "starting_room_9e62af": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 1,
         "average": 5
@@ -311,7 +311,7 @@
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
