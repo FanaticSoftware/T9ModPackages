@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:13:33.206Z",
+  "generated": "2026-10-10T20:49:43.832Z",
   "notices": [
+    {
+      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
+      "status": "approved",
+      "mod": "T9 Bots",
+      "id": "t9_bots",
+      "version": "20261010-204911",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-10T20:49:43.672Z"
+    },
     {
       "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
       "status": "approved",
@@ -2049,16 +2060,6 @@
       "reason": "1: This is a Duplicate Mod\n2: SetGameTypeSetting is flagged as red because it causes a clientfield mismatch error in co-op",
       "by": "fanaticsoftware",
       "at": "2026-09-22T01:17:00.765Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "collab",
-      "mod": "Custom Mutations",
-      "id": "custom_mutations_dc3d6f",
-      "version": null,
-      "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-21T22:07:30.515Z"
     }
   ]
 }
