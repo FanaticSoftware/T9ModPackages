@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:12:47.321Z",
+  "generated": "2026-10-10T06:13:29.714Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1821,7 +1821,7 @@
     },
     {
       "title": "prepatch ammo mods (WIP)",
-      "description": "this mod give back the old ammo mods back to us",
+      "description": "deadwire should now kills zombies",
       "author": {
         "discordName": "kallumrex12345",
         "id": "1002160337681915959",
@@ -1829,7 +1829,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "3d7b19610d4d61a67e5d3369e8d4fed2a3d813cddf52ebb0c34ecbabced623b5",
+      "sourceSha256": "1ad6cbea8617896509f6a94b85e07d771e36d2e6c66f63ad24b32b8647d8f039",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -1846,20 +1846,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "add all the ammo mods",
+      "changelog": "deadwire should not kill zombies",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-08T01:45:36.198Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1557521392566673555"
+        "at": "2026-10-10T06:13:29.338Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558217538326892603"
       },
       "id": "prepatch_version_of_deadwire_73748a",
-      "version": "20261007-223355",
-      "file": "mod_packages/prepatch_version_of_deadwire_73748a/prepatch_version_of_deadwire_73748a-20261007-223355.cwm",
-      "size": 131164,
-      "sha256": "eafbd2750b56aa5470f89af9427281e7176dd1ec0e38060a53a24eed63321f58",
+      "version": "20261009-204008",
+      "file": "mod_packages/prepatch_version_of_deadwire_73748a/prepatch_version_of_deadwire_73748a-20261009-204008.cwm",
+      "size": 132677,
+      "sha256": "583451be70eec12ee9ff72a858ea3705b4a4781624d68da8f5efdfd5877873e1",
       "history": [
+        {
+          "version": "20261009-204008",
+          "changelog": "deadwire should not kill zombies",
+          "published": "2026-10-10T06:13:29.338Z"
+        },
         {
           "version": "20261007-223355",
           "changelog": "add all the ammo mods",
