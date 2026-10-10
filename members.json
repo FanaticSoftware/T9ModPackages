@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T14:10:45.765Z",
+  "generated": "2026-10-10T15:10:46.020Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -372,6 +372,12 @@
       "id": "1274700361126641675",
       "name": "Agartha",
       "username": "amongus23654",
+      "modder": true
+    },
+    {
+      "id": "536262368666320896",
+      "name": "Aggrofilth",
+      "username": "agrofilth",
       "modder": true
     },
     {
@@ -5382,6 +5388,12 @@
       "id": "1507106905233821746",
       "name": "Taylor",
       "username": "aspect.of.autumn",
+      "modder": true
+    },
+    {
+      "id": "191744732437807115",
+      "name": "TaZ",
+      "username": "tazeq1996",
       "modder": true
     },
     {
