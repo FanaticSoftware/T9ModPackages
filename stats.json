@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T10:30:49.010Z",
+  "generated": "2026-10-10T10:40:49.010Z",
   "mods": {
     "directors_cut": {
       "favorites": 193,
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
@@ -311,6 +311,20 @@
       }
     },
     "make_ww_great_again_e0869b": {
+      "favorites": 2,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "third_person_8d7c94": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "firebase_z_mimic_step_skip_fd4bc0": {
       "favorites": 1,
       "rating": {
         "count": 0,
