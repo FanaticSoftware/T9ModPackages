@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-09T13:38:43.554Z",
+  "generated": "2026-10-10T06:11:56.200Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2690,6 +2690,51 @@
       ],
       "thumbnail": "mod_packages/test_lot_of_health_eb14c2/thumbnail.png",
       "thumbnailSha256": "4f9e0d853289a5fcb1a10c906d707403bc2a332cb65438565610e2e55015c3e4",
+      "collaborators": []
+    },
+    {
+      "title": "3rd Person Mod",
+      "description": "Smooth over-the-shoulder third person for Cold War Zombies. Three camera presets (Tight Cinematic / Competitive Wide / Stiff Camera) or your own. Aim + tactical toggles it and aiming drops you to first person. Optional Death Perception perk mode. Works on every zombies map. Tip: run a laser sight for aiming from the hip.",
+      "author": {
+        "discordName": "izondlamb.exe",
+        "id": "662100730047627275",
+        "name": "Izon"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "b8b7585fff318485ba55cf44a57088188a7732c845fc7efdc942ac9ca25ff70b",
+      "scan": {
+        "critical": 0,
+        "high": 11,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "11 high"
+      },
+      "settings": 18,
+      "tags": [],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-10T06:11:55.903Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558328930656718892"
+      },
+      "id": "third_person_8d7c94",
+      "version": "20261010-040246",
+      "file": "mod_packages/third_person_8d7c94/third_person_8d7c94-20261010-040246.cwm",
+      "size": 1981394,
+      "sha256": "a41e96c64c1a459dd04d644b5716ee2f4578b941fdfbafcd834ef78173e3e5fb",
+      "history": [
+        {
+          "version": "20261010-040246",
+          "changelog": "",
+          "published": "2026-10-10T06:11:55.903Z"
+        }
+      ],
+      "thumbnail": "mod_packages/third_person_8d7c94/thumbnail.png",
+      "thumbnailSha256": "8e2719d504704a30c4e209999f95d08ac55c43fa4171ce547f7f20182402a9c2",
       "collaborators": []
     },
     {
