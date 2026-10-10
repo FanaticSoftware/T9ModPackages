@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:12:21.065Z",
+  "generated": "2026-10-10T06:12:33.708Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1337,6 +1337,62 @@
       ],
       "thumbnail": "mod_packages/infinite_ammo_e8e45c/thumbnail.png",
       "thumbnailSha256": "9462d685179f63829cd824f4b4b85061a09d51628d48c87bb79333d1d2fdeef3",
+      "collaborators": []
+    },
+    {
+      "title": "ALL WEAPON DMG ADJUSTER",
+      "description": "its weapon damage adjuster \n\n- adjust the damage of all weapons including melee ( also pap varints)\n- hotkey to for testing purposes (paping up your weapon, also another to get the wonder weapon you desire)\n- you can also choose what weapon you can spawn with\n- \n\nthe mod is heavely untested but should be working fine but if there are any problems with the mod you can dm in discord i go by Barbeque",
+      "author": {
+        "discordName": "69barbeque",
+        "id": "1143908856276189236",
+        "name": "BBQ"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "135940965e488d4d9d302763b2919b8751466dfc52e5462012e05dc066c70aa5",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 8,
+        "rules": "2026.09.26",
+        "summary": "8 medium"
+      },
+      "settings": 175,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Wonder Weapons",
+        "Pack-a-Punch",
+        "Balanced",
+        "Solo"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-10T06:12:33.432Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558282667169022115"
+      },
+      "id": "make_ww_great_again_e0869b",
+      "version": "20261010-005855",
+      "file": "mod_packages/make_ww_great_again_e0869b/make_ww_great_again_e0869b-20261010-005855.cwm",
+      "size": 678435,
+      "sha256": "65fe45415e4a4a9bec9321edd587d02818330710f28936a673ff0d3983c0d467",
+      "history": [
+        {
+          "version": "20261010-005855",
+          "changelog": "",
+          "published": "2026-10-10T06:12:33.432Z"
+        }
+      ],
+      "thumbnail": "mod_packages/make_ww_great_again_e0869b/thumbnail.png",
+      "thumbnailSha256": "7d9539ae39d8f8418ab5c0b78cbeaa8382ffaf5923d45b97c81d10b88161fe0b",
       "collaborators": []
     },
     {
