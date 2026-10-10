@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T05:10:45.885Z",
+  "generated": "2026-10-10T07:10:45.801Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -708,6 +708,12 @@
       "id": "1143908856276189236",
       "name": "BBQ",
       "username": "69barbeque",
+      "modder": true
+    },
+    {
+      "id": "405115933649141773",
+      "name": "bcraret12005",
+      "username": "bcraret12005",
       "modder": true
     },
     {
@@ -2418,6 +2424,12 @@
       "id": "254596925150461952",
       "name": "hur hurr hurr",
       "username": "hostile3305",
+      "modder": true
+    },
+    {
+      "id": "895305977887354930",
+      "name": "Hydrostar",
+      "username": ".hydrostar",
       "modder": true
     },
     {
