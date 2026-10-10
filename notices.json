@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:12:51.875Z",
+  "generated": "2026-10-10T06:13:33.206Z",
   "notices": [
+    {
+      "key": "a910cd9532f94989176a195568b3aa39dd0a530a53942c0db6c29c7afb57cf29",
+      "status": "approved",
+      "mod": "prepatch ammo mods (WIP)",
+      "id": "prepatch_version_of_deadwire_73748a",
+      "version": "20261009-204008",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-10T06:13:33.046Z"
+    },
     {
       "key": "61919d86f24b552cddd336722c792b46ba4bd3f735c9177f629484b0d1e90850",
       "status": "approved",
@@ -2048,16 +2059,6 @@
       "reason": "**Figglebottom** (@illuminatidonut) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-21T22:07:30.515Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Custom Mutations",
-      "id": "custom_mutations_dc3d6f",
-      "version": "20260921-215957",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-21T22:00:34.177Z"
     }
   ]
 }
