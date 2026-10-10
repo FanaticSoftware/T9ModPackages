@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T06:12:25.242Z",
+  "generated": "2026-10-10T06:12:37.928Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "ALL WEAPON DMG ADJUSTER",
+      "id": "make_ww_great_again_e0869b",
+      "version": "20261010-005855",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-10T06:12:37.767Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
@@ -2046,16 +2057,6 @@
       "reason": "**drain** (@drainbb) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-21T20:12:55.750Z"
-    },
-    {
-      "key": "9be12ea475b98008655993b9ec88410c5079dd3e4b6b6f91c15d84746bd24661",
-      "status": "approved",
-      "mod": "Co-op Spawnrate Fix",
-      "id": "coop_spawnrate_fix_d47076",
-      "version": "20260921-190143",
-      "reason": "",
-      "by": "teaa_the_silliest",
-      "at": "2026-09-21T19:02:34.240Z"
     }
   ]
 }
