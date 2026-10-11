@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T19:20:50.302Z",
+  "generated": "2026-10-11T19:40:50.321Z",
   "mods": {
     "directors_cut": {
       "favorites": 199,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 489,
+      "favorites": 490,
       "rating": {
         "count": 35,
         "average": 5
@@ -166,8 +166,8 @@
     "quick_restart_9e740d": {
       "favorites": 27,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "test_lot_of_health_eb14c2": {
@@ -313,8 +313,8 @@
     "make_ww_great_again_e0869b": {
       "favorites": 6,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "third_person_8d7c94": {
@@ -343,6 +343,13 @@
       "rating": {
         "count": 0,
         "average": 0
+      }
+    },
+    "zombies_health_cap_2578e3": {
+      "favorites": 1,
+      "rating": {
+        "count": 1,
+        "average": 5
       }
     }
   }
