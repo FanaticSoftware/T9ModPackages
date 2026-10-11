@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T16:47:03.453Z",
+  "generated": "2026-10-11T19:25:31.763Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "zombies health capper",
+      "id": "zombies_health_cap_2578e3",
+      "version": "20261011-191728",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-11T19:25:31.398Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2055,16 +2066,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-22T08:11:37.157Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "20260922-080952",
-      "reason": "Published by co-author SaintVertigo, TheTeaa, and Figglebottom.",
-      "by": "illuminatidonut",
-      "at": "2026-09-22T08:11:32.292Z"
     }
   ]
 }
