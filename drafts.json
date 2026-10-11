@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T18:24:49.869Z",
+  "generated": "2026-10-11T19:25:27.667Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -631,17 +631,6 @@
       "collaborators": [],
       "claimed": "2026-10-07T21:57:51.710Z",
       "updated": "2026-10-07T21:57:51.710Z"
-    },
-    {
-      "id": "zombies_health_cap_2578e3",
-      "title": "zombies health cap",
-      "author": {
-        "id": "1143908856276189236",
-        "name": "69barbeque"
-      },
-      "collaborators": [],
-      "claimed": "2026-10-11T18:24:34.385Z",
-      "updated": "2026-10-11T18:24:49.869Z"
     }
   ]
 }

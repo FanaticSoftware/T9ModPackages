@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T16:46:58.903Z",
+  "generated": "2026-10-11T19:25:27.667Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3310,6 +3310,61 @@
           "1931db6d93c0a4da"
         ]
       }
+    },
+    {
+      "title": "zombies health capper",
+      "description": "allows you to adjust the minimume and maximume value of the zombies health\n\nalso aloows you to to choose at what round the mod activates",
+      "author": {
+        "discordName": "69barbeque",
+        "id": "1143908856276189236",
+        "name": "BBQ"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "9ca633548ee4a2354622e21ee568620eaf361186614b96dbf979014377448fef",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 6,
+        "rules": "2026.09.26",
+        "summary": "1 high, 6 medium"
+      },
+      "settings": 4,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Zombies / AI",
+        "All Maps",
+        "Easy",
+        "Hard"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-11T19:25:27.367Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558921519999090825"
+      },
+      "id": "zombies_health_cap_2578e3",
+      "version": "20261011-191728",
+      "file": "mod_packages/zombies_health_cap_2578e3/zombies_health_cap_2578e3-20261011-191728.cwm",
+      "size": 284377,
+      "sha256": "41a0da9c198ada39c0a763199a1b4589f0694e11cbd438323070a4e11d9534d1",
+      "history": [
+        {
+          "version": "20261011-191728",
+          "changelog": "",
+          "published": "2026-10-11T19:25:27.367Z"
+        }
+      ],
+      "thumbnail": "mod_packages/zombies_health_cap_2578e3/thumbnail.png",
+      "thumbnailSha256": "02153d33c9c35df813650084e943c0581b47186cbf285db52738205e09b84979",
+      "collaborators": []
     },
     {
       "title": "Zombyrdom",
