@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T18:50:50.345Z",
+  "generated": "2026-10-11T19:00:50.311Z",
   "mods": {
     "directors_cut": {
       "favorites": 199,
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 93,
+      "favorites": 92,
       "rating": {
         "count": 12,
         "average": 5
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 29,
+      "favorites": 28,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 10,
+      "favorites": 9,
       "rating": {
         "count": 7,
         "average": 4.5
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 0,
         "average": 0
