@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T13:10:46.003Z",
+  "generated": "2026-10-11T14:10:46.257Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -582,12 +582,6 @@
       "id": "372183464419524638",
       "name": "Ansigo",
       "username": "ansigo",
-      "modder": true
-    },
-    {
-      "id": "745964737107329027",
-      "name": "Anticoños",
-      "username": "djjamonconqueso",
       "modder": true
     },
     {
@@ -4986,6 +4980,12 @@
       "id": "927062461218177026",
       "name": "Sauce",
       "username": "technerdsauce",
+      "modder": true
+    },
+    {
+      "id": "343114874584432642",
+      "name": "SaucePause",
+      "username": "saucepause",
       "modder": true
     },
     {
