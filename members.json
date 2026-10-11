@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T16:10:46.301Z",
+  "generated": "2026-10-11T17:10:46.126Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1032,6 +1032,12 @@
       "id": "520016119671816220",
       "name": "Bucket TF2",
       "username": "buckettf2",
+      "modder": true
+    },
+    {
+      "id": "705582648432656384",
+      "name": "bunchocordz",
+      "username": "bunchocordz",
       "modder": true
     },
     {
@@ -3459,6 +3465,12 @@
       "modder": true
     },
     {
+      "id": "177588895335186432",
+      "name": "Loki",
+      "username": "loki115",
+      "modder": true
+    },
+    {
       "id": "246698921798139916",
       "name": "Lolz",
       "username": "lolz898",
@@ -5664,6 +5676,12 @@
       "id": "334268410617921537",
       "name": "TheRealBossRPG",
       "username": "therealbossrpg",
+      "modder": true
+    },
+    {
+      "id": "1299838081243021356",
+      "name": "TheREALeazynow82",
+      "username": "therealeazynow82._39554",
       "modder": true
     },
     {
