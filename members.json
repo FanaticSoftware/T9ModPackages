@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T03:10:45.969Z",
+  "generated": "2026-10-11T04:10:46.197Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4290,6 +4290,12 @@
       "id": "1110316470489063484",
       "name": "Panera",
       "username": "panerabread93",
+      "modder": true
+    },
+    {
+      "id": "787909318683000852",
+      "name": "Pants",
+      "username": "_merari",
       "modder": true
     },
     {
