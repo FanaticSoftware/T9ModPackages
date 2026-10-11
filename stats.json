@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T21:30:50.435Z",
+  "generated": "2026-10-11T21:40:50.427Z",
   "mods": {
     "directors_cut": {
       "favorites": 201,
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 92,
+      "favorites": 93,
       "rating": {
         "count": 12,
         "average": 5
@@ -269,7 +269,7 @@
       }
     },
     "test_a8804f": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 4,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 0,
         "average": 0
