@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T08:20:49.868Z",
+  "generated": "2026-10-11T08:30:49.846Z",
   "mods": {
     "directors_cut": {
       "favorites": 197,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 484,
+      "favorites": 485,
       "rating": {
         "count": 35,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
