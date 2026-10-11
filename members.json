@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T23:10:46.058Z",
+  "generated": "2026-10-11T00:10:46.056Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -174,6 +174,12 @@
       "id": "107250736076693504",
       "name": "♫ Universal ♫",
       "username": "dj_universal",
+      "modder": true
+    },
+    {
+      "id": "1240550650446614642",
+      "name": "♰ňvšŠøň_Ğøķû♰",
+      "username": "sup4realz",
       "modder": true
     },
     {
@@ -603,6 +609,12 @@
       "modder": true
     },
     {
+      "id": "1050615605612531722",
+      "name": "𝒜𝑅𝒯𝐻𝑅𝐼𝒯𝐼𝒮 𝒟𝐼𝒩𝒢𝐿𝐸",
+      "username": "im_the_king10",
+      "modder": true
+    },
+    {
       "id": "668543010639708170",
       "name": "Artic",
       "username": "ytartic",
@@ -948,6 +960,12 @@
       "id": "858220464525410334",
       "name": "Brayden",
       "username": "maybeluckyboifoxy",
+      "modder": true
+    },
+    {
+      "id": "468857740782206997",
+      "name": "Brecci",
+      "username": "xspitnxfirex",
       "modder": true
     },
     {
@@ -6155,7 +6173,7 @@
     {
       "id": "1450585054324457484",
       "name": "YTDreamTraveller",
-      "username": "travelsthe2nd",
+      "username": "ytfucknugget",
       "modder": true
     },
     {
