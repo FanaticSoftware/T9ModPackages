@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T01:00:49.634Z",
+  "generated": "2026-10-11T01:30:49.619Z",
   "mods": {
     "directors_cut": {
       "favorites": 195,
@@ -10,14 +10,14 @@
       }
     },
     "boss_rush": {
-      "favorites": 85,
+      "favorites": 86,
       "rating": {
         "count": 14,
         "average": 4.8
       }
     },
     "onslaught_survival": {
-      "favorites": 124,
+      "favorites": 125,
       "rating": {
         "count": 11,
         "average": 4.8
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 481,
+      "favorites": 482,
       "rating": {
         "count": 34,
         "average": 5
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 6,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 1,
         "average": 5
