@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T17:10:46.126Z",
+  "generated": "2026-10-11T18:10:46.234Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -627,12 +627,6 @@
       "modder": true
     },
     {
-      "id": "1050615605612531722",
-      "name": "𝒜𝑅𝒯𝐻𝑅𝐼𝒯𝐼𝒮 𝒟𝐼𝒩𝒢𝐿𝐸",
-      "username": "im_the_king10",
-      "modder": true
-    },
-    {
       "id": "668543010639708170",
       "name": "Artic",
       "username": "ytartic",
@@ -1074,6 +1068,12 @@
       "id": "690354794241720411",
       "name": "C Money Bags",
       "username": "coatedwave",
+      "modder": true
+    },
+    {
+      "id": "580406377382543360",
+      "name": "Cam",
+      "username": "thejxsus",
       "modder": true
     },
     {
@@ -1950,6 +1950,12 @@
       "id": "420091175261700098",
       "name": "FancyIsAPro",
       "username": "fancyisapro",
+      "modder": true
+    },
+    {
+      "id": "251984865526939649",
+      "name": "FatalFoe",
+      "username": "fatalfoe",
       "modder": true
     },
     {
@@ -3315,6 +3321,12 @@
       "modder": true
     },
     {
+      "id": "421130804438106123",
+      "name": "Lee2124",
+      "username": "lee2124",
+      "modder": true
+    },
+    {
       "id": "902965823050752041",
       "name": "Legit",
       "username": "olegitt",
@@ -3822,6 +3834,12 @@
       "id": "1227319665383051324",
       "name": "Mnhtran",
       "username": "cearm1",
+      "modder": true
+    },
+    {
+      "id": "431588277787688960",
+      "name": "mo",
+      "username": "mo.xx",
       "modder": true
     },
     {
