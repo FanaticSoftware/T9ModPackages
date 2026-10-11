@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T20:10:46.100Z",
+  "generated": "2026-10-11T21:10:45.998Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1185,6 +1185,12 @@
       "modder": true
     },
     {
+      "id": "1558941442284453965",
+      "name": "Cheesus",
+      "username": "cheesus0268",
+      "modder": true
+    },
+    {
       "id": "1494968502300442775",
       "name": "Chef Boiii",
       "username": "lakinabalzak",
@@ -1506,12 +1512,6 @@
       "id": "1395706310712098837",
       "name": "Demian",
       "username": "hypezenox",
-      "modder": true
-    },
-    {
-      "id": "1065057246389739541",
-      "name": "Denchik Games",
-      "username": "denchikgamesofficial",
       "modder": true
     },
     {
