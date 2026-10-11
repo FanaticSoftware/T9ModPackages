@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T16:46:41.426Z",
+  "generated": "2026-10-11T16:46:58.903Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1460,8 +1460,8 @@
       "collaborators": []
     },
     {
-      "title": "Missing Onslaught Maps",
-      "description": "Play Onslaught on Diesel and Miami Strike, two of the missing Onslaught Maps (with more to come) \n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel or Miami Strike.\nStart a SOLO (Not private) zombies match on any map. Die Maschine works, so does any other.\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
+      "title": "Missing Maps Collection",
+      "description": "Play Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · Jungle · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, ALL of the missing maps never ported to the Onslaught Game Made\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Jungle, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
       "author": {
         "discordName": "izondlamb.exe",
         "id": "662100730047627275",
@@ -1469,7 +1469,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "9475b22752a0b8b73617c32b7def2b373c02a32928e79ef2af965ab08b7af98a",
+      "sourceSha256": "087a4cab04c76f870a2bf708e220f57839e519ee56c15fe51d3f092c288367b6",
       "scan": {
         "critical": 0,
         "high": 3,
@@ -1479,21 +1479,34 @@
         "summary": "3 high"
       },
       "settings": 1,
-      "tags": [],
-      "changelog": "Thumbnail change, will update again once more maps are ported.",
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Cosmetic / HUD",
+        "Utility / Tools",
+        "Onslaught",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "Added Amerika, Armada, Hijacked, Jungle, WMD, Slums, Amsterdam, Showroom, Mansion, Gluboko, and Zoo\n\nReplaced Thumbnail to reflect new maps\n\nReplaced Description to reflect new maps\n\nAdded Tags",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-11T00:44:02.766Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1558615313661304836"
+        "at": "2026-10-11T16:46:58.468Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558792634925850658"
       },
       "id": "missing_onslaught_maps_f8798d",
-      "version": "20261010-230048",
-      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261010-230048.cwm",
-      "size": 1394658,
-      "sha256": "5894835e8715f7bb9d60c7f0455b59eaafd7b79f8dc421eb39ee55266be957c1",
+      "version": "20261011-104524",
+      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261011-104524.cwm",
+      "size": 1379091,
+      "sha256": "0c815641cf108222712aa49faebf8c7841d600e9466c901ce1d28a7995683f84",
       "history": [
+        {
+          "version": "20261011-104524",
+          "changelog": "Added Amerika, Armada, Hijacked, Jungle, WMD, Slums, Amsterdam, Showroom, Mansion, Gluboko, and Zoo\n\nReplaced Thumbnail to reflect new maps\n\nReplaced Description to reflect new maps\n\nAdded Tags",
+          "published": "2026-10-11T16:46:58.468Z"
+        },
         {
           "version": "20261010-230048",
           "changelog": "Thumbnail change, will update again once more maps are ported.",
@@ -1506,7 +1519,7 @@
         }
       ],
       "thumbnail": "mod_packages/missing_onslaught_maps_f8798d/thumbnail.png",
-      "thumbnailSha256": "3e9e477f0734546c8f4b253202ebaf5eded61e55941b4ec8c81e3d341fd77279",
+      "thumbnailSha256": "59b3d548c2fc189e4dedaa82921185600f1d63dd891fcebb39975f0c50602bd5",
       "collaborators": []
     },
     {
