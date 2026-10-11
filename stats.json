@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T00:20:49.543Z",
+  "generated": "2026-10-11T00:30:49.539Z",
   "mods": {
     "directors_cut": {
       "favorites": 195,
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 88,
+      "favorites": 89,
       "rating": {
         "count": 12,
         "average": 5
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 0,
         "average": 0
@@ -326,6 +326,13 @@
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
       "favorites": 2,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "missing_onslaught_maps_f8798d": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
