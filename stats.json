@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T00:10:49.450Z",
+  "generated": "2026-10-11T00:20:49.543Z",
   "mods": {
     "directors_cut": {
       "favorites": 195,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 123,
+      "favorites": 124,
       "rating": {
         "count": 11,
         "average": 4.8
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 68,
+      "favorites": 69,
       "rating": {
         "count": 5,
         "average": 4.4
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 60,
+      "favorites": 61,
       "rating": {
         "count": 7,
         "average": 4.1
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 25,
+      "favorites": 26,
       "rating": {
         "count": 2,
         "average": 5
@@ -269,7 +269,7 @@
       }
     },
     "test_a8804f": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 4,
         "average": 5
@@ -318,7 +318,7 @@
       }
     },
     "third_person_8d7c94": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
