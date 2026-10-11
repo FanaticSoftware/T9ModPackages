@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T23:40:49.492Z",
+  "generated": "2026-10-11T00:10:49.450Z",
   "mods": {
     "directors_cut": {
-      "favorites": 194,
+      "favorites": 195,
       "rating": {
         "count": 19,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 84,
+      "favorites": 85,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 136,
+      "favorites": 137,
       "rating": {
         "count": 17,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 79,
+      "favorites": 80,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 104,
+      "favorites": 105,
       "rating": {
         "count": 18,
         "average": 3.1
