@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T21:10:50.455Z",
+  "generated": "2026-10-11T21:30:50.435Z",
   "mods": {
     "directors_cut": {
-      "favorites": 200,
+      "favorites": 201,
       "rating": {
         "count": 20,
         "average": 5
@@ -40,7 +40,7 @@
     "zm_classic": {
       "favorites": 490,
       "rating": {
-        "count": 35,
+        "count": 36,
         "average": 5
       }
     },
@@ -52,10 +52,10 @@
       }
     },
     "t9_bots": {
-      "favorites": 70,
+      "favorites": 71,
       "rating": {
-        "count": 5,
-        "average": 4.4
+        "count": 6,
+        "average": 4.5
       }
     },
     "replace_zombies_early_wip": {
@@ -94,9 +94,9 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
-        "count": 3,
+        "count": 4,
         "average": 5
       }
     },
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 106,
+      "favorites": 107,
       "rating": {
         "count": 18,
         "average": 3.1
@@ -152,8 +152,8 @@
     "chaos_478629": {
       "favorites": 35,
       "rating": {
-        "count": 4,
-        "average": 3.9
+        "count": 5,
+        "average": 4.1
       }
     },
     "zombyrdom_411e72": {
@@ -164,10 +164,10 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
-        "count": 1,
-        "average": 0.5
+        "count": 2,
+        "average": 2.8
       }
     },
     "test_lot_of_health_eb14c2": {
@@ -327,8 +327,8 @@
     "firebase_z_mimic_step_skip_fd4bc0": {
       "favorites": 2,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "missing_onslaught_maps_f8798d": {
@@ -348,7 +348,7 @@
     "zombies_health_cap_2578e3": {
       "favorites": 1,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     }
