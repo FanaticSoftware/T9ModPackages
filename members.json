@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T19:10:46.084Z",
+  "generated": "2026-10-11T20:10:46.100Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3627,6 +3627,12 @@
       "modder": true
     },
     {
+      "id": "1305050009116606495",
+      "name": "Maniac",
+      "username": "thatmfmaniac",
+      "modder": true
+    },
+    {
       "id": "1245910093577588821",
       "name": "MANUEL",
       "username": "manuel_1235",
@@ -5088,6 +5094,12 @@
       "id": "803064934459899916",
       "name": "Serj Tankian",
       "username": "wafer.exe",
+      "modder": true
+    },
+    {
+      "id": "1320850047591780403",
+      "name": "shadez4K",
+      "username": "shadez4k_54760",
       "modder": true
     },
     {
