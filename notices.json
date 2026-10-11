@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T16:46:46.270Z",
+  "generated": "2026-10-11T16:47:03.453Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "Missing Maps Collection",
+      "id": "missing_onslaught_maps_f8798d",
+      "version": "20261011-104524",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-11T16:47:03.301Z"
+    },
     {
       "key": "6f5f6fa512c0e7df17be326b9f871b087db69c3103a3220ca40cdd91b5e0101f",
       "status": "approved",
@@ -2054,16 +2065,6 @@
       "reason": "Published by co-author SaintVertigo, TheTeaa, and Figglebottom.",
       "by": "illuminatidonut",
       "at": "2026-09-22T08:11:32.292Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "ZM Classic",
-      "id": "zm_classic",
-      "version": null,
-      "reason": "Your submission of **ZM Classic** was withdrawn before it was reviewed. Nothing was published or rejected, and you can submit it again whenever you are ready.\n\nIf you did not ask for this, submit it again and tell a moderator.",
-      "by": "",
-      "at": "2026-09-22T08:02:45.726Z"
     }
   ]
 }
