@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T21:50:50.502Z",
+  "generated": "2026-10-11T22:20:50.493Z",
   "mods": {
     "directors_cut": {
       "favorites": 201,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 490,
+      "favorites": 491,
       "rating": {
         "count": 36,
         "average": 5
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 4,
         "average": 3.9
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 17,
+      "favorites": 18,
       "rating": {
         "count": 4,
         "average": 5
