@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T22:45:15.795Z",
+  "generated": "2026-10-11T00:44:03.222Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1416,20 +1416,25 @@
       },
       "settings": 1,
       "tags": [],
-      "changelog": "",
+      "changelog": "Thumbnail change, will update again once more maps are ported.",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-10-10T20:51:11.639Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1558375059670966298"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-11T00:44:02.766Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558615313661304836"
       },
       "id": "missing_onslaught_maps_f8798d",
-      "version": "20261010-070606",
-      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261010-070606.cwm",
-      "size": 335045,
-      "sha256": "87e2def304a3c5262c6ef78fa555bc5a3e07fdef8f830b0488a7a51ac6af51e4",
+      "version": "20261010-230048",
+      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261010-230048.cwm",
+      "size": 1394658,
+      "sha256": "5894835e8715f7bb9d60c7f0455b59eaafd7b79f8dc421eb39ee55266be957c1",
       "history": [
+        {
+          "version": "20261010-230048",
+          "changelog": "Thumbnail change, will update again once more maps are ported.",
+          "published": "2026-10-11T00:44:02.766Z"
+        },
         {
           "version": "20261010-070606",
           "changelog": "",
@@ -1437,7 +1442,7 @@
         }
       ],
       "thumbnail": "mod_packages/missing_onslaught_maps_f8798d/thumbnail.png",
-      "thumbnailSha256": "6c9681e4841c80c309b4d2bc207a6b8559eec85b591644cfa4dc3d7983df90d5",
+      "thumbnailSha256": "3e9e477f0734546c8f4b253202ebaf5eded61e55941b4ec8c81e3d341fd77279",
       "collaborators": []
     },
     {
