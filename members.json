@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T00:10:46.056Z",
+  "generated": "2026-10-11T01:10:45.944Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -318,6 +318,12 @@
       "id": "135044460005425152",
       "name": "a",
       "username": "yhsa",
+      "modder": true
+    },
+    {
+      "id": "408141174197714964",
+      "name": "abdulaziz",
+      "username": "abdulazizsulaty",
       "modder": true
     },
     {
@@ -4485,12 +4491,6 @@
       "modder": true
     },
     {
-      "id": "338454509640613888",
-      "name": "Pyro Pete",
-      "username": "pyro_pete",
-      "modder": true
-    },
-    {
       "id": "149693231016312832",
       "name": "Qasmoke the Shitposter",
       "username": "kingqasmoke",
@@ -4584,6 +4584,12 @@
       "id": "1176677329930551360",
       "name": "Ray_Rhino",
       "username": "ray_rhino",
+      "modder": true
+    },
+    {
+      "id": "725058194224840845",
+      "name": "Rco",
+      "username": "mr.rco",
       "modder": true
     },
     {
@@ -5382,6 +5388,12 @@
       "id": "1121607624287326250",
       "name": "sucky",
       "username": "suckyies",
+      "modder": true
+    },
+    {
+      "id": "1419411759487389851",
+      "name": "Śūnyatā",
+      "username": "silentheartcoldhouse",
       "modder": true
     },
     {
@@ -6366,6 +6378,12 @@
       "id": "1215892727808393348",
       "name": "عبد الله",
       "username": "3mkp7",
+      "modder": true
+    },
+    {
+      "id": "596481617971642378",
+      "name": "ꨄMr Knightꨄ",
+      "username": "ltnocturn",
       "modder": true
     },
     {
