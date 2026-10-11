@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T03:30:49.743Z",
+  "generated": "2026-10-11T04:10:49.770Z",
   "mods": {
     "directors_cut": {
       "favorites": 196,
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 75,
+      "favorites": 76,
       "rating": {
         "count": 11,
         "average": 4.9
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 3,
         "average": 4.3
