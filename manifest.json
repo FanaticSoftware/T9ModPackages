@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T00:44:03.222Z",
+  "generated": "2026-10-11T16:46:41.426Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1286,6 +1286,70 @@
       ],
       "thumbnail": "mod_packages/horde_mod_6a1b9c/thumbnail.png",
       "thumbnailSha256": "23f9fac448b83eb5e3b4ac57f8f2d074a7b670f797b39e801bad19251aa8de0f",
+      "collaborators": []
+    },
+    {
+      "title": "Gun Game Zombies",
+      "description": "MY Gun Game Mod brings the classic Wager Match progression experience into Zombies!\n\nFeatures:\n- Full Weapon Progression: Fight through the complete arsenal including Pistols, SMGs, ARs, LMGs, Snipers, Shotguns, Melee, Special weapons, and Wonder Weapons!\n\n- Store Blueprint Support: Randomly applies store blueprints to your weapons (Note: These do NOT permanently unlock for your account; they are applied only during the match).\n\n- Dynamic Weapon Roulette (Configurable): Periodically changes your active weapon and resets current tier points to keep you on your toes!\n\n- Fair Point System: Kills with your current weapon award full progress (Bonus for Headshots/Melee). Equipment, Killstreaks, Roadkills, and Instakill award only 1 point to keep progression balanced.\n\n- Health & Down Penalties: Falling below critical health or getting downed will lose you tier progress and drop you one or three tiers!\n\n- Scorestreak Mechanics: Weapon-based Scorestreaks like the War Machine or Bow etc. can be picked up and crafted, but cannot be used to prevent breaking weapon progression. Non-weapon Scorestreaks Chopper Gunner, RC-XD, etc. remain fully usable!\nSame goes for Wallbuys and Box Weapons these aren't usable.\n\n- Outbreak Note: On Outbreak weapon progression currently resets back to Tier 1 when transitioning to a new region.\n\nThis is still a Work in Progress so some mechanics may not work completely perfectly yet. \n\nHave feedback, suggestions, or bug reports? Feel free to reach out on Discord: DK420187",
+      "author": {
+        "discordName": "dk420187",
+        "id": "349668941506805761",
+        "name": "DK420187"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "fe5a1d1c17c6e5302ba009af425d8596518edb1787ef5439a7c12f3287c6a0c8",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 5,
+        "rules": "2026.09.26",
+        "summary": "5 medium"
+      },
+      "settings": 5,
+      "tags": [
+        "Gameplay Overhaul",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Wonder Weapons",
+        "Mystery Box",
+        "Wall Buys",
+        "Power-ups",
+        "Scorestreaks",
+        "Player Health / Downs",
+        "Round-Based Maps",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Outbreak",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-11T16:46:41.165Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1558729460331712607"
+      },
+      "id": "horror_mode_1b2e66",
+      "version": "20261011-063415",
+      "file": "mod_packages/horror_mode_1b2e66/horror_mode_1b2e66-20261011-063415.cwm",
+      "size": 2030501,
+      "sha256": "672fe86d303d2d8a08234d66584f3bfda78c655fe17901fe6c13e0249b205076",
+      "history": [
+        {
+          "version": "20261011-063415",
+          "changelog": "",
+          "published": "2026-10-11T16:46:41.165Z"
+        }
+      ],
+      "thumbnail": "mod_packages/horror_mode_1b2e66/thumbnail.png",
+      "thumbnailSha256": "bade085c891616f48ad046053c110d262336ce08367de67ba78046d9446156fe",
       "collaborators": []
     },
     {
