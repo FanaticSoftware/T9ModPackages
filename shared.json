@@ -328,7 +328,17 @@
       "files": 2,
       "by": "1556358552791163003",
       "updated": "2026-10-07T21:59:26.481Z"
+    },
+    "zombies_health_cap_2578e3": {
+      "file": "shared_projects/zombies_health_cap_2578e3/5d169cedcf49018d.cwm",
+      "size": 6440,
+      "sha256": "5d169cedcf49018d1ef6ab1e10bcc78cf9975026277c597c5867dabe3fe19cd4",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 1,
+      "by": "1143908856276189236",
+      "updated": "2026-10-11T18:33:51.242Z"
     }
   },
-  "generated": "2026-10-07T21:59:26.481Z"
+  "generated": "2026-10-11T18:33:51.242Z"
 }
