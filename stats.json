@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T12:30:49.858Z",
+  "generated": "2026-10-11T12:40:49.881Z",
   "mods": {
     "directors_cut": {
-      "favorites": 197,
+      "favorites": 198,
       "rating": {
         "count": 20,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 127,
+      "favorites": 128,
       "rating": {
         "count": 12,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 139,
+      "favorites": 140,
       "rating": {
         "count": 17,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 485,
+      "favorites": 486,
       "rating": {
         "count": 35,
         "average": 5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 84,
+      "favorites": 85,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -115,14 +115,14 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 91,
+      "favorites": 92,
       "rating": {
         "count": 12,
         "average": 5
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 4,
         "average": 3.9
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 6,
         "average": 4.3
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -248,14 +248,14 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 0,
         "average": 0
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 0,
         "average": 0
@@ -311,7 +311,7 @@
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 2,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
