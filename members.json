@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T09:10:46.003Z",
+  "generated": "2026-10-11T10:10:46.104Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1203,12 +1203,6 @@
       "modder": true
     },
     {
-      "id": "1526863032741789767",
-      "name": "Chips Dubbo",
-      "username": "chipsdubbo416",
-      "modder": true
-    },
-    {
       "id": "726509826557083680",
       "name": "chorb",
       "username": "chorb.txt",
@@ -1848,6 +1842,12 @@
       "id": "1370814395189428344",
       "name": "Erwin",
       "username": "erwinwermach",
+      "modder": true
+    },
+    {
+      "id": "1444824638738923640",
+      "name": "Espartan",
+      "username": "espartan545454221222",
       "modder": true
     },
     {
@@ -4242,6 +4242,12 @@
       "id": "713106410937909339",
       "name": "onkq",
       "username": "onkq",
+      "modder": true
+    },
+    {
+      "id": "1526863032741789767",
+      "name": "OnoSoul95",
+      "username": "onosoul95",
       "modder": true
     },
     {
