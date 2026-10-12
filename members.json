@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T19:00:06.979Z",
+  "generated": "2026-10-12T19:20:56.077Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4908,6 +4908,12 @@
       "id": "1322084941848379424",
       "name": "RST Zey",
       "username": "rst_zeytto",
+      "modder": true
+    },
+    {
+      "id": "876232400278024203",
+      "name": "Rub Rub",
+      "username": "rubrub115",
       "modder": true
     },
     {
