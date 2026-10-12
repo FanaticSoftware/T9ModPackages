@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T02:10:46.237Z",
+  "generated": "2026-10-12T03:10:46.227Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1932,6 +1932,12 @@
       "id": "445745426801360930",
       "name": "fã number one do monza",
       "username": "bioneeak",
+      "modder": true
+    },
+    {
+      "id": "576210961392730127",
+      "name": "fade3387",
+      "username": "fade3387",
       "modder": true
     },
     {
