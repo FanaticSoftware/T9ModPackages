@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T03:40:50.595Z",
+  "generated": "2026-10-12T03:50:50.631Z",
   "mods": {
     "directors_cut": {
-      "favorites": 202,
+      "favorites": 203,
       "rating": {
         "count": 20,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 71,
+      "favorites": 72,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -108,14 +108,14 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 107,
+      "favorites": 108,
       "rating": {
         "count": 18,
         "average": 3.1
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 93,
+      "favorites": 94,
       "rating": {
         "count": 12,
         "average": 5
@@ -143,14 +143,14 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "chaos_478629": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 5,
         "average": 4.1
@@ -206,7 +206,7 @@
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
