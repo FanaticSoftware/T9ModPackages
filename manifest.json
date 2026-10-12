@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T00:15:40.190Z",
+  "generated": "2026-10-12T14:29:08.399Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1510,7 +1510,7 @@
     },
     {
       "title": "Missing Maps Collection",
-      "description": "Play Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · Jungle · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, ALL of the missing maps never ported to the Onslaught Game Made\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Jungle, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
+      "description": "Play Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, ALL of the missing maps never ported to the Onslaught Game Made\n\nNOTE: Mansion and Amsterdam will only boot if you select the Onslaught Containment mode. This is requird reguardless if you plan on using the Onslaught Survival mod please boot in Containment first that mod will over take once your in the map.\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
       "author": {
         "discordName": "izondlamb.exe",
         "id": "662100730047627275",
@@ -1518,16 +1518,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "087a4cab04c76f870a2bf708e220f57839e519ee56c15fe51d3f092c288367b6",
+      "sourceSha256": "655f401a5d955678bd7373715a1e156310087c3caf7f63f05cb4613dbef054e6",
       "scan": {
         "critical": 0,
-        "high": 3,
+        "high": 0,
         "low": 0,
         "medium": 0,
         "rules": "2026.09.26",
-        "summary": "3 high"
+        "summary": "clean, nothing flagged"
       },
-      "settings": 1,
+      "settings": 2,
       "tags": [
         "Gameplay Overhaul",
         "Quality of Life",
@@ -1537,20 +1537,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added Amerika, Armada, Hijacked, Jungle, WMD, Slums, Amsterdam, Showroom, Mansion, Gluboko, and Zoo\n\nReplaced Thumbnail to reflect new maps\n\nReplaced Description to reflect new maps\n\nAdded Tags",
+      "changelog": "Removed Jungle since it does not boot without crashing Cold War\nUpdated Thumbnail to reflect\nFixed issue with Mansion and Amsterdam not booting\nAdded Onslaught Containment mode",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-11T16:46:58.468Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1558792634925850658"
+        "at": "2026-10-12T14:29:07.929Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1559154526500687907"
       },
       "id": "missing_onslaught_maps_f8798d",
-      "version": "20261011-104524",
-      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261011-104524.cwm",
-      "size": 1379091,
-      "sha256": "0c815641cf108222712aa49faebf8c7841d600e9466c901ce1d28a7995683f84",
+      "version": "20261012-104325",
+      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261012-104325.cwm",
+      "size": 1396427,
+      "sha256": "c91bb41527679e81fb4f8e40dcfd750dcd42a0e9756600e4d678a0d4c5130992",
       "history": [
+        {
+          "version": "20261012-104325",
+          "changelog": "Removed Jungle since it does not boot without crashing Cold War\nUpdated Thumbnail to reflect\nFixed issue with Mansion and Amsterdam not booting\nAdded Onslaught Containment mode",
+          "published": "2026-10-12T14:29:07.929Z"
+        },
         {
           "version": "20261011-104524",
           "changelog": "Added Amerika, Armada, Hijacked, Jungle, WMD, Slums, Amsterdam, Showroom, Mansion, Gluboko, and Zoo\n\nReplaced Thumbnail to reflect new maps\n\nReplaced Description to reflect new maps\n\nAdded Tags",
@@ -1568,7 +1573,7 @@
         }
       ],
       "thumbnail": "mod_packages/missing_onslaught_maps_f8798d/thumbnail.png",
-      "thumbnailSha256": "59b3d548c2fc189e4dedaa82921185600f1d63dd891fcebb39975f0c50602bd5",
+      "thumbnailSha256": "3c68b442230b822d3799da896ede49f0e33ca3b3ebaaa37f4cf4cba97d3d5f7b",
       "collaborators": []
     },
     {
