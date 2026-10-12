@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T14:29:08.399Z",
+  "generated": "2026-10-12T23:32:56.020Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -356,6 +356,62 @@
       ],
       "thumbnail": "mod_packages/classic_point_system_cc5eb4/thumbnail.png",
       "thumbnailSha256": "75e4f82734d9375f2dfa1d7f7c790883c12f4207eab9f2c40186f5f4e787de09",
+      "collaborators": []
+    },
+    {
+      "title": "player randomizer",
+      "description": "it randomizes everything the player has \n\n-weapons\n-sheilds\n-perks\n-pack a punch\n-weapon tier\n-attachments \n-amount of perks \n-amount of sheild capacity\n-feild type\n\nall of these toggle-able and adjustable too!\n\nalso you can change the intervals of the roll too!!!!",
+      "author": {
+        "discordName": "69barbeque",
+        "id": "1143908856276189236",
+        "name": "BBQ"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "873a7257c39ee502326f13148f749a23fa1e24069923e20dfd44971d96c4a52f",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.09.26",
+        "summary": "25 medium"
+      },
+      "settings": 19,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Weapons",
+        "Wonder Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Field Upgrades",
+        "Armor / Rarity",
+        "All Maps"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-12T23:32:55.691Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1559340455932600334"
+      },
+      "id": "cold_war_randomizer_782805",
+      "version": "20261012-230211",
+      "file": "mod_packages/cold_war_randomizer_782805/cold_war_randomizer_782805-20261012-230211.cwm",
+      "size": 563126,
+      "sha256": "f03af387b591d397f0ee54a4db98d777616357917e479bf2bcfd7d6cedd13748",
+      "history": [
+        {
+          "version": "20261012-230211",
+          "changelog": "",
+          "published": "2026-10-12T23:32:55.691Z"
+        }
+      ],
+      "thumbnail": "mod_packages/cold_war_randomizer_782805/thumbnail.png",
+      "thumbnailSha256": "d30f07c4e1b4c94fc2786d100a3393b4eb09bd8668998edc4a1c51ee0a19d130",
       "collaborators": []
     },
     {
