@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T14:10:46.642Z",
+  "generated": "2026-10-12T16:00:02.782Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -186,12 +186,6 @@
       "id": "758156659079380993",
       "name": "🎮breezebug🎮",
       "username": "bugzone.",
-      "modder": true
-    },
-    {
-      "id": "1204189441971720247",
-      "name": "🐌",
-      "username": "zennietheoneandonly",
       "modder": true
     },
     {
@@ -4029,6 +4023,12 @@
       "modder": true
     },
     {
+      "id": "1204189441971720247",
+      "name": "my old prime is back",
+      "username": "zennietheoneandonly",
+      "modder": true
+    },
+    {
       "id": "644531206389497857",
       "name": "Myles2110",
       "username": "myles211013",
@@ -4062,6 +4062,12 @@
       "id": "488219925023031316",
       "name": "Naymar",
       "username": "motionkx",
+      "modder": true
+    },
+    {
+      "id": "782258548688027719",
+      "name": "nbowser22",
+      "username": "nbowser22",
       "modder": true
     },
     {
@@ -4104,6 +4110,12 @@
       "id": "702981274947682474",
       "name": "NFS Headshot",
       "username": "eyesight_playz",
+      "modder": true
+    },
+    {
+      "id": "1542986953283338272",
+      "name": "Nicholas Bowser",
+      "username": "nicholasbowser_52326",
       "modder": true
     },
     {
