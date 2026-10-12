@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T14:29:14.542Z",
+  "generated": "2026-10-12T23:33:00.911Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "player randomizer",
+      "id": "cold_war_randomizer_782805",
+      "version": "20261012-230211",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-12T23:33:00.703Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2058,16 +2069,6 @@
       "reason": "**Figglebottom** (@illuminatidonut) declined your invitation to co-author this mod.",
       "by": "",
       "at": "2026-09-22T19:19:46.631Z"
-    },
-    {
-      "key": "2d27332e62cb1bf0f908b3c6f05b4709e2458719dfb8363df8d9053222b8de4b",
-      "status": "approved",
-      "mod": "ZCT MOD v0.1",
-      "id": "mulekick_0c3f8d",
-      "version": "20260922-031929",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-22T18:50:26.676Z"
     }
   ]
 }
