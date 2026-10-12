@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T19:25:31.763Z",
+  "generated": "2026-10-12T00:15:44.326Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "all camos changer",
+      "id": "camo_changer_f68027",
+      "version": "20261011-225647",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-12T00:15:44.159Z"
+    },
     {
       "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
       "status": "approved",
@@ -2056,16 +2067,6 @@
       "reason": "Published by co-author SaintVertigo, TheTeaa, and Figglebottom.",
       "by": "illuminatidonut",
       "at": "2026-09-22T08:11:38.242Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "approved",
-      "mod": "ZM Classic",
-      "id": "zm_classic",
-      "version": "20260922-081051",
-      "reason": "",
-      "by": "illuminatidonut",
-      "at": "2026-09-22T08:11:37.157Z"
     }
   ]
 }
