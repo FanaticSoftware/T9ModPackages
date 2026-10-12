@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T22:10:46.188Z",
+  "generated": "2026-10-12T00:10:46.076Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1878,6 +1878,12 @@
       "id": "752711656299167744",
       "name": "ethi",
       "username": "ethi_vr",
+      "modder": true
+    },
+    {
+      "id": "1035377547040534578",
+      "name": "Ethnically replaced Goy",
+      "username": "just_ikea",
       "modder": true
     },
     {
