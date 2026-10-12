@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T19:00:38.894Z",
+  "generated": "2026-10-12T19:20:38.881Z",
   "mods": {
     "directors_cut": {
       "favorites": 205,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 143,
+      "favorites": 144,
       "rating": {
         "count": 17,
         "average": 5
