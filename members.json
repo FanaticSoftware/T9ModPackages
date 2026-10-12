@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T10:10:46.434Z",
+  "generated": "2026-10-12T11:10:46.296Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -156,12 +156,6 @@
       "id": "540090598661816320",
       "name": "╭∩╮(•̀_·́)╭∩╮",
       "username": "ragefulsins",
-      "modder": true
-    },
-    {
-      "id": "897778086752440321",
-      "name": "♡",
-      "username": "cometomauer",
       "modder": true
     },
     {
@@ -5694,6 +5688,12 @@
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
+      "modder": true
+    },
+    {
+      "id": "897778086752440321",
+      "name": "the rat",
+      "username": "elratratrat",
       "modder": true
     },
     {
