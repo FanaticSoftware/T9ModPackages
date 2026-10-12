@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T03:10:46.227Z",
+  "generated": "2026-10-12T04:10:46.116Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5916,6 +5916,12 @@
       "id": "1253136983950229626",
       "name": "Ucng",
       "username": "ucng60",
+      "modder": true
+    },
+    {
+      "id": "577087148335824897",
+      "name": "Ultamina",
+      "username": "ultamina",
       "modder": true
     },
     {
