@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T01:00:50.583Z",
+  "generated": "2026-10-12T02:30:50.580Z",
   "mods": {
     "directors_cut": {
-      "favorites": 201,
+      "favorites": 202,
       "rating": {
         "count": 20,
         "average": 5
@@ -311,7 +311,7 @@
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
