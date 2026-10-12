@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T00:15:44.326Z",
+  "generated": "2026-10-12T14:29:14.542Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "Missing Maps Collection",
+      "id": "missing_onslaught_maps_f8798d",
+      "version": "20261012-104325",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-12T14:29:14.261Z"
+    },
     {
       "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
       "status": "approved",
@@ -2057,16 +2068,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-22T18:50:26.676Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Onslaught Survival",
-      "id": "onslaught_survival",
-      "version": "20260922-080952",
-      "reason": "Published by co-author SaintVertigo, TheTeaa, and Figglebottom.",
-      "by": "illuminatidonut",
-      "at": "2026-09-22T08:11:38.242Z"
     }
   ]
 }
