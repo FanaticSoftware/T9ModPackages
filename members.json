@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T01:10:46.093Z",
+  "generated": "2026-10-12T02:10:46.237Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5334,6 +5334,12 @@
       "id": "1085805846094675988",
       "name": "Snip3",
       "username": "snip3maybe2",
+      "modder": true
+    },
+    {
+      "id": "425430500774117386",
+      "name": "son-konan",
+      "username": "son_konan",
       "modder": true
     },
     {
