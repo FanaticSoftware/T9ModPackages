@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-12T04:00:50.613Z",
+  "generated": "2026-10-12T04:10:50.492Z",
   "mods": {
     "directors_cut": {
       "favorites": 203,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 130,
+      "favorites": 131,
       "rating": {
         "count": 12,
         "average": 4.8
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 7,
         "average": 5
