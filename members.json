@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T07:00:07.216Z",
+  "generated": "2026-10-13T08:00:06.924Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3270,12 +3270,6 @@
       "id": "794384098704883712",
       "name": "Kode",
       "username": "kode.sh",
-      "modder": true
-    },
-    {
-      "id": "1141113285509386300",
-      "name": "Kraken",
-      "username": "krakenpiracy",
       "modder": true
     },
     {
