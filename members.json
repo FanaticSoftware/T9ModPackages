@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T09:00:07.778Z",
+  "generated": "2026-10-13T11:00:07.430Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1524,6 +1524,12 @@
       "id": "663365261805748224",
       "name": "𝐃𝐞𝐚𝐅𝐒𝐞𝐳𝐨",
       "username": "deafsezo",
+      "modder": true
+    },
+    {
+      "id": "553670083474620417",
+      "name": "deathwing13",
+      "username": "deathwing7527",
       "modder": true
     },
     {
