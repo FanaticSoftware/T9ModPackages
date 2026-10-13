@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T06:00:39.466Z",
+  "generated": "2026-10-13T07:50:39.397Z",
   "mods": {
     "directors_cut": {
-      "favorites": 207,
+      "favorites": 208,
       "rating": {
         "count": 20,
         "average": 5
@@ -17,21 +17,21 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 133,
+      "favorites": 134,
       "rating": {
         "count": 13,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 144,
+      "favorites": 145,
       "rating": {
         "count": 17,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 4,
         "average": 5
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 6,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 1,
         "average": 5
