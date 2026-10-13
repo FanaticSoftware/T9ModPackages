@@ -338,7 +338,17 @@
       "files": 1,
       "by": "1143908856276189236",
       "updated": "2026-10-11T18:33:51.242Z"
+    },
+    "cw_classic_progression_8d3f46": {
+      "file": "shared_projects/cw_classic_progression_8d3f46/bfe962bb87d6caed.cwm",
+      "size": 318889,
+      "sha256": "bfe962bb87d6caeda43033469440019afafc1c3da3e7210913baf22068034c5a",
+      "basedOn": "",
+      "version": "0.1.0",
+      "files": 8,
+      "by": "516655366633947136",
+      "updated": "2026-10-13T00:59:09.131Z"
     }
   },
-  "generated": "2026-10-11T18:33:51.242Z"
+  "generated": "2026-10-13T00:59:09.131Z"
 }
