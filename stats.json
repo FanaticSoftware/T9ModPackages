@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T02:20:39.269Z",
+  "generated": "2026-10-13T02:50:39.347Z",
   "mods": {
     "directors_cut": {
-      "favorites": 206,
+      "favorites": 207,
       "rating": {
         "count": 20,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
