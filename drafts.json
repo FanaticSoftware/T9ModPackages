@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T00:46:31.469Z",
+  "generated": "2026-10-13T00:57:32.399Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -111,9 +111,14 @@
         "id": "516655366633947136",
         "name": "meds22bro"
       },
-      "collaborators": [],
+      "collaborators": [
+        "662100730047627275"
+      ],
       "claimed": "2026-10-13T00:46:31.469Z",
-      "updated": "2026-10-13T00:46:31.469Z"
+      "updated": "2026-10-13T00:46:31.469Z",
+      "collaboratorNames": {
+        "662100730047627275": "Izon"
+      }
     },
     {
       "id": "director",
