@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T00:57:35.103Z",
+  "generated": "2026-10-13T01:07:15.796Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "collab",
+      "mod": "meds zombies overhaul",
+      "id": "cw_classic_progression_8d3f46",
+      "version": null,
+      "reason": "You are no longer a co-author of this mod. Your copy of the project stays on your PC; you simply cannot sync it with the others any more.",
+      "by": "",
+      "at": "2026-10-13T01:07:15.505Z"
+    },
     {
       "key": "8c7a9da0eb2e5c5c415865d6a008c368cd7522f9fa6ee1b439a3ed727ce8ae1f",
       "status": "collab",
@@ -2059,16 +2069,6 @@
       "reason": "",
       "by": "illuminatidonut",
       "at": "2026-09-23T01:10:15.298Z"
-    },
-    {
-      "key": "24e2368ab15aec981c416ea5d64ea3c0ba8fe7bbaa6c2211ca74f0e3af0de49f",
-      "status": "collab",
-      "mod": "Perk & QoL Tweaks",
-      "id": "perk_qol_tweaks",
-      "version": null,
-      "reason": "**DAKILLR** (@longcrustacean) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-23T00:57:26.046Z"
     }
   ]
 }
