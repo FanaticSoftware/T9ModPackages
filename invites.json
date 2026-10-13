@@ -1,15 +1,7 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T00:57:02.677Z",
+  "generated": "2026-10-13T00:57:29.632Z",
   "invites": [
-    {
-      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
-      "mod": "cw_classic_progression_8d3f46",
-      "title": "meds zombies overhaul",
-      "ownerId": "516655366633947136",
-      "ownerName": "meds22bro",
-      "at": "2026-10-13T00:57:02.677Z"
-    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
