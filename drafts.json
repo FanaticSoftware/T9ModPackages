@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-11T19:25:27.667Z",
+  "generated": "2026-10-13T00:46:31.469Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -103,6 +103,17 @@
           "65f312f365428b0"
         ]
       }
+    },
+    {
+      "id": "cw_classic_progression_8d3f46",
+      "title": "meds zombies overhaul",
+      "author": {
+        "id": "516655366633947136",
+        "name": "meds22bro"
+      },
+      "collaborators": [],
+      "claimed": "2026-10-13T00:46:31.469Z",
+      "updated": "2026-10-13T00:46:31.469Z"
     },
     {
       "id": "director",
