@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T20:00:08.283Z",
+  "generated": "2026-10-14T22:00:07.409Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1710,12 +1710,6 @@
       "id": "275346724040474626",
       "name": "Dr.Cat",
       "username": "dr.ket",
-      "modder": true
-    },
-    {
-      "id": "1530664706182877274",
-      "name": "Draco",
-      "username": "awferrante",
       "modder": true
     },
     {
@@ -5232,6 +5226,12 @@
       "id": "605140188590505986",
       "name": "Scuffed Android",
       "username": "scuffedandroid",
+      "modder": true
+    },
+    {
+      "id": "1530664706182877274",
+      "name": "SDA",
+      "username": "awferrante",
       "modder": true
     },
     {
