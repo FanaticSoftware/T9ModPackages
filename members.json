@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-13T23:00:07.093Z",
+  "generated": "2026-10-14T00:00:07.352Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2913,12 +2913,6 @@
       "modder": true
     },
     {
-      "id": "1467889067164434696",
-      "name": "JennyTheLeftist🏳️‍🌈⚒️",
-      "username": "polioscopio2",
-      "modder": true
-    },
-    {
       "id": "1174154530208895026",
       "name": "Jerkface935",
       "username": "jerkface935",
@@ -3078,6 +3072,12 @@
       "id": "1116569028568285224",
       "name": "js",
       "username": "not___ducky",
+      "modder": true
+    },
+    {
+      "id": "644008693993570325",
+      "name": "juan2sturdy",
+      "username": "loading.0889",
       "modder": true
     },
     {
@@ -3489,12 +3489,6 @@
       "modder": true
     },
     {
-      "id": "644008693993570325",
-      "name": "LiFe of Juan",
-      "username": "loading.0889",
-      "modder": true
-    },
-    {
       "id": "1096328211887034429",
       "name": "Lighter .F",
       "username": "lighterxfluid",
@@ -3552,6 +3546,12 @@
       "id": "485838125671776267",
       "name": "loganasat",
       "username": "loganasat",
+      "modder": true
+    },
+    {
+      "id": "1467889067164434696",
+      "name": "LoganGoldenFreddy",
+      "username": "groomulousminor",
       "modder": true
     },
     {
@@ -6402,6 +6402,12 @@
       "id": "544741539067199511",
       "name": "xSkullHD",
       "username": "xskullhd",
+      "modder": true
+    },
+    {
+      "id": "1377832134747885690",
+      "name": "xuko",
+      "username": "cu0x",
       "modder": true
     },
     {
