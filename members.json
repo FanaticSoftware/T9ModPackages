@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T11:00:07.554Z",
+  "generated": "2026-10-14T14:00:07.631Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1944,6 +1944,12 @@
       "id": "419605255848984577",
       "name": "eve",
       "username": "idrathersleeppp",
+      "modder": true
+    },
+    {
+      "id": "1057402480012562603",
+      "name": "Ewan",
+      "username": "xewan_.",
       "modder": true
     },
     {
