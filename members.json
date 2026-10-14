@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T06:00:07.388Z",
+  "generated": "2026-10-14T09:00:07.535Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2592,6 +2592,12 @@
       "id": "534768057822740481",
       "name": "How Greedy",
       "username": "c_btw",
+      "modder": true
+    },
+    {
+      "id": "189081663597314049",
+      "name": "HowardTheGod",
+      "username": "howardthegod",
       "modder": true
     },
     {
