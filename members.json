@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T05:00:07.372Z",
+  "generated": "2026-10-14T06:00:07.388Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3198,6 +3198,12 @@
       "id": "785623426911043635",
       "name": "Keilan",
       "username": "deaddrop38",
+      "modder": true
+    },
+    {
+      "id": "714672168000290838",
+      "name": "Kenshi",
+      "username": "kenshi_on_twitch",
       "modder": true
     },
     {
