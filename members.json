@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T09:00:07.535Z",
+  "generated": "2026-10-14T11:00:07.554Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3120,6 +3120,12 @@
       "id": "725341578998317116",
       "name": "Jusalexees",
       "username": "codm2022",
+      "modder": true
+    },
+    {
+      "id": "1104753537348546601",
+      "name": "Just A Dude Killing Zombies",
+      "username": "uraveragerustplayer",
       "modder": true
     },
     {
