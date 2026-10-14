@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T00:00:07.352Z",
+  "generated": "2026-10-14T01:00:07.479Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4251,6 +4251,12 @@
       "modder": true
     },
     {
+      "id": "588212584726003772",
+      "name": "Night",
+      "username": "nightmaredisc",
+      "modder": true
+    },
+    {
       "id": "1369348609790709915",
       "name": "Night.",
       "username": "error_demon_unknown",
@@ -6468,6 +6474,12 @@
       "id": "1348462361304104971",
       "name": "yop.",
       "username": "yopsskimask",
+      "modder": true
+    },
+    {
+      "id": "724447071410585754",
+      "name": "young_dollar_tree",
+      "username": "young_dollar_tree1",
       "modder": true
     },
     {
