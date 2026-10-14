@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T08:20:40.702Z",
+  "generated": "2026-10-14T08:30:41.071Z",
   "mods": {
     "directors_cut": {
       "favorites": 210,
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 1,
         "average": 5
@@ -360,7 +360,7 @@
       }
     },
     "cold_war_randomizer_782805": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
