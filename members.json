@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-14T23:00:07.546Z",
+  "generated": "2026-10-15T00:00:07.783Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2769,6 +2769,12 @@
       "modder": true
     },
     {
+      "id": "487873534110990357",
+      "name": "Integra.sai",
+      "username": "integrasai",
+      "modder": true
+    },
+    {
       "id": "670692022310666310",
       "name": "ipod996",
       "username": "ipod996",
@@ -4338,6 +4344,12 @@
       "id": "453639920544907266",
       "name": "Nite",
       "username": "nite129",
+      "modder": true
+    },
+    {
+      "id": "117483993791725577",
+      "name": "Nitrogenicide",
+      "username": "jknez1",
       "modder": true
     },
     {
