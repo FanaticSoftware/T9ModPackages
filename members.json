@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-15T19:00:07.716Z",
+  "generated": "2026-10-15T20:00:08.116Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -918,6 +918,12 @@
       "id": "564505401857409035",
       "name": "Blitz_studios",
       "username": "tonymontana3108",
+      "modder": true
+    },
+    {
+      "id": "805137932574916639",
+      "name": "Bluez",
+      "username": "deekay19955205",
       "modder": true
     },
     {
