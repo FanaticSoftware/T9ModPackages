@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-15T00:40:41.443Z",
+  "generated": "2026-10-15T01:20:41.593Z",
   "mods": {
     "directors_cut": {
       "favorites": 213,
@@ -52,14 +52,14 @@
       }
     },
     "t9_bots": {
-      "favorites": 75,
+      "favorites": 76,
       "rating": {
         "count": 6,
         "average": 4.5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 8,
         "average": 5
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 3,
         "average": 5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 5,
         "average": 4.1
