@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-15T01:00:07.840Z",
+  "generated": "2026-10-15T03:00:07.638Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1104,6 +1104,12 @@
       "id": "690354794241720411",
       "name": "C Money Bags",
       "username": "coatedwave",
+      "modder": true
+    },
+    {
+      "id": "439238718566432770",
+      "name": "Caleb",
+      "username": "caleb8536",
       "modder": true
     },
     {
