@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-15T07:00:07.774Z",
+  "generated": "2026-10-15T08:00:07.636Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -141,6 +141,12 @@
       "modder": true
     },
     {
+      "id": "744723094903455744",
+      "name": "《《Crøss Sans》》",
+      "username": "cross_sans10",
+      "modder": true
+    },
+    {
       "id": "299956175124824072",
       "name": "【ｘＳｉｍｏｎｘ】",
       "username": "xsimonx",
@@ -192,6 +198,12 @@
       "id": "341329803388911618",
       "name": "⛧",
       "username": "bc1q",
+      "modder": true
+    },
+    {
+      "id": "195181244030386176",
+      "name": "⦻ Luci ⛧",
+      "username": "luciidreeamzzz",
       "modder": true
     },
     {
@@ -3654,12 +3666,6 @@
       "id": "644864434657034243",
       "name": "Lt. Cheeseburger",
       "username": "ltcheeseburger",
-      "modder": true
-    },
-    {
-      "id": "195181244030386176",
-      "name": "Luci ⛧",
-      "username": "luciidreeamzzz",
       "modder": true
     },
     {
