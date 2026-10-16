@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T09:41:42.450Z",
+  "generated": "2026-10-16T09:42:25.739Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "3rd Person Mod",
+      "id": "third_person_8d7c94",
+      "version": "20261016-094016",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-16T09:42:25.578Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2060,16 +2071,6 @@
       "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
       "by": "",
       "at": "2026-09-23T01:21:50.712Z"
-    },
-    {
-      "key": "24e2368ab15aec981c416ea5d64ea3c0ba8fe7bbaa6c2211ca74f0e3af0de49f",
-      "status": "approved",
-      "mod": "Perk & QoL Tweaks",
-      "id": "perk_qol_tweaks",
-      "version": "20260922-234824",
-      "reason": "",
-      "by": "fanaticsoftware",
-      "at": "2026-09-23T01:16:32.608Z"
     }
   ]
 }
