@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-15T22:00:07.587Z",
+  "generated": "2026-10-16T00:00:07.577Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5442,6 +5442,12 @@
       "id": "1268319295423910112",
       "name": "SkillVeks",
       "username": "cx3ckm4ie",
+      "modder": true
+    },
+    {
+      "id": "1032513362933854259",
+      "name": "SKILLZ1 GAMING",
+      "username": "youtube.skillz",
       "modder": true
     },
     {
