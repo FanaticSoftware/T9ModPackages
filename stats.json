@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T18:50:43.719Z",
+  "generated": "2026-10-16T19:00:43.725Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 512,
+      "favorites": 513,
       "rating": {
         "count": 38,
         "average": 5
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 1,
         "average": 5
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 7,
         "average": 4.5
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 0,
         "average": 0
