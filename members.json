@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T12:00:08.367Z",
+  "generated": "2026-10-16T13:00:07.816Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2016,6 +2016,12 @@
       "id": "445745426801360930",
       "name": "fã number one do monza",
       "username": "bioneeak",
+      "modder": true
+    },
+    {
+      "id": "685094104429756437",
+      "name": "Fabian20066",
+      "username": "fabian20066",
       "modder": true
     },
     {
@@ -6810,12 +6816,6 @@
       "id": "596481617971642378",
       "name": "ꨄMr Knightꨄ",
       "username": "ltnocturn",
-      "modder": true
-    },
-    {
-      "id": "1335300318904189040",
-      "name": "ᑫᑌTE᙭Z",
-      "username": "qutexz.",
       "modder": true
     },
     {
