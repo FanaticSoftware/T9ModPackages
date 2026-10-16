@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T20:23:59.462Z",
+  "generated": "2026-10-16T21:00:07.319Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -487,17 +487,6 @@
       "unpublished": "2026-09-28T10:45:11.661Z",
       "lastVersion": "20260928-102940",
       "unpublishedBy": "478372597625520139"
-    },
-    {
-      "id": "test_mod_57ab83",
-      "title": "Test Mod",
-      "author": {
-        "id": "243151432230895619",
-        "name": "fanaticsoftware"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-16T20:31:25.318Z",
-      "updated": "2026-09-16T20:31:25.318Z"
     },
     {
       "id": "test_mod_6e01be",
