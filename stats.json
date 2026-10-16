@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T21:30:43.748Z",
+  "generated": "2026-10-16T21:40:43.810Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 148,
+      "favorites": 149,
       "rating": {
         "count": 17,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 513,
+      "favorites": 514,
       "rating": {
         "count": 38,
         "average": 5
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 20,
+      "favorites": 19,
       "rating": {
         "count": 3,
         "average": 5
