@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T16:00:07.796Z",
+  "generated": "2026-10-16T17:00:08.254Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -468,6 +468,12 @@
       "id": "667932861055107083",
       "name": "AKing👑🥀🔪",
       "username": "ablazingking",
+      "modder": true
+    },
+    {
+      "id": "1083072983347769395",
+      "name": "Al Sah-him",
+      "username": "bigbossogaming",
       "modder": true
     },
     {
@@ -4098,12 +4104,6 @@
       "id": "830979969760493619",
       "name": "Mr.Clean122",
       "username": "mr.clean122",
-      "modder": true
-    },
-    {
-      "id": "801417053151428668",
-      "name": "Mr.Fluff.",
-      "username": "mr.fluff.",
       "modder": true
     },
     {
