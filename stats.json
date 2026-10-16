@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T21:40:43.810Z",
+  "generated": "2026-10-16T22:00:43.759Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 0,
         "average": 0
@@ -213,7 +213,7 @@
       }
     },
     "zombie_snacks_9d8881": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 1,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 1,
         "average": 5
