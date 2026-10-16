@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T22:10:43.901Z",
+  "generated": "2026-10-16T22:20:43.773Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 139,
+      "favorites": 140,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -80,7 +80,7 @@
       }
     },
     "deadlight_greenlight_fc56b7": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 1,
         "average": 5
