@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T04:40:44.012Z",
+  "generated": "2026-10-17T05:00:44.054Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -24,9 +24,9 @@
       }
     },
     "holiday_events": {
-      "favorites": 149,
+      "favorites": 150,
       "rating": {
-        "count": 17,
+        "count": 18,
         "average": 5
       }
     },
@@ -115,9 +115,9 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 99,
+      "favorites": 100,
       "rating": {
-        "count": 12,
+        "count": 13,
         "average": 5
       }
     },
@@ -276,10 +276,10 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
-        "count": 7,
-        "average": 4.5
+        "count": 8,
+        "average": 4.6
       }
     },
     "starting_room_9e62af": {
