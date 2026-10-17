@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T00:00:07.721Z",
+  "generated": "2026-10-17T02:00:07.735Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2904,6 +2904,12 @@
       "id": "662100730047627275",
       "name": "Izon",
       "username": "izondlamb.exe",
+      "modder": true
+    },
+    {
+      "id": "218068892331933696",
+      "name": "jack",
+      "username": "zappzo",
       "modder": true
     },
     {
