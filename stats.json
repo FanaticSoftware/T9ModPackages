@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T12:20:44.509Z",
+  "generated": "2026-10-17T12:30:44.535Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 2,
         "average": 5
@@ -346,7 +346,7 @@
       }
     },
     "zombies_health_cap_2578e3": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 2,
         "average": 5
