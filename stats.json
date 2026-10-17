@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T15:50:44.634Z",
+  "generated": "2026-10-17T16:40:44.623Z",
   "mods": {
     "directors_cut": {
       "favorites": 216,
@@ -361,6 +361,13 @@
     },
     "cold_war_randomizer_782805": {
       "favorites": 2,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "nosnowblizzard_themachine_0531a5": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
