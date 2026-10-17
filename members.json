@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T07:00:07.925Z",
+  "generated": "2026-10-17T09:00:08.150Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1275,12 +1275,6 @@
       "modder": true
     },
     {
-      "id": "664551968143835140",
-      "name": "chiclete de onça",
-      "username": "eogustacaraio",
-      "modder": true
-    },
-    {
       "id": "923723563750551652",
       "name": "Chiiild",
       "username": "paddy914",
@@ -2526,6 +2520,12 @@
       "id": "282131656943599616",
       "name": "Gusric",
       "username": "mitogags",
+      "modder": true
+    },
+    {
+      "id": "664551968143835140",
+      "name": "gusta hipotético",
+      "username": "eogustacaraio",
       "modder": true
     },
     {
