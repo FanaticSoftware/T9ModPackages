@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T21:00:07.319Z",
+  "generated": "2026-10-17T03:49:04.086Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -583,6 +583,17 @@
       "unpublished": "2026-09-09T18:49:50.297Z",
       "lastVersion": "1.0.0",
       "unpublishedBy": "243151432230895619"
+    },
+    {
+      "id": "xevs_wheel_of_doom_020817",
+      "title": "Xev's Wheel Of Doom",
+      "author": {
+        "id": "689860660133494785",
+        "name": "xev50"
+      },
+      "collaborators": [],
+      "claimed": "2026-10-17T03:49:04.086Z",
+      "updated": "2026-10-17T03:49:04.086Z"
     },
     {
       "id": "yoss_828564",
