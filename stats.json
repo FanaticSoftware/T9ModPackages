@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T21:10:44.900Z",
+  "generated": "2026-10-17T21:20:44.840Z",
   "mods": {
     "directors_cut": {
-      "favorites": 217,
+      "favorites": 218,
       "rating": {
         "count": 20,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 152,
+      "favorites": 154,
       "rating": {
         "count": 18,
         "average": 5
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 4,
         "average": 5
