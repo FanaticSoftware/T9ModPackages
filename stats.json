@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T15:40:44.616Z",
+  "generated": "2026-10-17T15:50:44.634Z",
   "mods": {
     "directors_cut": {
       "favorites": 216,
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 64,
+      "favorites": 63,
       "rating": {
         "count": 7,
         "average": 4.1
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 2,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
