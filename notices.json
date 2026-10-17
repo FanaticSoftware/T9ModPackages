@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T00:19:28.975Z",
+  "generated": "2026-10-17T16:31:17.201Z",
   "notices": [
+    {
+      "key": "6fd870d254149fbdd74ca658f3a940b1ec7828ae5491380f46d54f463cfa4d94",
+      "status": "approved",
+      "mod": "NoSnowStorm-TheMachine",
+      "id": "nosnowblizzard_themachine_0531a5",
+      "version": "20261016-191324",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-17T16:31:17.032Z"
+    },
     {
       "key": "a31f75772b270cc9b47cb68214444f5d9be9c6c9c408c1cce01d1c60574ef702",
       "status": "rejected",
@@ -2061,16 +2072,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-23T10:00:33.860Z"
-    },
-    {
-      "key": "914656ad137fd9246879b8eb774b5ab6263e413f997299dbbe447ca430be1afb",
-      "status": "collab",
-      "mod": "Perk & QoL Tweaks",
-      "id": "perk_qol_tweaks",
-      "version": null,
-      "reason": "The owner of **Perk & QoL Tweaks** now allows co-authors to submit new versions. SUBMIT MOD in your launcher can send one; it is reviewed as usual and published under the owner's name.",
-      "by": "",
-      "at": "2026-09-23T01:27:33.201Z"
     }
   ]
 }
