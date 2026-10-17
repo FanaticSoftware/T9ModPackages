@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:33:35.465Z",
+  "generated": "2026-10-17T16:33:41.653Z",
   "notices": [
+    {
+      "key": "028a806c6e54b8ab7e4375bad66f1e2d7d0ad581b71f2bf7f9b1c89574681aaf",
+      "status": "approved",
+      "mod": "Xev's Wheel Of Doom",
+      "id": "xevs_wheel_of_doom_020817",
+      "version": "20261017-040612",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-17T16:33:41.495Z"
+    },
     {
       "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
       "status": "approved",
@@ -2064,16 +2075,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-23T19:24:10.986Z"
-    },
-    {
-      "key": "c36c56f517929aa1ab51ee3c474e097c6ebe8b61501a2877cdeba2aff036dcc7",
-      "status": "rejected",
-      "mod": "Start with WW (all maps)",
-      "id": "start_with_chrysal_456002",
-      "version": "20260923-111333",
-      "reason": "Mod gives fatal error, fix and test before publishing",
-      "by": "saintvertigo",
-      "at": "2026-09-23T18:19:09.576Z"
     }
   ]
 }
