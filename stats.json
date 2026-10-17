@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T21:20:44.840Z",
+  "generated": "2026-10-17T21:30:44.841Z",
   "mods": {
     "directors_cut": {
       "favorites": 218,
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 101,
+      "favorites": 102,
       "rating": {
         "count": 13,
         "average": 5
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 2,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
