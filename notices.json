@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:33:03.539Z",
+  "generated": "2026-10-17T16:33:35.465Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "all camos changer",
+      "id": "camo_changer_f68027",
+      "version": "20261017-114829",
+      "progression": "allowed",
+      "reason": "",
+      "by": "illuminatidonut",
+      "at": "2026-10-17T16:33:35.332Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2063,16 +2074,6 @@
       "reason": "Mod gives fatal error, fix and test before publishing",
       "by": "saintvertigo",
       "at": "2026-09-23T18:19:09.576Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Replace Zombies (EARLY WIP)",
-      "id": "replace_zombies_early_wip",
-      "version": "20260923-100955",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-23T10:10:24.070Z"
     }
   ]
 }
