@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T12:30:44.535Z",
+  "generated": "2026-10-17T13:30:44.568Z",
   "mods": {
     "directors_cut": {
-      "favorites": 215,
+      "favorites": 216,
       "rating": {
         "count": 20,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 151,
+      "favorites": 152,
       "rating": {
         "count": 18,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 99,
+      "favorites": 100,
       "rating": {
         "count": 13,
         "average": 5
@@ -157,7 +157,7 @@
       }
     },
     "zombyrdom_411e72": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
@@ -199,14 +199,14 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 3,
         "average": 4.3
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 17,
+      "favorites": 18,
       "rating": {
         "count": 1,
         "average": 5
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
