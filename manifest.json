@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:32:58.780Z",
+  "generated": "2026-10-17T16:33:30.792Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -236,20 +236,25 @@
         "Weapons",
         "All Maps"
       ],
-      "changelog": "",
+      "changelog": "added the ability to customize the pap camo for each tier",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-12T00:15:39.893Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1558976706478477397"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-17T16:33:30.303Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1560982948453425176"
       },
       "id": "camo_changer_f68027",
-      "version": "20261011-225647",
-      "file": "mod_packages/camo_changer_f68027/camo_changer_f68027-20261011-225647.cwm",
-      "size": 497650,
-      "sha256": "213399547183bab6e2a69c48d953824d5bab7546a1f0459fba624c575a630f30",
+      "version": "20261017-114829",
+      "file": "mod_packages/camo_changer_f68027/camo_changer_f68027-20261017-114829.cwm",
+      "size": 497763,
+      "sha256": "15d5773d535abd0e1f33374226cf778e35b8c5708ac06952b27e0d81a63f72a4",
       "history": [
+        {
+          "version": "20261017-114829",
+          "changelog": "added the ability to customize the pap camo for each tier",
+          "published": "2026-10-17T16:33:30.303Z"
+        },
         {
           "version": "20261011-225647",
           "changelog": "",
