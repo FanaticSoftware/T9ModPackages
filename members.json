@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T22:00:07.862Z",
+  "generated": "2026-10-17T00:00:07.721Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4992,6 +4992,12 @@
       "id": "888995470293213194",
       "name": "Rick Grimes",
       "username": "num1snoopyfan",
+      "modder": true
+    },
+    {
+      "id": "351389594350125061",
+      "name": "RickeyDourst",
+      "username": "rickeydourst",
       "modder": true
     },
     {
