@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T18:00:08.096Z",
+  "generated": "2026-10-17T19:00:07.755Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -102,12 +102,6 @@
       "id": "529072086073737266",
       "name": ".snipe2die",
       "username": ".snipe2die",
-      "modder": true
-    },
-    {
-      "id": "780145760804536360",
-      "name": ".y8v",
-      "username": ".y8v",
       "modder": true
     },
     {
@@ -3424,7 +3418,7 @@
     },
     {
       "id": "794384098704883712",
-      "name": "Kods",
+      "name": "Kode",
       "username": "kode.sh",
       "modder": true
     },
