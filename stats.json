@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T04:00:43.997Z",
+  "generated": "2026-10-17T04:40:44.012Z",
   "mods": {
     "directors_cut": {
       "favorites": 215,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 140,
+      "favorites": 141,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -276,14 +276,14 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 7,
         "average": 4.5
       }
     },
     "starting_room_9e62af": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 1,
         "average": 5
@@ -297,14 +297,14 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "mod_menu_c75d87": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 0,
         "average": 0
