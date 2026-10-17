@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T09:42:20.686Z",
+  "generated": "2026-10-17T16:31:12.510Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1884,6 +1884,54 @@
       ],
       "thumbnail": "mod_packages/nikolai_mod_menu_767906/thumbnail.png",
       "thumbnailSha256": "ba7498aa5137f861524ff816f34e0839feba2d2f43caabc24d1b40a32de61a87",
+      "collaborators": []
+    },
+    {
+      "title": "NoSnowStorm-TheMachine",
+      "description": "Disables the snowstorm on: The Machine",
+      "author": {
+        "discordName": ".schnobel.",
+        "id": "471865292910362634",
+        "name": "RealSchnobel"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "4173e3bb4e9f7007f9feb1a80f5346012f71fae00824d044bd3dfae2a41a5a5f",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "1 high"
+      },
+      "settings": 0,
+      "tags": [
+        "Quality of Life",
+        "Die Maschine"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-17T16:31:12.178Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1560732398453260332"
+      },
+      "id": "nosnowblizzard_themachine_0531a5",
+      "version": "20261016-191324",
+      "file": "mod_packages/nosnowblizzard_themachine_0531a5/nosnowblizzard_themachine_0531a5-20261016-191324.cwm",
+      "size": 1199737,
+      "sha256": "831898c97048b97a66d2aef211faeae8c83642618d2c41199fe35359635712b9",
+      "history": [
+        {
+          "version": "20261016-191324",
+          "changelog": "",
+          "published": "2026-10-17T16:31:12.178Z"
+        }
+      ],
+      "thumbnail": "mod_packages/nosnowblizzard_themachine_0531a5/thumbnail.png",
+      "thumbnailSha256": "29faca244eb9bfbd12e5d1abe2a57d8f12f3166e788cfe98b6af0c5abd13ded4",
       "collaborators": []
     },
     {
