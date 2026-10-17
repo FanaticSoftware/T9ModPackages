@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:31:12.510Z",
+  "generated": "2026-10-17T16:32:58.780Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1566,7 +1566,7 @@
     },
     {
       "title": "Missing Maps Collection",
-      "description": "Play Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, ALL of the missing maps never ported to the Onslaught Game Mode\n\nNOTE: Mansion and Amsterdam will only boot if you select the Onslaught Containment mode. This is requird reguardless if you plan on using the Onslaught Survival mod please boot in Containment first that mod will over take once your in the map.\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
+      "description": "VER. 1.3.2\nPlay Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, almost ALL of the missing maps never ported to the Onslaught Game Mode\n\nNOTE: Mansion and Amsterdam will only boot if you select the Onslaught Containment mode. This is requird reguardless if you plan on using the Onslaught Survival mod please boot in Containment first that mod will over take once your in the map.\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
       "author": {
         "discordName": "izondlamb.exe",
         "id": "662100730047627275",
@@ -1574,39 +1574,55 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "97dbb28a6f5a40656767813df8406ad90a1edf071b17e5773803b9246d1325cc",
+      "sourceSha256": "dfd7ce4b24ed4b4989e137933258359df5cfa658309d0251c56c1fb043522a74",
       "scan": {
         "critical": 0,
         "high": 3,
         "low": 0,
-        "medium": 7,
+        "medium": 27,
         "rules": "2026.09.26",
-        "summary": "3 high, 7 medium"
+        "summary": "3 high, 27 medium"
       },
-      "settings": 5,
+      "settings": 6,
       "tags": [
         "Gameplay Overhaul",
+        "Difficulty",
         "Quality of Life",
         "Cosmetic / HUD",
         "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Perks",
+        "Pack-a-Punch",
+        "Mystery Box",
+        "Wall Buys",
+        "Rounds / Spawning",
+        "Zombies / AI",
+        "Armor / Rarity",
+        "Movement",
         "Onslaught",
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added Radio\n\nAdded Maps From Outbreak\n\nAdded Support For Onslaught Surivival in the form of PAP and Box Toggles. This is a BETA fix while working on a true direct fix.\n\nNew Thumbnail to refelect changes",
+      "changelog": "Update 1.3.2\n\nRedesigned PAP machine dynamics and visuals to a higher standard of quality.\nRedesigned BOX dynamics and visuals to a higher standard of quality\nFixed issue with Armada killing players that leave spawn boat by creating two ver. of Armada one being Armada Strike and the other just normal Armada which takes the entier map into account and thus unlike strike lets you swim across gap between the boats.\nAdded custom chinook helicopter to Armada to add dynamic traversal. (Plans to add a access line later down the road)\nFixed PAP, Fizz, and Box spawns on mutiple maps.\nAdded Der Wunderfizz\n\nKNOWN ISSUES: WMD and Gluboko both have trouble loading with the Sur. Onslaught Mod, looking to solve this later this week\nPAP still isn't perfect as the animation is a tad bit janky.\nJungle Remains unplayable with no clear way to change that at this time",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-10-16T09:41:36.900Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1560554780726665230"
+        "at": "2026-10-17T16:32:58.386Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561001502120611974"
       },
       "id": "missing_onslaught_maps_f8798d",
-      "version": "20261016-072730",
-      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261016-072730.cwm",
-      "size": 1452824,
-      "sha256": "fc12e4cec40cb3bae31f1b81ea791a6b35f1bff11bbbf642ff60d6e6cb43a0e3",
+      "version": "20261017-130236",
+      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261017-130236.cwm",
+      "size": 1659434,
+      "sha256": "65123e22189876b749ebb88b07d23c07abf5ca23f896c45670fdff9bba1b42ff",
       "history": [
+        {
+          "version": "20261017-130236",
+          "changelog": "Update 1.3.2\n\nRedesigned PAP machine dynamics and visuals to a higher standard of quality.\nRedesigned BOX dynamics and visuals to a higher standard of quality\nFixed issue with Armada killing players that leave spawn boat by creating two ver. of Armada one being Armada Strike and the other just normal Armada which takes the entier map into account and thus unlike strike lets you swim across gap between the boats.\nAdded custom chinook helicopter to Armada to add dynamic traversal. (Plans to add a access line later down the road)\nFixed PAP, Fizz, and Box spawns on mutiple maps.\nAdded Der Wunderfizz\n\nKNOWN ISSUES: WMD and Gluboko both have trouble loading with the Sur. Onslaught Mod, looking to solve this later this week\nPAP still isn't perfect as the animation is a tad bit janky.\nJungle Remains unplayable with no clear way to change that at this time",
+          "published": "2026-10-17T16:32:58.386Z"
+        },
         {
           "version": "20261016-072730",
           "changelog": "Added Radio\n\nAdded Maps From Outbreak\n\nAdded Support For Onslaught Surivival in the form of PAP and Box Toggles. This is a BETA fix while working on a true direct fix.\n\nNew Thumbnail to refelect changes",
