@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-16T09:42:25.739Z",
+  "generated": "2026-10-17T00:19:28.975Z",
   "notices": [
+    {
+      "key": "a31f75772b270cc9b47cb68214444f5d9be9c6c9c408c1cce01d1c60574ef702",
+      "status": "rejected",
+      "mod": "lucy",
+      "id": "lucy_9490f0",
+      "version": "20261016-203423",
+      "reason": "Mod only contains a print.",
+      "by": "illuminatidonut",
+      "at": "2026-10-17T00:19:28.728Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2061,16 +2071,6 @@
       "reason": "The owner of **Perk & QoL Tweaks** now allows co-authors to submit new versions. SUBMIT MOD in your launcher can send one; it is reviewed as usual and published under the owner's name.",
       "by": "",
       "at": "2026-09-23T01:27:33.201Z"
-    },
-    {
-      "key": "914656ad137fd9246879b8eb774b5ab6263e413f997299dbbe447ca430be1afb",
-      "status": "collab",
-      "mod": "Perk & QoL Tweaks",
-      "id": "perk_qol_tweaks",
-      "version": null,
-      "reason": "This mod has been taken down and is no longer published. You are still a co-author, your copy stays, and the shared copy is still there.",
-      "by": "",
-      "at": "2026-09-23T01:21:50.712Z"
     }
   ]
 }
