@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:33:30.792Z",
+  "generated": "2026-10-17T16:33:36.784Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3367,6 +3367,65 @@
       ],
       "thumbnail": "mod_packages/weapon_mod_51daaf/thumbnail.png",
       "thumbnailSha256": "cc52ffd68a489ffa74848cb682053376da952d6eabb6437df8aab39f67935853",
+      "collaborators": []
+    },
+    {
+      "title": "Xev's Wheel Of Doom",
+      "description": "The Chaos Wheel mod is a dynamic, fast-paced gameplay overhaul for Call of Duty: Black Ops Cold War (T9) Zombies. Designed to inject unpredictable Mayhem into match's, the mod introduces an automated, \"wheel\" that continuously rolls gameplay mutators for the entire lobby.",
+      "author": {
+        "discordName": "xev50",
+        "id": "689860660133494785",
+        "name": "xev50"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "2c0c868b238cac6618d91d1510c24a4ac8cc8dac5576391e3a9cfa8f5534e4d5",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Challenge / Custom Rules",
+        "Points / Economy",
+        "Zombies / AI",
+        "Bosses / Specials",
+        "Power-ups",
+        "Easter Egg / Quest",
+        "Player Health / Downs",
+        "Movement",
+        "All Maps",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-17T16:33:36.497Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1560866523348865160"
+      },
+      "id": "xevs_wheel_of_doom_020817",
+      "version": "20261017-040612",
+      "file": "mod_packages/xevs_wheel_of_doom_020817/xevs_wheel_of_doom_020817-20261017-040612.cwm",
+      "size": 703212,
+      "sha256": "b7f25ff17418fd4dfebfdc93a72157e1feb113c406093fac10d23a5ce77c0322",
+      "history": [
+        {
+          "version": "20261017-040612",
+          "changelog": "",
+          "published": "2026-10-17T16:33:36.497Z"
+        }
+      ],
+      "thumbnail": "mod_packages/xevs_wheel_of_doom_020817/thumbnail.png",
+      "thumbnailSha256": "0546d36de60992430947bb4e82d7f05467e1f06208caae7b38926758ef722c79",
       "collaborators": []
     },
     {
