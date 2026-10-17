@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T15:10:44.625Z",
+  "generated": "2026-10-17T15:20:44.594Z",
   "mods": {
     "directors_cut": {
       "favorites": 216,
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 3,
         "average": 4.3
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
