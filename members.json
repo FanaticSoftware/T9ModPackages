@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T10:00:08.029Z",
+  "generated": "2026-10-18T13:00:08.073Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3774,6 +3774,12 @@
       "id": "567811402488741918",
       "name": "LunaFox",
       "username": "jrgaming1996",
+      "modder": true
+    },
+    {
+      "id": "281909825082753034",
+      "name": "Lunaria is The Big K~",
+      "username": "lunariavrc_",
       "modder": true
     },
     {
