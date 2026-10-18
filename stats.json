@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T02:40:45.241Z",
+  "generated": "2026-10-18T02:50:45.265Z",
   "mods": {
     "directors_cut": {
       "favorites": 219,
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 82,
+      "favorites": 83,
       "rating": {
         "count": 11,
         "average": 4.9
