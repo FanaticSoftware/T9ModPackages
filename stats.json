@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T19:50:46.009Z",
+  "generated": "2026-10-18T20:00:46.022Z",
   "mods": {
     "directors_cut": {
       "favorites": 223,
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 11,
+      "favorites": 10,
       "rating": {
         "count": 0,
         "average": 0
