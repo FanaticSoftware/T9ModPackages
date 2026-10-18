@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T04:50:45.352Z",
+  "generated": "2026-10-18T06:20:45.432Z",
   "mods": {
     "directors_cut": {
       "favorites": 219,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 141,
+      "favorites": 140,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 517,
+      "favorites": 516,
       "rating": {
         "count": 39,
         "average": 5
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 45,
+      "favorites": 44,
       "rating": {
         "count": 6,
         "average": 5
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 21,
+      "favorites": 20,
       "rating": {
         "count": 3,
         "average": 4.3
