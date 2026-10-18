@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T14:20:45.572Z",
+  "generated": "2026-10-18T15:40:45.703Z",
   "mods": {
     "directors_cut": {
-      "favorites": 219,
+      "favorites": 220,
       "rating": {
         "count": 20,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 140,
+      "favorites": 141,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 517,
+      "favorites": 518,
       "rating": {
         "count": 39,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 77,
+      "favorites": 78,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 3,
         "average": 4.3
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 2,
         "average": 5
