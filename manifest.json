@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:33:48.384Z",
+  "generated": "2026-10-18T23:19:49.503Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1571,7 +1571,7 @@
     },
     {
       "title": "Missing Maps Collection",
-      "description": "VER. 1.3.2\nPlay Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, almost ALL of the missing maps never ported to the Onslaught Game Mode\n\nNOTE: Mansion and Amsterdam will only boot if you select the Onslaught Containment mode. This is requird reguardless if you plan on using the Onslaught Survival mod please boot in Containment first that mod will over take once your in the map.\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
+      "description": "VER. 1.3.3\nPlay Onslaught on Amerika · Diesel · Miami Strike · Armada · Hijacked · WMD · Slums · Amsterdam · Showroom · Mansion · Gluboko · and Zoo: In other words, almost ALL of the missing maps never ported to the Onslaught Game Mode\n\nNOTE: Mansion and Amsterdam will only boot if you select the Onslaught Containment mode. This is requird reguardless if you plan on using the Onslaught Survival mod please boot in Containment first that mod will over take once your in the map.\n\nHow to play:\n\nEnable the mod and pick your map under its settings: Map → Diesel, Hijacked, Miami Strike, etc.\nStart a solo or private zombies match on any map. Die Maschine works best,\nWait for the intro to finish. After a few seconds you'll see \"taking you to (Map you picked)...\" and a loading screen. \n\nShould work with most mods.",
       "author": {
         "discordName": "izondlamb.exe",
         "id": "662100730047627275",
@@ -1579,7 +1579,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "dfd7ce4b24ed4b4989e137933258359df5cfa658309d0251c56c1fb043522a74",
+      "sourceSha256": "ea240dabc5857c003d47d433967bab920a1d1cc6d9860ef0d8f102a4290a823d",
       "scan": {
         "critical": 0,
         "high": 3,
@@ -1609,20 +1609,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Update 1.3.2\n\nRedesigned PAP machine dynamics and visuals to a higher standard of quality.\nRedesigned BOX dynamics and visuals to a higher standard of quality\nFixed issue with Armada killing players that leave spawn boat by creating two ver. of Armada one being Armada Strike and the other just normal Armada which takes the entier map into account and thus unlike strike lets you swim across gap between the boats.\nAdded custom chinook helicopter to Armada to add dynamic traversal. (Plans to add a access line later down the road)\nFixed PAP, Fizz, and Box spawns on mutiple maps.\nAdded Der Wunderfizz\n\nKNOWN ISSUES: WMD and Gluboko both have trouble loading with the Sur. Onslaught Mod, looking to solve this later this week\nPAP still isn't perfect as the animation is a tad bit janky.\nJungle Remains unplayable with no clear way to change that at this time",
+      "changelog": "Fixed issue causing maps to crash\nChanged box spawn locations and removed its animations on maps that would cause the game to crash when injected",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-10-17T16:32:58.386Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561001502120611974"
+        "at": "2026-10-18T23:19:49.099Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561326138502942856"
       },
       "id": "missing_onslaught_maps_f8798d",
-      "version": "20261017-130236",
-      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261017-130236.cwm",
-      "size": 1659434,
-      "sha256": "65123e22189876b749ebb88b07d23c07abf5ca23f896c45670fdff9bba1b42ff",
+      "version": "20261018-103229",
+      "file": "mod_packages/missing_onslaught_maps_f8798d/missing_onslaught_maps_f8798d-20261018-103229.cwm",
+      "size": 1660346,
+      "sha256": "fc02f0d195297560722f994e7862e4360f0582544f0a81f74ad2bdc6e27b0b02",
       "history": [
+        {
+          "version": "20261018-103229",
+          "changelog": "Fixed issue causing maps to crash\nChanged box spawn locations and removed its animations on maps that would cause the game to crash when injected",
+          "published": "2026-10-18T23:19:49.099Z"
+        },
         {
           "version": "20261017-130236",
           "changelog": "Update 1.3.2\n\nRedesigned PAP machine dynamics and visuals to a higher standard of quality.\nRedesigned BOX dynamics and visuals to a higher standard of quality\nFixed issue with Armada killing players that leave spawn boat by creating two ver. of Armada one being Armada Strike and the other just normal Armada which takes the entier map into account and thus unlike strike lets you swim across gap between the boats.\nAdded custom chinook helicopter to Armada to add dynamic traversal. (Plans to add a access line later down the road)\nFixed PAP, Fizz, and Box spawns on mutiple maps.\nAdded Der Wunderfizz\n\nKNOWN ISSUES: WMD and Gluboko both have trouble loading with the Sur. Onslaught Mod, looking to solve this later this week\nPAP still isn't perfect as the animation is a tad bit janky.\nJungle Remains unplayable with no clear way to change that at this time",
