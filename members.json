@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T04:00:08.035Z",
+  "generated": "2026-10-18T05:00:07.948Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2502,6 +2502,12 @@
       "id": "503531162132545536",
       "name": "Greedo",
       "username": "whoshotfirst",
+      "modder": true
+    },
+    {
+      "id": "880481676533309461",
+      "name": "Grey59",
+      "username": "nexydog27",
       "modder": true
     },
     {
