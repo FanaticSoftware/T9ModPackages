@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T02:50:45.265Z",
+  "generated": "2026-10-18T03:00:45.266Z",
   "mods": {
     "directors_cut": {
       "favorites": 219,
@@ -138,8 +138,8 @@
     "4_player_onslaught_test_1048f4": {
       "favorites": 19,
       "rating": {
-        "count": 3,
-        "average": 5
+        "count": 4,
+        "average": 4
       }
     },
     "dm_nacht_74d31a": {
