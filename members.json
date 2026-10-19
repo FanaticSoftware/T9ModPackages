@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T06:00:08.838Z",
+  "generated": "2026-10-19T07:00:08.592Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2484,6 +2484,12 @@
       "id": "416002022601654283",
       "name": "Goodmorning",
       "username": "goodmorming",
+      "modder": true
+    },
+    {
+      "id": "1450585054324457484",
+      "name": "GotRamShortage",
+      "username": "ramshorted",
       "modder": true
     },
     {
@@ -4995,6 +5001,12 @@
       "modder": true
     },
     {
+      "id": "374378270537416719",
+      "name": "RedNineWolf",
+      "username": "redninewolf",
+      "modder": true
+    },
+    {
       "id": "932059898265616404",
       "name": "RedToast",
       "username": "toastedbread72",
@@ -5266,7 +5278,7 @@
     },
     {
       "id": "978909519423893504",
-      "name": "𝕾𝖆𝖑𝖙𝖊𝖉_𝖘𝖐𝖚𝖑𝖑",
+      "name": "Salted_skull",
       "username": "beebom",
       "modder": true
     },
@@ -6720,12 +6732,6 @@
       "id": "724447071410585754",
       "name": "young_dollar_tree",
       "username": "young_dollar_tree1",
-      "modder": true
-    },
-    {
-      "id": "1450585054324457484",
-      "name": "YTDreamTraveller",
-      "username": "ytfucknugget",
       "modder": true
     },
     {
