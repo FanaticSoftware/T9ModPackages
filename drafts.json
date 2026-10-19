@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-17T16:33:36.784Z",
+  "generated": "2026-10-19T23:00:08.020Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -159,17 +159,6 @@
       "unpublished": "2026-09-19T18:34:36.218Z",
       "lastVersion": "1.0.7",
       "unpublishedBy": "684408486456852481"
-    },
-    {
-      "id": "first_abb125",
-      "title": "Aether Draft",
-      "author": {
-        "id": "301792717136986114",
-        "name": "roberttgreat"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-19T19:51:31.191Z",
-      "updated": "2026-09-19T22:13:26.837Z"
     },
     {
       "id": "gauntlet_1_3229a8",
@@ -419,17 +408,6 @@
       "collaborators": [],
       "claimed": "2026-09-25T08:12:49.961Z",
       "updated": "2026-09-25T08:12:49.961Z"
-    },
-    {
-      "id": "rogue_run_9b67e3",
-      "title": "Rogue Run",
-      "author": {
-        "id": "301792717136986114",
-        "name": "roberttgreat"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-19T22:27:15.397Z",
-      "updated": "2026-09-19T22:27:15.397Z"
     },
     {
       "id": "spawn_fix_6449f1",
