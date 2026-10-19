@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T20:32:26.970Z",
+  "generated": "2026-10-19T21:09:15.463Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "The Pact at First Spawn",
+      "id": "instant_pact_132539",
+      "version": "20261019-210234",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-19T21:09:15.206Z"
+    },
     {
       "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
       "status": "approved",
@@ -2068,16 +2079,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-24T05:29:13.581Z"
-    },
-    {
-      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
-      "status": "approved",
-      "mod": "Deadlight Greenlight",
-      "id": "deadlight_greenlight_fc56b7",
-      "version": "20260924-012244",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-24T01:58:01.093Z"
     }
   ]
 }
