@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T23:19:49.503Z",
+  "generated": "2026-10-19T20:32:21.193Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3687,7 +3687,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "253eb957f024ed3418ff7a1cdcb2800cf76bffca0d047f43e83dd5f828a60db8",
+      "sourceSha256": "a64792afeb660f2ef388bfbe7ba8fa503b96dd768ac85de9edea3a0821ac67d4",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -3696,30 +3696,36 @@
         "rules": "2026.09.26",
         "summary": "clean, nothing flagged"
       },
-      "settings": 1,
+      "settings": 2,
       "tags": [
         "Gameplay Overhaul",
         "Rounds / Spawning",
         "Zombies / AI",
         "Bosses / Specials",
         "Round-Based Maps",
+        "Outbreak",
         "Easy",
         "Solo"
       ],
-      "changelog": "Removed debugging lines.\nElites now drop 3 grenades instead of 1.",
+      "changelog": "Added the option to toggle PHD on load if people are sick of dying in round based maps.",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-02T03:47:07.842Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555412409945030730"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-19T20:32:20.785Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561837714150789226"
       },
       "id": "zombyrdom_411e72",
-      "version": "20261002-025333",
-      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261002-025333.cwm",
-      "size": 2039285,
-      "sha256": "52fb1f92b9fc5c829a8c5ef52d193256a4f0d2f070b051638a025e1744c9e24b",
+      "version": "20261019-202526",
+      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261019-202526.cwm",
+      "size": 2045360,
+      "sha256": "b6577452439cff6c80acbdf0acc61fa953183d606fe829329d22cda194752b7d",
       "history": [
+        {
+          "version": "20261019-202526",
+          "changelog": "Added the option to toggle PHD on load if people are sick of dying in round based maps.",
+          "published": "2026-10-19T20:32:20.785Z"
+        },
         {
           "version": "20261002-025333",
           "changelog": "Removed debugging lines.\nElites now drop 3 grenades instead of 1.",
