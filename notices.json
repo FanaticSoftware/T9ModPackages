@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T20:24:24.201Z",
+  "generated": "2026-10-19T20:32:26.970Z",
   "notices": [
+    {
+      "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
+      "status": "approved",
+      "mod": "Zombyrdom",
+      "id": "zombyrdom_411e72",
+      "version": "20261019-202526",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-19T20:32:26.811Z"
+    },
     {
       "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
       "status": "collab",
@@ -2067,16 +2078,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-24T01:58:01.093Z"
-    },
-    {
-      "key": "b9addc0ccadc8bb9c76d00a23d47968030673d72b3254bd5e74c196e3692477b",
-      "status": "collab",
-      "mod": "Outbreak Survival",
-      "id": "outbreak_survival_87a89c",
-      "version": null,
-      "reason": "**SictionArc** (@sictionarc) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-24T00:42:49.974Z"
     }
   ]
 }
