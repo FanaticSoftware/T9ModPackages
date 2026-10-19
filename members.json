@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T07:00:08.592Z",
+  "generated": "2026-10-19T08:00:08.517Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1965,6 +1965,12 @@
       "modder": true
     },
     {
+      "id": "811452240900521994",
+      "name": "Euixea",
+      "username": "euixea",
+      "modder": true
+    },
+    {
       "id": "419605255848984577",
       "name": "eve",
       "username": "idrathersleeppp",
@@ -2484,12 +2490,6 @@
       "id": "416002022601654283",
       "name": "Goodmorning",
       "username": "goodmorming",
-      "modder": true
-    },
-    {
-      "id": "1450585054324457484",
-      "name": "GotRamShortage",
-      "username": "ramshorted",
       "modder": true
     },
     {
@@ -5976,6 +5976,12 @@
       "id": "473890726590283776",
       "name": "ThatOneSaraxisUser",
       "username": "thatonesaraxisuser",
+      "modder": true
+    },
+    {
+      "id": "1450585054324457484",
+      "name": "The Grim",
+      "username": "ramshorted",
       "modder": true
     },
     {
