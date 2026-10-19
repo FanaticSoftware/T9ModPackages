@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T21:00:08.195Z",
+  "generated": "2026-10-19T04:00:08.417Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2820,12 +2820,6 @@
       "id": "200112412920119296",
       "name": "ilrathCXV",
       "username": "ilrathcxv",
-      "modder": true
-    },
-    {
-      "id": "1204189441971720247",
-      "name": "im weak ( i have an infection)",
-      "username": "zennietheoneandonly",
       "modder": true
     },
     {
@@ -6846,6 +6840,12 @@
       "id": "400608284123594752",
       "name": "ZeeDog",
       "username": "zeedog8272",
+      "modder": true
+    },
+    {
+      "id": "1204189441971720247",
+      "name": "Zennie",
+      "username": "zennietheoneandonly",
       "modder": true
     },
     {
