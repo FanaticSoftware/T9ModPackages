@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-10-18T23:19:54.681Z",
+  "generated": "2026-10-19T20:24:24.201Z",
   "notices": [
+    {
+      "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
+      "status": "collab",
+      "mod": "Zombyrdom",
+      "id": "zombyrdom_411e72",
+      "version": null,
+      "reason": "Your submission of **Zombyrdom** was withdrawn before it was reviewed. Nothing was published or rejected, and you can submit it again whenever you are ready.\n\nIf you did not ask for this, submit it again and tell a moderator.",
+      "by": "",
+      "at": "2026-10-19T20:24:23.949Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2067,16 +2077,6 @@
       "reason": "**SictionArc** (@sictionarc) accepted your invitation and is now a co-author.",
       "by": "",
       "at": "2026-09-24T00:42:49.974Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Hide HUD",
-      "id": "hide_hud_24d1a2",
-      "version": "20260923-234059",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-23T23:41:25.938Z"
     }
   ]
 }
