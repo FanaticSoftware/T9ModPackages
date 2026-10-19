@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T20:32:21.193Z",
+  "generated": "2026-10-19T21:09:10.315Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1511,6 +1511,56 @@
       ],
       "thumbnail": "mod_packages/infinite_ammo_e8e45c/thumbnail.png",
       "thumbnailSha256": "9462d685179f63829cd824f4b4b85061a09d51628d48c87bb79333d1d2fdeef3",
+      "collaborators": []
+    },
+    {
+      "title": "The Pact at First Spawn",
+      "description": "This mod simply makes it so the first world will be the Zoo and always at The Pacts location. Making it quicker to toggle. You can continue the game afterwards while the mod is loaded.",
+      "author": {
+        "discordName": "tech_wave",
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "2b6836f10b552163d6d72c37350f233f987a516dcc8e7e70df3b05155402a8ce",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "1 high"
+      },
+      "settings": 0,
+      "tags": [
+        "Quality of Life",
+        "Outbreak",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-19T21:09:09.947Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561847076717994099"
+      },
+      "id": "instant_pact_132539",
+      "version": "20261019-210234",
+      "file": "mod_packages/instant_pact_132539/instant_pact_132539-20261019-210234.cwm",
+      "size": 1101906,
+      "sha256": "c27b0f3a5d4833aba9e895b75e3880da3f1f60a7f81d71e222c55440a5281c23",
+      "history": [
+        {
+          "version": "20261019-210234",
+          "changelog": "",
+          "published": "2026-10-19T21:09:09.947Z"
+        }
+      ],
+      "thumbnail": "mod_packages/instant_pact_132539/thumbnail.png",
+      "thumbnailSha256": "8e38acbb8398636e58e31e4c7f2d69b741820db07e1440c7ae996b4a2762f874",
       "collaborators": []
     },
     {
