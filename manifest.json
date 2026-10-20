@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T00:43:53.856Z",
+  "generated": "2026-10-20T00:44:17.276Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1523,14 +1523,14 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "2b6836f10b552163d6d72c37350f233f987a516dcc8e7e70df3b05155402a8ce",
+      "sourceSha256": "f42f587fc4b0349b9876f35f014ad429d52585afd8cc8938f5524d405ca119df",
       "scan": {
         "critical": 0,
-        "high": 1,
+        "high": 2,
         "low": 0,
         "medium": 0,
         "rules": "2026.09.26",
-        "summary": "1 high"
+        "summary": "2 high"
       },
       "settings": 0,
       "tags": [
@@ -1539,20 +1539,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "- Fixed a check that prevented the mod from working properly when a new match has started without closing the game.",
       "highAlerts": [],
       "approved": {
-        "by": "teaa_the_silliest",
-        "byId": "1214090251178352677",
-        "at": "2026-10-19T21:09:09.947Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561847076717994099"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-20T00:44:16.851Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561855068771328159"
       },
       "id": "instant_pact_132539",
-      "version": "20261019-210234",
-      "file": "mod_packages/instant_pact_132539/instant_pact_132539-20261019-210234.cwm",
-      "size": 1101906,
-      "sha256": "c27b0f3a5d4833aba9e895b75e3880da3f1f60a7f81d71e222c55440a5281c23",
+      "version": "20261019-213414",
+      "file": "mod_packages/instant_pact_132539/instant_pact_132539-20261019-213414.cwm",
+      "size": 1102333,
+      "sha256": "e00011539d56814c29d134c72ed4b8a9c3292da43ae80c5e7df5ac0169f81ab3",
       "history": [
+        {
+          "version": "20261019-213414",
+          "changelog": "- Fixed a check that prevented the mod from working properly when a new match has started without closing the game.",
+          "published": "2026-10-20T00:44:16.851Z"
+        },
         {
           "version": "20261019-210234",
           "changelog": "",
