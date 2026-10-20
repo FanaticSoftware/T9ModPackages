@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T21:09:10.315Z",
+  "generated": "2026-10-20T00:43:29.893Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3237,6 +3237,62 @@
       ],
       "thumbnail": "mod_packages/test_lot_of_health_eb14c2/thumbnail.png",
       "thumbnailSha256": "4f9e0d853289a5fcb1a10c906d707403bc2a332cb65438565610e2e55015c3e4",
+      "collaborators": []
+    },
+    {
+      "title": "THE ARMORY",
+      "description": "YOU CAN'T TAKE IT WITH YOU, DON'T LET THEM TAKE IT FROM YOU!\n\nThe armory is a set of tools devolped by Group 935 to enable EWP or Ehanced Weapon Properties. This includes callibers too large to be fired from a small pistol magically fire anyway, changes in fire rate, power, PAP effects, ammo type, distance, ballistics and much more. The armory is a ever evolving tool set and will be updated as new tools are found.",
+      "author": {
+        "discordName": "izondlamb.exe",
+        "id": "662100730047627275",
+        "name": "Izon"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "7eff0db111302615d6a96747011540e98beb340c700d32322347d3768908ea34",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 14,
+        "rules": "2026.09.26",
+        "summary": "1 high, 14 medium"
+      },
+      "settings": 56,
+      "tags": [
+        "Gameplay Overhaul",
+        "Cosmetic / HUD",
+        "Utility / Tools",
+        "Weapons",
+        "Wonder Weapons",
+        "Points / Economy",
+        "Zombies / AI",
+        "Easy",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-20T00:43:29.477Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561896001210552324"
+      },
+      "id": "the_armory_a1b2c3",
+      "version": "20261020-001702",
+      "file": "mod_packages/the_armory_a1b2c3/the_armory_a1b2c3-20261020-001702.cwm",
+      "size": 1720960,
+      "sha256": "238087873ae856d3c6a84a12ea943b0ede55f9cce75c9ee711cf8b9508c60fe8",
+      "history": [
+        {
+          "version": "20261020-001702",
+          "changelog": "",
+          "published": "2026-10-20T00:43:29.477Z"
+        }
+      ],
+      "thumbnail": "mod_packages/the_armory_a1b2c3/thumbnail.png",
+      "thumbnailSha256": "74e57fe86d6466b977b49a81eca9914f295b977d3288db0c5215cebf15cd38b5",
       "collaborators": []
     },
     {
