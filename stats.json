@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T01:10:47.570Z",
+  "generated": "2026-10-20T01:20:47.332Z",
   "mods": {
     "directors_cut": {
       "favorites": 223,
@@ -208,7 +208,7 @@
     "forsaken_spawn_room_a26fbe": {
       "favorites": 9,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
