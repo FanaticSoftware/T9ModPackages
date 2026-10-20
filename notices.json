@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T00:44:22.362Z",
+  "generated": "2026-10-20T12:43:47.151Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "Rouge Run",
+      "id": "rouge_run_87efcf",
+      "version": "20261020-123907",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-20T12:43:46.973Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
@@ -2072,16 +2083,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-24T19:20:22.013Z"
-    },
-    {
-      "key": "c36c56f517929aa1ab51ee3c474e097c6ebe8b61501a2877cdeba2aff036dcc7",
-      "status": "approved",
-      "mod": "Start with WW (all maps)",
-      "id": "start_with_chrysal_456002",
-      "version": "20260924-180615",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-24T18:17:22.173Z"
     }
   ]
 }
