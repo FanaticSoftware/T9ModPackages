@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T00:43:35.370Z",
+  "generated": "2026-10-20T00:43:59.213Z",
   "notices": [
+    {
+      "key": "a125dfa0efb80a174557d1b0dca6b2501f3b51ae41a6bc2731d74043cd9fa0a1",
+      "status": "approved",
+      "mod": "Zombyrdom",
+      "id": "zombyrdom_411e72",
+      "version": "20261019-234700",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-20T00:43:58.969Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2070,16 +2081,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-24T05:36:00.690Z"
-    },
-    {
-      "key": "aad2e4fd40cb811b2237c9b8df6038863dd1e709288195c9cce8888b8b698811",
-      "status": "collab",
-      "mod": "ZM Classic",
-      "id": "zm_classic",
-      "version": null,
-      "reason": "**SaintVertigo** (@saintvertigo) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-24T05:33:06.820Z"
     }
   ]
 }
