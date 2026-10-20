@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T16:20:48.062Z",
+  "generated": "2026-10-20T16:30:48.162Z",
   "mods": {
     "directors_cut": {
       "favorites": 225,
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 0,
         "average": 0
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 0,
         "average": 0
