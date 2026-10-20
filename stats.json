@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T22:20:47.224Z",
+  "generated": "2026-10-20T00:00:47.368Z",
   "mods": {
     "directors_cut": {
       "favorites": 223,
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 78,
+      "favorites": 79,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 1,
         "average": 5
