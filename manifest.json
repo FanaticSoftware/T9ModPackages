@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T00:43:29.893Z",
+  "generated": "2026-10-20T00:43:53.856Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3793,7 +3793,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "a64792afeb660f2ef388bfbe7ba8fa503b96dd768ac85de9edea3a0821ac67d4",
+      "sourceSha256": "789fceb08efe254bde90d230354d7c2f4c4ab96f5efb6365272424f20c3796cd",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -3813,20 +3813,25 @@
         "Easy",
         "Solo"
       ],
-      "changelog": "Added the option to toggle PHD on load if people are sick of dying in round based maps.",
+      "changelog": "Fixed issue with PHD not granting sometimes.",
       "highAlerts": [],
       "approved": {
-        "by": "teaa_the_silliest",
-        "byId": "1214090251178352677",
-        "at": "2026-10-19T20:32:20.785Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561837714150789226"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-20T00:43:53.444Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561888444039561227"
       },
       "id": "zombyrdom_411e72",
-      "version": "20261019-202526",
-      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261019-202526.cwm",
-      "size": 2045360,
-      "sha256": "b6577452439cff6c80acbdf0acc61fa953183d606fe829329d22cda194752b7d",
+      "version": "20261019-234700",
+      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261019-234700.cwm",
+      "size": 2047067,
+      "sha256": "12c20640c22140feae5cb5a60217f5ad5d78b9d9a780d47c6a3a67594bad41c4",
       "history": [
+        {
+          "version": "20261019-234700",
+          "changelog": "Fixed issue with PHD not granting sometimes.",
+          "published": "2026-10-20T00:43:53.444Z"
+        },
         {
           "version": "20261019-202526",
           "changelog": "Added the option to toggle PHD on load if people are sick of dying in round based maps.",
