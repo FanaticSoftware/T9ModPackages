@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T12:43:41.743Z",
+  "generated": "2026-10-20T12:44:48.459Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3259,16 +3259,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "7eff0db111302615d6a96747011540e98beb340c700d32322347d3768908ea34",
+      "sourceSha256": "2661666287f7c70e463b8c33c96ba5232ab70cc77894f673596ece5ec01fc34a",
       "scan": {
         "critical": 0,
-        "high": 1,
+        "high": 0,
         "low": 0,
         "medium": 14,
         "rules": "2026.09.26",
-        "summary": "1 high, 14 medium"
+        "summary": "14 medium"
       },
-      "settings": 56,
+      "settings": 57,
       "tags": [
         "Gameplay Overhaul",
         "Cosmetic / HUD",
@@ -3281,20 +3281,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "New Features\nFire Mode System\n\nSemi-Auto Conversion — Converts all weapons to semi-auto fire. One shot per trigger pull. Works on burst and full-auto weapons (M16, LMGs, etc.). Overrides Burst/Full-Auto settings.\nFire Mode Toggle — Hold ADS + press Tactical to cycle: Safe (no fire, dry click) / Semi / Burst / Full Auto. Bold colored text shows current mode on screen. Overrides compile-time settings when active.\nSafe mode only accessible by holding Tactical for ~1 second. Quick tap cycles Semi → Burst → Full Auto.\n40mm Grenades & Rockets (new calibers)\n\n40mm — Fires M79 grenade projectiles. Explodes on impact with splash damage. No face explosions (spawn distance + bullettrace safety check).\nRockets — Fires M79 tracer rounds as visible rocket projectiles. Travels and explodes on impact.\nBoth work in semi, burst, and full-auto fire modes.\nFull-auto fire rate capped at 0.15s for smooth firing on slow weapons (Barrett, etc.)\nShotgun Overhaul\n\nShotguns now fire 8-pellet spreads in full auto and burst modes (was 1 pellet before).\nEach blast plays shotgun sound once with 1.5× recoil.\nImprovements\nSound System\n\nCaliber fire sounds now play via playsoundtoplayer (more reliable in BO:CW).\nFalls back to weapon's native fire sound if no caliber-specific alias exists.\nFalls back to known-working BO:CW sound alias if nothing else works.\nCaliber sound always plays regardless of fire mode.\nRecoil\n\nScripted recoil smoothed over 3 frames (100% → 60% → 30%) with ±15% random variation.\nBase multiplier increased to 4.5× for powerful feel on high-caliber guns.\nReduced robotic/stiff feel on converted fire rates.\nReload Fix\n\nWeapon fire re-enabled on trigger release in all fire modes (semi, burst, full-auto, safe, raygun).\nNo more \"stuck reload\" after full-auto runs.\nSingle-Shot Weapons\n\nNative semi-auto weapons (1911, pistols) are no longer converted to scripted fire — they keep their native animation/sound/feel.\n40mm/Rockets exception: single-shot weapons ARE converted when 40mm or Rockets caliber is selected (so Marshal pistols fire grenades/rockets).\nFire mode toggle (Burst/Full Auto) works on ALL weapons including single-shot.\nBurst Mode\n\nBurst now fires exactly one burst per trigger press (was auto-repeating while holding).\nBurst on shotguns fires 8-pellet spread per burst.\nBug Fixes\nCompile errors fixed: for ( ;; ) → while ( 1 ) (invalid GSC syntax)\nCompile errors fixed: if ( true/false ) { ... } else { ... } → removed else (T9 macro replacement causes compile-time evaluation)\nReserved keyword fixes: var → vark, pitch → p_off (GSC reserved words)\nMissing settings declared: arm_scavenge and arm_inf checkboxes added to SETTINGS block\nCSC client script: Fixed for ( ;; ) loops in armory.csc\nBurst auto-repeat: Fixed rising-edge detection (atk && !was_atk)\nFull-auto smoothness: Capped fire interval at 0.15s for slow weapons (Barrett no longer chugs)\nCaliber Options\nAdded: 40mm (grenades), Rockets (M79 tracer)\n\nAmmo Type Options\nOriginal 6 retained: Standard, Hollow Point, FMJ, Armor Piercing, Explosive, Subsonic\n\nKnown Limitations\nShotguns in full-auto fire at arm_fire_interval rate (may feel slow/fast depending on setting)\n40mm grenade explosion uses native BO:CW grenade damage (not modified by caliber damage system)\nFire mode toggle requires arm_firemode_toggle setting to be enabled",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-20T00:43:29.477Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561896001210552324"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-20T12:44:48.007Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1562082590264135766"
       },
       "id": "the_armory_a1b2c3",
-      "version": "20261020-001702",
-      "file": "mod_packages/the_armory_a1b2c3/the_armory_a1b2c3-20261020-001702.cwm",
-      "size": 1720960,
-      "sha256": "238087873ae856d3c6a84a12ea943b0ede55f9cce75c9ee711cf8b9508c60fe8",
+      "version": "20261020-123830",
+      "file": "mod_packages/the_armory_a1b2c3/the_armory_a1b2c3-20261020-123830.cwm",
+      "size": 1754519,
+      "sha256": "48c05327d2b7c0b99659b9949935f54efcc5a5267ffb540d13d347f2906bb070",
       "history": [
+        {
+          "version": "20261020-123830",
+          "changelog": "New Features\nFire Mode System\n\nSemi-Auto Conversion — Converts all weapons to semi-auto fire. One shot per trigger pull. Works on burst and full-auto weapons (M16, LMGs, etc.). Overrides Burst/Full-Auto settings.\nFire Mode Toggle — Hold ADS + press Tactical to cycle: Safe (no fire, dry click) / Semi / Burst / Full Auto. Bold colored text shows current mode on screen. Overrides compile-time settings when active.\nSafe mode only accessible by holding Tactical for ~1 second. Quick tap cycles Semi → Burst → Full Auto.\n40mm Grenades & Rockets (new calibers)\n\n40mm — Fires M79 grenade projectiles. Explodes on impact with splash damage. No face explosions (spawn distance + bullettrace safety check).\nRockets — Fires M79 tracer rounds as visible rocket projectiles. Travels and explodes on impact.\nBoth work in semi, burst, and full-auto fire modes.\nFull-auto fire rate capped at 0.15s for smooth firing on slow weapons (Barrett, etc.)\nShotgun Overhaul\n\nShotguns now fire 8-pellet spreads in full auto and burst modes (was 1 pellet before).\nEach blast plays shotgun sound once with 1.5× recoil.\nImprovements\nSound System\n\nCaliber fire sounds now play via playsoundtoplayer (more reliable in BO:CW).\nFalls back to weapon's native fire sound if no caliber-specific alias exists.\nFalls back to known-working BO:CW sound alias if nothing else works.\nCaliber sound always plays regardless of fire mode.\nRecoil\n\nScripted recoil smoothed over 3 frames (100% → 60% → 30%) with ±15% random variation.\nBase multiplier increased to 4.5× for powerful feel on high-caliber guns.\nReduced robotic/stiff feel on converted fire rates.\nReload Fix\n\nWeapon fire re-enabled on trigger release in all fire modes (semi, burst, full-auto, safe, raygun).\nNo more \"stuck reload\" after full-auto runs.\nSingle-Shot Weapons\n\nNative semi-auto weapons (1911, pistols) are no longer converted to scripted fire — they keep their native animation/sound/feel.\n40mm/Rockets exception: single-shot weapons ARE converted when 40mm or Rockets caliber is selected (so Marshal pistols fire grenades/rockets).\nFire mode toggle (Burst/Full Auto) works on ALL weapons including single-shot.\nBurst Mode\n\nBurst now fires exactly one burst per trigger press (was auto-repeating while holding).\nBurst on shotguns fires 8-pellet spread per burst.\nBug Fixes\nCompile errors fixed: for ( ;; ) → while ( 1 ) (invalid GSC syntax)\nCompile errors fixed: if ( true/false ) { ... } else { ... } → removed else (T9 macro replacement causes compile-time evaluation)\nReserved keyword fixes: var → vark, pitch → p_off (GSC reserved words)\nMissing settings declared: arm_scavenge and arm_inf checkboxes added to SETTINGS block\nCSC client script: Fixed for ( ;; ) loops in armory.csc\nBurst auto-repeat: Fixed rising-edge detection (atk && !was_atk)\nFull-auto smoothness: Capped fire interval at 0.15s for slow weapons (Barrett no longer chugs)\nCaliber Options\nAdded: 40mm (grenades), Rockets (M79 tracer)\n\nAmmo Type Options\nOriginal 6 retained: Standard, Hollow Point, FMJ, Armor Piercing, Explosive, Subsonic\n\nKnown Limitations\nShotguns in full-auto fire at arm_fire_interval rate (may feel slow/fast depending on setting)\n40mm grenade explosion uses native BO:CW grenade damage (not modified by caliber damage system)\nFire mode toggle requires arm_firemode_toggle setting to be enabled",
+          "published": "2026-10-20T12:44:48.007Z"
+        },
         {
           "version": "20261020-001702",
           "changelog": "",
