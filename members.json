@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T03:00:08.707Z",
+  "generated": "2026-10-20T04:00:08.277Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2310,12 +2310,6 @@
       "id": "671663729611374603",
       "name": "GamesRest",
       "username": "gamerest",
-      "modder": true
-    },
-    {
-      "id": "976616967962263552",
-      "name": "Gang1111",
-      "username": "gang1111",
       "modder": true
     },
     {
@@ -6886,7 +6880,7 @@
     },
     {
       "id": "1204189441971720247",
-      "name": "Zennie",
+      "name": "zennie",
       "username": "zennietheoneandonly",
       "modder": true
     },
