@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T12:45:22.582Z",
+  "generated": "2026-10-20T14:25:53.735Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -942,6 +942,53 @@
           "4b383ebd1bc36f0a"
         ]
       }
+    },
+    {
+      "title": "DOA3 All Fates on Start",
+      "description": "Automatically grants All 6 Fates (God Tier) to all players when the game starts in Dead Ops Arcade 3. Features permanent Golden Chicken Companion (Fate of Friendship) following & firing alongside you, permanent Death Machine (Firepower), Fast Boots 1.5x speed (Feet), 4x Multiplier & Coin Magnet (Fortune), Shield armor, extra lives & revival aura (Divine & Friendship). Fully persistent across all rooms and transitions with zero crashes.",
+      "author": {
+        "discordName": "rustratbill",
+        "id": "1103711889881571379",
+        "name": "rustratbill"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "4ca4c26dbeb90f7b4cec800635ecc58906cb4b7d67b46ef024a5b9c4481fec18",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 11,
+        "rules": "2026.09.26",
+        "summary": "11 medium"
+      },
+      "settings": 7,
+      "tags": [
+        "Dead Ops Arcade"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-20T14:25:53.239Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1562105579470852264"
+      },
+      "id": "doa3_all_fates_on_start",
+      "version": "20261020-140951",
+      "file": "mod_packages/doa3_all_fates_on_start/doa3_all_fates_on_start-20261020-140951.cwm",
+      "size": 696919,
+      "sha256": "4f8b0c4ddcfe405eeafb91faab89000ca12333763dc00268a7b5c141c6d0fb7d",
+      "history": [
+        {
+          "version": "20261020-140951",
+          "changelog": "",
+          "published": "2026-10-20T14:25:53.239Z"
+        }
+      ],
+      "thumbnail": "mod_packages/doa3_all_fates_on_start/thumbnail.png",
+      "thumbnailSha256": "205d00da0dfe2250f40b5cd40105dcf6d83e1392e12766134abfba1a0de6a0f8",
+      "collaborators": []
     },
     {
       "title": "DOOM Mode (BETA)",
