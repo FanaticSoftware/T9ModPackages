@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T02:30:47.340Z",
+  "generated": "2026-10-20T03:30:47.338Z",
   "mods": {
     "directors_cut": {
       "favorites": 223,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 155,
+      "favorites": 156,
       "rating": {
         "count": 18,
         "average": 5
@@ -45,21 +45,21 @@
       }
     },
     "aetheria": {
-      "favorites": 84,
+      "favorites": 85,
       "rating": {
         "count": 11,
         "average": 4.9
       }
     },
     "t9_bots": {
-      "favorites": 80,
+      "favorites": 81,
       "rating": {
         "count": 6,
         "average": 4.5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 8,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 103,
+      "favorites": 104,
       "rating": {
         "count": 13,
         "average": 5
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 6,
         "average": 4.3
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -318,7 +318,7 @@
       }
     },
     "third_person_8d7c94": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 2,
         "average": 5
@@ -382,6 +382,20 @@
     },
     "xevs_wheel_of_doom_020817": {
       "favorites": 2,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "instant_pact_132539": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "the_armory_a1b2c3": {
+      "favorites": 1,
       "rating": {
         "count": 0,
         "average": 0
