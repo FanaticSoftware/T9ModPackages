@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T22:40:48.295Z",
+  "generated": "2026-10-20T23:20:48.581Z",
   "mods": {
     "directors_cut": {
-      "favorites": 225,
+      "favorites": 226,
       "rating": {
         "count": 20,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 94,
+      "favorites": 95,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 8,
         "average": 5
@@ -171,14 +171,14 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 7,
         "average": 4.4
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 0,
         "average": 0
