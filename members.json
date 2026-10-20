@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T21:00:08.634Z",
+  "generated": "2026-10-20T23:00:08.416Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2499,12 +2499,6 @@
       "modder": true
     },
     {
-      "id": "949043171692802068",
-      "name": "Goldy Laranda",
-      "username": "goldylaranda",
-      "modder": true
-    },
-    {
       "id": "1045958414309797918",
       "name": "Gooblys",
       "username": "gooblys",
@@ -3072,6 +3066,12 @@
       "id": "320228177307762690",
       "name": "Jerry",
       "username": "jerryjuliano",
+      "modder": true
+    },
+    {
+      "id": "949043171692802068",
+      "name": "Jess...",
+      "username": "goldylaranda",
       "modder": true
     },
     {
