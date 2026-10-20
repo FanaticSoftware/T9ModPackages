@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T16:00:08.410Z",
+  "generated": "2026-10-20T17:00:08.908Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6420,6 +6420,12 @@
       "id": "522556689602314253",
       "name": "Virus",
       "username": "v_i_r_us_666",
+      "modder": true
+    },
+    {
+      "id": "716299791465971772",
+      "name": "Vision",
+      "username": "vision2006",
       "modder": true
     },
     {
