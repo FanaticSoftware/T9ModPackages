@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-19T23:00:08.020Z",
+  "generated": "2026-10-20T14:16:21.193Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -132,6 +132,17 @@
         "243151432230895619": "Fanatic",
         "684408486456852481": "SaintVertigo"
       }
+    },
+    {
+      "id": "doa3_all_fates_on_start",
+      "title": "DOA3 All Fates on Start",
+      "author": {
+        "id": "1103711889881571379",
+        "name": "rustratbill"
+      },
+      "collaborators": [],
+      "claimed": "2026-10-20T14:16:21.193Z",
+      "updated": "2026-10-20T14:16:21.193Z"
     },
     {
       "id": "doom_mode",
