@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T12:44:48.459Z",
+  "generated": "2026-10-20T12:45:22.582Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3247,6 +3247,63 @@
       ],
       "thumbnail": "mod_packages/test_lot_of_health_eb14c2/thumbnail.png",
       "thumbnailSha256": "4f9e0d853289a5fcb1a10c906d707403bc2a332cb65438565610e2e55015c3e4",
+      "collaborators": []
+    },
+    {
+      "title": "Tight Spaces - Ruka",
+      "description": "Welcome to Tight Spaces - Ruka!\nIn this challenge, you will be confined in a particular building, with only your weapons, the main stations, the Pack a Punch, Der Wunderfizz and the Mystery Box!\nTest your skills with this evergrowing Difficult challenge and enjoy the suffering!\n\nTight Spaces consist in:\nOne Building, no escapes. Every two minutes (customizable), the hordes get harder each time, load yourself with the help of The Arsenal, Crafting Table, Der Wunderfizz, The Forge and The Mystery box and survive Endless Hordes of enemies.\nDon't worry if you start an Outbreak Match and it doesn't starts on Ruka, this mod will bring you right where you should be!\n\n(I'm working on bringing this Challenge to ALL OUTBREAK MAPS, so there would be no need to teleport the player to a specific map each time, still, I will add a CheckBox to teleport to a specific Map if the player wants to)\n(The Mystery Box is on the second floor, btw, the default Ammo Crate is in its original place, the same room you spawn in)\n(Also I added some funny decorations which are completely optional and don't affect gameplay, you can enable them by clicking the CheckBox regarding Decorations, by default, off)\n\n- If there's an issue with another Mod or in THIS mod itself, have a suggestion or a complain, please DM me on Discord: \"saku.mvf\" with the context, ie: \"Hi! I've played X mod (my mod, and if applies) together with X mod (another Creator's mod) and it Crashes! Can you take a look please? Thanks!",
+      "author": {
+        "discordName": "saku.mvf",
+        "id": "535500260726800387",
+        "name": "Sakupen"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "14e115be000706324e32bc4cbb492e1e1749c0c0f98eca4d31388af15944a690",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 42,
+        "rules": "2026.09.26",
+        "summary": "42 medium"
+      },
+      "settings": 2,
+      "tags": [
+        "Difficulty",
+        "Cosmetic / HUD",
+        "Challenge / Custom Rules",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Bosses / Specials",
+        "Outbreak",
+        "Hard",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-20T12:45:22.209Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1561909325570515016"
+      },
+      "id": "test2_e45295",
+      "version": "20261020-010955",
+      "file": "mod_packages/test2_e45295/test2_e45295-20261020-010955.cwm",
+      "size": 2420957,
+      "sha256": "37dd777b5d625c84f95408ba781618c35dfef06968c909c84dec0dd2348e4c33",
+      "history": [
+        {
+          "version": "20261020-010955",
+          "changelog": "",
+          "published": "2026-10-20T12:45:22.209Z"
+        }
+      ],
+      "thumbnail": "mod_packages/test2_e45295/thumbnail.png",
+      "thumbnailSha256": "2070ff57df80e27d19ff98e64bec67b9e72a738e8e83bb45a7a2ab6a338bca81",
       "collaborators": []
     },
     {
