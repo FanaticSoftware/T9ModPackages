@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T10:20:49.239Z",
+  "generated": "2026-10-21T10:30:48.982Z",
   "mods": {
     "directors_cut": {
       "favorites": 228,
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 10,
+      "favorites": 9,
       "rating": {
         "count": 2,
         "average": 5
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 0,
         "average": 0
@@ -409,7 +409,7 @@
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 1,
         "average": 5
