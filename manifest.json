@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-20T22:11:13.731Z",
+  "generated": "2026-10-21T11:33:19.267Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3917,7 +3917,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "789fceb08efe254bde90d230354d7c2f4c4ab96f5efb6365272424f20c3796cd",
+      "sourceSha256": "541d7ea990492152434dafd705da27f29967a3ea38820c5fc0ee46ae2f9b417b",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -3937,20 +3937,25 @@
         "Easy",
         "Solo"
       ],
-      "changelog": "Fixed issue with PHD not granting sometimes.",
+      "changelog": "Changed step amount for explosion timer.",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-20T00:43:53.444Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561888444039561227"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-21T11:33:18.794Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1562146768064618498"
       },
       "id": "zombyrdom_411e72",
-      "version": "20261019-234700",
-      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261019-234700.cwm",
-      "size": 2047067,
-      "sha256": "12c20640c22140feae5cb5a60217f5ad5d78b9d9a780d47c6a3a67594bad41c4",
+      "version": "20261020-165331",
+      "file": "mod_packages/zombyrdom_411e72/zombyrdom_411e72-20261020-165331.cwm",
+      "size": 2047063,
+      "sha256": "8028788fd9b9819051f0278d132c89c5dd6118e054bcc573aafbe428b3581dd2",
       "history": [
+        {
+          "version": "20261020-165331",
+          "changelog": "Changed step amount for explosion timer.",
+          "published": "2026-10-21T11:33:18.794Z"
+        },
         {
           "version": "20261019-234700",
           "changelog": "Fixed issue with PHD not granting sometimes.",
