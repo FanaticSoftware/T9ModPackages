@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T04:00:08.554Z",
+  "generated": "2026-10-21T05:00:08.618Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4860,6 +4860,12 @@
       "id": "712026560126910585",
       "name": "Prox",
       "username": "prox448",
+      "modder": true
+    },
+    {
+      "id": "364521883309441024",
+      "name": "PsYchOxPray",
+      "username": "lutraxxyoo",
       "modder": true
     },
     {
