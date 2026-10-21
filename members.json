@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T16:00:09.940Z",
+  "generated": "2026-10-21T17:00:08.708Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4474,7 +4474,7 @@
     },
     {
       "id": "627310420478132225",
-      "name": "NikoStreamsVT[VTuber][Age:20]",
+      "name": "NikoStreamsVT[VTuber]",
       "username": "nikostreamsvt",
       "modder": true
     },
@@ -5871,6 +5871,12 @@
       "modder": true
     },
     {
+      "id": "875400317070635068",
+      "name": "Sune",
+      "username": "sune112",
+      "modder": true
+    },
+    {
       "id": "1419411759487389851",
       "name": "Śūnyatā",
       "username": "silentheartcoldhouse",
@@ -6972,6 +6978,12 @@
       "id": "243123784918237204",
       "name": "Zyuni",
       "username": "zuoni",
+      "modder": true
+    },
+    {
+      "id": "723907274988453927",
+      "name": "βΣΞΛΞΗΗΥΣ",
+      "username": "vselennus",
       "modder": true
     },
     {
