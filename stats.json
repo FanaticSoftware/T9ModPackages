@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T10:30:48.982Z",
+  "generated": "2026-10-21T15:20:49.084Z",
   "mods": {
     "directors_cut": {
       "favorites": 228,
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 1,
         "average": 5
@@ -371,13 +371,6 @@
       "rating": {
         "count": 1,
         "average": 5
-      }
-    },
-    "rouge_run_87efcf": {
-      "favorites": 8,
-      "rating": {
-        "count": 0,
-        "average": 0
       }
     },
     "xevs_wheel_of_doom_020817": {
