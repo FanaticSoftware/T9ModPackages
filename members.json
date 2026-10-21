@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T11:00:10.261Z",
+  "generated": "2026-10-21T14:00:08.889Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -726,6 +726,12 @@
       "id": "1438625989377655047",
       "name": "Azzy",
       "username": "azzylang",
+      "modder": true
+    },
+    {
+      "id": "1209844747624128592",
+      "name": "𝓑𝓪𝓫𝔂 𝓘𝓶 𝓤𝓷𝓻𝓪𝓿𝓮𝓵𝓮𝓭",
+      "username": "oliviarodrigo.ff",
       "modder": true
     },
     {
@@ -6954,12 +6960,6 @@
       "id": "243123784918237204",
       "name": "Zyuni",
       "username": "zuoni",
-      "modder": true
-    },
-    {
-      "id": "1209844747624128592",
-      "name": "ᴢᴍ_𝓮𝓾𝓹𝓱𝓸𝓻𝓲𝓪.𝓰𝓼𝓬",
-      "username": "zm_euphoria.gsc",
       "modder": true
     },
     {
