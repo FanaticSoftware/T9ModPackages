@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T11:33:19.267Z",
+  "generated": "2026-10-21T11:41:16.640Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2742,69 +2742,6 @@
       ],
       "thumbnail": "mod_packages/replace_zombies_early_wip/thumbnail.png",
       "thumbnailSha256": "c60db69e6fdf6b112858fda86101d30e9b1902ecade40a890652da3fca48ce36",
-      "collaborators": []
-    },
-    {
-      "title": "Rouge Run",
-      "description": "Rogue Run is a roguelite Zombies mode in Call of Duty: Black Ops 7 ported now for Call Of Duty: Black Ops Cold War. Players start with a basic pistol, fight through increasingly difficult rounds, and choose randomized rewards between encounters to build their loadout. Each run tests your ability to combine weapons, perks, and upgrades, while adding curses to infect the run which enable high end loot to join the loot pool. Curses are challenges that are added into the run with increasing intensity. Some outright changing the gameplay. \n\nNOTE: This mod is only coded for the core ROUND BASED maps.",
-      "author": {
-        "discordName": "izondlamb.exe",
-        "id": "662100730047627275",
-        "name": "Izon"
-      },
-      "publishedBy": null,
-      "developer": false,
-      "sourceSha256": "c674beabf7d580fc150ba4b30adef0e744453cbfda2e954103380660b4ae3654",
-      "scan": {
-        "critical": 0,
-        "high": 30,
-        "low": 0,
-        "medium": 25,
-        "rules": "2026.09.26",
-        "summary": "30 high, 25 medium"
-      },
-      "settings": 5,
-      "tags": [
-        "Difficulty",
-        "Challenge / Custom Rules",
-        "Weapons",
-        "Movement",
-        "Round-Based Maps",
-        "Die Maschine",
-        "Firebase Z",
-        "Mauer der Toten",
-        "Forsaken",
-        "Hard",
-        "Solo",
-        "Co-op"
-      ],
-      "changelog": "Nothing changed just accidently mixed up the update logs with armory",
-      "highAlerts": [],
-      "approved": {
-        "by": "teaa_the_silliest",
-        "byId": "1214090251178352677",
-        "at": "2026-10-20T12:43:41.283Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1562082742508986410"
-      },
-      "id": "rouge_run_87efcf",
-      "version": "20261020-123907",
-      "file": "mod_packages/rouge_run_87efcf/rouge_run_87efcf-20261020-123907.cwm",
-      "size": 2048370,
-      "sha256": "4f2146fe1a0e61f5aab87e9e986cd50c1a0ce92f0964ebd4ece6d010060da5b9",
-      "history": [
-        {
-          "version": "20261020-123907",
-          "changelog": "Nothing changed just accidently mixed up the update logs with armory",
-          "published": "2026-10-20T12:43:41.283Z"
-        },
-        {
-          "version": "20261017-033436",
-          "changelog": "",
-          "published": "2026-10-17T16:33:48.094Z"
-        }
-      ],
-      "thumbnail": "mod_packages/rouge_run_87efcf/thumbnail.png",
-      "thumbnailSha256": "a14ffa72b4b8646debafd6a052078920f133cb8548e4061532734829c3a4911e",
       "collaborators": []
     },
     {
