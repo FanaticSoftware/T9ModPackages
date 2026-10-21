@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T03:50:48.737Z",
+  "generated": "2026-10-21T05:00:48.743Z",
   "mods": {
     "directors_cut": {
       "favorites": 227,
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 1,
         "average": 5
@@ -402,14 +402,14 @@
       }
     },
     "test2_e45295": {
-      "favorites": 0,
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 2
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 0,
+      "favorites": 1,
       "rating": {
         "count": 1,
         "average": 5
