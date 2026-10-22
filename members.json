@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T04:00:09.027Z",
+  "generated": "2026-10-22T05:00:08.790Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2154,6 +2154,12 @@
       "id": "244657466783170560",
       "name": "Figglebottom",
       "username": "illuminatidonut",
+      "modder": true
+    },
+    {
+      "id": "705582648432656384",
+      "name": "filet o fish",
+      "username": "bunchocordz",
       "modder": true
     },
     {
@@ -5724,12 +5730,6 @@
       "id": "1085805846094675988",
       "name": "Snip3",
       "username": "snip3maybe2",
-      "modder": true
-    },
-    {
-      "id": "705582648432656384",
-      "name": "Solar Panel",
-      "username": "bunchocordz",
       "modder": true
     },
     {
