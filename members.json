@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T17:00:13.731Z",
+  "generated": "2026-10-22T18:00:09.175Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6246,6 +6246,12 @@
       "id": "594420944500686848",
       "name": "ToxicAtomic",
       "username": "toxicatomic",
+      "modder": true
+    },
+    {
+      "id": "406952584839036939",
+      "name": "TR Nitro",
+      "username": "thereal0_o",
       "modder": true
     },
     {
