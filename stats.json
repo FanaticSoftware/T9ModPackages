@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T15:10:50.282Z",
+  "generated": "2026-10-22T18:20:50.477Z",
   "mods": {
     "directors_cut": {
       "favorites": 230,
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 64,
+      "favorites": 65,
       "rating": {
         "count": 7,
         "average": 4.1
@@ -371,6 +371,13 @@
       "rating": {
         "count": 1,
         "average": 5
+      }
+    },
+    "rouge_run_87efcf": {
+      "favorites": 4,
+      "rating": {
+        "count": 0,
+        "average": 0
       }
     },
     "xevs_wheel_of_doom_020817": {
