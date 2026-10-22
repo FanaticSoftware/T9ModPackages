@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T17:37:14.371Z",
+  "generated": "2026-10-22T17:37:42.480Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "THE BALLISTICS LAB",
+      "id": "the_ballistics_lab_752ac7",
+      "version": "20261022-050956",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-22T17:37:42.214Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2080,16 +2091,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-25T09:38:15.268Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Oops! All Elites!",
-      "id": "replace_zombies_early_wip",
-      "version": "20260925-093308",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-25T09:33:25.197Z"
     }
   ]
 }
