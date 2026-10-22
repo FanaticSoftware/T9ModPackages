@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T20:10:50.558Z",
+  "generated": "2026-10-22T20:50:50.611Z",
   "mods": {
     "directors_cut": {
       "favorites": 230,
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 4,
         "average": 4.5
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 1,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 25,
+      "favorites": 26,
       "rating": {
         "count": 1,
         "average": 5
