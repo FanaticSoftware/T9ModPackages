@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T17:00:09.045Z",
+  "generated": "2026-10-22T17:37:06.366Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -408,20 +408,6 @@
       "collaborators": [],
       "claimed": "2026-09-25T08:12:49.961Z",
       "updated": "2026-09-25T08:12:49.961Z"
-    },
-    {
-      "id": "rouge_run_87efcf",
-      "title": "Rouge Run",
-      "author": {
-        "id": "662100730047627275",
-        "name": "Izon"
-      },
-      "collaborators": [],
-      "claimed": "2026-10-20T12:43:41.283Z",
-      "updated": "2026-10-21T11:41:16.640Z",
-      "unpublished": "2026-10-21T11:41:16.640Z",
-      "lastVersion": "20261020-123907",
-      "unpublishedBy": "662100730047627275"
     },
     {
       "id": "spawn_fix_6449f1",

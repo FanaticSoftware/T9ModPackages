@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T14:26:42.569Z",
+  "generated": "2026-10-22T17:37:06.366Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2747,6 +2747,75 @@
       ],
       "thumbnail": "mod_packages/replace_zombies_early_wip/thumbnail.png",
       "thumbnailSha256": "c60db69e6fdf6b112858fda86101d30e9b1902ecade40a890652da3fca48ce36",
+      "collaborators": []
+    },
+    {
+      "title": "Rouge Run",
+      "description": "Rouge Run\n\nA roguelike run mode for Cold War Zombies, inspired by Black Ops 7's Rogue Run.\n\nNo wall-buys, no perk machines, no Mystery Box. Everything you get comes from the reward tables that appear after every round. Every round, the run teleports you to a new part of the map and locks you in until it's cleared. How far can you take it?\n\nHow a run works\nStart with a pistol. Clear a round and a row of reward podiums appears in front of you. Pick one: a weapon (rolled with rarity, and Pack-a-Punched later in the run), a free perk, a boon or Golden Armor.\nRotating arenas. Each round sends you to a new area of the map, locked in until the round is over. Die Maschine has hand-built arenas. Mauer der Toten, Firebase Z and Forsaken build theirs automatically. Forsaken starts after you leave No Man's Land.\nThe CURSE-INATOR 3000 follows you to every arena. Use it for a random curse. Curses make the run harder but unlock better rewards:\nTier I: Golden Armor on the tables.\nTier II: Ultra-rarity weapons.\nTier III: Pack-a-Punch IV.\nFinish the run. Set a Target Round, clear it, take your last reward, and face the map's final boss: Firebase Z, Mauer der Toten and Forsaken. On Die Maschine you exfil instead. \n\n30+ curses\n\nFrom light nuisances to run-enders. A few examples:\n\nMoon Boots: gravity changes every round.\nMomo's Fist: fists only, but every punch is a one-tap.\nBroken Air Conditioner: stand still too long and the floor catches fire.\nMimic Tooth: one of the two CURSE-INATORs is a fake.\nHotel Key (Mauer) and Bunker Door (Forsaken): sent to a special room for 3 rounds.\nSchizophrenia: something is hiding in the tables…\n\nEvery curse has its own switch in the settings, so you can build your own curse pool.\n\nSettings\nTarget Round: clear it to trigger the ending. 0 means endless.\nRotate Arenas: turn it off to open every door and play the whole map.\nPick Time: how long you have to choose a reward.\nCurses: the master switch, plus one switch per curse.\nOnslaught Maps (beta): experimental support for the Onslaught maps.\n\nGood to know\nSolo / private matches only (T9 Mod Manager).\nWorks on Die Maschine, Mauer der Toten, Firebase Z and Forsaken.\nNukes always end the round.\nForsaken is the hardest map due to late starting round with no mans land. You've been warned.",
+      "author": {
+        "discordName": "izondlamb.exe",
+        "id": "662100730047627275",
+        "name": "Izon"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "b9a7e951118a31723732a4e3d48ce88bfe71c85a43b16a41b0e5097454ff6d3d",
+      "scan": {
+        "critical": 0,
+        "high": 30,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.09.26",
+        "summary": "30 high, 25 medium"
+      },
+      "settings": 31,
+      "tags": [
+        "Gameplay Overhaul",
+        "Difficulty",
+        "Cosmetic / HUD",
+        "Utility / Tools",
+        "Challenge / Custom Rules",
+        "Weapons",
+        "Wonder Weapons",
+        "Perks",
+        "Points / Economy",
+        "Rounds / Spawning",
+        "Zombies / AI",
+        "Bosses / Specials",
+        "Armor / Rarity",
+        "Salvage / Crafting",
+        "Movement",
+        "Round-Based Maps",
+        "Die Maschine",
+        "Firebase Z",
+        "Mauer der Toten",
+        "Forsaken",
+        "Hard",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-22T17:37:05.726Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1562809820313034907"
+      },
+      "id": "rouge_run_87efcf",
+      "version": "20261022-124811",
+      "file": "mod_packages/rouge_run_87efcf/rouge_run_87efcf-20261022-124811.cwm",
+      "size": 2278919,
+      "sha256": "19d5f31974b688127ad3ace40e0f1b503461e1c8fa70ce33a386ef12bb6efebb",
+      "history": [
+        {
+          "version": "20261022-124811",
+          "changelog": "",
+          "published": "2026-10-22T17:37:05.726Z"
+        }
+      ],
+      "thumbnail": "mod_packages/rouge_run_87efcf/thumbnail.png",
+      "thumbnailSha256": "a14ffa72b4b8646debafd6a052078920f133cb8548e4061532734829c3a4911e",
       "collaborators": []
     },
     {
