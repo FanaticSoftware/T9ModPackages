@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T14:26:48.765Z",
+  "generated": "2026-10-22T17:37:14.371Z",
   "notices": [
+    {
+      "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
+      "status": "approved",
+      "mod": "Rouge Run",
+      "id": "rouge_run_87efcf",
+      "version": "20261022-124811",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-22T17:37:14.113Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
@@ -2079,16 +2090,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-25T09:33:25.197Z"
-    },
-    {
-      "key": "0f54d0fdcd4541e973313ce722787498db97c399e3ce139016ec7f05b62a839b",
-      "status": "collab",
-      "mod": "Cold War Roulette Randomizer",
-      "id": "randomizer_test_7e619d",
-      "version": null,
-      "reason": "**Cloudsy** (@cloudsykitty) accepted your invitation and is now a co-author.",
-      "by": "",
-      "at": "2026-09-25T08:14:07.419Z"
     }
   ]
 }
