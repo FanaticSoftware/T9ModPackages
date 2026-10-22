@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T00:00:08.960Z",
+  "generated": "2026-10-22T02:00:08.744Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -942,6 +942,12 @@
       "id": "715406215391346778",
       "name": "Boidz",
       "username": "zboidz",
+      "modder": true
+    },
+    {
+      "id": "1420138885727387709",
+      "name": "boilerboy",
+      "username": "isochoric",
       "modder": true
     },
     {
@@ -5220,6 +5226,12 @@
       "id": "975703428523245608",
       "name": "RizzardOfAus",
       "username": "rizzardofozzie",
+      "modder": true
+    },
+    {
+      "id": "1424101357023006922",
+      "name": "robert",
+      "username": "soggyratpastor",
       "modder": true
     },
     {
