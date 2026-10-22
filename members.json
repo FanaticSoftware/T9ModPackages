@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T10:00:09.845Z",
+  "generated": "2026-10-22T15:00:10.667Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -294,6 +294,12 @@
       "id": "715188277153497112",
       "name": "๕ฮیэห",
       "username": "casen.nobody",
+      "modder": true
+    },
+    {
+      "id": "820233486438891550",
+      "name": "66neme",
+      "username": "neme5224",
       "modder": true
     },
     {
