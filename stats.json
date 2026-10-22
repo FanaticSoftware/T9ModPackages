@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T05:10:49.758Z",
+  "generated": "2026-10-22T05:20:49.759Z",
   "mods": {
     "directors_cut": {
       "favorites": 230,
@@ -87,14 +87,14 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 63,
+      "favorites": 64,
       "rating": {
         "count": 7,
         "average": 4.1
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 4,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 105,
+      "favorites": 106,
       "rating": {
         "count": 13,
         "average": 5
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 7,
         "average": 4.9
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 0,
         "average": 0
@@ -192,21 +192,21 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 3,
         "average": 4.3
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 2,
         "average": 5
@@ -227,21 +227,21 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 2,
         "average": 4.8
       }
     },
     "nikolai_mod_menu_767906": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 5,
         "average": 2.3
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 4,
         "average": 5
@@ -255,21 +255,21 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "point_per_bullit_8a7781": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "test_a8804f": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 4,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 1,
         "average": 5
@@ -297,14 +297,14 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "mod_menu_c75d87": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 1,
         "average": 0.5
@@ -325,21 +325,21 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 2,
         "average": 5
@@ -374,21 +374,21 @@
       }
     },
     "xevs_wheel_of_doom_020817": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "instant_pact_132539": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 0,
         "average": 0
@@ -402,7 +402,7 @@
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 2,
         "average": 5
