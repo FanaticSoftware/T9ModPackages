@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T17:37:06.366Z",
+  "generated": "2026-10-22T17:37:36.052Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3429,6 +3429,59 @@
       ],
       "thumbnail": "mod_packages/the_armory_a1b2c3/thumbnail.png",
       "thumbnailSha256": "74e57fe86d6466b977b49a81eca9914f295b977d3288db0c5215cebf15cd38b5",
+      "collaborators": []
+    },
+    {
+      "title": "THE BALLISTICS LAB",
+      "description": "A pre-match tuning bench for your loadout gun that has been made Progression Safe by design. Chamber any of 28 real calibers, pick a barrel and ammo, or build a custom load. Damage is real muzzle energy against the gun's own round, so a big caliber hits harder and pays for it in magazine size, recoil and weight. For more OP options use the Armory mod which has no limits but at the cost has no progression. \n\nBoth mods feature the brand new FIRING RANGE to test weapon damage and find a build that suits your mission objective.",
+      "author": {
+        "discordName": "izondlamb.exe",
+        "id": "662100730047627275",
+        "name": "Izon"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "26e60af66d132b1d782a41798aea1eab2eb98795bfa5a00f2751c370026ef845",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 21,
+        "rules": "2026.09.26",
+        "summary": "1 high, 21 medium"
+      },
+      "settings": 36,
+      "tags": [
+        "Gameplay Overhaul",
+        "Utility / Tools",
+        "Weapons",
+        "Zombies / AI",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-22T17:37:35.631Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1562694482346901590"
+      },
+      "id": "the_ballistics_lab_752ac7",
+      "version": "20261022-050956",
+      "file": "mod_packages/the_ballistics_lab_752ac7/the_ballistics_lab_752ac7-20261022-050956.cwm",
+      "size": 2218079,
+      "sha256": "d82e6c403a2c314f49fa71d57b7bac67fab1ce284e5409a04179189f57d4b3d3",
+      "history": [
+        {
+          "version": "20261022-050956",
+          "changelog": "",
+          "published": "2026-10-22T17:37:35.631Z"
+        }
+      ],
+      "thumbnail": "mod_packages/the_ballistics_lab_752ac7/thumbnail.png",
+      "thumbnailSha256": "3996e3607036a3e91ab694dc8136e9833923c1fbfbe7f2468b989372385db2fc",
       "collaborators": []
     },
     {
