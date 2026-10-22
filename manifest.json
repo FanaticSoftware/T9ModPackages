@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-21T11:41:16.640Z",
+  "generated": "2026-10-22T14:26:42.569Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -739,16 +739,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "5439963a8c8d4fbe3a80cdb0c6205badc580f4aa7e2cc1f015f524673cc2473d",
+      "sourceSha256": "6a998a290206f83329b3068f3f6431d99c9cb14fa0f04249853908211780788c",
       "scan": {
         "critical": 0,
         "high": 1,
         "low": 0,
-        "medium": 1,
-        "rules": "2026.08.19",
-        "summary": "1 high, 1 medium"
+        "medium": 2,
+        "rules": "2026.09.26",
+        "summary": "1 high, 2 medium"
       },
-      "settings": 12,
+      "settings": 14,
       "tags": [
         "Challenge / Custom Rules",
         "Points / Economy",
@@ -759,20 +759,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "Added two new punishments, Blurry Vision and Slow Movement\nAdded color to the text to make them look better (Thanks SaintVertigo for the suggestion!)\nChanged the Punishment text to be bigger and easily readable\nFixed Zombies sometimes glitching when Dead Light occurs\nUpdated the Mod Icon to look better",
+      "changelog": "- Added an option that removes between round delays, similar to the mode in bo6.\n- Added a new Punishment: Random Teleport.\n- Fixed a bug that caused the mod to give issues on Onslaught.\n- Fixed a bug that prevented Dead Light from functioning properly.\n- Attempted to fix Red Light giving punishments during cutscenes.",
       "highAlerts": [],
       "approved": {
         "by": "illuminatidonut",
         "byId": "244657466783170560",
-        "at": "2026-09-27T15:45:44.857Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1553611594951557135"
+        "at": "2026-10-22T14:26:41.788Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1562602866307375201"
       },
       "id": "deadlight_greenlight_fc56b7",
-      "version": "20260927-033745",
-      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20260927-033745.cwm",
-      "size": 1019797,
-      "sha256": "9d57a6b90242041764e58b82b9b1521cdf2a0a3338ab42e22a9760cb47a7b837",
+      "version": "20261021-230547",
+      "file": "mod_packages/deadlight_greenlight_fc56b7/deadlight_greenlight_fc56b7-20261021-230547.cwm",
+      "size": 1030369,
+      "sha256": "a712ccfb8fcae113b3d07f6c68568d5a009bdf2db241bc64fc3128bda32cede2",
       "history": [
+        {
+          "version": "20261021-230547",
+          "changelog": "- Added an option that removes between round delays, similar to the mode in bo6.\n- Added a new Punishment: Random Teleport.\n- Fixed a bug that caused the mod to give issues on Onslaught.\n- Fixed a bug that prevented Dead Light from functioning properly.\n- Attempted to fix Red Light giving punishments during cutscenes.",
+          "published": "2026-10-22T14:26:41.788Z"
+        },
         {
           "version": "20260927-033745",
           "changelog": "Added two new punishments, Blurry Vision and Slow Movement\nAdded color to the text to make them look better (Thanks SaintVertigo for the suggestion!)\nChanged the Punishment text to be bigger and easily readable\nFixed Zombies sometimes glitching when Dead Light occurs\nUpdated the Mod Icon to look better",
