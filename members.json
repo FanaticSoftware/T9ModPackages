@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T09:00:09.394Z",
+  "generated": "2026-10-23T11:00:09.045Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2016,12 +2016,6 @@
       "id": "752711656299167744",
       "name": "ethi",
       "username": "ethi_vr",
-      "modder": true
-    },
-    {
-      "id": "1035377547040534578",
-      "name": "Ethnically replaced Goy",
-      "username": "just_ikea",
       "modder": true
     },
     {
@@ -6996,6 +6990,12 @@
       "id": "321167079824949252",
       "name": "Zenny",
       "username": "zenny8633",
+      "modder": true
+    },
+    {
+      "id": "1035377547040534578",
+      "name": "Zenny ahh boy",
+      "username": "just_ikea",
       "modder": true
     },
     {
