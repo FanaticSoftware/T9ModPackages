@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T11:00:51.443Z",
+  "generated": "2026-10-23T11:10:51.285Z",
   "mods": {
     "directors_cut": {
       "favorites": 230,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 97,
+      "favorites": 98,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 88,
+      "favorites": 89,
       "rating": {
         "count": 11,
         "average": 4.9
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 8,
         "average": 5
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 112,
+      "favorites": 111,
       "rating": {
         "count": 18,
         "average": 3.1
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 4,
         "average": 4
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 19,
+      "favorites": 18,
       "rating": {
         "count": 2,
         "average": 5
@@ -227,21 +227,21 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 32,
+      "favorites": 31,
       "rating": {
         "count": 2,
         "average": 4.8
       }
     },
     "nikolai_mod_menu_767906": {
-      "favorites": 10,
+      "favorites": 9,
       "rating": {
         "count": 5,
         "average": 2.3
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 24,
+      "favorites": 23,
       "rating": {
         "count": 4,
         "average": 5
@@ -255,21 +255,21 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 12,
+      "favorites": 11,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "point_per_bullit_8a7781": {
-      "favorites": 3,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "test_a8804f": {
-      "favorites": 29,
+      "favorites": 28,
       "rating": {
         "count": 5,
         "average": 5
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 11,
+      "favorites": 10,
       "rating": {
         "count": 0,
         "average": 0
