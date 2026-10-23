@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T04:40:50.968Z",
+  "generated": "2026-10-23T11:00:51.443Z",
   "mods": {
     "directors_cut": {
       "favorites": 230,
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 43,
+      "favorites": 42,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -304,14 +304,14 @@
       }
     },
     "mod_menu_c75d87": {
-      "favorites": 17,
+      "favorites": 16,
       "rating": {
         "count": 4,
         "average": 2.8
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 9,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
