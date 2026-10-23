@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T06:00:08.947Z",
+  "generated": "2026-10-23T08:00:08.849Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5916,6 +5916,12 @@
       "id": "1121607624287326250",
       "name": "sucky",
       "username": "suckyies",
+      "modder": true
+    },
+    {
+      "id": "1088338851963093052",
+      "name": "Sudo Woodo",
+      "username": "suda_ines",
       "modder": true
     },
     {
