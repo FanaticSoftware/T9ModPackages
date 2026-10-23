@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T17:37:36.052Z",
+  "generated": "2026-10-23T15:06:57.466Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -221,35 +221,40 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "8d7f1d9b512a7ab3b9eec2adcbd13f5b40c534f5664306ce0fd951d4b9f46308",
+      "sourceSha256": "aeccdf60014ada054e9d8a0676b93470b8a499c149487157de7393abedf2d6e7",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 1,
+        "medium": 9,
         "rules": "2026.09.26",
-        "summary": "1 medium"
+        "summary": "9 medium"
       },
-      "settings": 3,
+      "settings": 10,
       "tags": [
         "Cosmetic / HUD",
         "Weapons",
         "All Maps"
       ],
-      "changelog": "added the ability to customize the pap camo for each tier",
+      "changelog": "added the ability to change the camos for each pap meaning you can change the camo of each pap tier to whatever the camo you desire",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-10-17T16:33:30.303Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1560982948453425176"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-23T15:06:57.037Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1563115132098191454"
       },
       "id": "camo_changer_f68027",
-      "version": "20261017-114829",
-      "file": "mod_packages/camo_changer_f68027/camo_changer_f68027-20261017-114829.cwm",
-      "size": 497763,
-      "sha256": "15d5773d535abd0e1f33374226cf778e35b8c5708ac06952b27e0d81a63f72a4",
+      "version": "20261023-090124",
+      "file": "mod_packages/camo_changer_f68027/camo_changer_f68027-20261023-090124.cwm",
+      "size": 535046,
+      "sha256": "374471a9732abb8a3d847ce25cd4fe82231b98a2796efcb8a8a7da8e60a0cc33",
       "history": [
+        {
+          "version": "20261023-090124",
+          "changelog": "added the ability to change the camos for each pap meaning you can change the camo of each pap tier to whatever the camo you desire",
+          "published": "2026-10-23T15:06:57.037Z"
+        },
         {
           "version": "20261017-114829",
           "changelog": "added the ability to customize the pap camo for each tier",
