@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T23:40:51.671Z",
+  "generated": "2026-10-23T23:50:51.677Z",
   "mods": {
     "directors_cut": {
       "favorites": 231,
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 65,
+      "favorites": 66,
       "rating": {
         "count": 7,
         "average": 4.1
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 4,
         "average": 5
@@ -304,7 +304,7 @@
       }
     },
     "mod_menu_c75d87": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 4,
         "average": 2.8
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 2,
         "average": 5
