@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T16:00:09.168Z",
+  "generated": "2026-10-23T21:00:09.035Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1565,7 +1565,7 @@
     {
       "id": "1553713171938938891",
       "name": "DavidHiFi",
-      "username": "david_hifi",
+      "username": "davidhifi",
       "modder": true
     },
     {
@@ -4944,12 +4944,6 @@
       "id": "364521883309441024",
       "name": "PsYchOxPray",
       "username": "lutraxxyoo",
-      "modder": true
-    },
-    {
-      "id": "1436824352980205700",
-      "name": "Pubstomped",
-      "username": "pubstomped",
       "modder": true
     },
     {
