@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-22T17:37:42.480Z",
+  "generated": "2026-10-23T15:07:02.437Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "all camos changer",
+      "id": "camo_changer_f68027",
+      "version": "20261023-090124",
+      "progression": "allowed",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-23T15:07:02.258Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2081,16 +2092,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-25T16:34:56.620Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Oops! All Elites!",
-      "id": "replace_zombies_early_wip",
-      "version": "20260925-093751",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-25T09:38:15.268Z"
     }
   ]
 }
