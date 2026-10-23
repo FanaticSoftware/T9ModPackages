@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T15:06:57.466Z",
+  "generated": "2026-10-23T16:50:21.687Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3319,7 +3319,7 @@
     },
     {
       "title": "Tight Spaces - Ruka",
-      "description": "Welcome to Tight Spaces - Ruka!\nIn this challenge, you will be confined in a particular building, with only your weapons, the main stations, the Pack a Punch, Der Wunderfizz and the Mystery Box!\nTest your skills with this evergrowing Difficult challenge and enjoy the suffering!\n\nTight Spaces consist in:\nOne Building, no escapes. Every two minutes (customizable), the hordes get harder each time, load yourself with the help of The Arsenal, Crafting Table, Der Wunderfizz, The Forge and The Mystery box and survive Endless Hordes of enemies.\nDon't worry if you start an Outbreak Match and it doesn't starts on Ruka, this mod will bring you right where you should be!\n\n(I'm working on bringing this Challenge to ALL OUTBREAK MAPS, so there would be no need to teleport the player to a specific map each time, still, I will add a CheckBox to teleport to a specific Map if the player wants to)\n(The Mystery Box is on the second floor, btw, the default Ammo Crate is in its original place, the same room you spawn in)\n(Also I added some funny decorations which are completely optional and don't affect gameplay, you can enable them by clicking the CheckBox regarding Decorations, by default, off)\n\n- If there's an issue with another Mod or in THIS mod itself, have a suggestion or a complain, please DM me on Discord: \"saku.mvf\" with the context, ie: \"Hi! I've played X mod (my mod, and if applies) together with X mod (another Creator's mod) and it Crashes! Can you take a look please? Thanks!",
+      "description": "Welcome to Tight Spaces - Ruka!\nIn this challenge, you will be confined in a particular building, with only your weapons, the main stations, the Pack a Punch, Der Wunderfizz and the Mystery Box!\nEvery Two minutes (customizable), the hordes gets Harder, you get rewarded for surviving and weapons get stronger!\nThanks for playing and helping bring Black Ops Cold War to its Glory again!\n\nWIP:\nMaking it compatible with any Outbreak map, maybe for all Maps (yes, including Round Based ones).\nMap Selector (once all Outbreak maps are completed)\nAll weapons on the box (I think they are already, haven't tested further)\n\n- If there's an issue with another Mod or in THIS mod itself, have a suggestion or a complain, please DM me on Discord: \"saku.mvf\" with the context, ie: \"Hi! I've played X mod (my mod, and if applies) together with X mod (another Creator's mod) and it Crashes! Can you take a look please? Thanks!",
       "author": {
         "discordName": "saku.mvf",
         "id": "535500260726800387",
@@ -3327,16 +3327,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "14e115be000706324e32bc4cbb492e1e1749c0c0f98eca4d31388af15944a690",
+      "sourceSha256": "b4a01322e62162662796eec2fcdb072163008c0f5873fbb2b74d09cc2d1117d6",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 42,
+        "medium": 47,
         "rules": "2026.09.26",
-        "summary": "42 medium"
+        "summary": "47 medium"
       },
-      "settings": 2,
+      "settings": 3,
       "tags": [
         "Difficulty",
         "Cosmetic / HUD",
@@ -3350,20 +3350,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "+ Added \"Hard Mode\" (less place to run, more ecstatic fun)\n+ Fixed getting out of the building with Aether Shroud (I didn't tested it lmao, mb)\n- Disabled Wallbuys (wip, thinking what to do with them)",
       "highAlerts": [],
       "approved": {
-        "by": "teaa_the_silliest",
-        "byId": "1214090251178352677",
-        "at": "2026-10-20T12:45:22.209Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561909325570515016"
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-23T16:50:21.202Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1563225821659795631"
       },
       "id": "test2_e45295",
-      "version": "20261020-010955",
-      "file": "mod_packages/test2_e45295/test2_e45295-20261020-010955.cwm",
-      "size": 2420957,
-      "sha256": "37dd777b5d625c84f95408ba781618c35dfef06968c909c84dec0dd2348e4c33",
+      "version": "20261023-162105",
+      "file": "mod_packages/test2_e45295/test2_e45295-20261023-162105.cwm",
+      "size": 2454675,
+      "sha256": "5897bb06b2cba7746d54ae59863af45668da332e96ab6a626fed7775ff6aff72",
       "history": [
+        {
+          "version": "20261023-162105",
+          "changelog": "+ Added \"Hard Mode\" (less place to run, more ecstatic fun)\n+ Fixed getting out of the building with Aether Shroud (I didn't tested it lmao, mb)\n- Disabled Wallbuys (wip, thinking what to do with them)",
+          "published": "2026-10-23T16:50:21.202Z"
+        },
         {
           "version": "20261020-010955",
           "changelog": "",
@@ -3371,7 +3376,7 @@
         }
       ],
       "thumbnail": "mod_packages/test2_e45295/thumbnail.png",
-      "thumbnailSha256": "2070ff57df80e27d19ff98e64bec67b9e72a738e8e83bb45a7a2ab6a338bca81",
+      "thumbnailSha256": "201d65202ae644c8ef433a544cac3362edb3ec69e37b6c63ebffb5e89aa71019",
       "collaborators": []
     },
     {
