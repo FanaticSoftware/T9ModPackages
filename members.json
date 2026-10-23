@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T00:00:09.296Z",
+  "generated": "2026-10-23T01:00:09.019Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3210,6 +3210,12 @@
       "id": "581635820856016897",
       "name": "john bob vance refrigeration",
       "username": "hardkiller2565",
+      "modder": true
+    },
+    {
+      "id": "535500260726800387",
+      "name": "John Cold War",
+      "username": "saku.mvf",
       "modder": true
     },
     {
@@ -6912,12 +6918,6 @@
       "id": "521588724027621396",
       "name": "Z9HQ",
       "username": "z9_envy.",
-      "modder": true
-    },
-    {
-      "id": "535500260726800387",
-      "name": "zac u",
-      "username": "saku.mvf",
       "modder": true
     },
     {
