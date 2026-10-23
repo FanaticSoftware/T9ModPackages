@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T08:00:08.849Z",
+  "generated": "2026-10-23T09:00:09.394Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1887,6 +1887,12 @@
       "modder": true
     },
     {
+      "id": "1370814395189428344",
+      "name": "E",
+      "username": "erwinwermach",
+      "modder": true
+    },
+    {
       "id": "1032749611644895253",
       "name": "easy",
       "username": "easy8069",
@@ -1980,12 +1986,6 @@
       "id": "527687212951797780",
       "name": "ersiefer",
       "username": "ersiefer",
-      "modder": true
-    },
-    {
-      "id": "1370814395189428344",
-      "name": "Erwin [Vacation]",
-      "username": "erwinwermach",
       "modder": true
     },
     {
