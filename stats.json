@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T16:10:51.523Z",
+  "generated": "2026-10-23T23:40:51.671Z",
   "mods": {
     "directors_cut": {
-      "favorites": 230,
+      "favorites": 231,
       "rating": {
         "count": 20,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 527,
+      "favorites": 528,
       "rating": {
         "count": 40,
         "average": 5
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 2,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 1,
         "average": 5
