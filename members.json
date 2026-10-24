@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T20:00:09.983Z",
+  "generated": "2026-10-24T20:02:19.873Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3546,12 +3546,6 @@
       "id": "794384098704883712",
       "name": "Kode",
       "username": "kode.sh",
-      "modder": true
-    },
-    {
-      "id": "1254298153373532181",
-      "name": "Kōshin",
-      "username": "eternallyattachedtohersoul",
       "modder": true
     },
     {
