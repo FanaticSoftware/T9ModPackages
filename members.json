@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T12:00:09.239Z",
+  "generated": "2026-10-24T14:00:09.201Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2619,12 +2619,6 @@
       "modder": true
     },
     {
-      "id": "664551968143835140",
-      "name": "gusta hipotético",
-      "username": "eogustacaraio",
-      "modder": true
-    },
-    {
       "id": "970915968488443914",
       "name": "habibi",
       "username": "playboi.matt",
@@ -4065,6 +4059,12 @@
       "modder": true
     },
     {
+      "id": "664551968143835140",
+      "name": "mc cirilo do rodo",
+      "username": "eogustacaraio",
+      "modder": true
+    },
+    {
       "id": "1171231258362265773",
       "name": "Mcr_lc",
       "username": "mcr_lc",
@@ -5118,6 +5118,12 @@
       "id": "420433926536822805",
       "name": "ReaperWiiPlaza",
       "username": "reaperwiiplaza",
+      "modder": true
+    },
+    {
+      "id": "1290791909979197462",
+      "name": "RED_WARRIOR_NEW",
+      "username": "red_warrior_alt",
       "modder": true
     },
     {
