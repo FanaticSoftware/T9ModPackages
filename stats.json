@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T23:50:51.677Z",
+  "generated": "2026-10-24T02:20:51.905Z",
   "mods": {
     "directors_cut": {
       "favorites": 231,
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 1,
         "average": 5
