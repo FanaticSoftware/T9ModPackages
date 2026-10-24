@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T14:00:09.201Z",
+  "generated": "2026-10-24T15:00:09.191Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5886,6 +5886,12 @@
       "id": "474702888447508483",
       "name": "starwarsdude",
       "username": "starwarsdude5",
+      "modder": true
+    },
+    {
+      "id": "1555515627689742344",
+      "name": "Stathoulis",
+      "username": "stathoularas_47449",
       "modder": true
     },
     {
