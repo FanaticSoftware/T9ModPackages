@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T16:50:21.687Z",
+  "generated": "2026-10-24T14:02:20.033Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3504,7 +3504,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "3f328fc20d40e6b4740fc8f5f29f4be2b54c61fc56a15b5194c0147e5a2b941c",
+      "sourceSha256": "5ae1a16c2c957b683d3126d5701dcf3adcb2ea78094c4ec743fe3a195a0a5f6b",
       "scan": {
         "critical": 0,
         "high": 18,
@@ -3513,22 +3513,27 @@
         "rules": "2026.09.26",
         "summary": "18 high"
       },
-      "settings": 22,
+      "settings": 23,
       "tags": [],
-      "changelog": "Fixed bug where ADS caused a snap in aim\n\nFixed bug where portals broke the 3rd person camera\n\nAdded brand new RESIDENT EVIL style camera. Inspired by the orignal 3 games. This mode features a new shooting system that makes this mode possible to play at higher rounds.\n\nAdded new custom thumbnail... because it looks cool",
+      "changelog": "Adjusted Presets\nAdded red screen overlay for damage visual",
       "highAlerts": [],
       "approved": {
-        "by": "illuminatidonut",
-        "byId": "244657466783170560",
-        "at": "2026-10-16T09:42:20.242Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1560588196285259810"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-24T14:02:19.597Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1563545147403280519"
       },
       "id": "third_person_8d7c94",
-      "version": "20261016-094016",
-      "file": "mod_packages/third_person_8d7c94/third_person_8d7c94-20261016-094016.cwm",
-      "size": 1775510,
-      "sha256": "dcfa31515f43e22d04b2bbed37dd5be64e0042a7c9ce6dcd8d5ae94040ba4321",
+      "version": "20261024-133007",
+      "file": "mod_packages/third_person_8d7c94/third_person_8d7c94-20261024-133007.cwm",
+      "size": 1779413,
+      "sha256": "cdda9764be177a96952172b1b739b5cef4d3a4243a39224a2026574f00b1a070",
       "history": [
+        {
+          "version": "20261024-133007",
+          "changelog": "Adjusted Presets\nAdded red screen overlay for damage visual",
+          "published": "2026-10-24T14:02:19.597Z"
+        },
         {
           "version": "20261016-094016",
           "changelog": "Fixed bug where ADS caused a snap in aim\n\nFixed bug where portals broke the 3rd person camera\n\nAdded brand new RESIDENT EVIL style camera. Inspired by the orignal 3 games. This mode features a new shooting system that makes this mode possible to play at higher rounds.\n\nAdded new custom thumbnail... because it looks cool",
