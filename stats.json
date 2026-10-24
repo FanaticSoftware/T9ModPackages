@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T10:30:52.619Z",
+  "generated": "2026-10-24T12:20:52.420Z",
   "mods": {
     "directors_cut": {
-      "favorites": 232,
+      "favorites": 233,
       "rating": {
         "count": 21,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 143,
+      "favorites": 144,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 529,
+      "favorites": 530,
       "rating": {
         "count": 40,
         "average": 5
@@ -66,14 +66,14 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 6,
         "average": 4.7
       }
     },
     "day_night": {
-      "favorites": 93,
+      "favorites": 94,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 66,
+      "favorites": 67,
       "rating": {
         "count": 7,
         "average": 4.1
@@ -122,14 +122,14 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
         "count": 4,
         "average": 3.9
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 55,
+      "favorites": 56,
       "rating": {
         "count": 6,
         "average": 4.8
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 6,
         "average": 4.3
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 2,
         "average": 5
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 1,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 1,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 1,
         "average": 5
