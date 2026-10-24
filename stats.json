@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T07:00:52.409Z",
+  "generated": "2026-10-24T09:00:52.631Z",
   "mods": {
     "directors_cut": {
       "favorites": 232,
@@ -409,7 +409,7 @@
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 2,
         "average": 5
