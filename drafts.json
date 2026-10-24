@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T02:00:08.588Z",
+  "generated": "2026-10-24T18:00:09.429Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -275,22 +275,6 @@
       "unpublished": "2026-09-29T00:23:50.123Z",
       "lastVersion": "20260928-204959",
       "unpublishedBy": "1095686714456031335"
-    },
-    {
-      "id": "instant_field_upgrade_charge_0997cd",
-      "title": "instant field upgrade charge",
-      "author": {
-        "id": "527228217803800587",
-        "name": "jbandz_150"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-24T17:46:51.474Z",
-      "updated": "2026-09-24T17:46:51.474Z",
-      "testerAccounts": {
-        "527228217803800587": [
-          "66c46a780ae68701"
-        ]
-      }
     },
     {
       "id": "jingle_hells",
