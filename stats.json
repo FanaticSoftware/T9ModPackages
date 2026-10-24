@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T03:30:52.187Z",
+  "generated": "2026-10-24T03:40:51.988Z",
   "mods": {
     "directors_cut": {
       "favorites": 232,
@@ -376,8 +376,8 @@
     "rouge_run_87efcf": {
       "favorites": 6,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     },
     "xevs_wheel_of_doom_020817": {
