@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T17:10:52.547Z",
+  "generated": "2026-10-24T18:40:52.661Z",
   "mods": {
     "directors_cut": {
       "favorites": 233,
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 4,
         "average": 3.9
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 2,
         "average": 5
