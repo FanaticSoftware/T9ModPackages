@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T17:00:53.988Z",
+  "generated": "2026-10-25T17:40:54.036Z",
   "mods": {
     "directors_cut": {
       "favorites": 233,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 145,
+      "favorites": 146,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -360,7 +360,7 @@
       }
     },
     "cold_war_randomizer_782805": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
@@ -388,14 +388,14 @@
       }
     },
     "instant_pact_132539": {
-      "favorites": 6,
+      "favorites": 7,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 0,
         "average": 0
@@ -416,7 +416,7 @@
       }
     },
     "legion_ac28e9": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
