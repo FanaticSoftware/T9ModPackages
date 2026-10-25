@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T19:10:54.246Z",
+  "generated": "2026-10-25T19:20:54.079Z",
   "mods": {
     "directors_cut": {
       "favorites": 234,
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 0,
         "average": 0
