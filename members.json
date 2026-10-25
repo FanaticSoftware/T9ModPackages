@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T19:00:09.356Z",
+  "generated": "2026-10-25T20:00:09.437Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2199,6 +2199,12 @@
       "modder": true
     },
     {
+      "id": "756551454696669245",
+      "name": "Finn",
+      "username": "finn5691",
+      "modder": true
+    },
+    {
       "id": "253712563299287040",
       "name": "Finn383",
       "username": "finn383",
@@ -3180,6 +3186,12 @@
       "id": "1331714837083852810",
       "name": "Jet 2 holiday",
       "username": "nxtelqox_",
+      "modder": true
+    },
+    {
+      "id": "974480069760254022",
+      "name": "Jevnas",
+      "username": "graves5050",
       "modder": true
     },
     {
@@ -4332,6 +4344,12 @@
       "id": "1107148795004854413",
       "name": "MrAbuAbdullah",
       "username": "mrabuabdullah",
+      "modder": true
+    },
+    {
+      "id": "1483056448056459325",
+      "name": "MrChong",
+      "username": "mrchonger",
       "modder": true
     },
     {
