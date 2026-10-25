@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T14:02:20.033Z",
+  "generated": "2026-10-25T13:41:14.739Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1580,14 +1580,14 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "f42f587fc4b0349b9876f35f014ad429d52585afd8cc8938f5524d405ca119df",
+      "sourceSha256": "b6b9c74fe66009b48c161128411c5a00954a6e508fb3750ca0bd10a69b5b22a2",
       "scan": {
         "critical": 0,
         "high": 2,
         "low": 0,
-        "medium": 0,
+        "medium": 1,
         "rules": "2026.09.26",
-        "summary": "2 high"
+        "summary": "2 high, 1 medium"
       },
       "settings": 0,
       "tags": [
@@ -1596,20 +1596,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "- Fixed a check that prevented the mod from working properly when a new match has started without closing the game.",
+      "changelog": "- Attempted to fix a bug that would sometimes cause the match to crash when teleporting to the Zoo.",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-20T00:44:16.851Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1561855068771328159"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-10-25T13:41:14.175Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1563612928043909276"
       },
       "id": "instant_pact_132539",
-      "version": "20261019-213414",
-      "file": "mod_packages/instant_pact_132539/instant_pact_132539-20261019-213414.cwm",
-      "size": 1102333,
-      "sha256": "e00011539d56814c29d134c72ed4b8a9c3292da43ae80c5e7df5ac0169f81ab3",
+      "version": "20261024-175925",
+      "file": "mod_packages/instant_pact_132539/instant_pact_132539-20261024-175925.cwm",
+      "size": 1102409,
+      "sha256": "70cabca06cc5bb56a50bd9521fee667810c7b378294a4dea531b659f3ca12f3d",
       "history": [
+        {
+          "version": "20261024-175925",
+          "changelog": "- Attempted to fix a bug that would sometimes cause the match to crash when teleporting to the Zoo.",
+          "published": "2026-10-25T13:41:14.175Z"
+        },
         {
           "version": "20261019-213414",
           "changelog": "- Fixed a check that prevented the mod from working properly when a new match has started without closing the game.",
