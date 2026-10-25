@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T13:41:19.342Z",
+  "generated": "2026-10-25T16:47:20.131Z",
   "notices": [
+    {
+      "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
+      "status": "approved",
+      "mod": "Legion Boss Fight",
+      "id": "legion_ac28e9",
+      "version": "20261025-164135",
+      "progression": "off",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-10-25T16:47:19.942Z"
+    },
     {
       "key": "8eec44f86fd4241236086fdde5b89a59b45944b215c503364b52075babc74566",
       "status": "approved",
@@ -2085,16 +2096,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-25T18:25:14.984Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Nacht Der Untoten First Room",
-      "id": "nacht_survival_396e21",
-      "version": "20260925-175440",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-25T17:55:02.615Z"
     }
   ]
 }
