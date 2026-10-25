@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T16:50:53.919Z",
+  "generated": "2026-10-25T17:00:53.988Z",
   "mods": {
     "directors_cut": {
       "favorites": 233,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 162,
+      "favorites": 163,
       "rating": {
         "count": 19,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 84,
+      "favorites": 85,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 4,
         "average": 5
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 8,
         "average": 4.6
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 1,
         "average": 5
