@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T13:41:14.739Z",
+  "generated": "2026-10-25T16:47:15.120Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -1628,6 +1628,59 @@
       ],
       "thumbnail": "mod_packages/instant_pact_132539/thumbnail.png",
       "thumbnailSha256": "8e38acbb8398636e58e31e4c7f2d69b741820db07e1440c7ae996b4a2762f874",
+      "collaborators": []
+    },
+    {
+      "title": "Legion Boss Fight",
+      "description": "Similar to the Boss Rush mod but instead of having to do the Missile Silos step it takes you straight to the fight!\nWith a vote to start system and a toggle for other enemies!",
+      "author": {
+        "discordName": "tech_wave",
+        "id": "115173340334915587",
+        "name": "tech_wave"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "85c6e8784e0939f4c41917c509a5a38621d96cb05ef855519d6b0344aa84834f",
+      "scan": {
+        "critical": 0,
+        "high": 2,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.09.26",
+        "summary": "2 high, 25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Challenge / Custom Rules",
+        "Bosses / Specials",
+        "Easter Egg / Quest",
+        "Outbreak",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-25T16:47:14.730Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1563955706258915350"
+      },
+      "id": "legion_ac28e9",
+      "version": "20261025-164135",
+      "file": "mod_packages/legion_ac28e9/legion_ac28e9-20261025-164135.cwm",
+      "size": 1511876,
+      "sha256": "7a68e144f36d0bd75c1edee0e08ad5b5d5e4e84c8c44ff1e5f6a29a0428b19a8",
+      "history": [
+        {
+          "version": "20261025-164135",
+          "changelog": "",
+          "published": "2026-10-25T16:47:14.730Z"
+        }
+      ],
+      "thumbnail": "mod_packages/legion_ac28e9/thumbnail.png",
+      "thumbnailSha256": "09c5be1ad9b87e39f8237680b23d4a3eb9df0c3cb2b1939d496102ebad4da15d",
       "collaborators": []
     },
     {
