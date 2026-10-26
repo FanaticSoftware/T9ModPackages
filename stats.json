@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-26T21:50:55.130Z",
+  "generated": "2026-10-26T22:10:55.394Z",
   "mods": {
     "directors_cut": {
       "favorites": 235,
@@ -89,8 +89,8 @@
     "gun_game_wip": {
       "favorites": 67,
       "rating": {
-        "count": 7,
-        "average": 4.1
+        "count": 8,
+        "average": 3.7
       }
     },
     "coop_spawnrate_fix_d47076": {
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 106,
+      "favorites": 107,
       "rating": {
         "count": 13,
         "average": 5
