@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-26T03:43:30.783Z",
+  "generated": "2026-10-26T09:00:09.368Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -318,17 +318,6 @@
       "collaborators": [],
       "claimed": "2026-10-16T20:23:59.462Z",
       "updated": "2026-10-16T20:23:59.462Z"
-    },
-    {
-      "id": "mod_menu_796e25",
-      "title": "cammo grinding mod",
-      "author": {
-        "id": "1420899241613590690",
-        "name": "gaberiel0912"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-26T08:02:38.459Z",
-      "updated": "2026-09-26T08:02:38.459Z"
     },
     {
       "id": "outbreak_survival_87a89c",
