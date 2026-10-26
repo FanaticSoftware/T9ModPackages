@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T18:00:09.429Z",
+  "generated": "2026-10-26T03:43:30.783Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -576,6 +576,17 @@
       "collaborators": [],
       "claimed": "2026-10-07T21:57:51.710Z",
       "updated": "2026-10-07T21:57:51.710Z"
+    },
+    {
+      "id": "zombie_eyes_427a86",
+      "title": "Zombie Eyes",
+      "author": {
+        "id": "1254298153373532181",
+        "name": "eternallyattachedtohersoul"
+      },
+      "collaborators": [],
+      "claimed": "2026-10-26T03:43:30.783Z",
+      "updated": "2026-10-26T03:43:30.783Z"
     }
   ]
 }
