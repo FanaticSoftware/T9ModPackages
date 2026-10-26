@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-26T09:00:09.368Z",
+  "generated": "2026-10-26T16:00:09.823Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -359,17 +359,6 @@
       "lastVersion": "20260922-234824",
       "unpublishedBy": "279815318434480139",
       "collaboratorsCanSubmit": true
-    },
-    {
-      "id": "randomizer_test_7e619d",
-      "title": "Cold War Roulette Randomizer",
-      "author": {
-        "id": "524393998941683763",
-        "name": "sherisma"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-25T08:12:49.961Z",
-      "updated": "2026-09-25T08:12:49.961Z"
     },
     {
       "id": "spawn_fix_6449f1",
