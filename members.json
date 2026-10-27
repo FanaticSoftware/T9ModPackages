@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-27T06:00:09.987Z",
+  "generated": "2026-10-27T12:00:10.619Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1392,12 +1392,6 @@
       "id": "1138650063661432902",
       "name": "Cloudsy",
       "username": "cloudsykitty",
-      "modder": true
-    },
-    {
-      "id": "1540829887567372319",
-      "name": "clyssus",
-      "username": "clyssus.",
       "modder": true
     },
     {
