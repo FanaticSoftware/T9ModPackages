@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-27T20:30:56.480Z",
+  "generated": "2026-10-27T20:40:56.400Z",
   "mods": {
     "directors_cut": {
       "favorites": 236,
@@ -101,7 +101,7 @@
       }
     },
     "mulekick_0c3f8d": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
@@ -206,7 +206,7 @@
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 2,
         "average": 5
@@ -374,7 +374,7 @@
       }
     },
     "rouge_run_87efcf": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
@@ -402,7 +402,7 @@
       }
     },
     "test2_e45295": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 2
