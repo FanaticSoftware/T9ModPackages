@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-25T16:47:15.120Z",
+  "generated": "2026-10-27T16:58:23.005Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3385,14 +3385,14 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "b4a01322e62162662796eec2fcdb072163008c0f5873fbb2b74d09cc2d1117d6",
+      "sourceSha256": "15192ada1d65c1edbfe27c41dadab8a87d6e43f9a80d70362b7191a70a339d55",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 47,
+        "medium": 72,
         "rules": "2026.09.26",
-        "summary": "47 medium"
+        "summary": "72 medium"
       },
       "settings": 3,
       "tags": [
@@ -3408,20 +3408,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "+ Added \"Hard Mode\" (less place to run, more ecstatic fun)\n+ Fixed getting out of the building with Aether Shroud (I didn't tested it lmao, mb)\n- Disabled Wallbuys (wip, thinking what to do with them)",
+      "changelog": "+ Done some fixes (thanks Dosarari), forced update due to change of plans.\n• WIP compatibility with other mods.",
       "highAlerts": [],
       "approved": {
         "by": "saintvertigo",
         "byId": "684408486456852481",
-        "at": "2026-10-23T16:50:21.202Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1563225821659795631"
+        "at": "2026-10-27T16:58:22.542Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1564634639388381276"
       },
       "id": "test2_e45295",
-      "version": "20261023-162105",
-      "file": "mod_packages/test2_e45295/test2_e45295-20261023-162105.cwm",
-      "size": 2454675,
-      "sha256": "5897bb06b2cba7746d54ae59863af45668da332e96ab6a626fed7775ff6aff72",
+      "version": "20261027-133918",
+      "file": "mod_packages/test2_e45295/test2_e45295-20261027-133918.cwm",
+      "size": 2495314,
+      "sha256": "91f1f88040a94e6262091d165e45e8e6138f0d99f1855acaeb78c9f1c316f104",
       "history": [
+        {
+          "version": "20261027-133918",
+          "changelog": "+ Done some fixes (thanks Dosarari), forced update due to change of plans.\n• WIP compatibility with other mods.",
+          "published": "2026-10-27T16:58:22.542Z"
+        },
         {
           "version": "20261023-162105",
           "changelog": "+ Added \"Hard Mode\" (less place to run, more ecstatic fun)\n+ Fixed getting out of the building with Aether Shroud (I didn't tested it lmao, mb)\n- Disabled Wallbuys (wip, thinking what to do with them)",
@@ -3434,7 +3439,7 @@
         }
       ],
       "thumbnail": "mod_packages/test2_e45295/thumbnail.png",
-      "thumbnailSha256": "201d65202ae644c8ef433a544cac3362edb3ec69e37b6c63ebffb5e89aa71019",
+      "thumbnailSha256": "4f5bee4b8b13ed907ce754cbca8d9b57366af1214c92dac988c65b8d40c7fd26",
       "collaborators": []
     },
     {
