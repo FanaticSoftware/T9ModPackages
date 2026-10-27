@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-27T01:30:55.439Z",
+  "generated": "2026-10-27T01:40:55.461Z",
   "mods": {
     "directors_cut": {
-      "favorites": 235,
+      "favorites": 236,
       "rating": {
         "count": 21,
         "average": 5
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 163,
+      "favorites": 164,
       "rating": {
         "count": 19,
         "average": 5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 107,
+      "favorites": 108,
       "rating": {
         "count": 13,
         "average": 5
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -388,7 +388,7 @@
       }
     },
     "instant_pact_132539": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 0,
         "average": 0
