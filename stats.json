@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-28T05:40:56.947Z",
+  "generated": "2026-10-28T18:30:57.508Z",
   "mods": {
     "directors_cut": {
       "favorites": 236,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 99,
+      "favorites": 98,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 42,
+      "favorites": 41,
       "rating": {
         "count": 8,
         "average": 5
@@ -136,14 +136,14 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 20,
+      "favorites": 19,
       "rating": {
         "count": 4,
         "average": 4
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 48,
+      "favorites": 47,
       "rating": {
         "count": 7,
         "average": 4.9
@@ -171,14 +171,14 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 46,
+      "favorites": 45,
       "rating": {
         "count": 7,
         "average": 4.4
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 14,
+      "favorites": 13,
       "rating": {
         "count": 0,
         "average": 0
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 22,
+      "favorites": 21,
       "rating": {
         "count": 1,
         "average": 5
@@ -304,7 +304,7 @@
       }
     },
     "mod_menu_c75d87": {
-      "favorites": 20,
+      "favorites": 19,
       "rating": {
         "count": 5,
         "average": 2.4
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 9,
+      "favorites": 8,
       "rating": {
         "count": 1,
         "average": 5
@@ -381,14 +381,14 @@
       }
     },
     "xevs_wheel_of_doom_020817": {
-      "favorites": 5,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "instant_pact_132539": {
-      "favorites": 8,
+      "favorites": 7,
       "rating": {
         "count": 0,
         "average": 0
@@ -409,14 +409,14 @@
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 7,
+      "favorites": 6,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "legion_ac28e9": {
-      "favorites": 5,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
