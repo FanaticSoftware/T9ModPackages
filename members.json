@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-27T20:00:09.830Z",
+  "generated": "2026-10-28T01:00:12.236Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2022,6 +2022,12 @@
       "id": "1079411678980091955",
       "name": "Endioshia",
       "username": "endioshia",
+      "modder": true
+    },
+    {
+      "id": "266762985161097217",
+      "name": "eric",
+      "username": "ericgoode",
       "modder": true
     },
     {
@@ -5238,12 +5244,6 @@
       "id": "999425762090307666",
       "name": "Reality",
       "username": "realityuk",
-      "modder": true
-    },
-    {
-      "id": "1366519260909670500",
-      "name": "Reaper",
-      "username": "prophecyreaps",
       "modder": true
     },
     {
