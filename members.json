@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-28T10:00:10.038Z",
+  "generated": "2026-10-28T14:00:10.288Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1416,6 +1416,12 @@
       "id": "1409345336148889695",
       "name": "Cole",
       "username": "garfield_bub",
+      "modder": true
+    },
+    {
+      "id": "489681091121250304",
+      "name": "ComboMonsterXIII",
+      "username": "combomonsterxiii",
       "modder": true
     },
     {
