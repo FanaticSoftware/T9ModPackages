@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-26T16:00:09.823Z",
+  "generated": "2026-10-28T01:00:09.427Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -59,17 +59,6 @@
       "collaboratorNames": {
         "473935020898254848": "Bradley0104"
       }
-    },
-    {
-      "id": "balls_3dbad3",
-      "title": "Balls",
-      "author": {
-        "id": "115173340334915587",
-        "name": "tech_wave"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-28T00:18:11.860Z",
-      "updated": "2026-09-28T00:18:11.860Z"
     },
     {
       "id": "bo3_sliding_c9b774",
@@ -187,22 +176,6 @@
         "803064934459899916": [
           "0844e5fcef9948d5",
           "844e5fcef9948d5"
-        ]
-      }
-    },
-    {
-      "id": "gauntlet_9a83c8",
-      "title": "Gauntlet",
-      "author": {
-        "id": "249388147610222593",
-        "name": "hoemaro"
-      },
-      "collaborators": [],
-      "claimed": "2026-09-28T00:13:20.600Z",
-      "updated": "2026-09-28T00:13:20.600Z",
-      "testerAccounts": {
-        "249388147610222593": [
-          "7bc3868752fdc9b9"
         ]
       }
     },
