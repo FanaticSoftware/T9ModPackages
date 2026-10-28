@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-10-28T18:30:57.508Z",
+  "generated": "2026-10-28T19:20:57.510Z",
   "mods": {
     "directors_cut": {
-      "favorites": 236,
+      "favorites": 237,
       "rating": {
         "count": 21,
         "average": 5
@@ -38,9 +38,9 @@
       }
     },
     "zm_classic": {
-      "favorites": 538,
+      "favorites": 539,
       "rating": {
-        "count": 41,
+        "count": 42,
         "average": 5
       }
     },
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 112,
+      "favorites": 113,
       "rating": {
         "count": 18,
         "average": 3.1
@@ -124,8 +124,8 @@
     "hide_hud_24d1a2": {
       "favorites": 39,
       "rating": {
-        "count": 4,
-        "average": 3.9
+        "count": 5,
+        "average": 4.1
       }
     },
     "nacht_survival_396e21": {
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 47,
+      "favorites": 48,
       "rating": {
         "count": 2,
         "average": 5
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 1,
         "average": 5
@@ -269,7 +269,7 @@
       }
     },
     "test_a8804f": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 5,
         "average": 5
@@ -418,8 +418,8 @@
     "legion_ac28e9": {
       "favorites": 4,
       "rating": {
-        "count": 0,
-        "average": 0
+        "count": 1,
+        "average": 5
       }
     }
   }
