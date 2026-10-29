@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-29T19:16:55.138Z",
+  "generated": "2026-10-29T20:16:55.110Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6282,12 +6282,6 @@
       "id": "480010978872786945",
       "name": "Tartarsus",
       "username": "tartarsus842",
-      "modder": true
-    },
-    {
-      "id": "1507106905233821746",
-      "name": "Taylor",
-      "username": "aspect.of.autumn",
       "modder": true
     },
     {
