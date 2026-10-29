@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-29T03:16:55.046Z",
+  "generated": "2026-10-29T04:16:55.133Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2718,6 +2718,12 @@
       "id": "276196546628943873",
       "name": "Grognak",
       "username": "deadarrow_",
+      "modder": true
+    },
+    {
+      "id": "1285686525555642371",
+      "name": "Grünertampon",
+      "username": "zstazatata",
       "modder": true
     },
     {
@@ -6342,12 +6348,6 @@
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
-      "modder": true
-    },
-    {
-      "id": "496972536568086539",
-      "name": "The Shovel",
-      "username": "zabuza123",
       "modder": true
     },
     {
