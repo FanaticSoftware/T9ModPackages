@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-29T18:16:55.919Z",
+  "generated": "2026-10-29T18:26:56.037Z",
   "mods": {
     "directors_cut": {
       "favorites": 238,
@@ -24,21 +24,21 @@
       }
     },
     "holiday_events": {
-      "favorites": 165,
+      "favorites": 166,
       "rating": {
         "count": 19,
         "average": 5
       }
     },
     "realism_mode": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 542,
+      "favorites": 543,
       "rating": {
         "count": 42,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 41,
+      "favorites": 42,
       "rating": {
         "count": 8,
         "average": 5
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 8,
         "average": 3.7
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 5,
         "average": 4.1
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 6,
         "average": 4.3
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 6,
         "average": 4.7
