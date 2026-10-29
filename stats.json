@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-29T14:06:55.695Z",
+  "generated": "2026-10-29T18:16:55.919Z",
   "mods": {
     "directors_cut": {
       "favorites": 238,
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 4,
         "average": 5
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 0,
         "average": 0
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 8,
         "average": 4.6
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 0,
         "average": 0
