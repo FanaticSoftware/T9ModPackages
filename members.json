@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-29T07:16:55.196Z",
+  "generated": "2026-10-29T09:16:54.984Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -108,6 +108,12 @@
       "id": "580030890323869696",
       "name": "()SarahHooves",
       "username": "fn5.7",
+      "modder": true
+    },
+    {
+      "id": "672786626942074890",
+      "name": "(Not) “Weak” Kingsley",
+      "username": "lennonade48",
       "modder": true
     },
     {
@@ -5574,12 +5580,6 @@
       "id": "416746591303499777",
       "name": "RYNO7965",
       "username": "ryno7965",
-      "modder": true
-    },
-    {
-      "id": "672786626942074890",
-      "name": "Ryuk",
-      "username": "lennonade48",
       "modder": true
     },
     {
