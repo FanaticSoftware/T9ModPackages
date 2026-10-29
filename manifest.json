@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-27T16:58:23.005Z",
+  "generated": "2026-10-29T05:52:54.839Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -3615,6 +3615,60 @@
       ],
       "thumbnail": "mod_packages/third_person_8d7c94/thumbnail.png",
       "thumbnailSha256": "cf107e5ab776629aba2457e51e1f470db23e093fea49f7f2642eff15049d1322",
+      "collaborators": []
+    },
+    {
+      "title": "Tier V Perks & Field Upgrades!",
+      "description": "**MAX TIERS**\nEvery perk and every Field Upgrade runs at Tier V for the whole match, no Aetherium Crystals needed.\n\n**What it does**\n\n- **Perks:** any perk you buy from a machine, Der Wunderfizz or a drop comes out at Tier V. Perks you already have are upgraded within a second.\n- **Field Upgrades:** your Field Upgrade is Tier V from the start, and stays Tier V after you respawn or change loadout.\n- Field Upgrades still charge normally. Use it, earn kills, and it comes back as Tier V. The mod never adds free charges.\n\n**How to tell it's working**\n\n- \"Max Tiers mod active\" appears when you load in.\n- Small notes appear when it upgrades something: \"perks set to Tier V\" or \"Field Upgrade set to Tier V\".\n\n**Good to know**\n\n- Solo and private matches only.\n- Nothing on your account changes. Your saved upgrade tiers stay as they are. Leave the match and everything is back to normal.\n- Load it again before every match, like any mod.\n\n**Using it with other mods**\n\n- Not fully tested with other mods.\n- Mods that set your perk tiers or your Field Upgrade can fight with this one. Turn those options off, for example ZM Classic's perk_skills on Classic, or Loadout Customizer's Field Upgrade selection.\n- If another mod keeps switching your Field Upgrade back, this mod stops after a few tries and tells you on screen, so it can't loop or hand out free charges.",
+      "author": {
+        "discordName": "ukery",
+        "id": "338031256321130499",
+        "name": "ukery"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "8a3eb71f296e225335ea3de8e14faf3f032d318d60fe523a9ddb44f85aa55846",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 25,
+        "rules": "2026.09.26",
+        "summary": "25 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Quality of Life",
+        "Perks",
+        "Field Upgrades",
+        "All Maps",
+        "Balanced",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "noProgression": true,
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-10-29T05:52:54.436Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1565215331855900686"
+      },
+      "id": "tier_v_perks_field_upgrades",
+      "version": "20261029-040652",
+      "file": "mod_packages/tier_v_perks_field_upgrades/tier_v_perks_field_upgrades-20261029-040652.cwm",
+      "size": 1691833,
+      "sha256": "9c10533daf6e5bcd666a4bdb78177ce33a0a40b2348a04a20c6ebe16a63220ac",
+      "history": [
+        {
+          "version": "20261029-040652",
+          "changelog": "",
+          "published": "2026-10-29T05:52:54.436Z"
+        }
+      ],
+      "thumbnail": "mod_packages/tier_v_perks_field_upgrades/thumbnail.png",
+      "thumbnailSha256": "c0b8d8f2f4e2de73d8b51d8a9cfb9726d79704e8af13b99767a415f585971056",
       "collaborators": []
     },
     {
