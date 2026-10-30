@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T13:16:55.269Z",
+  "generated": "2026-10-30T15:16:55.234Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5619,12 +5619,6 @@
       "modder": true
     },
     {
-      "id": "343287756270731264",
-      "name": "S IGuess",
-      "username": "siguess",
-      "modder": true
-    },
-    {
       "id": "1180538726846300192",
       "name": "Sabino",
       "username": "sabino.nothingmore",
@@ -6090,6 +6084,12 @@
       "id": "764210416934453298",
       "name": "Spookaroo",
       "username": "02ft",
+      "modder": true
+    },
+    {
+      "id": "343287756270731264",
+      "name": "Spooky IGuess",
+      "username": "siguess",
       "modder": true
     },
     {
