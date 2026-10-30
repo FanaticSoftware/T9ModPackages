@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T04:16:55.152Z",
+  "generated": "2026-10-30T08:16:55.385Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -166,7 +166,7 @@
     },
     {
       "id": "414558788092428299",
-      "name": "=(RoyalRansom)=",
+      "name": "=(Royal?)=",
       "username": "dangerousprops",
       "modder": true
     },
@@ -7212,6 +7212,12 @@
       "id": "267098839717117962",
       "name": "zagrosiaslan",
       "username": "zagrosiaslan",
+      "modder": true
+    },
+    {
+      "id": "991477631256113212",
+      "name": "zak",
+      "username": ".maliszewski",
       "modder": true
     },
     {
