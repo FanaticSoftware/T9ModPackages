@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T15:16:55.234Z",
+  "generated": "2026-10-30T17:16:55.755Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -444,12 +444,6 @@
       "id": "536262368666320896",
       "name": "Aggrofilth",
       "username": "agrofilth",
-      "modder": true
-    },
-    {
-      "id": "554715153976000544",
-      "name": "Aghyoul",
-      "username": "aghyouled",
       "modder": true
     },
     {
@@ -1299,6 +1293,12 @@
       "modder": true
     },
     {
+      "id": "413539982611972126",
+      "name": "CeeJay",
+      "username": "itsjonathan08",
+      "modder": true
+    },
+    {
       "id": "343212369096343555",
       "name": "Chalino, The Chosen One",
       "username": "chalino.",
@@ -2007,12 +2007,6 @@
       "modder": true
     },
     {
-      "id": "1035377547040534578",
-      "name": "Edward732RevolutionaryMissile",
-      "username": "just_ikea",
-      "modder": true
-    },
-    {
       "id": "438825756857204736",
       "name": "eevee父",
       "username": "eevee__playzzz",
@@ -2178,6 +2172,12 @@
       "id": "479120371803619330",
       "name": "EXTIINCT",
       "username": "extiinct.",
+      "modder": true
+    },
+    {
+      "id": "1035377547040534578",
+      "name": "ExtremelyExtraMostBestJewishJew8",
+      "username": "just_ikea",
       "modder": true
     },
     {
@@ -3162,12 +3162,6 @@
       "id": "586296742530777103",
       "name": "Its Creamed",
       "username": "itscreamed",
-      "modder": true
-    },
-    {
-      "id": "413539982611972126",
-      "name": "ItsJonathan",
-      "username": "itsjonathan08",
       "modder": true
     },
     {
@@ -6660,6 +6654,12 @@
       "id": "601519893057110045",
       "name": "Tyler",
       "username": "tman8498",
+      "modder": true
+    },
+    {
+      "id": "554715153976000544",
+      "name": "Ublamemstn",
+      "username": "ublamemstn",
       "modder": true
     },
     {
