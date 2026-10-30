@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T06:43:24.337Z",
+  "generated": "2026-10-30T20:39:54.703Z",
   "notices": [
+    {
+      "key": "57cc73f8b611b10e074d2b2ac846cb02963eb0b17b5108b2149c095d2bc455a5",
+      "status": "approved",
+      "mod": "Loadout Customizer",
+      "id": "custom_insertion_317c70",
+      "version": "20261030-174124",
+      "progression": "off",
+      "reason": "",
+      "by": "teaa_the_silliest",
+      "at": "2026-10-30T20:39:54.547Z"
+    },
     {
       "key": "01db31d05f039d4835272ce60ad40b71de460d6161a626966fda311eabe6e4c4",
       "status": "approved",
@@ -2089,16 +2100,6 @@
       "reason": "Breaks rule 2 of submission rules. No camo/level farming tools are allowed to be hosted on the launcher.",
       "by": "illuminatidonut",
       "at": "2026-09-26T08:06:47.065Z"
-    },
-    {
-      "key": "18ca310dda82ae4e5669ca544b22dc5c1cd460edf72ad596fbf3d82ce629d5e9",
-      "status": "collab",
-      "mod": "Zombies Rogue Game",
-      "id": "zombies_game_1b015f",
-      "version": null,
-      "reason": "Your submission of **Zombies Rogue Game** was withdrawn before it was reviewed. Nothing was published or rejected, and you can submit it again whenever you are ready.\n\nIf you did not ask for this, submit it again and tell a moderator.",
-      "by": "",
-      "at": "2026-09-26T07:31:02.298Z"
     }
   ]
 }
