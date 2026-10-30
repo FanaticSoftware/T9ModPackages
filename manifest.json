@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T06:43:18.830Z",
+  "generated": "2026-10-30T20:39:50.500Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -476,7 +476,7 @@
     },
     {
       "title": "Loadout Customizer",
-      "description": "Customize your starting loadout in Black Ops Cold War Zombies!\n\nChoose your starting weapons, Pack-a-Punch tier, weapon rarity, Ammo Mods, perks, equipment, armor, Field Upgrade, Scorestreaks, and starting Essence.\n\nLoad into a match with your custom setup and skip the usual grind to get the loadout you want. Your selected settings are applied to every eligible player when the match starts.",
+      "description": "Customize your starting loadout in Black Ops Cold War Zombies!\n\nChoose your starting weapons, Pack-a-Punch tier, weapon rarity, Ammo Mods, perks, equipment, armor, Field Upgrade, Scorestreaks, Essence, And Salvage.\n\nLoad into a match with your custom setup and skip the usual grind to get the loadout you want. Your selected settings are applied to every eligible player when the match starts.",
       "author": {
         "discordName": "xbox_live_water",
         "id": "1006708578696048650",
@@ -484,16 +484,16 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "b8d93d0c8998d69d40c5419eb9869cfc8996b65346c7aa88582e41fd3c39dff0",
+      "sourceSha256": "15e612b87e785466af186db3d2ca407b1315efa47071ad40eac02710383ef3a6",
       "scan": {
         "critical": 0,
         "high": 0,
         "low": 0,
-        "medium": 11,
+        "medium": 21,
         "rules": "2026.09.26",
-        "summary": "11 medium"
+        "summary": "21 medium"
       },
-      "settings": 47,
+      "settings": 51,
       "tags": [
         "Quality of Life",
         "Weapons",
@@ -504,25 +504,31 @@
         "Field Upgrades",
         "Scorestreaks",
         "Armor / Rarity",
+        "Salvage / Crafting",
         "All Maps",
         "Solo",
         "Co-op"
       ],
-      "changelog": "- Added perk tier selection\n- Added AAT tier selection\n- changed the order of weapon slots to make weapons go in the right slots.",
+      "changelog": "-Added salvage\n-Added amount selection for tactical and lethal equipment\n-Fixed scorestreaks not being given",
       "noProgression": true,
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-09T00:55:43.245Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1557918024273502263"
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-10-30T20:39:50.079Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1565782699585577066"
       },
       "id": "custom_insertion_317c70",
-      "version": "20261009-005000",
-      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261009-005000.cwm",
-      "size": 235217,
-      "sha256": "f3db6b8f47b029a75582d3c6d7949819a61e7d08c0853295c94408e441da0f64",
+      "version": "20261030-174124",
+      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261030-174124.cwm",
+      "size": 241438,
+      "sha256": "20efcd4f7c948251f3295138cdbb3b4a65f5372847a194a74154784fbc50b805",
       "history": [
+        {
+          "version": "20261030-174124",
+          "changelog": "-Added salvage\n-Added amount selection for tactical and lethal equipment\n-Fixed scorestreaks not being given",
+          "published": "2026-10-30T20:39:50.079Z"
+        },
         {
           "version": "20261009-005000",
           "changelog": "- Added perk tier selection\n- Added AAT tier selection\n- changed the order of weapon slots to make weapons go in the right slots.",
