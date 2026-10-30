@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T09:16:55.397Z",
+  "generated": "2026-10-30T10:16:55.199Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -444,6 +444,12 @@
       "id": "536262368666320896",
       "name": "Aggrofilth",
       "username": "agrofilth",
+      "modder": true
+    },
+    {
+      "id": "554715153976000544",
+      "name": "Aghyoul",
+      "username": "aghyouled",
       "modder": true
     },
     {
@@ -4206,12 +4212,6 @@
       "id": "1453899549021175989",
       "name": "Mason.mas2",
       "username": "mason.mas2",
-      "modder": true
-    },
-    {
-      "id": "554715153976000544",
-      "name": "Masten",
-      "username": "iblamemstn",
       "modder": true
     },
     {
