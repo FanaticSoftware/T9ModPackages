@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T18:16:55.608Z",
+  "generated": "2026-10-31T19:16:55.432Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3246,6 +3246,12 @@
       "id": "435574063117762560",
       "name": "Jake",
       "username": "realbooski",
+      "modder": true
+    },
+    {
+      "id": "1325143448147460151",
+      "name": "James Doakes",
+      "username": "wo4ds_gamingz__77362",
       "modder": true
     },
     {
