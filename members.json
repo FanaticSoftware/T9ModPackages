@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-30T23:16:55.287Z",
+  "generated": "2026-10-31T02:16:55.287Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -642,6 +642,12 @@
       "id": "372183464419524638",
       "name": "Ansigo",
       "username": "ansigo",
+      "modder": true
+    },
+    {
+      "id": "445745426801360930",
+      "name": "antônio ferreira",
+      "username": "bioneeak",
       "modder": true
     },
     {
@@ -2184,12 +2190,6 @@
       "id": "1028605611702763522",
       "name": "F .      Nikolai  🇰🇼",
       "username": "g_8l",
-      "modder": true
-    },
-    {
-      "id": "445745426801360930",
-      "name": "fã number one do monza",
-      "username": "bioneeak",
       "modder": true
     },
     {
