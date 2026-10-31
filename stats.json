@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T10:36:57.739Z",
+  "generated": "2026-10-31T12:36:57.879Z",
   "mods": {
     "directors_cut": {
       "favorites": 239,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 544,
+      "favorites": 545,
       "rating": {
         "count": 42,
         "average": 5
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 51,
+      "favorites": 52,
       "rating": {
         "count": 2,
         "average": 5
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 1,
         "average": 5
