@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T19:16:55.432Z",
+  "generated": "2026-10-31T20:16:55.652Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -600,6 +600,12 @@
       "id": "810152611332227123",
       "name": "amaliamarinelli#1111",
       "username": "amaliamarinelli1102",
+      "modder": true
+    },
+    {
+      "id": "1557002364576206911",
+      "name": "Amjad Younis",
+      "username": "amjadyounis2060_",
       "modder": true
     },
     {
