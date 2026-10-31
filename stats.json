@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T08:16:57.520Z",
+  "generated": "2026-10-31T10:36:57.739Z",
   "mods": {
     "directors_cut": {
       "favorites": 239,
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 47,
+      "favorites": 46,
       "rating": {
         "count": 7,
         "average": 4.9
@@ -297,7 +297,7 @@
       }
     },
     "prepatch_version_of_deadwire_73748a": {
-      "favorites": 15,
+      "favorites": 14,
       "rating": {
         "count": 0,
         "average": 0
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 27,
+      "favorites": 28,
       "rating": {
         "count": 1,
         "average": 5
