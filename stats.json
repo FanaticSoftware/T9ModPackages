@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T14:26:57.832Z",
+  "generated": "2026-10-31T21:56:58.098Z",
   "mods": {
     "directors_cut": {
       "favorites": 239,
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 35,
+      "favorites": 34,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 1,
         "average": 5
