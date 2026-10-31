@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T04:16:55.270Z",
+  "generated": "2026-10-31T06:16:55.309Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3177,12 +3177,6 @@
       "modder": true
     },
     {
-      "id": "662100730047627275",
-      "name": "Izon (SAT)",
-      "username": "izondlamb.exe",
-      "modder": true
-    },
-    {
       "id": "855975149639696424",
       "name": "jack",
       "username": "synth.uwu",
@@ -5146,7 +5140,7 @@
     },
     {
       "id": "393121923409641474",
-      "name": "PotatoOverlord",
+      "name": "Potato | VAMOS",
       "username": "potatooverlord",
       "modder": true
     },
@@ -6369,9 +6363,21 @@
       "modder": true
     },
     {
+      "id": "662100730047627275",
+      "name": "THE Benadryl HAT MAN",
+      "username": "izondlamb.exe",
+      "modder": true
+    },
+    {
       "id": "272438811894480897",
       "name": "THE H.O.G.",
       "username": "gianthog",
+      "modder": true
+    },
+    {
+      "id": "496972536568086539",
+      "name": "The Shovel",
+      "username": "zabuza123",
       "modder": true
     },
     {
