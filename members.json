@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T22:16:55.592Z",
+  "generated": "2026-10-31T23:16:55.698Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -48,6 +48,12 @@
       "id": "734635435950735461",
       "name": "? Char ?",
       "username": "ughhhhstttoopppp",
+      "modder": true
+    },
+    {
+      "id": "1254298153373532181",
+      "name": ".",
+      "username": "eternallyattachedtohersoul",
       "modder": true
     },
     {
@@ -3009,12 +3015,6 @@
       "modder": true
     },
     {
-      "id": "1035377547040534578",
-      "name": "I love you",
-      "username": "just_ikea",
-      "modder": true
-    },
-    {
       "id": "1555916171952267429",
       "name": "i400ii",
       "username": "i400ii.",
@@ -3732,12 +3732,6 @@
       "id": "794384098704883712",
       "name": "Kode",
       "username": "kode.sh",
-      "modder": true
-    },
-    {
-      "id": "1254298153373532181",
-      "name": "Kōshin",
-      "username": "eternallyattachedtohersoul",
       "modder": true
     },
     {
@@ -7302,6 +7296,12 @@
       "id": "321167079824949252",
       "name": "Zenny",
       "username": "zenny8633",
+      "modder": true
+    },
+    {
+      "id": "1035377547040534578",
+      "name": "Zenny",
+      "username": "just_ikea",
       "modder": true
     },
     {
