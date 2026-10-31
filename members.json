@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T02:16:55.287Z",
+  "generated": "2026-10-31T03:16:55.528Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2178,12 +2178,6 @@
       "id": "479120371803619330",
       "name": "EXTIINCT",
       "username": "extiinct.",
-      "modder": true
-    },
-    {
-      "id": "1035377547040534578",
-      "name": "ExtremelyExtraMostBestJewishJew8",
-      "username": "just_ikea",
       "modder": true
     },
     {
@@ -5484,6 +5478,12 @@
       "id": "1026711200119136336",
       "name": "Riot",
       "username": "riotgamernz",
+      "modder": true
+    },
+    {
+      "id": "1035377547040534578",
+      "name": "Rip",
+      "username": "just_ikea",
       "modder": true
     },
     {
