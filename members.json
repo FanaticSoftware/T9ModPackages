@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T16:16:55.982Z",
+  "generated": "2026-11-01T19:16:55.785Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4314,6 +4314,12 @@
       "id": "664551968143835140",
       "name": "mc cirilo do rodo",
       "username": "eogustacaraio",
+      "modder": true
+    },
+    {
+      "id": "1313022627975270452",
+      "name": "mccaffrey",
+      "username": "beaglemanskbm",
       "modder": true
     },
     {
