@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T09:16:55.733Z",
+  "generated": "2026-11-01T15:16:55.623Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6150,6 +6150,12 @@
       "id": "1317053317653991489",
       "name": "Sproozer",
       "username": "realsprooit_67473",
+      "modder": true
+    },
+    {
+      "id": "1184837086726082632",
+      "name": "Spyro2RR",
+      "username": "spyro2rr",
       "modder": true
     },
     {
