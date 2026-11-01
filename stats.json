@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T03:46:58.724Z",
+  "generated": "2026-11-01T05:26:58.539Z",
   "mods": {
     "directors_cut": {
       "favorites": 239,
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 7,
         "average": 4.4
