@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T09:20:38.487Z",
+  "generated": "2026-11-01T09:21:05.378Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -4004,6 +4004,58 @@
       "collaboratorNames": {
         "684408486456852481": "SaintVertigo"
       }
+    },
+    {
+      "title": "ZM Classic Shield",
+      "description": "Removes armor and replaces it with buildable shield. Find 3 parts which can spawn under perks, wallbuys, and box location. and craft it at a crafting bench. Works with ZM Classic mod. This mod is meant for every player in the Lobby.",
+      "author": {
+        "discordName": "landofsunder",
+        "id": "748791233895333908",
+        "name": "Richtofen Grabs Dempseys Cock"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "7774ab8acbdb2de8a1d18511de650b0768c73830bf3f7f459707f7e472ff1f83",
+      "scan": {
+        "critical": 0,
+        "high": 1,
+        "low": 0,
+        "medium": 5,
+        "rules": "2026.09.26",
+        "summary": "1 high, 5 medium"
+      },
+      "settings": 0,
+      "tags": [
+        "Gameplay Overhaul",
+        "Quality of Life",
+        "Utility / Tools",
+        "Round-Based Maps",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-11-01T09:21:05.056Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1565943108716208152"
+      },
+      "id": "zm_shield_bd67bd",
+      "version": "20261031-041845",
+      "file": "mod_packages/zm_shield_bd67bd/zm_shield_bd67bd-20261031-041845.cwm",
+      "size": 638867,
+      "sha256": "662138d0cb95db3d3570b32dc50966e211b837cb8e2c949dc6fcbcebcc1544bf",
+      "history": [
+        {
+          "version": "20261031-041845",
+          "changelog": "",
+          "published": "2026-11-01T09:21:05.056Z"
+        }
+      ],
+      "thumbnail": "mod_packages/zm_shield_bd67bd/thumbnail.png",
+      "thumbnailSha256": "56c7411565504c3d5fd1c2fe215cdbbcf43478b8059438fbd31c02e115783df4",
+      "collaborators": []
     },
     {
       "title": "Zombie Snacks",
