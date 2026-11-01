@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T09:21:05.378Z",
+  "generated": "2026-11-01T09:53:13.712Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2139,6 +2139,60 @@
       ],
       "thumbnail": "mod_packages/nosnowblizzard_themachine_0531a5/thumbnail.png",
       "thumbnailSha256": "29faca244eb9bfbd12e5d1abe2a57d8f12f3166e788cfe98b6af0c5abd13ded4",
+      "collaborators": []
+    },
+    {
+      "title": "Onslaught Overdrive Lite",
+      "description": "Move speed multiplier (1x to 5x) and start with a Ray Gun. Built for Onslaught Containment maps like Nuketown '84, works on any zombies map. No health, ammo, god mode or field upgrade changes, so it can run with progression.",
+      "author": {
+        "discordName": "a11008",
+        "id": "599801270177366029",
+        "name": "a11008"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "b2ff103eec9dcebe69a2b7b7535a4cec979f50f460df4d44b87ab3050606dabb",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 0,
+        "rules": "2026.09.26",
+        "summary": "clean, nothing flagged"
+      },
+      "settings": 2,
+      "tags": [
+        "Weapons",
+        "Wonder Weapons",
+        "Movement",
+        "All Maps",
+        "Onslaught",
+        "Easy",
+        "Solo",
+        "Co-op"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "teaa_the_silliest",
+        "byId": "1214090251178352677",
+        "at": "2026-11-01T09:53:13.367Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1566383616542642372"
+      },
+      "id": "onslaught_overdrive_lite",
+      "version": "20261101-092914",
+      "file": "mod_packages/onslaught_overdrive_lite/onslaught_overdrive_lite-20261101-092914.cwm",
+      "size": 28627,
+      "sha256": "7771d12c823725fadabb366c18dcc60898657b9c725d0badc85093655eddc573",
+      "history": [
+        {
+          "version": "20261101-092914",
+          "changelog": "",
+          "published": "2026-11-01T09:53:13.367Z"
+        }
+      ],
+      "thumbnail": "mod_packages/onslaught_overdrive_lite/thumbnail.png",
+      "thumbnailSha256": "95438fedf69e55c6c92f1592bff271b20dee5e0f488655c4c90790b3789394d3",
       "collaborators": []
     },
     {
