@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T05:16:55.634Z",
+  "generated": "2026-11-01T06:16:56.049Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3207,6 +3207,12 @@
       "modder": true
     },
     {
+      "id": "662100730047627275",
+      "name": "IZON",
+      "username": "izondlamb.exe",
+      "modder": true
+    },
+    {
       "id": "855975149639696424",
       "name": "jack",
       "username": "synth.uwu",
@@ -3714,6 +3720,12 @@
       "id": "1483538268338393253",
       "name": "King_Of_Spades",
       "username": "king_of_spades0574",
+      "modder": true
+    },
+    {
+      "id": "733058665606545449",
+      "name": "kingbob",
+      "username": "king_bob123",
       "modder": true
     },
     {
@@ -6378,12 +6390,6 @@
       "id": "473890726590283776",
       "name": "ThatOneSaraxisUser",
       "username": "thatonesaraxisuser",
-      "modder": true
-    },
-    {
-      "id": "662100730047627275",
-      "name": "THE Benadryl HAT MAN",
-      "username": "izondlamb.exe",
       "modder": true
     },
     {
