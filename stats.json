@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T16:36:58.894Z",
+  "generated": "2026-11-01T19:06:59.058Z",
   "mods": {
     "directors_cut": {
       "favorites": 240,
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 90,
+      "favorites": 91,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -346,7 +346,7 @@
       }
     },
     "zombies_health_cap_2578e3": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 2,
         "average": 5
