@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T05:26:58.539Z",
+  "generated": "2026-11-01T12:56:58.699Z",
   "mods": {
     "directors_cut": {
       "favorites": 239,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 149,
+      "favorites": 150,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 545,
+      "favorites": 546,
       "rating": {
         "count": 42,
         "average": 5
@@ -66,7 +66,7 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 2,
         "average": 5
@@ -374,7 +374,7 @@
       }
     },
     "rouge_run_87efcf": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 1,
         "average": 5
