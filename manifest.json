@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T14:02:20.198Z",
+  "generated": "2026-11-01T09:20:38.487Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -484,7 +484,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "15e612b87e785466af186db3d2ca407b1315efa47071ad40eac02710383ef3a6",
+      "sourceSha256": "3cd7be474ef9695864ecd1655b3cd1b4b0ff59e781e1d68c88d5589d7fb6feab",
       "scan": {
         "critical": 0,
         "high": 0,
@@ -509,21 +509,26 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "-Added salvage\n-Added amount selection for tactical and lethal equipment\n-Fixed scorestreaks not being given",
+      "changelog": "-Fixed stungrenade",
       "noProgression": true,
       "highAlerts": [],
       "approved": {
         "by": "teaa_the_silliest",
         "byId": "1214090251178352677",
-        "at": "2026-10-30T20:39:50.079Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1565782699585577066"
+        "at": "2026-11-01T09:20:38.061Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1565868939349860376"
       },
       "id": "custom_insertion_317c70",
-      "version": "20261030-174124",
-      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261030-174124.cwm",
-      "size": 241438,
-      "sha256": "20efcd4f7c948251f3295138cdbb3b4a65f5372847a194a74154784fbc50b805",
+      "version": "20261030-232405",
+      "file": "mod_packages/custom_insertion_317c70/custom_insertion_317c70-20261030-232405.cwm",
+      "size": 240952,
+      "sha256": "02e571a8114a4c6c9367799d51faa417bdc3dc0fd5b22ad5fdee7ab6ac642714",
       "history": [
+        {
+          "version": "20261030-232405",
+          "changelog": "-Fixed stungrenade",
+          "published": "2026-11-01T09:20:38.061Z"
+        },
         {
           "version": "20261030-174124",
           "changelog": "-Added salvage\n-Added amount selection for tactical and lethal equipment\n-Fixed scorestreaks not being given",
