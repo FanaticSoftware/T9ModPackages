@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T21:46:59.203Z",
+  "generated": "2026-11-01T23:06:59.275Z",
   "mods": {
     "directors_cut": {
       "favorites": 240,
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 8,
         "average": 4.6
