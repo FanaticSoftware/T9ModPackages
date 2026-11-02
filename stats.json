@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T18:57:00.133Z",
+  "generated": "2026-11-02T19:37:00.056Z",
   "mods": {
     "directors_cut": {
       "favorites": 240,
@@ -271,7 +271,7 @@
     "test_a8804f": {
       "favorites": 35,
       "rating": {
-        "count": 5,
+        "count": 6,
         "average": 5
       }
     },
