@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T16:16:55.900Z",
+  "generated": "2026-11-02T17:16:56.061Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -6207,12 +6207,6 @@
       "modder": true
     },
     {
-      "id": "343287756270731264",
-      "name": "Spooky IGuess",
-      "username": "siguess420",
-      "modder": true
-    },
-    {
       "id": "1317053317653991489",
       "name": "Sproozer",
       "username": "realsprooit_67473",
@@ -6756,6 +6750,12 @@
       "id": "553019037609754624",
       "name": "ᵀᵁᴿᴮᴼ (ᵖʳᵒᵈᵃˢᵗʳ⁰⁰)",
       "username": "turboo9424",
+      "modder": true
+    },
+    {
+      "id": "343287756270731264",
+      "name": "Turkey IGuess",
+      "username": "siguess420",
       "modder": true
     },
     {
