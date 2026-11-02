@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T23:56:59.330Z",
+  "generated": "2026-11-02T01:16:59.255Z",
   "mods": {
     "directors_cut": {
       "favorites": 240,
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 1,
         "average": 5
