@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T20:37:00.347Z",
+  "generated": "2026-11-02T21:17:00.025Z",
   "mods": {
     "directors_cut": {
       "favorites": 240,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 551,
+      "favorites": 552,
       "rating": {
         "count": 42,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 1,
         "average": 5
@@ -409,7 +409,7 @@
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 7,
+      "favorites": 8,
       "rating": {
         "count": 4,
         "average": 5
