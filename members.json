@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T00:16:56.003Z",
+  "generated": "2026-11-02T03:16:55.661Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2310,12 +2310,6 @@
       "id": "422394916333682689",
       "name": "FeelTheBeat / Patrick",
       "username": "feelthebeat_",
-      "modder": true
-    },
-    {
-      "id": "690354794241720411",
-      "name": "Fendi Stroller",
-      "username": "coatedwave",
       "modder": true
     },
     {
@@ -5211,6 +5205,12 @@
       "modder": true
     },
     {
+      "id": "690354794241720411",
+      "name": "Pop that Pussy P1nk",
+      "username": "coatedwave",
+      "modder": true
+    },
+    {
       "id": "1351880398010978354",
       "name": "popernumber1_",
       "username": "popernumber1_",
@@ -5218,7 +5218,7 @@
     },
     {
       "id": "393121923409641474",
-      "name": "Potato | VAMOS",
+      "name": "Potato",
       "username": "potatooverlord",
       "modder": true
     },
