@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T15:16:59.897Z",
+  "generated": "2026-11-02T15:26:59.987Z",
   "mods": {
     "directors_cut": {
       "favorites": 240,
@@ -430,6 +430,13 @@
       }
     },
     "onslaught_overdrive_lite": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "zm_shield_bd67bd": {
       "favorites": 1,
       "rating": {
         "count": 0,
