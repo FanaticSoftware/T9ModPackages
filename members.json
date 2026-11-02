@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T21:16:56.045Z",
+  "generated": "2026-11-02T22:16:55.831Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2346,6 +2346,12 @@
       "id": "1405325025917009980",
       "name": "fergfsrg",
       "username": "fergfsrg_70459",
+      "modder": true
+    },
+    {
+      "id": "1521083500403621988",
+      "name": "fetus vegetus",
+      "username": "armaghedon_xwvzz",
       "modder": true
     },
     {
