@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T14:16:55.854Z",
+  "generated": "2026-11-02T15:16:56.309Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2169,6 +2169,12 @@
       "modder": true
     },
     {
+      "id": "882005909973401610",
+      "name": "Esteban Julio De la Rosa Ramirez",
+      "username": "playboinahz",
+      "modder": true
+    },
+    {
       "id": "1090898071094820864",
       "name": "𝔈𝔱𝔢𝔯𝔫𝔞𝔩",
       "username": "haloiseternal",
@@ -2452,7 +2458,7 @@
     },
     {
       "id": "1370814395189428344",
-      "name": "Frin",
+      "name": "Frin [Limited]",
       "username": "erwinwermach",
       "modder": true
     },
@@ -7476,12 +7482,6 @@
       "id": "329728256527826944",
       "name": "ᛋᚻᚪᛞᚩᚹ",
       "username": "shadow152",
-      "modder": true
-    },
-    {
-      "id": "882005909973401610",
-      "name": "𖣂",
-      "username": "playboinahz",
       "modder": true
     },
     {
