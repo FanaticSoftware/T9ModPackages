@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-02T10:16:55.988Z",
+  "generated": "2026-11-02T11:16:56.152Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -4834,7 +4834,7 @@
     },
     {
       "id": "627310420478132225",
-      "name": "NikoStreamsVT[VTuber]",
+      "name": "NikoStreamsVT",
       "username": "nikostreamsvt",
       "modder": true
     },
