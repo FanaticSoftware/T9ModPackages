@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T09:53:13.712Z",
+  "generated": "2026-11-03T18:17:24.629Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -2368,6 +2368,53 @@
       ],
       "thumbnail": "mod_packages/point_per_bullit_8a7781/thumbnail.png",
       "thumbnailSha256": "40d62acae64ec592e6e119794f39fc4ec64f4113a1450a149b109e9f99587606",
+      "collaborators": []
+    },
+    {
+      "title": "Back to Prime weapons",
+      "description": "it brings back the old buffs of the guns even their attachments buffs just in their prime.\n\nit only has the huer for now...",
+      "author": {
+        "discordName": "69barbeque",
+        "id": "1143908856276189236",
+        "name": "BBQ"
+      },
+      "publishedBy": null,
+      "developer": false,
+      "sourceSha256": "c08f7fb9abe9b13a68b431cc0a46e8e089fb16847cf249a6e437b21c9301e8c4",
+      "scan": {
+        "critical": 0,
+        "high": 0,
+        "low": 0,
+        "medium": 9,
+        "rules": "2026.09.26",
+        "summary": "9 medium"
+      },
+      "settings": 1,
+      "tags": [
+        "Weapons"
+      ],
+      "changelog": "",
+      "highAlerts": [],
+      "approved": {
+        "by": "saintvertigo",
+        "byId": "684408486456852481",
+        "at": "2026-11-03T18:17:24.259Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1567232451208814626"
+      },
+      "id": "pre_patch_weapons_6e4cf2",
+      "version": "20261103-174213",
+      "file": "mod_packages/pre_patch_weapons_6e4cf2/pre_patch_weapons_6e4cf2-20261103-174213.cwm",
+      "size": 117949,
+      "sha256": "92217a65a8438fd13f0ed1490654bdc87973b44ec7dc1b1a1df99735aa459ed3",
+      "history": [
+        {
+          "version": "20261103-174213",
+          "changelog": "",
+          "published": "2026-11-03T18:17:24.259Z"
+        }
+      ],
+      "thumbnail": "mod_packages/pre_patch_weapons_6e4cf2/thumbnail.png",
+      "thumbnailSha256": "3817b6df505adfa0310f98b3c52dd10609543bf0a2fa57f4257f3020bf054968",
       "collaborators": []
     },
     {
