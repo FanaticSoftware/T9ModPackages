@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T22:01:19.993Z",
+  "generated": "2026-11-03T22:21:20.089Z",
   "mods": {
     "directors_cut": {
       "favorites": 241,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 100,
+      "favorites": 101,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 100,
+      "favorites": 101,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -437,7 +437,7 @@
       }
     },
     "zm_shield_bd67bd": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
