@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T10:01:19.210Z",
+  "generated": "2026-11-03T11:01:20.515Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5766,6 +5766,12 @@
       "id": "978909519423893504",
       "name": "Salted_skull",
       "username": "beebom",
+      "modder": true
+    },
+    {
+      "id": "273543232737247233",
+      "name": "SamB",
+      "username": "samb5600",
       "modder": true
     },
     {
