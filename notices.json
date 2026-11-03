@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T09:53:17.613Z",
+  "generated": "2026-11-03T18:17:30.049Z",
   "notices": [
+    {
+      "key": "4f2f78c35b0f7ba39afc6b1445b70edd5129f41366a57ce5bdce789bb7e1ba21",
+      "status": "approved",
+      "mod": "Back to Prime weapons",
+      "id": "pre_patch_weapons_6e4cf2",
+      "version": "20261103-174213",
+      "progression": "allowed",
+      "reason": "",
+      "by": "saintvertigo",
+      "at": "2026-11-03T18:17:29.675Z"
+    },
     {
       "key": "2b4f3e793ae99f6dffe5e39f4d19a64ae9788c7b8b320f8f8d36d8b97640aa9b",
       "status": "approved",
@@ -2094,16 +2105,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-26T12:52:53.162Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Oops! All Elites!",
-      "id": "replace_zombies_early_wip",
-      "version": "20260926-123512",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-26T12:38:45.369Z"
     }
   ]
 }
