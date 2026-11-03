@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T19:11:19.944Z",
+  "generated": "2026-11-03T20:41:19.992Z",
   "mods": {
     "directors_cut": {
       "favorites": 241,
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 2,
         "average": 5
