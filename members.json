@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T09:01:20.575Z",
+  "generated": "2026-11-03T10:01:19.210Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -5874,6 +5874,12 @@
       "id": "803064934459899916",
       "name": "Serj Tankian",
       "username": "wafer.exe",
+      "modder": true
+    },
+    {
+      "id": "531174690451095563",
+      "name": "SGT_DANY",
+      "username": "sgt_dany",
       "modder": true
     },
     {
