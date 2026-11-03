@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T20:01:19.344Z",
+  "generated": "2026-11-03T21:01:19.317Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1020,6 +1020,12 @@
       "id": "324211175514701825",
       "name": "Blast",
       "username": "blgames",
+      "modder": true
+    },
+    {
+      "id": "1118846682847776849",
+      "name": "BlazinChronic",
+      "username": "blazin97",
       "modder": true
     },
     {
