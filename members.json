@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T02:16:55.909Z",
+  "generated": "2026-11-03T04:01:14.167Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -984,6 +984,12 @@
       "id": "684408486456852481",
       "name": "Black Ops Furry War",
       "username": "saintvertigo",
+      "modder": true
+    },
+    {
+      "id": "112719290297225216",
+      "name": "Blade",
+      "username": "scopedd",
       "modder": true
     },
     {
