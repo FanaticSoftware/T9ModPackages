@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T22:21:20.089Z",
+  "generated": "2026-11-03T22:31:20.289Z",
   "mods": {
     "directors_cut": {
       "favorites": 241,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 151,
+      "favorites": 152,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 553,
+      "favorites": 554,
       "rating": {
         "count": 42,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 92,
+      "favorites": 93,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 53,
+      "favorites": 55,
       "rating": {
         "count": 2,
         "average": 5
@@ -444,6 +444,13 @@
       }
     },
     "the_ballistics_lab_752ac7": {
+      "favorites": 1,
+      "rating": {
+        "count": 0,
+        "average": 0
+      }
+    },
+    "pre_patch_weapons_6e4cf2": {
       "favorites": 1,
       "rating": {
         "count": 0,
