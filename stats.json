@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T09:21:19.595Z",
+  "generated": "2026-11-03T09:31:19.644Z",
   "mods": {
     "directors_cut": {
-      "favorites": 240,
+      "favorites": 241,
       "rating": {
         "count": 21,
         "average": 5
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 91,
+      "favorites": 92,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 98,
+      "favorites": 99,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 0,
         "average": 0
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 1,
         "average": 5
@@ -437,7 +437,7 @@
       }
     },
     "zm_shield_bd67bd": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
