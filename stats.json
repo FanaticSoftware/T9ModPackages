@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-04T18:31:21.146Z",
+  "generated": "2026-11-04T18:41:21.092Z",
   "mods": {
     "directors_cut": {
       "favorites": 243,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 152,
+      "favorites": 153,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -52,14 +52,14 @@
       }
     },
     "t9_bots": {
-      "favorites": 93,
+      "favorites": 94,
       "rating": {
         "count": 6,
         "average": 4.5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 8,
         "average": 5
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 0,
         "average": 0
