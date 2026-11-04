@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-04T01:01:19.364Z",
+  "generated": "2026-11-04T02:01:19.498Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -3726,6 +3726,12 @@
       "id": "140714992113549312",
       "name": "Kerillian",
       "username": "kerillian.",
+      "modder": true
+    },
+    {
+      "id": "397196662159966228",
+      "name": "Kevboy",
+      "username": "meat_missile1",
       "modder": true
     },
     {
