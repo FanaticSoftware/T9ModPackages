@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-04T15:01:20.692Z",
+  "generated": "2026-11-04T16:51:20.924Z",
   "mods": {
     "directors_cut": {
-      "favorites": 241,
+      "favorites": 242,
       "rating": {
         "count": 21,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 555,
+      "favorites": 556,
       "rating": {
         "count": 42,
         "average": 5
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 1,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 1,
         "average": 5
