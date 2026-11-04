@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T23:51:20.157Z",
+  "generated": "2026-11-04T00:01:20.042Z",
   "mods": {
     "directors_cut": {
       "favorites": 241,
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 116,
+      "favorites": 117,
       "rating": {
         "count": 18,
         "average": 3.1
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 0,
         "average": 0
