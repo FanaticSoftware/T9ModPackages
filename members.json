@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-04T11:01:19.590Z",
+  "generated": "2026-11-04T17:01:19.535Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -1308,6 +1308,12 @@
       "id": "195686950252969984",
       "name": "Carl - Manager",
       "username": "_genpatton",
+      "modder": true
+    },
+    {
+      "id": "570470654684692480",
+      "name": "CausticDeagle",
+      "username": "causticdeagle",
       "modder": true
     },
     {
