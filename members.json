@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T04:01:19.650Z",
+  "generated": "2026-11-05T06:01:20.695Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -2298,6 +2298,12 @@
       "id": "1028605611702763522",
       "name": "F .      Nikolai  🇰🇼",
       "username": "g_8l",
+      "modder": true
+    },
+    {
+      "id": "1477856328386085038",
+      "name": "Fabian",
+      "username": "xxfreey1far",
       "modder": true
     },
     {
