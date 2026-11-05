@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T00:01:21.593Z",
+  "generated": "2026-11-05T03:01:19.789Z",
   "members": [
     {
       "id": "324233042430394369",
@@ -48,6 +48,12 @@
       "id": "1254298153373532181",
       "name": "?",
       "username": "eternallyattachedtohersoul",
+      "modder": true
+    },
+    {
+      "id": "787053018204864552",
+      "name": "?",
+      "username": "expergefactor",
       "modder": true
     },
     {
@@ -1116,6 +1122,12 @@
       "id": "482942971428470785",
       "name": "bot",
       "username": "nottermexart",
+      "modder": true
+    },
+    {
+      "id": "244947058748948490",
+      "name": "Bovoi",
+      "username": "bovoi",
       "modder": true
     },
     {
@@ -4224,6 +4236,12 @@
       "id": "354298594951430146",
       "name": "𝕷𝖚𝖛 𝕻𝖎𝖊𝖗𝖈𝖎𝖓𝖌𝖘",
       "username": "x.him",
+      "modder": true
+    },
+    {
+      "id": "1396271277597261875",
+      "name": "LUX // NULL",
+      "username": "luxferre0",
       "modder": true
     },
     {
