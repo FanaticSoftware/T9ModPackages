@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T15:11:21.867Z",
+  "generated": "2026-11-05T22:11:22.107Z",
   "mods": {
     "directors_cut": {
       "favorites": 246,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 169,
+      "favorites": 170,
       "rating": {
         "count": 20,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 8,
         "average": 5
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 55,
+      "favorites": 56,
       "rating": {
         "count": 2,
         "average": 5
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 29,
+      "favorites": 30,
       "rating": {
         "count": 4,
         "average": 5
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 0,
         "average": 0
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 9,
+      "favorites": 10,
       "rating": {
         "count": 1,
         "average": 5
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 5,
+      "favorites": 6,
       "rating": {
         "count": 1,
         "average": 5
