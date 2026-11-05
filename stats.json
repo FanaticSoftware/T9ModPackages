@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T04:11:21.432Z",
+  "generated": "2026-11-05T04:31:21.397Z",
   "mods": {
     "directors_cut": {
       "favorites": 245,
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 94,
+      "favorites": 95,
       "rating": {
         "count": 11,
         "average": 4.9
@@ -87,7 +87,7 @@
       }
     },
     "gun_game_wip": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 8,
         "average": 3.7
