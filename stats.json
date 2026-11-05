@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T22:41:22.162Z",
+  "generated": "2026-11-05T23:11:22.106Z",
   "mods": {
     "directors_cut": {
-      "favorites": 245,
+      "favorites": 246,
       "rating": {
         "count": 21,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 1,
         "average": 5
