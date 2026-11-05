@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T04:41:21.404Z",
+  "generated": "2026-11-05T08:21:21.403Z",
   "mods": {
     "directors_cut": {
       "favorites": 245,
@@ -52,7 +52,7 @@
       }
     },
     "t9_bots": {
-      "favorites": 94,
+      "favorites": 95,
       "rating": {
         "count": 6,
         "average": 4.5
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 108,
+      "favorites": 109,
       "rating": {
         "count": 13,
         "average": 5
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 49,
+      "favorites": 50,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -227,21 +227,21 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
         "count": 2,
         "average": 4.8
       }
     },
     "nikolai_mod_menu_767906": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 5,
         "average": 2.3
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 28,
+      "favorites": 29,
       "rating": {
         "count": 4,
         "average": 5
@@ -269,7 +269,7 @@
       }
     },
     "test_a8804f": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 6,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 1,
         "average": 5
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 5
