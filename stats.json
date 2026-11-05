@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T22:11:22.107Z",
+  "generated": "2026-11-05T22:41:22.162Z",
   "mods": {
     "directors_cut": {
-      "favorites": 246,
+      "favorites": 245,
       "rating": {
         "count": 21,
         "average": 5
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 556,
+      "favorites": 555,
       "rating": {
         "count": 42,
         "average": 5
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 8,
         "average": 4.6
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 32,
+      "favorites": 31,
       "rating": {
         "count": 1,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 35,
+      "favorites": 34,
       "rating": {
         "count": 1,
         "average": 5
