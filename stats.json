@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T01:51:22.175Z",
+  "generated": "2026-11-06T08:31:22.630Z",
   "mods": {
     "directors_cut": {
       "favorites": 246,
@@ -10,14 +10,14 @@
       }
     },
     "boss_rush": {
-      "favorites": 100,
+      "favorites": 101,
       "rating": {
         "count": 14,
         "average": 4.8
       }
     },
     "onslaught_survival": {
-      "favorites": 152,
+      "favorites": 153,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 554,
+      "favorites": 555,
       "rating": {
         "count": 42,
         "average": 5
@@ -59,7 +59,7 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 8,
         "average": 5
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 4,
         "average": 5
@@ -129,7 +129,7 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 59,
+      "favorites": 60,
       "rating": {
         "count": 6,
         "average": 4.8
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -332,7 +332,7 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 1,
         "average": 5
@@ -374,7 +374,7 @@
       }
     },
     "rouge_run_87efcf": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
@@ -416,7 +416,7 @@
       }
     },
     "legion_ac28e9": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 1,
         "average": 5
