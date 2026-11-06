@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T01:01:19.773Z",
+  "generated": "2026-11-06T06:01:21.056Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -7086,6 +7086,12 @@
       "id": "716299791465971772",
       "name": "Vision",
       "username": "vision2006",
+      "modder": true
+    },
+    {
+      "id": "1452869760164434004",
+      "name": "Vitun.Kala",
+      "username": "helvetin.kala",
       "modder": true
     },
     {
