@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T04:01:19.514Z",
+  "generated": "2026-11-07T06:01:19.674Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -138,6 +138,12 @@
       "id": "744723094903455744",
       "name": "《《Crøss Sans》》",
       "username": "cross_sans10",
+      "modder": true
+    },
+    {
+      "id": "1365430548541210684",
+      "name": "「“𝐺𝐺“」🎃🔪",
+      "username": "owenxmslt",
       "modder": true
     },
     {
@@ -1848,12 +1854,6 @@
       "id": "718882689893269555",
       "name": "dicey",
       "username": "dicey099",
-      "modder": true
-    },
-    {
-      "id": "496714086441156618",
-      "name": "DickDudeXd",
-      "username": ".dickdude",
       "modder": true
     },
     {
@@ -4686,6 +4686,12 @@
       "id": "548581140257046586",
       "name": "morpheus♡",
       "username": "morpheusbbc",
+      "modder": true
+    },
+    {
+      "id": "496714086441156618",
+      "name": "Moto",
+      "username": ".dickdude",
       "modder": true
     },
     {
