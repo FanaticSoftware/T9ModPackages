@@ -350,15 +350,15 @@
       "updated": "2026-10-13T00:59:09.131Z"
     },
     "archipelago_1ba41f": {
-      "file": "shared_projects/archipelago_1ba41f/002d3073c2f59cad.cwm",
-      "size": 3019097,
-      "sha256": "002d3073c2f59cad75ef4e650747a96d9a6ff7313ab8dbc0aaf42a9f3c0357eb",
-      "basedOn": "fb60d66d93933726438e6bb152275887e6ceede0c56aaa19306004be01c86d3c",
+      "file": "shared_projects/archipelago_1ba41f/dffeb1932bb2c9c6.cwm",
+      "size": 3016829,
+      "sha256": "dffeb1932bb2c9c6bd50e0094f75c428a7cf23e8f10122945ca897954103cb6c",
+      "basedOn": "002d3073c2f59cad75ef4e650747a96d9a6ff7313ab8dbc0aaf42a9f3c0357eb",
       "version": "1.0.0",
       "files": 1,
       "by": "553670083474620417",
-      "updated": "2026-11-07T14:41:58.379Z"
+      "updated": "2026-11-07T14:45:54.258Z"
     }
   },
-  "generated": "2026-11-07T14:41:58.379Z"
+  "generated": "2026-11-07T14:45:54.258Z"
 }
