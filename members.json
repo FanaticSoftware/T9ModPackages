@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T14:01:20.736Z",
+  "generated": "2026-11-07T19:01:19.808Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -7332,6 +7332,12 @@
       "id": "1329212273075683421",
       "name": "Wolfy",
       "username": "wolf90t",
+      "modder": true
+    },
+    {
+      "id": "733900562986303499",
+      "name": "Worm with big plans",
+      "username": "squeezemyblorgus",
       "modder": true
     },
     {
