@@ -348,7 +348,17 @@
       "files": 8,
       "by": "516655366633947136",
       "updated": "2026-10-13T00:59:09.131Z"
+    },
+    "archipelago_1ba41f": {
+      "file": "shared_projects/archipelago_1ba41f/6e05ed6087cbb684.cwm",
+      "size": 3015357,
+      "sha256": "6e05ed6087cbb6849162772b6883a40755c95aec1544dfb2289d40bf29748754",
+      "basedOn": "",
+      "version": "1.0.0",
+      "files": 1,
+      "by": "553670083474620417",
+      "updated": "2026-11-07T13:30:53.586Z"
     }
   },
-  "generated": "2026-10-13T00:59:09.131Z"
+  "generated": "2026-11-07T13:30:53.586Z"
 }
