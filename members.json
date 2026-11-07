@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T08:01:19.325Z",
+  "generated": "2026-11-07T11:01:22.293Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -270,6 +270,12 @@
       "id": "528946578971688960",
       "name": "👻~gastly!~ 👻",
       "username": "lofetghastlykomi",
+      "modder": true
+    },
+    {
+      "id": "1189317918119440418",
+      "name": "💛🤍💜🖤 𝓝𝓸𝓿𝓪  (ꜱᴘɪʟʟᴇᴅ)",
+      "username": "takinano",
       "modder": true
     },
     {
@@ -7602,6 +7608,12 @@
       "id": "133956738780102656",
       "name": "Zoto",
       "username": "zotobom",
+      "modder": true
+    },
+    {
+      "id": "928067285506203699",
+      "name": "Zu",
+      "username": "zuan.smit",
       "modder": true
     },
     {
