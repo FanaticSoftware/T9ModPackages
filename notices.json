@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T14:28:00.553Z",
+  "generated": "2026-11-07T14:30:51.073Z",
   "notices": [
+    {
+      "key": "73bf1b5403ae3489282626a33376f0568d56eb09b994be7d86d9404c9c29f59c",
+      "status": "collab",
+      "mod": "Archipelago",
+      "id": "archipelago_1ba41f",
+      "version": null,
+      "reason": "**五Super mr.alexis八** (@supermr.alexis) accepted your invitation and is now a co-author.",
+      "by": "",
+      "at": "2026-11-07T14:30:50.902Z"
+    },
     {
       "key": "28f515bad37a900ffe142a79949d88b0b078ae471bf65f991cbe56140bbe5b75",
       "status": "collab",
@@ -2095,16 +2105,6 @@
       "reason": "",
       "by": "saintvertigo",
       "at": "2026-09-26T18:44:05.082Z"
-    },
-    {
-      "key": "be42f25f47710ffc6eee9de6a9ce7411da1041c51e94d9279fefa40cdc992beb",
-      "status": "approved",
-      "mod": "Clean View",
-      "id": "hide_hud_24d1a2",
-      "version": "20260926-182902",
-      "reason": "",
-      "by": "saintvertigo",
-      "at": "2026-09-26T18:29:22.467Z"
     }
   ]
 }
