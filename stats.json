@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T18:21:24.166Z",
+  "generated": "2026-11-07T20:01:24.068Z",
   "mods": {
     "directors_cut": {
       "favorites": 249,
@@ -451,7 +451,7 @@
       }
     },
     "pre_patch_weapons_6e4cf2": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
