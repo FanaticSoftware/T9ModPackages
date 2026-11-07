@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T06:01:19.674Z",
+  "generated": "2026-11-07T08:01:19.325Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2262,6 +2262,12 @@
       "id": "419605255848984577",
       "name": "eve",
       "username": "idrathersleeppp",
+      "modder": true
+    },
+    {
+      "id": "496972536568086539",
+      "name": "EVIL BORZOI WIZZA",
+      "username": "zabuza123",
       "modder": true
     },
     {
@@ -5571,6 +5577,12 @@
       "modder": true
     },
     {
+      "id": "1327104615249874944",
+      "name": "reamakai",
+      "username": "datxay",
+      "modder": true
+    },
+    {
       "id": "420433926536822805",
       "name": "ReaperWiiPlaza",
       "username": "reaperwiiplaza",
@@ -5813,7 +5825,7 @@
     {
       "id": "1529967288470601848",
       "name": "rxman",
-      "username": "rxman_n1g",
+      "username": "notrxman",
       "modder": true
     },
     {
@@ -6216,12 +6228,6 @@
       "id": "1047735629561212968",
       "name": "smallz1121",
       "username": "smallz11213999",
-      "modder": true
-    },
-    {
-      "id": "496972536568086539",
-      "name": "SMELLBOI",
-      "username": "zabuza123",
       "modder": true
     },
     {
