@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T13:28:26.131Z",
+  "generated": "2026-11-07T14:30:32.921Z",
   "invites": [
+    {
+      "key": "28f515bad37a900ffe142a79949d88b0b078ae471bf65f991cbe56140bbe5b75",
+      "mod": "archipelago_1ba41f",
+      "title": "Archipelago",
+      "ownerId": "553670083474620417",
+      "ownerName": "deathwing7527",
+      "at": "2026-11-07T14:30:32.921Z"
+    },
     {
       "key": "6f063786e1c1c52af2826b0d53377123cb398a4793f8ebf722b3b591ddb77533",
       "mod": "mod_menu_796e25",
