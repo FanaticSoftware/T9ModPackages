@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T01:20:05.072Z",
+  "generated": "2026-11-07T11:01:19.589Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -74,23 +74,6 @@
       "updated": "2026-10-07T14:50:36.163Z",
       "collaboratorNames": {
         "1143908856276189236": "BBQ"
-      }
-    },
-    {
-      "id": "client_prob_v2_9b7de1",
-      "title": "Client Prob v2",
-      "author": {
-        "id": "662100730047627275",
-        "name": "izondlamb.exe"
-      },
-      "collaborators": [],
-      "claimed": "2026-10-08T10:53:57.632Z",
-      "updated": "2026-10-08T10:53:57.632Z",
-      "testerAccounts": {
-        "662100730047627275": [
-          "065f312f365428b0",
-          "65f312f365428b0"
-        ]
       }
     },
     {
