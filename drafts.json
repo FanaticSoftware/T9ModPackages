@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T14:29:02.584Z",
+  "generated": "2026-11-07T14:30:48.384Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -51,9 +51,14 @@
         "id": "553670083474620417",
         "name": "deathwing7527"
       },
-      "collaborators": [],
+      "collaborators": [
+        "339088954764558337"
+      ],
       "claimed": "2026-11-07T14:29:02.584Z",
-      "updated": "2026-11-07T14:29:02.584Z"
+      "updated": "2026-11-07T14:29:02.584Z",
+      "collaboratorNames": {
+        "339088954764558337": "五Super mr.alexis八"
+      }
     },
     {
       "id": "asldjaslkdjasltestbuild",
