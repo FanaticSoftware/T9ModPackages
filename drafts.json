@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T22:01:19.437Z",
+  "generated": "2026-11-07T01:20:05.072Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -92,6 +92,17 @@
           "65f312f365428b0"
         ]
       }
+    },
+    {
+      "id": "cold_war_a4f91b",
+      "title": "Cold war",
+      "author": {
+        "id": "893770861121765437",
+        "name": "lucasvem"
+      },
+      "collaborators": [],
+      "claimed": "2026-11-07T01:20:05.072Z",
+      "updated": "2026-11-07T01:20:05.072Z"
     },
     {
       "id": "cw_classic_progression_8d3f46",
