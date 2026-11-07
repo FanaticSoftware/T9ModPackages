@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-07T14:27:57.429Z",
+  "generated": "2026-11-07T14:29:02.584Z",
   "drafts": [
     {
       "id": "1_e59066",
@@ -43,6 +43,17 @@
       "unpublished": "2026-09-18T22:19:02.323Z",
       "lastVersion": "1.1",
       "unpublishedBy": "1214090251178352677"
+    },
+    {
+      "id": "archipelago_1ba41f",
+      "title": "Archipelago",
+      "author": {
+        "id": "553670083474620417",
+        "name": "deathwing7527"
+      },
+      "collaborators": [],
+      "claimed": "2026-11-07T14:29:02.584Z",
+      "updated": "2026-11-07T14:29:02.584Z"
     },
     {
       "id": "asldjaslkdjasltestbuild",
