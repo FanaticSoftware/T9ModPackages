@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-08T04:01:21.084Z",
+  "generated": "2026-11-08T06:01:20.170Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -5002,7 +5002,7 @@
     },
     {
       "id": "627310420478132225",
-      "name": "NikoStreamsVT",
+      "name": "nikostreamsvt",
       "username": "nikostreamsvt",
       "modder": true
     },
