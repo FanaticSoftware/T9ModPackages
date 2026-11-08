@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-08T04:41:24.601Z",
+  "generated": "2026-11-08T10:31:24.641Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -376,7 +376,7 @@
     "rouge_run_87efcf": {
       "favorites": 14,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
