@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-08T14:01:24.687Z",
+  "generated": "2026-11-08T18:01:24.847Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -26,8 +26,8 @@
     "holiday_events": {
       "favorites": 170,
       "rating": {
-        "count": 20,
-        "average": 5
+        "count": 21,
+        "average": 4.9
       }
     },
     "realism_mode": {
@@ -40,15 +40,15 @@
     "zm_classic": {
       "favorites": 557,
       "rating": {
-        "count": 42,
-        "average": 5
+        "count": 43,
+        "average": 4.9
       }
     },
     "aetheria": {
       "favorites": 95,
       "rating": {
-        "count": 11,
-        "average": 4.9
+        "count": 12,
+        "average": 4.7
       }
     },
     "t9_bots": {
