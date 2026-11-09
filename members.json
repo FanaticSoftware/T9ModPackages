@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-09T07:01:20.077Z",
+  "generated": "2026-11-09T09:01:20.006Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1500,6 +1500,12 @@
       "id": "774188418329477150",
       "name": "Clara 💕",
       "username": "clara.maldonado",
+      "modder": true
+    },
+    {
+      "id": "1399403549628170375",
+      "name": "Clay",
+      "username": "urmogged",
       "modder": true
     },
     {
