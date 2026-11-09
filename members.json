@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-09T00:01:19.915Z",
+  "generated": "2026-11-09T01:01:19.986Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1491,12 +1491,6 @@
       "modder": true
     },
     {
-      "id": "227031029536260096",
-      "name": "ℂ𝕙𝕦𝕓𝕫",
-      "username": "chubz.",
-      "modder": true
-    },
-    {
       "id": "891081797318897715",
       "name": "chunma",
       "username": "chu_n_ma",
@@ -1548,6 +1542,12 @@
       "id": "1409345336148889695",
       "name": "Cole",
       "username": "garfield_bub",
+      "modder": true
+    },
+    {
+      "id": "117290386086428672",
+      "name": "Combatbowl",
+      "username": "combatbowl",
       "modder": true
     },
     {
@@ -5778,6 +5778,12 @@
       "id": "301792717136986114",
       "name": "Robert",
       "username": "roberttgreat",
+      "modder": true
+    },
+    {
+      "id": "1375283893774848071",
+      "name": "Robx4748",
+      "username": "robx4748",
       "modder": true
     },
     {
