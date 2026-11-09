@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-09T01:01:19.986Z",
+  "generated": "2026-11-09T02:01:20.065Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -4158,6 +4158,12 @@
       "id": "193968391294287872",
       "name": "Limen",
       "username": "limen2598",
+      "modder": true
+    },
+    {
+      "id": "837066380447580180",
+      "name": "Link Dink 🔥",
+      "username": ".linkin24",
       "modder": true
     },
     {
