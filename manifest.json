@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T18:17:24.629Z",
+  "generated": "2026-11-09T18:30:31.974Z",
   "packages": [
     {
       "title": "4 Player Onslaught",
@@ -4168,7 +4168,7 @@
       },
       "publishedBy": null,
       "developer": false,
-      "sourceSha256": "1b09417a039a573140bb9796e4c4e62fcf55989769b8ff80b3349a64849f81b9",
+      "sourceSha256": "57f96f5ad4ce2a4545967f001199a2ca71becffa2711424928138a1cec9f480d",
       "scan": {
         "critical": 0,
         "high": 1,
@@ -4177,7 +4177,7 @@
         "rules": "2026.09.26",
         "summary": "1 high, 9 medium"
       },
-      "settings": 11,
+      "settings": 12,
       "tags": [
         "Difficulty",
         "Challenge / Custom Rules",
@@ -4195,20 +4195,25 @@
         "Solo",
         "Co-op"
       ],
-      "changelog": "",
+      "changelog": "- Added an option to show an outline around the food. (Enabled by Default)",
       "highAlerts": [],
       "approved": {
-        "by": "saintvertigo",
-        "byId": "684408486456852481",
-        "at": "2026-10-03T02:32:37.352Z",
-        "thread": "https://discord.com/channels/1538475911203266600/1555765560535552177"
+        "by": "illuminatidonut",
+        "byId": "244657466783170560",
+        "at": "2026-11-09T18:30:31.504Z",
+        "thread": "https://discord.com/channels/1538475911203266600/1569075370219806806"
       },
       "id": "zombie_snacks_9d8881",
-      "version": "20261003-021648",
-      "file": "mod_packages/zombie_snacks_9d8881/zombie_snacks_9d8881-20261003-021648.cwm",
-      "size": 1020808,
-      "sha256": "6afe5572e05df428056b7e6a7617d24963e48ca15f40a3ae51e3ed9978346cad",
+      "version": "20261108-194514",
+      "file": "mod_packages/zombie_snacks_9d8881/zombie_snacks_9d8881-20261108-194514.cwm",
+      "size": 1021552,
+      "sha256": "bda5e6b657ba05b7dc9a91ede0a4ced7c60dbee79c840742c1f88912b562b1e0",
       "history": [
+        {
+          "version": "20261108-194514",
+          "changelog": "- Added an option to show an outline around the food. (Enabled by Default)",
+          "published": "2026-11-09T18:30:31.504Z"
+        },
         {
           "version": "20261003-021648",
           "changelog": "",
