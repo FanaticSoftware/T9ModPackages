@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-09T14:01:25.590Z",
+  "generated": "2026-11-09T19:51:25.906Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 58,
+      "favorites": 59,
       "rating": {
         "count": 2,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -276,7 +276,7 @@
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 21,
+      "favorites": 22,
       "rating": {
         "count": 8,
         "average": 4.6
