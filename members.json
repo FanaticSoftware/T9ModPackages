@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T13:01:20.808Z",
+  "generated": "2026-11-10T15:01:21.048Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2086,7 +2086,7 @@
     },
     {
       "id": "1469386232277504283",
-      "name": "dust-حمدان جلنف",
+      "name": "dust",
       "username": "mrghost0633",
       "modder": true
     },
@@ -5904,6 +5904,12 @@
       "id": "1360410725557735574",
       "name": "s",
       "username": "eclipsed.vip",
+      "modder": true
+    },
+    {
+      "id": "670659891957989418",
+      "name": "S3,Slappy",
+      "username": "z_zipy",
       "modder": true
     },
     {
