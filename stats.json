@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T12:41:26.784Z",
+  "generated": "2026-11-10T13:51:26.715Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -31,7 +31,7 @@
       }
     },
     "realism_mode": {
-      "favorites": 49,
+      "favorites": 48,
       "rating": {
         "count": 4,
         "average": 5
@@ -66,14 +66,14 @@
       }
     },
     "doom_mode_beta": {
-      "favorites": 26,
+      "favorites": 25,
       "rating": {
         "count": 6,
         "average": 4.7
       }
     },
     "day_night": {
-      "favorites": 102,
+      "favorites": 101,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -122,7 +122,7 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 44,
+      "favorites": 43,
       "rating": {
         "count": 5,
         "average": 4.1
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 60,
+      "favorites": 59,
       "rating": {
         "count": 2,
         "average": 5
