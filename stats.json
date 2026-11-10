@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T16:11:26.983Z",
+  "generated": "2026-11-10T16:41:26.891Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -222,7 +222,7 @@
     "wall_jump_20261002": {
       "favorites": 59,
       "rating": {
-        "count": 2,
+        "count": 3,
         "average": 5
       }
     },
@@ -355,7 +355,7 @@
     "camo_changer_f68027": {
       "favorites": 36,
       "rating": {
-        "count": 1,
+        "count": 2,
         "average": 5
       }
     },
