@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T02:21:26.298Z",
+  "generated": "2026-11-10T03:31:26.324Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 153,
+      "favorites": 154,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -31,14 +31,14 @@
       }
     },
     "realism_mode": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 559,
+      "favorites": 560,
       "rating": {
         "count": 43,
         "average": 4.9
@@ -143,7 +143,7 @@
       }
     },
     "dm_nacht_74d31a": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 7,
         "average": 4.9
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -290,7 +290,7 @@
       }
     },
     "dead_ops_drops_cb0937": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 2,
         "average": 5
@@ -409,7 +409,7 @@
       }
     },
     "doa3_all_fates_on_start": {
-      "favorites": 10,
+      "favorites": 11,
       "rating": {
         "count": 5,
         "average": 5
