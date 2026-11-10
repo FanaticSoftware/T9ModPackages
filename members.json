@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T01:01:20.712Z",
+  "generated": "2026-11-10T02:01:20.274Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3795,6 +3795,12 @@
       "modder": true
     },
     {
+      "id": "435585139603537940",
+      "name": "Kentoki_Raccoon",
+      "username": "femmykitty",
+      "modder": true
+    },
+    {
       "id": "140714992113549312",
       "name": "Kerillian",
       "username": "kerillian.",
@@ -5748,12 +5754,6 @@
       "id": "705143550530289754",
       "name": "rin",
       "username": "tinnr._",
-      "modder": true
-    },
-    {
-      "id": "1026711200119136336",
-      "name": "Riot",
-      "username": "riotgamernz",
       "modder": true
     },
     {
