@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T13:51:26.715Z",
+  "generated": "2026-11-10T16:01:26.744Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 171,
+      "favorites": 172,
       "rating": {
         "count": 21,
         "average": 4.9
@@ -178,7 +178,7 @@
       }
     },
     "two_weapons_ca99d3": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 0,
         "average": 0
