@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T08:01:26.730Z",
+  "generated": "2026-11-10T09:01:26.415Z",
   "mods": {
     "directors_cut": {
       "favorites": 250,
       "rating": {
-        "count": 21,
+        "count": 22,
         "average": 5
       }
     },
@@ -40,7 +40,7 @@
     "zm_classic": {
       "favorites": 561,
       "rating": {
-        "count": 43,
+        "count": 44,
         "average": 4.9
       }
     },
