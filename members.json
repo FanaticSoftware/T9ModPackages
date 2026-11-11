@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-11T21:01:20.558Z",
+  "generated": "2026-11-11T22:01:20.389Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6846,6 +6846,12 @@
       "id": "1482150009398104136",
       "name": "Titanokill1",
       "username": "jpp.14",
+      "modder": true
+    },
+    {
+      "id": "529201593879363596",
+      "name": "tkuo",
+      "username": "wuryed",
       "modder": true
     },
     {
