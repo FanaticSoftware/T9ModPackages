@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-11T13:01:22.006Z",
+  "generated": "2026-11-11T19:01:21.104Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -179,7 +179,7 @@
     {
       "id": "1030342221150572575",
       "name": "☆ konpei",
-      "username": "iriyuri.1",
+      "username": "konpeiton_",
       "modder": true
     },
     {
@@ -1584,6 +1584,12 @@
       "id": "909199866121556068",
       "name": "Coot",
       "username": "cootkz",
+      "modder": true
+    },
+    {
+      "id": "274247206565969920",
+      "name": "Corner camping bot",
+      "username": "doorcamper",
       "modder": true
     },
     {
