@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-12T05:01:20.826Z",
+  "generated": "2026-11-12T11:01:20.977Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -294,6 +294,12 @@
       "id": "712875551471173744",
       "name": "1973 chevy malibu",
       "username": "1973chevymalibu",
+      "modder": true
+    },
+    {
+      "id": "987829206710886440",
+      "name": "1pyke23/악마 뱀",
+      "username": "teufelsschlange",
       "modder": true
     },
     {
@@ -4020,12 +4026,6 @@
       "id": "1008294838275424256",
       "name": "Lachlan",
       "username": "rumadumnotglossy",
-      "modder": true
-    },
-    {
-      "id": "987829206710886440",
-      "name": "LaJohnWick",
-      "username": "teufelsschlange",
       "modder": true
     },
     {
