@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-12T11:01:20.977Z",
+  "generated": "2026-11-12T14:01:21.001Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6834,6 +6834,12 @@
       "id": "901028534020112394",
       "name": "Tiger [@ to reply]",
       "username": "thepalmtoptigerofhappiness",
+      "modder": true
+    },
+    {
+      "id": "1081582110462193734",
+      "name": "Tim",
+      "username": "kalttimy",
       "modder": true
     },
     {
