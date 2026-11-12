@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-12T10:41:28.460Z",
+  "generated": "2026-11-12T10:51:28.436Z",
   "mods": {
     "directors_cut": {
       "favorites": 251,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 101,
+      "favorites": 102,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 30,
+      "favorites": 31,
       "rating": {
         "count": 4,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 2,
         "average": 5
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 0,
         "average": 0
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 8,
+      "favorites": 9,
       "rating": {
         "count": 1,
         "average": 5
