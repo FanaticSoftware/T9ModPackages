@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T01:01:20.975Z",
+  "generated": "2026-11-13T05:01:20.845Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -252,12 +252,6 @@
       "id": "1112486162888671293",
       "name": "👑𝑮𝑯𝑩𝑨𝑹𝑨👑",
       "username": "alghbara",
-      "modder": true
-    },
-    {
-      "id": "739507082612441140",
-      "name": "👑ZEO👑",
-      "username": "zeo.xyz",
       "modder": true
     },
     {
@@ -792,6 +786,12 @@
       "id": "517545974747627547",
       "name": "AwesomeOne",
       "username": "awesomeone9931",
+      "modder": true
+    },
+    {
+      "id": "739507082612441140",
+      "name": "ayce",
+      "username": "ayce.xyz",
       "modder": true
     },
     {
@@ -6912,12 +6912,6 @@
       "id": "594420944500686848",
       "name": "ToxicAtomic",
       "username": "toxicatomic",
-      "modder": true
-    },
-    {
-      "id": "406952584839036939",
-      "name": "TR Nitro",
-      "username": "thereal0_o",
       "modder": true
     },
     {
