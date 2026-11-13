@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T00:01:20.857Z",
+  "generated": "2026-11-13T01:01:20.975Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2146,7 +2146,7 @@
     },
     {
       "id": "438825756857204736",
-      "name": "eevee父",
+      "name": "eevee",
       "username": "eevee__playzzz",
       "modder": true
     },
