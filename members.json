@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T05:01:20.845Z",
+  "generated": "2026-11-13T08:01:21.300Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3744,6 +3744,12 @@
       "id": "1132315787567300648",
       "name": "kallum12345",
       "username": "kallum12345",
+      "modder": true
+    },
+    {
+      "id": "1523331184879337533",
+      "name": "Kappatalist_id",
+      "username": "kappatalist_id_18648",
       "modder": true
     },
     {
