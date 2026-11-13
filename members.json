@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T10:01:21.139Z",
+  "generated": "2026-11-13T11:01:21.057Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6438,6 +6438,12 @@
       "id": "934299014650802186",
       "name": "srt8",
       "username": "floccers",
+      "modder": true
+    },
+    {
+      "id": "1495294842232639630",
+      "name": "ss7exploit",
+      "username": "ss7exploit",
       "modder": true
     },
     {
