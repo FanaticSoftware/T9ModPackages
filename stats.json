@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T03:01:29.101Z",
+  "generated": "2026-11-13T03:31:29.140Z",
   "mods": {
     "directors_cut": {
       "favorites": 251,
@@ -250,8 +250,8 @@
     "classic_point_system_cc5eb4": {
       "favorites": 23,
       "rating": {
-        "count": 1,
-        "average": 5
+        "count": 2,
+        "average": 2.8
       }
     },
     "stackable_perks_cf3a81": {
