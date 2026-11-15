@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T05:01:21.464Z",
+  "generated": "2026-11-15T11:01:26.404Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1788,6 +1788,12 @@
       "id": "992547777886290020",
       "name": "Darkness",
       "username": "deathray273",
+      "modder": true
+    },
+    {
+      "id": "1321186464507363348",
+      "name": "DarkNode",
+      "username": "dark_finalization",
       "modder": true
     },
     {
