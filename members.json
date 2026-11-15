@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T20:01:21.263Z",
+  "generated": "2026-11-15T22:01:21.149Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1233,6 +1233,12 @@
       "modder": true
     },
     {
+      "id": "842607631095955476",
+      "name": "Bubu Yenfei.",
+      "username": "hoticegod",
+      "modder": true
+    },
+    {
       "id": "520016119671816220",
       "name": "Bucket TF2",
       "username": "buckettf2",
@@ -1752,12 +1758,6 @@
       "id": "759720623949086740",
       "name": "Dan",
       "username": "ritchoffen",
-      "modder": true
-    },
-    {
-      "id": "842607631095955476",
-      "name": "DanFire/Yinfei.",
-      "username": "hoticegod",
       "modder": true
     },
     {
@@ -2985,6 +2985,12 @@
       "modder": true
     },
     {
+      "id": "1417483056348008569",
+      "name": "Hellen Wong",
+      "username": "hellenwongx",
+      "modder": true
+    },
+    {
       "id": "781539986834587650",
       "name": "henrik",
       "username": "henrik2250",
@@ -3870,12 +3876,6 @@
       "id": "651189785876234250",
       "name": "kien",
       "username": "aercicle",
-      "modder": true
-    },
-    {
-      "id": "259692670778212352",
-      "name": "Kiichi42",
-      "username": "kiichi42",
       "modder": true
     },
     {
