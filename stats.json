@@ -1,51 +1,51 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T23:21:32.118Z",
+  "generated": "2026-11-15T23:31:32.129Z",
   "mods": {
     "directors_cut": {
-      "favorites": 252,
+      "favorites": 253,
       "rating": {
         "count": 22,
         "average": 5
       }
     },
     "boss_rush": {
-      "favorites": 102,
+      "favorites": 103,
       "rating": {
         "count": 14,
         "average": 4.8
       }
     },
     "onslaught_survival": {
-      "favorites": 154,
+      "favorites": 155,
       "rating": {
         "count": 13,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 172,
+      "favorites": 173,
       "rating": {
         "count": 21,
         "average": 4.9
       }
     },
     "realism_mode": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 4,
         "average": 5
       }
     },
     "zm_classic": {
-      "favorites": 563,
+      "favorites": 564,
       "rating": {
         "count": 44,
         "average": 4.9
       }
     },
     "aetheria": {
-      "favorites": 95,
+      "favorites": 96,
       "rating": {
         "count": 12,
         "average": 4.7
@@ -59,21 +59,21 @@
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 44,
+      "favorites": 45,
       "rating": {
         "count": 8,
         "average": 5
       }
     },
     "doom_mode_beta": {
-      "favorites": 26,
+      "favorites": 27,
       "rating": {
         "count": 6,
         "average": 4.7
       }
     },
     "day_night": {
-      "favorites": 103,
+      "favorites": 104,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 118,
+      "favorites": 119,
       "rating": {
         "count": 18,
         "average": 3.1
@@ -122,21 +122,21 @@
       }
     },
     "hide_hud_24d1a2": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 5,
         "average": 4.1
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 61,
+      "favorites": 62,
       "rating": {
         "count": 6,
         "average": 4.8
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 4,
         "average": 4
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 2,
         "average": 5
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 63,
+      "favorites": 64,
       "rating": {
         "count": 3,
         "average": 5
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 31,
+      "favorites": 32,
       "rating": {
         "count": 4,
         "average": 5
@@ -311,7 +311,7 @@
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 1,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 2,
         "average": 5
