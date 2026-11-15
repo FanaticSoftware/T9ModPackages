@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T21:51:32.057Z",
+  "generated": "2026-11-15T23:21:32.118Z",
   "mods": {
     "directors_cut": {
       "favorites": 252,
@@ -115,7 +115,7 @@
       }
     },
     "start_with_chrysal_456002": {
-      "favorites": 112,
+      "favorites": 113,
       "rating": {
         "count": 13,
         "average": 5
@@ -199,14 +199,14 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 6,
         "average": 4.7
       }
     },
     "forsaken_spawn_room_a26fbe": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 2,
         "average": 5
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -269,7 +269,7 @@
       }
     },
     "test_a8804f": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 6,
         "average": 5
@@ -283,7 +283,7 @@
       }
     },
     "starting_room_9e62af": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 1,
         "average": 5
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 17,
+      "favorites": 18,
       "rating": {
         "count": 2,
         "average": 5
