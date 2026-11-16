@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T02:01:21.184Z",
+  "generated": "2026-11-16T03:01:21.484Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2025,6 +2025,12 @@
       "modder": true
     },
     {
+      "id": "1226251539992154202",
+      "name": "Double Champ Shell",
+      "username": "sireggshell",
+      "modder": true
+    },
+    {
       "id": "1095080991057518623",
       "name": "Doxr",
       "username": ".doxr",
@@ -2190,12 +2196,6 @@
       "id": "438825756857204736",
       "name": "eevee",
       "username": "eevee__playzzz",
-      "modder": true
-    },
-    {
-      "id": "1226251539992154202",
-      "name": "Eggshell",
-      "username": "sireggshell",
       "modder": true
     },
     {
@@ -6712,8 +6712,8 @@
     },
     {
       "id": "333285162961993730",
-      "name": "Temi",
-      "username": "gutierezs",
+      "name": "TEMIYAYO",
+      "username": "temitayo_09",
       "modder": true
     },
     {
