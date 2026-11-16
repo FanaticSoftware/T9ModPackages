@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T11:01:21.705Z",
+  "generated": "2026-11-16T12:01:21.575Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1824,6 +1824,12 @@
       "id": "339519535449112576",
       "name": "Dat boi dank",
       "username": "tfreaper",
+      "modder": true
+    },
+    {
+      "id": "1309108711620350013",
+      "name": "david",
+      "username": "david123_levi_37900",
       "modder": true
     },
     {
