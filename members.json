@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T12:01:21.575Z",
+  "generated": "2026-11-16T15:01:21.613Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -696,6 +696,12 @@
       "id": "678864424466907136",
       "name": "APEX",
       "username": "itsapexofficial",
+      "modder": true
+    },
+    {
+      "id": "470666584365727744",
+      "name": "Aragami2243",
+      "username": "aragami2243",
       "modder": true
     },
     {
