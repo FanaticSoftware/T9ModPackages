@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T01:01:21.490Z",
+  "generated": "2026-11-16T02:01:21.184Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1866,6 +1866,12 @@
       "id": "825455612887564308",
       "name": "DellxCell (Hamster)",
       "username": "dellxcell2",
+      "modder": true
+    },
+    {
+      "id": "1153877209531031572",
+      "name": "DELTA",
+      "username": "crazy_d3lt4",
       "modder": true
     },
     {
