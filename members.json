@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T09:01:25.325Z",
+  "generated": "2026-11-16T11:01:21.705Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -276,12 +276,6 @@
       "id": "1118975301041520761",
       "name": "$yvn",
       "username": "0mcq",
-      "modder": true
-    },
-    {
-      "id": "1332111892994330644",
-      "name": "0_r_b_x_0",
-      "username": "0_r_b_x_0_14481",
       "modder": true
     },
     {
@@ -7266,6 +7260,12 @@
       "id": "950844018365988865",
       "name": "Viktor Francesco",
       "username": "fliegeaffe",
+      "modder": true
+    },
+    {
+      "id": "1332111892994330644",
+      "name": "VINTBOT.IO - VINTED TOOL",
+      "username": "0_r_b_x_0_14481",
       "modder": true
     },
     {
