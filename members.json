@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-17T11:01:21.633Z",
+  "generated": "2026-11-17T13:01:21.653Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1464,6 +1464,12 @@
       "id": "1175999353178034176",
       "name": "charlie",
       "username": "charlie085_57332",
+      "modder": true
+    },
+    {
+      "id": "664551968143835140",
+      "name": "Charlie charplin",
+      "username": "eogustacaraio",
       "modder": true
     },
     {
@@ -5778,12 +5784,6 @@
       "id": "566456969683009537",
       "name": "RedundantGrass",
       "username": "redundantgrass7425",
-      "modder": true
-    },
-    {
-      "id": "664551968143835140",
-      "name": "rei da dança",
-      "username": "eogustacaraio",
       "modder": true
     },
     {
