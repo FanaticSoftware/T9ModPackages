@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-18T00:01:21.740Z",
+  "generated": "2026-11-18T01:01:21.722Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6021,6 +6021,12 @@
       "modder": true
     },
     {
+      "id": "343287756270731264",
+      "name": "S IGuess",
+      "username": "siguess420",
+      "modder": true
+    },
+    {
       "id": "670659891957989418",
       "name": "S3,Slappy",
       "username": "z_zipy",
@@ -7125,12 +7131,6 @@
       "modder": true
     },
     {
-      "id": "343287756270731264",
-      "name": "Turkey IGuess",
-      "username": "siguess420",
-      "modder": true
-    },
-    {
       "id": "948845991661027329",
       "name": "twurtle",
       "username": "twurtle_",
@@ -7920,6 +7920,12 @@
       "id": "1133235974562922507",
       "name": "むらも",
       "username": "muramo___",
+      "modder": true
+    },
+    {
+      "id": "865480396405997568",
+      "name": "𒉭 Nullthrax",
+      "username": "nullthrax",
       "modder": true
     },
     {
