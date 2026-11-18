@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-17T22:31:34.027Z",
+  "generated": "2026-11-18T02:01:34.198Z",
   "mods": {
     "directors_cut": {
       "favorites": 253,
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 567,
+      "favorites": 568,
       "rating": {
         "count": 45,
         "average": 4.9
       }
     },
     "aetheria": {
-      "favorites": 97,
+      "favorites": 98,
       "rating": {
         "count": 12,
         "average": 4.7
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 4,
         "average": 5
@@ -192,7 +192,7 @@
       }
     },
     "starting_round_d65f71": {
-      "favorites": 20,
+      "favorites": 21,
       "rating": {
         "count": 2,
         "average": 5
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 41,
+      "favorites": 42,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -262,7 +262,7 @@
       }
     },
     "point_per_bullit_8a7781": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
@@ -311,7 +311,7 @@
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 1,
         "average": 5
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 39,
+      "favorites": 40,
       "rating": {
         "count": 2,
         "average": 5
