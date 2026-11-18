@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-18T16:01:21.878Z",
+  "generated": "2026-11-18T18:01:21.739Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3819,12 +3819,6 @@
       "modder": true
     },
     {
-      "id": "1436725542064885891",
-      "name": "Kai",
-      "username": "the2ndbosh",
-      "modder": true
-    },
-    {
       "id": "340059996438134786",
       "name": "Kai",
       "username": "igniter_",
@@ -4794,6 +4788,12 @@
       "id": "984222345201848430",
       "name": "ModzIsMyWeed",
       "username": "modzismyweed",
+      "modder": true
+    },
+    {
+      "id": "524282093459734530",
+      "name": "mojo_jojo🤠",
+      "username": "mojo_jojo4833",
       "modder": true
     },
     {
