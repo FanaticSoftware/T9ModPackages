@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-18T02:01:34.198Z",
+  "generated": "2026-11-18T02:11:34.234Z",
   "mods": {
     "directors_cut": {
       "favorites": 253,
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 1,
         "average": 5
@@ -374,7 +374,7 @@
       }
     },
     "rouge_run_87efcf": {
-      "favorites": 17,
+      "favorites": 18,
       "rating": {
         "count": 3,
         "average": 5
@@ -395,7 +395,7 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 15,
+      "favorites": 16,
       "rating": {
         "count": 0,
         "average": 0
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 11,
+      "favorites": 12,
       "rating": {
         "count": 1,
         "average": 5
@@ -444,7 +444,7 @@
       }
     },
     "the_ballistics_lab_752ac7": {
-      "favorites": 1,
+      "favorites": 2,
       "rating": {
         "count": 0,
         "average": 0
