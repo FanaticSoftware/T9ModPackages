@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-18T13:31:34.661Z",
+  "generated": "2026-11-18T21:31:35.308Z",
   "mods": {
     "directors_cut": {
       "favorites": 254,
@@ -220,14 +220,14 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 65,
+      "favorites": 66,
       "rating": {
         "count": 3,
         "average": 5
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 42,
+      "favorites": 43,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -262,21 +262,21 @@
       }
     },
     "point_per_bullit_8a7781": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "test_a8804f": {
-      "favorites": 40,
+      "favorites": 41,
       "rating": {
         "count": 6,
         "average": 5
       }
     },
     "weapon_mod_51daaf": {
-      "favorites": 24,
+      "favorites": 25,
       "rating": {
         "count": 8,
         "average": 4.6
@@ -395,14 +395,14 @@
       }
     },
     "the_armory_a1b2c3": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "test2_e45295": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 1,
         "average": 2
@@ -444,14 +444,14 @@
       }
     },
     "the_ballistics_lab_752ac7": {
-      "favorites": 2,
+      "favorites": 3,
       "rating": {
         "count": 0,
         "average": 0
       }
     },
     "pre_patch_weapons_6e4cf2": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
