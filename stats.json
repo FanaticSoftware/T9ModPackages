@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-19T19:21:36.178Z",
+  "generated": "2026-11-19T21:51:36.223Z",
   "mods": {
     "directors_cut": {
       "favorites": 254,
@@ -31,7 +31,7 @@
       }
     },
     "realism_mode": {
-      "favorites": 49,
+      "favorites": 48,
       "rating": {
         "count": 4,
         "average": 5
@@ -45,7 +45,7 @@
       }
     },
     "aetheria": {
-      "favorites": 98,
+      "favorites": 97,
       "rating": {
         "count": 12,
         "average": 4.7
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 104,
+      "favorites": 103,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 118,
+      "favorites": 117,
       "rating": {
         "count": 18,
         "average": 3.1
