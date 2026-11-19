@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-19T17:01:22.385Z",
+  "generated": "2026-11-19T18:01:21.997Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2604,6 +2604,12 @@
       "id": "1473798649229213903",
       "name": "forveined",
       "username": "damon022648",
+      "modder": true
+    },
+    {
+      "id": "1159821720895639613",
+      "name": "Found",
+      "username": "foundfinal",
       "modder": true
     },
     {
