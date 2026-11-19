@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-19T10:01:21.909Z",
+  "generated": "2026-11-19T12:01:22.369Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6816,6 +6816,12 @@
       "id": "191744732437807115",
       "name": "TaZ",
       "username": "tazeq1996",
+      "modder": true
+    },
+    {
+      "id": "340022376924446720",
+      "name": "tcfplayz",
+      "username": "tcfplayz",
       "modder": true
     },
     {
