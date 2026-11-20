@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T19:47:52.967Z",
+  "generated": "2026-11-20T21:07:53.086Z",
   "mods": {
     "directors_cut": {
       "favorites": 255,
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 52,
+      "favorites": 53,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 33,
+      "favorites": 34,
       "rating": {
         "count": 4,
         "average": 5
