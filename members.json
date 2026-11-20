@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T11:01:22.179Z",
+  "generated": "2026-11-20T13:01:22.221Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -5310,6 +5310,12 @@
       "id": "1209844747624128592",
       "name": "𝓞𝓵𝓲𝓿𝓲𝓪 𝓡𝓸𝓭𝓻𝓲𝓰𝓸",
       "username": "oliviarodrigo.ff",
+      "modder": true
+    },
+    {
+      "id": "1292620709012574270",
+      "name": "Oluwasegunfunmi",
+      "username": "serversheriff.",
       "modder": true
     },
     {
