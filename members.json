@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T15:01:22.215Z",
+  "generated": "2026-11-20T16:01:22.331Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -4410,12 +4410,6 @@
       "id": "644864434657034243",
       "name": "Lt. Cheeseburger",
       "username": "ltcheeseburger",
-      "modder": true
-    },
-    {
-      "id": "893770861121765437",
-      "name": "Lucas",
-      "username": "lucasvem",
       "modder": true
     },
     {
