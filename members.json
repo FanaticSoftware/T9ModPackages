@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T08:01:22.304Z",
+  "generated": "2026-11-20T11:01:22.179Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3915,15 +3915,15 @@
       "modder": true
     },
     {
-      "id": "144814346869014528",
-      "name": "KatDaddy",
-      "username": "katdaddy614",
+      "id": "1398703391747870853",
+      "name": "katarina",
+      "username": "zurlywurlybird",
       "modder": true
     },
     {
-      "id": "1398703391747870853",
-      "name": "Katsune Miku",
-      "username": "zurlywurlybird",
+      "id": "144814346869014528",
+      "name": "KatDaddy",
+      "username": "katdaddy614",
       "modder": true
     },
     {
@@ -6840,12 +6840,6 @@
       "id": "340022376924446720",
       "name": "tcfplayz",
       "username": "tcfplayz",
-      "modder": true
-    },
-    {
-      "id": "333285162961993730",
-      "name": "TEMIYAYO",
-      "username": "temitayo_09",
       "modder": true
     },
     {
