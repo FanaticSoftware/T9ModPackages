@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T16:01:22.331Z",
+  "generated": "2026-11-20T17:01:22.191Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -7170,6 +7170,12 @@
       "id": "553019037609754624",
       "name": "ᵀᵁᴿᴮᴼ (ᵖʳᵒᵈᵃˢᵗʳ⁰⁰)",
       "username": "turboo9424",
+      "modder": true
+    },
+    {
+      "id": "1147278168529575977",
+      "name": "TwizzyRich",
+      "username": "madaraxgod1",
       "modder": true
     },
     {
