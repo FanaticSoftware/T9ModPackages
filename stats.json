@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T19:27:53.029Z",
+  "generated": "2026-11-20T19:47:52.967Z",
   "mods": {
     "directors_cut": {
-      "favorites": 254,
+      "favorites": 255,
       "rating": {
         "count": 22,
         "average": 5
@@ -17,7 +17,7 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 156,
+      "favorites": 157,
       "rating": {
         "count": 13,
         "average": 4.8
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 51,
+      "favorites": 52,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 66,
+      "favorites": 67,
       "rating": {
         "count": 4,
         "average": 4.9
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 32,
+      "favorites": 33,
       "rating": {
         "count": 4,
         "average": 5
@@ -311,7 +311,7 @@
       }
     },
     "make_ww_great_again_e0869b": {
-      "favorites": 16,
+      "favorites": 17,
       "rating": {
         "count": 1,
         "average": 5
