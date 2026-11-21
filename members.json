@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T18:37:53.285Z",
+  "generated": "2026-11-21T19:37:53.530Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6738,6 +6738,12 @@
       "id": "1419411759487389851",
       "name": "Śūnyatā",
       "username": "silentheartcoldhouse",
+      "modder": true
+    },
+    {
+      "id": "813297657761890355",
+      "name": "SuperForzDry",
+      "username": "superforzdry",
       "modder": true
     },
     {
