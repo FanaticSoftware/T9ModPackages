@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T12:57:53.654Z",
+  "generated": "2026-11-21T15:07:53.829Z",
   "mods": {
     "directors_cut": {
       "favorites": 257,
@@ -10,7 +10,7 @@
       }
     },
     "boss_rush": {
-      "favorites": 104,
+      "favorites": 105,
       "rating": {
         "count": 14,
         "average": 4.8
@@ -24,7 +24,7 @@
       }
     },
     "holiday_events": {
-      "favorites": 173,
+      "favorites": 174,
       "rating": {
         "count": 21,
         "average": 4.9
@@ -38,14 +38,14 @@
       }
     },
     "zm_classic": {
-      "favorites": 572,
+      "favorites": 573,
       "rating": {
         "count": 45,
         "average": 4.9
       }
     },
     "aetheria": {
-      "favorites": 97,
+      "favorites": 98,
       "rating": {
         "count": 12,
         "average": 4.7
@@ -108,7 +108,7 @@
       }
     },
     "custom_mutations_dc3d6f": {
-      "favorites": 117,
+      "favorites": 118,
       "rating": {
         "count": 18,
         "average": 3.1
@@ -150,7 +150,7 @@
       }
     },
     "chaos_478629": {
-      "favorites": 46,
+      "favorites": 47,
       "rating": {
         "count": 6,
         "average": 4.3
@@ -339,7 +339,7 @@
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 2,
         "average": 5
