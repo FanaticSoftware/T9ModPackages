@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T02:57:53.370Z",
+  "generated": "2026-11-21T09:27:53.513Z",
   "mods": {
     "directors_cut": {
       "favorites": 256,
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 53,
+      "favorites": 54,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 34,
+      "favorites": 35,
       "rating": {
         "count": 4,
         "average": 5
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 12,
+      "favorites": 13,
       "rating": {
         "count": 1,
         "average": 5
