@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T09:27:53.513Z",
+  "generated": "2026-11-21T09:37:53.423Z",
   "mods": {
     "directors_cut": {
       "favorites": 256,
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 67,
+      "favorites": 68,
       "rating": {
         "count": 4,
         "average": 4.9
@@ -374,7 +374,7 @@
       }
     },
     "rouge_run_87efcf": {
-      "favorites": 18,
+      "favorites": 19,
       "rating": {
         "count": 3,
         "average": 5
@@ -451,7 +451,7 @@
       }
     },
     "pre_patch_weapons_6e4cf2": {
-      "favorites": 4,
+      "favorites": 5,
       "rating": {
         "count": 0,
         "average": 0
