@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T12:37:53.247Z",
+  "generated": "2026-11-21T15:37:53.393Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2523,6 +2523,12 @@
       "modder": true
     },
     {
+      "id": "456431827901743105",
+      "name": "Faucheur_XIII",
+      "username": "faucheurxiii",
+      "modder": true
+    },
+    {
       "id": "267400392843722763",
       "name": "fc",
       "username": "fcee1",
@@ -3406,7 +3412,7 @@
     },
     {
       "id": "543135811202318347",
-      "name": "Isla",
+      "name": "Isla | the black knights",
       "username": "islaishere2",
       "modder": true
     },
@@ -7080,6 +7086,12 @@
       "id": "147385282763816960",
       "name": "tomato-Z0CKZ7",
       "username": "tomatoz0ckz7",
+      "modder": true
+    },
+    {
+      "id": "1573442732243034202",
+      "name": "tommyblackops7zombie",
+      "username": "tommyblackops7zombie",
       "modder": true
     },
     {
