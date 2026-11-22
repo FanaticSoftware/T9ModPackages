@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T15:07:54.858Z",
+  "generated": "2026-11-22T15:17:54.868Z",
   "mods": {
     "directors_cut": {
-      "favorites": 257,
+      "favorites": 258,
       "rating": {
         "count": 22,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 158,
+      "favorites": 159,
       "rating": {
         "count": 13,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 175,
+      "favorites": 176,
       "rating": {
         "count": 21,
         "average": 4.9
@@ -136,7 +136,7 @@
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 4,
         "average": 4
@@ -171,7 +171,7 @@
       }
     },
     "test_lot_of_health_eb14c2": {
-      "favorites": 54,
+      "favorites": 55,
       "rating": {
         "count": 7,
         "average": 4.4
@@ -220,7 +220,7 @@
       }
     },
     "wall_jump_20261002": {
-      "favorites": 69,
+      "favorites": 70,
       "rating": {
         "count": 4,
         "average": 4.9
@@ -241,7 +241,7 @@
       }
     },
     "infinite_ammo_e8e45c": {
-      "favorites": 36,
+      "favorites": 37,
       "rating": {
         "count": 4,
         "average": 5
@@ -255,7 +255,7 @@
       }
     },
     "stackable_perks_cf3a81": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 0,
         "average": 0
