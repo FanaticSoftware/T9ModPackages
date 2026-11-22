@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T22:37:53.401Z",
+  "generated": "2026-11-22T23:37:53.464Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -7404,6 +7404,12 @@
       "id": "950838283720618014",
       "name": "Vic",
       "username": "sall_may115",
+      "modder": true
+    },
+    {
+      "id": "492307150400520205",
+      "name": "𝑽𝑰𝑪 𝑭𝑼𝑬𝑵𝑻𝑬𝑺",
+      "username": "xrsxupxse",
       "modder": true
     },
     {
