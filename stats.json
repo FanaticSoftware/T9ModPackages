@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T22:57:54.169Z",
+  "generated": "2026-11-22T00:47:54.192Z",
   "mods": {
     "directors_cut": {
       "favorites": 257,
@@ -10,21 +10,21 @@
       }
     },
     "boss_rush": {
-      "favorites": 105,
+      "favorites": 106,
       "rating": {
         "count": 14,
         "average": 4.8
       }
     },
     "onslaught_survival": {
-      "favorites": 157,
+      "favorites": 158,
       "rating": {
         "count": 13,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 174,
+      "favorites": 175,
       "rating": {
         "count": 21,
         "average": 4.9
@@ -73,7 +73,7 @@
       }
     },
     "day_night": {
-      "favorites": 103,
+      "favorites": 104,
       "rating": {
         "count": 10,
         "average": 4.9
@@ -129,14 +129,14 @@
       }
     },
     "nacht_survival_396e21": {
-      "favorites": 63,
+      "favorites": 64,
       "rating": {
         "count": 6,
         "average": 4.8
       }
     },
     "4_player_onslaught_test_1048f4": {
-      "favorites": 22,
+      "favorites": 23,
       "rating": {
         "count": 4,
         "average": 4
