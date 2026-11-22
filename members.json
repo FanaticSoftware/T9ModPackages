@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T23:37:53.374Z",
+  "generated": "2026-11-22T01:37:53.310Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -414,6 +414,12 @@
       "id": "1112520730345746512",
       "name": "Abu Tarqwa",
       "username": "g3n.k",
+      "modder": true
+    },
+    {
+      "id": "1284135896769368188",
+      "name": "Ace",
+      "username": "acewyalol",
       "modder": true
     },
     {
@@ -2406,12 +2412,6 @@
       "id": "419605255848984577",
       "name": "eve",
       "username": "idrathersleeppp",
-      "modder": true
-    },
-    {
-      "id": "1284135896769368188",
-      "name": "evil eh 30",
-      "username": "acewyalol",
       "modder": true
     },
     {
@@ -5697,12 +5697,6 @@
       "modder": true
     },
     {
-      "id": "851644973614235670",
-      "name": "qoa",
-      "username": "qoa",
-      "modder": true
-    },
-    {
       "id": "1198692139798909039",
       "name": "qt_Zaytzz",
       "username": "qt_zaytzz_06263",
@@ -6084,6 +6078,12 @@
       "id": "1360410725557735574",
       "name": "s",
       "username": "eclipsed.vip",
+      "modder": true
+    },
+    {
+      "id": "851644973614235670",
+      "name": "s",
+      "username": "qoa",
       "modder": true
     },
     {
@@ -7998,12 +7998,6 @@
       "id": "329728256527826944",
       "name": "ᛋᚻᚪᛞᚩᚹ",
       "username": "shadow152",
-      "modder": true
-    },
-    {
-      "id": "1379565576648654982",
-      "name": "𖤍♰ 𝓜𝓻. 𝓖𝓻𝓪𝓿𝓮𝓼 𖤍♰",
-      "username": "p4c7",
       "modder": true
     },
     {
