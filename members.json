@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T03:37:53.384Z",
+  "generated": "2026-11-22T09:37:53.429Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1524,12 +1524,6 @@
       "id": "1241224471357030411",
       "name": "Chris",
       "username": "etnchris",
-      "modder": true
-    },
-    {
-      "id": "1243423268065644576",
-      "name": "chris",
-      "username": "jer1n_",
       "modder": true
     },
     {
@@ -3412,7 +3406,7 @@
     },
     {
       "id": "543135811202318347",
-      "name": "Isla | the black knights",
+      "name": "Isla",
       "username": "islaishere2",
       "modder": true
     },
