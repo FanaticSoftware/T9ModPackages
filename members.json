@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T14:37:53.707Z",
+  "generated": "2026-11-22T15:37:53.354Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -5250,6 +5250,12 @@
       "id": "734924565242970155",
       "name": "NoriakiKak",
       "username": "noriakikak",
+      "modder": true
+    },
+    {
+      "id": "781927235237183508",
+      "name": "𝒏𝒐𝒔𝒕𝒂_𝒄𝒐𝒅 🧟",
+      "username": "nosta_cod",
       "modder": true
     },
     {
