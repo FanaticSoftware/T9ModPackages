@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T16:37:53.455Z",
+  "generated": "2026-11-22T20:37:53.396Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -7353,6 +7353,12 @@
       "modder": true
     },
     {
+      "id": "440195202758737950",
+      "name": "Vanitas",
+      "username": "vanitas4444",
+      "modder": true
+    },
+    {
       "id": "748074756904845353",
       "name": "variant_bike63",
       "username": "foxclanyt123",
@@ -8052,6 +8058,12 @@
       "id": "339088954764558337",
       "name": "五Red Kratos八",
       "username": "supermr.alexis",
+      "modder": true
+    },
+    {
+      "id": "1405443023860535458",
+      "name": "亗𝕺𝕬𝕶𝕿",
+      "username": "rollkt",
       "modder": true
     },
     {
