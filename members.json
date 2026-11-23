@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-23T16:37:53.956Z",
+  "generated": "2026-11-23T20:37:53.850Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1965,6 +1965,12 @@
       "modder": true
     },
     {
+      "id": "149693231016312832",
+      "name": "Derek Qasmoke",
+      "username": "kingqasmoke",
+      "modder": true
+    },
+    {
       "id": "1545749342508425288",
       "name": "DeveloperNick",
       "username": "developernick",
@@ -3903,6 +3909,12 @@
       "modder": true
     },
     {
+      "id": "928046761661067305",
+      "name": "Kannz",
+      "username": "sharpkillz",
+      "modder": true
+    },
+    {
       "id": "1523331184879337533",
       "name": "Kappatalist_id",
       "username": "kappatalist_id_18648",
@@ -5694,12 +5706,6 @@
       "id": "782403156243120129",
       "name": "purseonatree",
       "username": "purseonatree",
-      "modder": true
-    },
-    {
-      "id": "149693231016312832",
-      "name": "Qasmoke the Shitposter",
-      "username": "kingqasmoke",
       "modder": true
     },
     {
