@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-23T06:57:55.522Z",
+  "generated": "2026-11-23T07:07:55.527Z",
   "mods": {
     "directors_cut": {
       "favorites": 258,
@@ -31,7 +31,7 @@
       }
     },
     "realism_mode": {
-      "favorites": 48,
+      "favorites": 49,
       "rating": {
         "count": 4,
         "average": 5
