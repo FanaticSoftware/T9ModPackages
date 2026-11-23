@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T23:37:53.464Z",
+  "generated": "2026-11-23T01:37:53.519Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3480,12 +3480,6 @@
       "id": "662100730047627275",
       "name": "IZON",
       "username": "izondlamb.exe",
-      "modder": true
-    },
-    {
-      "id": "855975149639696424",
-      "name": "jack",
-      "username": "synth.uwu",
       "modder": true
     },
     {
