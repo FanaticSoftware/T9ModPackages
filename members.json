@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-23T21:37:54.110Z",
+  "generated": "2026-11-24T02:37:53.696Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -414,6 +414,12 @@
       "id": "1112520730345746512",
       "name": "Abu Tarqwa",
       "username": "g3n.k",
+      "modder": true
+    },
+    {
+      "id": "1284135896769368188",
+      "name": "Ace",
+      "username": "acewyalol",
       "modder": true
     },
     {
@@ -5403,12 +5409,6 @@
       "modder": true
     },
     {
-      "id": "1284135896769368188",
-      "name": "Other Brightening",
-      "username": "acewyalol",
-      "modder": true
-    },
-    {
       "id": "650391789676789780",
       "name": "otpkillin",
       "username": "otpkillin",
@@ -6114,12 +6114,6 @@
       "id": "343287756270731264",
       "name": "S IGuess",
       "username": "siguess420",
-      "modder": true
-    },
-    {
-      "id": "670659891957989418",
-      "name": "S3,Slappy",
-      "username": "z_zipy",
       "modder": true
     },
     {
