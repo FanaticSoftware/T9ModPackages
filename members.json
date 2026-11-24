@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-24T18:37:54.220Z",
+  "generated": "2026-11-24T21:37:54.117Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -2292,6 +2292,12 @@
       "id": "438825756857204736",
       "name": "eevee",
       "username": "eevee__playzzz",
+      "modder": true
+    },
+    {
+      "id": "370325741138739200",
+      "name": "eight",
+      "username": "kingjulian3667",
       "modder": true
     },
     {
