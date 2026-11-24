@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-24T09:37:54.692Z",
+  "generated": "2026-11-24T15:37:54.241Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1365,6 +1365,12 @@
       "modder": true
     },
     {
+      "id": "1387104476451569755",
+      "name": "Captin Rigaud",
+      "username": "cptrigaud",
+      "modder": true
+    },
+    {
       "id": "1528681121859108904",
       "name": "caption23",
       "username": "caption242",
@@ -1494,12 +1500,6 @@
       "id": "1558941442284453965",
       "name": "Cheesus",
       "username": "cheesus0268",
-      "modder": true
-    },
-    {
-      "id": "1494968502300442775",
-      "name": "Chef Boiii",
-      "username": "lakinabalzak",
       "modder": true
     },
     {
