@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-25T00:37:54.132Z",
+  "generated": "2026-11-25T02:37:54.179Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -7062,6 +7062,12 @@
       "id": "332622353391550465",
       "name": "TheReaper69695",
       "username": "thereaper69695",
+      "modder": true
+    },
+    {
+      "id": "231593511831470080",
+      "name": "TheSafetyNet",
+      "username": "4the1safety3net2",
       "modder": true
     },
     {
