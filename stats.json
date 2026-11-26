@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-26T18:57:58.774Z",
+  "generated": "2026-11-26T21:27:58.927Z",
   "mods": {
     "directors_cut": {
       "favorites": 264,
@@ -38,7 +38,7 @@
       }
     },
     "zm_classic": {
-      "favorites": 581,
+      "favorites": 582,
       "rating": {
         "count": 45,
         "average": 4.9
@@ -94,7 +94,7 @@
       }
     },
     "coop_spawnrate_fix_d47076": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 4,
         "average": 5
@@ -164,7 +164,7 @@
       }
     },
     "quick_restart_9e740d": {
-      "favorites": 38,
+      "favorites": 39,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -199,7 +199,7 @@
       }
     },
     "horde_mod_6a1b9c": {
-      "favorites": 37,
+      "favorites": 38,
       "rating": {
         "count": 6,
         "average": 4.7
@@ -332,14 +332,14 @@
       }
     },
     "missing_onslaught_maps_f8798d": {
-      "favorites": 35,
+      "favorites": 36,
       "rating": {
         "count": 1,
         "average": 5
       }
     },
     "horror_mode_1b2e66": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 2,
         "average": 5
@@ -374,7 +374,7 @@
       }
     },
     "rouge_run_87efcf": {
-      "favorites": 19,
+      "favorites": 20,
       "rating": {
         "count": 3,
         "average": 5
