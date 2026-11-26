@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-26T15:07:58.603Z",
+  "generated": "2026-11-26T15:27:58.614Z",
   "mods": {
     "directors_cut": {
       "favorites": 264,
@@ -227,7 +227,7 @@
       }
     },
     "custom_insertion_317c70": {
-      "favorites": 43,
+      "favorites": 44,
       "rating": {
         "count": 2,
         "average": 4.8
@@ -248,7 +248,7 @@
       }
     },
     "classic_point_system_cc5eb4": {
-      "favorites": 23,
+      "favorites": 24,
       "rating": {
         "count": 2,
         "average": 2.8
@@ -353,7 +353,7 @@
       }
     },
     "camo_changer_f68027": {
-      "favorites": 45,
+      "favorites": 46,
       "rating": {
         "count": 2,
         "average": 5
@@ -423,7 +423,7 @@
       }
     },
     "tier_v_perks_field_upgrades": {
-      "favorites": 13,
+      "favorites": 14,
       "rating": {
         "count": 1,
         "average": 5
