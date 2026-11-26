@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-26T05:37:54.298Z",
+  "generated": "2026-11-26T09:37:54.356Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1293,12 +1293,6 @@
       "modder": true
     },
     {
-      "id": "1370814395189428344",
-      "name": "Butcher of Verdansk",
-      "username": "erwinwermach",
-      "modder": true
-    },
-    {
       "id": "500553095110197279",
       "name": "butters",
       "username": "alwaysyung",
@@ -1482,6 +1476,12 @@
       "id": "196082573766688778",
       "name": "chch",
       "username": "chch.",
+      "modder": true
+    },
+    {
+      "id": "1370814395189428344",
+      "name": "Check 2th link in bio",
+      "username": "erwinwermach",
       "modder": true
     },
     {
