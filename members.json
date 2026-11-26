@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-26T19:37:54.633Z",
+  "generated": "2026-11-26T21:37:54.261Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -705,15 +705,15 @@
       "modder": true
     },
     {
-      "id": "415934290367479828",
-      "name": "ARCAN3-CHARG3",
-      "username": "arcan3charg3",
-      "modder": true
-    },
-    {
       "id": "701506314307633172",
       "name": "arctix007",
       "username": "arctix007",
+      "modder": true
+    },
+    {
+      "id": "415934290367479828",
+      "name": "ARCXN3",
+      "username": "arcan3charg3",
       "modder": true
     },
     {
