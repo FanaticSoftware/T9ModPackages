@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-27T17:37:54.572Z",
+  "generated": "2026-11-27T18:37:54.483Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3873,12 +3873,6 @@
       "modder": true
     },
     {
-      "id": "1314817541243277363",
-      "name": "Just call me what ever ig",
-      "username": "theanimefan0660",
-      "modder": true
-    },
-    {
       "id": "929804090802855957",
       "name": "justinc990(nvc)",
       "username": "justinc990",
@@ -6786,6 +6780,12 @@
       "id": "431523669089452052",
       "name": "Superfudge247",
       "username": "superfudge247",
+      "modder": true
+    },
+    {
+      "id": "1314817541243277363",
+      "name": "Supernova",
+      "username": "theanimefan0660",
       "modder": true
     },
     {
