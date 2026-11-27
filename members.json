@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-27T04:37:54.199Z",
+  "generated": "2026-11-27T05:37:54.442Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -5922,6 +5922,12 @@
       "id": "996520841267384481",
       "name": "requisbedsheet37",
       "username": "requisbedsheet37",
+      "modder": true
+    },
+    {
+      "id": "1575746538326593603",
+      "name": "RG",
+      "username": "rg066192",
       "modder": true
     },
     {
