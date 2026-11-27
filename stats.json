@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-27T09:37:59.313Z",
+  "generated": "2026-11-27T09:47:59.355Z",
   "mods": {
     "directors_cut": {
       "favorites": 264,
@@ -325,7 +325,7 @@
       }
     },
     "firebase_z_mimic_step_skip_fd4bc0": {
-      "favorites": 14,
+      "favorites": 15,
       "rating": {
         "count": 1,
         "average": 5
@@ -430,7 +430,7 @@
       }
     },
     "onslaught_overdrive_lite": {
-      "favorites": 3,
+      "favorites": 4,
       "rating": {
         "count": 0,
         "average": 0
