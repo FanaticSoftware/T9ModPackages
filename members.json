@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-28T02:37:54.521Z",
+  "generated": "2026-11-28T06:37:54.631Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -1374,6 +1374,12 @@
       "id": "195686950252969984",
       "name": "Carl - Manager",
       "username": "_genpatton",
+      "modder": true
+    },
+    {
+      "id": "1267626212466098268",
+      "name": "Castor Acide",
+      "username": "femboykisser0628",
       "modder": true
     },
     {
@@ -7194,6 +7200,12 @@
       "id": "1526863032741789767",
       "name": "TrashPanda",
       "username": "xxxtrashpandaraccxxx",
+      "modder": true
+    },
+    {
+      "id": "716437868343722116",
+      "name": "treak",
+      "username": "atticus_84",
       "modder": true
     },
     {
