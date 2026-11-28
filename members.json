@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-28T16:37:54.628Z",
+  "generated": "2026-11-28T18:37:54.741Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -6807,12 +6807,6 @@
       "modder": true
     },
     {
-      "id": "1314817541243277363",
-      "name": "Supernova",
-      "username": "theanimefan0660",
-      "modder": true
-    },
-    {
       "id": "924044540069949480",
       "name": "sven",
       "username": "bob3405",
@@ -8136,6 +8130,12 @@
       "id": "531821391444705293",
       "name": "히욱쓰",
       "username": "heewoog",
+      "modder": true
+    },
+    {
+      "id": "1314817541243277363",
+      "name": "アニメDr.Animeファン",
+      "username": "theanimefan0660",
       "modder": true
     },
     {
