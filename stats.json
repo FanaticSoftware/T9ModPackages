@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated": "2026-11-28T07:08:00.385Z",
+  "generated": "2026-11-28T10:18:13.586Z",
   "mods": {
     "directors_cut": {
-      "favorites": 265,
+      "favorites": 266,
       "rating": {
         "count": 22,
         "average": 5
@@ -17,14 +17,14 @@
       }
     },
     "onslaught_survival": {
-      "favorites": 162,
+      "favorites": 163,
       "rating": {
         "count": 13,
         "average": 4.8
       }
     },
     "holiday_events": {
-      "favorites": 178,
+      "favorites": 179,
       "rating": {
         "count": 21,
         "average": 4.9
@@ -52,14 +52,14 @@
       }
     },
     "t9_bots": {
-      "favorites": 101,
+      "favorites": 102,
       "rating": {
         "count": 6,
         "average": 4.5
       }
     },
     "replace_zombies_early_wip": {
-      "favorites": 50,
+      "favorites": 51,
       "rating": {
         "count": 8,
         "average": 5
