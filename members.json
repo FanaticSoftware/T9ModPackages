@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-28T10:37:54.451Z",
+  "generated": "2026-11-28T16:37:54.628Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -3288,6 +3288,12 @@
       "id": "1195713647280918549",
       "name": "HytzQuazeR",
       "username": "hytzq",
+      "modder": true
+    },
+    {
+      "id": "1189372011093442780",
+      "name": "I collect manga",
+      "username": ".spacemanjamie.",
       "modder": true
     },
     {
