@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-28T18:37:54.741Z",
+  "generated": "2026-11-28T20:37:54.653Z",
   "members": [
     {
       "id": "351731884281167873",
@@ -4257,6 +4257,12 @@
       "modder": true
     },
     {
+      "id": "1482150009398104136",
+      "name": "Le Chat.",
+      "username": "jpp.14",
+      "modder": true
+    },
+    {
       "id": "1064393361185853582",
       "name": "lecouch",
       "username": "cjn67",
@@ -5340,6 +5346,12 @@
       "id": "633485661508468757",
       "name": "Nwo_Lucid",
       "username": "synsmaw2168",
+      "modder": true
+    },
+    {
+      "id": "1337955541372108830",
+      "name": "Nyan",
+      "username": "nyantcha",
       "modder": true
     },
     {
@@ -7122,12 +7134,6 @@
       "id": "799670501478760467",
       "name": "TinyBot777",
       "username": "tinybot777",
-      "modder": true
-    },
-    {
-      "id": "1482150009398104136",
-      "name": "Titanokill1",
-      "username": "jpp.14",
       "modder": true
     },
     {
